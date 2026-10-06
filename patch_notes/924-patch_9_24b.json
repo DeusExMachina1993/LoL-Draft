@@ -1,0 +1,400 @@
+{
+  "metadata": {
+    "name": "9.24b",
+    "id": 924,
+    "first_match": "2020-01-03 07:33",
+    "ddragon_version": "9.24.1",
+    "compared_with": "9.23.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-9-24b-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [
+      "Aphelios"
+    ],
+    "champions": {
+      "Amumu": {
+        "abilities": {
+          "Q Bandage Toss": {
+            "cooldown": [
+              [
+                12,
+                11,
+                10,
+                9,
+                8
+              ],
+              [
+                10,
+                9.5,
+                9,
+                8.5,
+                8
+              ]
+            ]
+          }
+        }
+      },
+      "Braum": {
+        "base_stats": {
+          "hpperlevel": [
+            87,
+            98
+          ],
+          "hpregen": [
+            8,
+            8.5
+          ]
+        },
+        "abilities": {
+          "W Stand Behind Me": {
+            "cooldown": [
+              [
+                14,
+                13,
+                12,
+                11,
+                10
+              ],
+              [
+                12,
+                11,
+                10,
+                9,
+                8
+              ]
+            ],
+            "cost": [
+              [
+                50,
+                55,
+                60,
+                65,
+                70
+              ],
+              [
+                40,
+                40,
+                40,
+                40,
+                40
+              ]
+            ]
+          }
+        }
+      },
+      "Diana": {
+        "base_stats": {
+          "mp": [
+            372,
+            420
+          ],
+          "mpperlevel": [
+            20,
+            25
+          ],
+          "attackdamage": [
+            53.04,
+            57.04
+          ]
+        },
+        "abilities": {
+          "Q Crescent Strike": {
+            "cost": [
+              [
+                55,
+                55,
+                55,
+                55,
+                55
+              ],
+              [
+                50,
+                50,
+                50,
+                50,
+                50
+              ]
+            ]
+          },
+          "W Pale Cascade": {
+            "cooldown": [
+              [
+                10,
+                10,
+                10,
+                10,
+                10
+              ],
+              [
+                15,
+                13.5,
+                12,
+                10.5,
+                9
+              ]
+            ],
+            "cost": [
+              [
+                40,
+                55,
+                70,
+                85,
+                100
+              ],
+              [
+                40,
+                45,
+                50,
+                55,
+                60
+              ]
+            ]
+          },
+          "E Lunar Rush": {
+            "cooldown": [
+              [
+                26,
+                24,
+                22,
+                20,
+                18
+              ],
+              [
+                22,
+                20,
+                18,
+                16,
+                14
+              ]
+            ],
+            "cost": [
+              [
+                70,
+                70,
+                70,
+                70,
+                70
+              ],
+              [
+                40,
+                45,
+                50,
+                55,
+                60
+              ]
+            ],
+            "range": [
+              [
+                450,
+                450,
+                450,
+                450,
+                450
+              ],
+              [
+                825,
+                825,
+                825,
+                825,
+                825
+              ]
+            ]
+          },
+          "R Moonfall": {
+            "cooldown": [
+              [
+                25,
+                20,
+                15
+              ],
+              [
+                100,
+                90,
+                80
+              ]
+            ],
+            "cost": [
+              [
+                50,
+                65,
+                80
+              ],
+              [
+                100,
+                100,
+                100
+              ]
+            ],
+            "range": [
+              [
+                825,
+                825,
+                825
+              ],
+              [
+                475,
+                475,
+                475
+              ]
+            ]
+          }
+        }
+      },
+      "Ezreal": {
+        "base_stats": {
+          "hp": [
+            491,
+            500
+          ],
+          "mp": [
+            360.6,
+            375
+          ],
+          "mpregen": [
+            8.092,
+            8.5
+          ]
+        }
+      },
+      "Kassadin": {
+        "abilities": {
+          "Q Null Sphere": {
+            "cooldown": [
+              [
+                9,
+                9,
+                9,
+                9,
+                9
+              ],
+              [
+                11,
+                10.5,
+                10,
+                9.5,
+                9
+              ]
+            ]
+          }
+        }
+      },
+      "Rammus": {
+        "base_stats": {
+          "hpperlevel": [
+            86,
+            95
+          ]
+        },
+        "abilities": {
+          "E Frenzying Taunt": {
+            "cooldown": [
+              [
+                12,
+                12,
+                12,
+                12,
+                12
+              ],
+              [
+                12,
+                11.5,
+                11,
+                10.5,
+                10
+              ]
+            ]
+          }
+        }
+      },
+      "Senna": {
+        "base_stats": {
+          "hpperlevel": [
+            85,
+            75
+          ]
+        }
+      },
+      "Sivir": {
+        "base_stats": {
+          "attackdamage": [
+            61,
+            63
+          ]
+        }
+      },
+      "Yuumi": {
+        "abilities": {
+          "Q Prowling Projectile": {
+            "cost": [
+              [
+                75,
+                80,
+                85,
+                90,
+                95,
+                100
+              ],
+              [
+                85,
+                90,
+                95,
+                100,
+                105,
+                110
+              ]
+            ]
+          },
+          "E Zoomies": {
+            "cooldown": [
+              [
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5
+              ],
+              [
+                12,
+                11,
+                10,
+                9,
+                8
+              ]
+            ],
+            "cost": [
+              [
+                30,
+                40,
+                50,
+                60,
+                70
+              ],
+              [
+                100,
+                115,
+                130,
+                145,
+                160
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Sanguine Blade": {
+        "gold": [
+          3000,
+          3100
+        ]
+      }
+    },
+    "removed_items": [
+      "Ohmwrecker",
+      "Raptor Cloak",
+      "Spear of Shojin",
+      "Zz'Rot Portal"
+    ]
+  }
+}

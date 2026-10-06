@@ -1,0 +1,195 @@
+{
+  "metadata": {
+    "name": "10.24",
+    "id": 1024,
+    "first_match": "2020-11-25 00:43",
+    "ddragon_version": "10.24.1",
+    "compared_with": "10.23.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-10-24-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Evelynn": {
+        "abilities": {
+          "Q Hate Spike": {
+            "cooldown": [
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              [
+                4,
+                4,
+                4,
+                4,
+                4
+              ]
+            ]
+          },
+          "W Allure": {
+            "cooldown": [
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              [
+                15,
+                14,
+                13,
+                12,
+                11
+              ]
+            ]
+          }
+        }
+      },
+      "Kassadin": {
+        "base_stats": {
+          "hpperlevel": [
+            90,
+            105
+          ]
+        },
+        "abilities": {
+          "R Riftwalk": {
+            "cost": [
+              [
+                50,
+                50,
+                50
+              ],
+              [
+                40,
+                40,
+                40
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Archangel's Staff": {
+        "stats": {
+          "FlatMPPoolMod": [
+            400,
+            500
+          ]
+        }
+      },
+      "Blade of The Ruined King": {
+        "gold": [
+          3100,
+          3200
+        ],
+        "stats": {
+          "PercentAttackSpeedMod": [
+            0.3,
+            0.25
+          ]
+        }
+      },
+      "Chemtech Putrifier": {
+        "stats": {
+          "FlatMagicDamageMod": [
+            45,
+            50
+          ]
+        }
+      },
+      "Cosmic Drive": {
+        "stats": {
+          "FlatMagicDamageMod": [
+            70,
+            75
+          ]
+        }
+      },
+      "Essence Reaver": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            40,
+            50
+          ]
+        }
+      },
+      "Guinsoo's Rageblade": {
+        "gold": [
+          2600,
+          2800
+        ]
+      },
+      "Kraken Slayer": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            60,
+            65
+          ]
+        }
+      },
+      "Manamune": {
+        "stats": {
+          "FlatMPPoolMod": [
+            400,
+            500
+          ]
+        }
+      },
+      "Phantom Dancer": {
+        "gold": [
+          2900,
+          2700
+        ]
+      },
+      "Prowler's Claw": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            55,
+            60
+          ]
+        }
+      },
+      "Silvermere Dawn": {
+        "stats": {
+          "PercentMovementSpeedMod": [
+            0.07,
+            null
+          ]
+        }
+      },
+      "Tear of the Goddess": {
+        "stats": {
+          "FlatMPPoolMod": [
+            150,
+            240
+          ]
+        }
+      },
+      "The Collector": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            45,
+            55
+          ]
+        }
+      },
+      "Umbral Glaive": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            50,
+            55
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

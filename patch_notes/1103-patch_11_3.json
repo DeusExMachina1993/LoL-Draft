@@ -1,0 +1,385 @@
+{
+  "metadata": {
+    "name": "11.3",
+    "id": 1103,
+    "first_match": "2021-02-05 00:30",
+    "ddragon_version": "11.3.1",
+    "compared_with": "11.2.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-11-3-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Anivia": {
+        "abilities": {
+          "R Glacial Storm": {
+            "cooldown": [
+              [
+                4,
+                2.5,
+                1
+              ],
+              [
+                4,
+                3,
+                2
+              ]
+            ]
+          }
+        }
+      },
+      "Ivern": {
+        "base_stats": {
+          "hpperlevel": [
+            95,
+            85
+          ]
+        }
+      },
+      "Jinx": {
+        "base_stats": {
+          "hp": [
+            610,
+            550
+          ]
+        },
+        "abilities": {
+          "E Flame Chompers!": {
+            "cost": [
+              [
+                70,
+                70,
+                70,
+                70,
+                70
+              ],
+              [
+                90,
+                90,
+                90,
+                90,
+                90
+              ]
+            ]
+          }
+        }
+      },
+      "Karma": {
+        "base_stats": {
+          "mpregen": [
+            11.5,
+            13
+          ]
+        },
+        "abilities": {
+          "Q Inner Flame": {
+            "cost": [
+              [
+                65,
+                65,
+                65,
+                65,
+                65
+              ],
+              [
+                55,
+                55,
+                55,
+                55,
+                55
+              ]
+            ]
+          }
+        }
+      },
+      "Mordekaiser": {
+        "abilities": {
+          "E Death's Grasp": {
+            "cooldown": [
+              [
+                24,
+                21,
+                18,
+                15,
+                12
+              ],
+              [
+                22,
+                19,
+                16,
+                13,
+                10
+              ]
+            ]
+          }
+        }
+      },
+      "Olaf": {
+        "base_stats": {
+          "hp": [
+            597,
+            575
+          ]
+        }
+      },
+      "Pantheon": {
+        "abilities": {
+          "Q Comet Spear": {
+            "cooldown": [
+              [
+                10,
+                9.5,
+                9,
+                8.5,
+                8
+              ],
+              [
+                13,
+                11.75,
+                10.5,
+                9.25,
+                8
+              ]
+            ]
+          }
+        }
+      },
+      "Rammus": {
+        "abilities": {
+          "E Frenzying Taunt": {
+            "cooldown": [
+              [
+                12,
+                11.5,
+                11,
+                10.5,
+                10
+              ],
+              [
+                12,
+                12,
+                12,
+                12,
+                12
+              ]
+            ]
+          }
+        }
+      },
+      "Rell": {
+        "abilities": {
+          "E Attract and Repel": {
+            "cooldown": [
+              [
+                18,
+                15.5,
+                14,
+                12.5,
+                11
+              ],
+              [
+                18,
+                16.25,
+                14.5,
+                12.75,
+                11
+              ]
+            ]
+          }
+        }
+      },
+      "Riven": {
+        "abilities": {
+          "E Valor": {
+            "cooldown": [
+              [
+                12,
+                11,
+                10,
+                9,
+                8
+              ],
+              [
+                10,
+                9,
+                8,
+                7,
+                6
+              ]
+            ]
+          }
+        }
+      },
+      "Sylas": {
+        "abilities": {
+          "Q Chain Lash": {
+            "cost": [
+              [
+                50,
+                55,
+                60,
+                65,
+                70
+              ],
+              [
+                55,
+                55,
+                55,
+                55,
+                55
+              ]
+            ]
+          }
+        }
+      },
+      "Vladimir": {
+        "abilities": {
+          "R Hemoplague": {
+            "cooldown": [
+              [
+                150,
+                135,
+                120
+              ],
+              [
+                120,
+                120,
+                120
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Banshee's Veil": {
+        "gold": [
+          2500,
+          2600
+        ],
+        "stats": {
+          "FlatMagicDamageMod": [
+            65,
+            80
+          ]
+        }
+      },
+      "Dead Man's Plate": {
+        "stats": {
+          "FlatHPPoolMod": [
+            475,
+            400
+          ]
+        }
+      },
+      "Frozen Heart": {
+        "gold": [
+          2700,
+          2500
+        ],
+        "stats": {
+          "FlatArmorMod": [
+            80,
+            70
+          ]
+        }
+      },
+      "Horizon Focus": {
+        "stats": {
+          "FlatMagicDamageMod": [
+            100,
+            115
+          ]
+        }
+      },
+      "Immortal Shieldbow": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            50,
+            55
+          ],
+          "PercentAttackSpeedMod": [
+            0.15,
+            0.2
+          ]
+        }
+      },
+      "Leeching Leer": {
+        "stats": {
+          "FlatHPPoolMod": [
+            150,
+            250
+          ]
+        }
+      },
+      "Lich Bane": {
+        "stats": {
+          "FlatMagicDamageMod": [
+            80,
+            70
+          ]
+        }
+      },
+      "Phantom Dancer": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            null,
+            20
+          ],
+          "PercentAttackSpeedMod": [
+            0.45,
+            0.25
+          ]
+        }
+      },
+      "Riftmaker": {
+        "stats": {
+          "FlatHPPoolMod": [
+            150,
+            300
+          ]
+        }
+      },
+      "Seeker's Armguard": {
+        "gold": [
+          900,
+          1000
+        ]
+      },
+      "Silvermere Dawn": {
+        "stats": {
+          "FlatHPPoolMod": [
+            200,
+            300
+          ],
+          "FlatPhysicalDamageMod": [
+            35,
+            40
+          ]
+        }
+      },
+      "Staff of Flowing Water": {
+        "stats": {
+          "FlatMagicDamageMod": [
+            60,
+            50
+          ]
+        }
+      },
+      "Verdant Barrier": {
+        "gold": [
+          1200,
+          1000
+        ]
+      },
+      "Zhonya's Hourglass": {
+        "gold": [
+          2500,
+          2600
+        ]
+      }
+    },
+    "removed_items": []
+  }
+}

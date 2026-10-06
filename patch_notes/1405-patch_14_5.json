@@ -1,0 +1,357 @@
+{
+  "metadata": {
+    "name": "14.5",
+    "id": 1405,
+    "first_match": "2024-03-08 01:27",
+    "ddragon_version": "14.5.1",
+    "compared_with": "14.4.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-14-5-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Brand": {
+        "abilities": {
+          "R Pyroclasm": {
+            "cooldown": [
+              [
+                105,
+                90,
+                75
+              ],
+              [
+                110,
+                100,
+                90
+              ]
+            ]
+          }
+        }
+      },
+      "Jarvan IV": {
+        "base_stats": {
+          "armorperlevel": [
+            4.8,
+            5.2
+          ]
+        },
+        "abilities": {
+          "Q Dragon Strike": {
+            "cooldown": [
+              [
+                10,
+                9.5,
+                9,
+                8.5,
+                8
+              ],
+              [
+                10,
+                9,
+                8,
+                7,
+                6
+              ]
+            ]
+          }
+        }
+      },
+      "Kai'Sa": {
+        "abilities": {
+          "R Killer Instinct": {
+            "range": [
+              [
+                1500,
+                2250,
+                3000
+              ],
+              [
+                2000,
+                2500,
+                3000
+              ]
+            ]
+          }
+        }
+      },
+      "Maokai": {
+        "base_stats": {
+          "movespeed": [
+            335,
+            330
+          ]
+        },
+        "abilities": {
+          "W Twisted Advance": {
+            "cooldown": [
+              [
+                13,
+                12,
+                11,
+                10,
+                9
+              ],
+              [
+                14,
+                13,
+                12,
+                11,
+                10
+              ]
+            ]
+          }
+        }
+      },
+      "Nidalee": {
+        "base_stats": {
+          "movespeed": [
+            340,
+            335
+          ]
+        }
+      },
+      "Seraphine": {
+        "base_stats": {
+          "mpperlevel": [
+            50,
+            25
+          ],
+          "movespeed": [
+            325,
+            330
+          ],
+          "mpregenperlevel": [
+            0.4,
+            0.95
+          ],
+          "attackdamage": [
+            55,
+            50
+          ]
+        },
+        "abilities": {
+          "Q High Note": {
+            "cooldown": [
+              [
+                10,
+                8.75,
+                7.5,
+                6.25,
+                5
+              ],
+              [
+                8,
+                7.5,
+                7,
+                6.5,
+                6
+              ]
+            ],
+            "cost": [
+              [
+                65,
+                70,
+                75,
+                80,
+                85
+              ],
+              [
+                60,
+                70,
+                80,
+                90,
+                100
+              ]
+            ]
+          },
+          "W Surround Sound": {
+            "cooldown": [
+              [
+                28,
+                25,
+                22,
+                19,
+                16
+              ],
+              [
+                22,
+                21,
+                20,
+                19,
+                18
+              ]
+            ],
+            "cost": [
+              [
+                80,
+                85,
+                90,
+                95,
+                100
+              ],
+              [
+                70,
+                75,
+                80,
+                85,
+                90
+              ]
+            ]
+          },
+          "E Beat Drop": {
+            "cooldown": [
+              [
+                10,
+                10,
+                10,
+                10,
+                10
+              ],
+              [
+                11,
+                10.5,
+                10,
+                9.5,
+                9
+              ]
+            ],
+            "cost": [
+              [
+                60,
+                65,
+                70,
+                75,
+                80
+              ],
+              [
+                60,
+                60,
+                60,
+                60,
+                60
+              ]
+            ]
+          },
+          "R Encore": {
+            "cooldown": [
+              [
+                160,
+                130,
+                100
+              ],
+              [
+                160,
+                140,
+                120
+              ]
+            ]
+          }
+        }
+      },
+      "Sivir": {
+        "base_stats": {
+          "armor": [
+            26,
+            30
+          ]
+        }
+      },
+      "Vayne": {
+        "abilities": {
+          "Q Tumble": {
+            "cooldown": [
+              [
+                4,
+                3.5,
+                3,
+                2.5,
+                2
+              ],
+              [
+                6,
+                5,
+                4,
+                3,
+                2
+              ]
+            ]
+          }
+        }
+      },
+      "Veigar": {
+        "abilities": {
+          "R Primordial Burst": {
+            "cooldown": [
+              [
+                120,
+                90,
+                60
+              ],
+              [
+                100,
+                80,
+                60
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Frozen Heart": {
+        "gold": [
+          2400,
+          2500
+        ],
+        "stats": {
+          "FlatArmorMod": [
+            70,
+            65
+          ]
+        }
+      },
+      "Hextech Rocketbelt": {
+        "gold": [
+          2500,
+          2600
+        ],
+        "stats": {
+          "FlatMagicDamageMod": [
+            60,
+            70
+          ]
+        }
+      },
+      "Stormsurge": {
+        "stats": {
+          "PercentMovementSpeedMod": [
+            0.05,
+            0.08
+          ]
+        }
+      },
+      "Sunfire Aegis": {
+        "stats": {
+          "FlatHPPoolMod": [
+            450,
+            500
+          ]
+        }
+      },
+      "Upgraded Aeropack": {
+        "gold": [
+          2500,
+          2600
+        ],
+        "stats": {
+          "FlatMagicDamageMod": [
+            85,
+            95
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

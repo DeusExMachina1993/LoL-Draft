@@ -1,0 +1,519 @@
+{
+  "year": 2023,
+  "schema_version": "1.0",
+  "periods": [
+    "202301",
+    "202302",
+    "202303",
+    "202304",
+    "202305",
+    "202306",
+    "202307",
+    "202308",
+    "202309",
+    "202310",
+    "202311",
+    "202312"
+  ],
+  "first_match": "2023-01-06 06:20",
+  "last_match": "2023-12-31 11:48",
+  "matches": 9797,
+  "team_drafts": 19594,
+  "interactions": 195940,
+  "picks": 97970,
+  "bans": 97970,
+  "heroes": 164,
+  "blue_win_rate": 0.5328,
+  "patches": [
+    {
+      "patch": 1223,
+      "version": "12.23",
+      "matches": 3,
+      "source_matches": 3,
+      "completeness": 1.0,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1301,
+      "version": "13.1",
+      "matches": 1701,
+      "source_matches": 2236,
+      "completeness": 0.7607,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1303,
+      "version": "13.3",
+      "matches": 819,
+      "source_matches": 1008,
+      "completeness": 0.8125,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1304,
+      "version": "13.4",
+      "matches": 836,
+      "source_matches": 1132,
+      "completeness": 0.7385,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1305,
+      "version": "13.5",
+      "matches": 910,
+      "source_matches": 1114,
+      "completeness": 0.8169,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1306,
+      "version": "13.6",
+      "matches": 236,
+      "source_matches": 280,
+      "completeness": 0.8429,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1307,
+      "version": "13.7",
+      "matches": 42,
+      "source_matches": 160,
+      "completeness": 0.2625,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1308,
+      "version": "13.8",
+      "matches": 75,
+      "source_matches": 312,
+      "completeness": 0.2404,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1310,
+      "version": "13.10",
+      "matches": 488,
+      "source_matches": 630,
+      "completeness": 0.7746,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1311,
+      "version": "13.11",
+      "matches": 1045,
+      "source_matches": 1404,
+      "completeness": 0.7443,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1312,
+      "version": "13.12",
+      "matches": 657,
+      "source_matches": 998,
+      "completeness": 0.6583,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1313,
+      "version": "13.13",
+      "matches": 1123,
+      "source_matches": 1517,
+      "completeness": 0.7403,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1314,
+      "version": "13.14",
+      "matches": 856,
+      "source_matches": 1094,
+      "completeness": 0.7824,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1315,
+      "version": "13.15",
+      "matches": 277,
+      "source_matches": 392,
+      "completeness": 0.7066,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1316,
+      "version": "13.16",
+      "matches": 117,
+      "source_matches": 253,
+      "completeness": 0.4625,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1317,
+      "version": "13.17",
+      "matches": 199,
+      "source_matches": 311,
+      "completeness": 0.6399,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1318,
+      "version": "13.18",
+      "matches": 108,
+      "source_matches": 333,
+      "completeness": 0.3243,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1319,
+      "version": "13.19",
+      "matches": 220,
+      "source_matches": 800,
+      "completeness": 0.275,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1320,
+      "version": "13.20",
+      "matches": 17,
+      "source_matches": 120,
+      "completeness": 0.1417,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1321,
+      "version": "13.21",
+      "matches": 27,
+      "source_matches": 217,
+      "completeness": 0.1244,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1324,
+      "version": "13.24",
+      "matches": 41,
+      "source_matches": 120,
+      "completeness": 0.3417,
+      "draft_format": "td20_10.1"
+    }
+  ],
+  "draft_formats": {
+    "td20_10.1": 9797
+  },
+  "hero_ids": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    48,
+    50,
+    51,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    67,
+    68,
+    69,
+    72,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    89,
+    90,
+    91,
+    92,
+    96,
+    98,
+    99,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    117,
+    119,
+    120,
+    121,
+    122,
+    126,
+    127,
+    131,
+    133,
+    134,
+    136,
+    141,
+    142,
+    143,
+    145,
+    147,
+    150,
+    154,
+    157,
+    161,
+    163,
+    164,
+    166,
+    200,
+    201,
+    202,
+    203,
+    221,
+    222,
+    223,
+    233,
+    234,
+    235,
+    236,
+    238,
+    240,
+    245,
+    246,
+    254,
+    266,
+    267,
+    268,
+    350,
+    360,
+    412,
+    420,
+    421,
+    427,
+    429,
+    432,
+    497,
+    498,
+    516,
+    517,
+    518,
+    523,
+    526,
+    555,
+    711,
+    777,
+    875,
+    876,
+    887,
+    888,
+    895,
+    897,
+    902,
+    950
+  ],
+  "new_heroes": [
+    "Briar",
+    "Milio",
+    "Naafiri"
+  ],
+  "matches_per_month": {
+    "2023-01": 697,
+    "2023-02": 1565,
+    "2023-03": 1774,
+    "2023-04": 511,
+    "2023-05": 173,
+    "2023-06": 1628,
+    "2023-07": 1761,
+    "2023-08": 936,
+    "2023-09": 368,
+    "2023-10": 288,
+    "2023-11": 55,
+    "2023-12": 41
+  },
+  "top_picks": [
+    {
+      "hero": "Sejuani",
+      "count": 3241,
+      "rate": 0.3308
+    },
+    {
+      "hero": "K'Sante",
+      "count": 3188,
+      "rate": 0.3254
+    },
+    {
+      "hero": "Xayah",
+      "count": 3141,
+      "rate": 0.3206
+    },
+    {
+      "hero": "Nautilus",
+      "count": 3087,
+      "rate": 0.3151
+    },
+    {
+      "hero": "Rakan",
+      "count": 2914,
+      "rate": 0.2974
+    },
+    {
+      "hero": "Maokai",
+      "count": 2721,
+      "rate": 0.2777
+    },
+    {
+      "hero": "Renekton",
+      "count": 2577,
+      "rate": 0.263
+    },
+    {
+      "hero": "Wukong",
+      "count": 2512,
+      "rate": 0.2564
+    },
+    {
+      "hero": "Aphelios",
+      "count": 2494,
+      "rate": 0.2546
+    },
+    {
+      "hero": "Zeri",
+      "count": 2360,
+      "rate": 0.2409
+    }
+  ],
+  "top_bans": [
+    {
+      "hero": "Maokai",
+      "count": 3915,
+      "rate": 0.3996
+    },
+    {
+      "hero": "Vi",
+      "count": 3042,
+      "rate": 0.3105
+    },
+    {
+      "hero": "LeBlanc",
+      "count": 3039,
+      "rate": 0.3102
+    },
+    {
+      "hero": "Sejuani",
+      "count": 3028,
+      "rate": 0.3091
+    },
+    {
+      "hero": "Jayce",
+      "count": 2721,
+      "rate": 0.2777
+    },
+    {
+      "hero": "Jax",
+      "count": 2524,
+      "rate": 0.2576
+    },
+    {
+      "hero": "Ashe",
+      "count": 2463,
+      "rate": 0.2514
+    },
+    {
+      "hero": "Neeko",
+      "count": 2415,
+      "rate": 0.2465
+    },
+    {
+      "hero": "Tristana",
+      "count": 2371,
+      "rate": 0.242
+    },
+    {
+      "hero": "Varus",
+      "count": 2118,
+      "rate": 0.2162
+    }
+  ],
+  "breakdowns": {
+    "tier": {
+      "primary": 3403,
+      "secondary": 6394
+    },
+    "season_phase": {
+      "2023_1_pre-MSI": 4547,
+      "2023_2_MSI-to-Worlds": 5010,
+      "2023_3_Worlds": 240
+    }
+  },
+  "filtering": {
+    "raw_matches": 10082,
+    "kept_matches": 9797,
+    "dropped_unknown_format_by_actions": {
+      "10": 40,
+      "14": 1,
+      "15": 8,
+      "16": 1,
+      "17": 11,
+      "18": 45,
+      "19": 179
+    },
+    "dropped_no_metadata": 0,
+    "unknown_hero_ids": [],
+    "patch_label_fixes": {},
+    "other_drops": {
+      "showmatch games (not competitive)": 25
+    }
+  }
+}

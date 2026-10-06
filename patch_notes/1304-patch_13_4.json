@@ -1,0 +1,389 @@
+{
+  "metadata": {
+    "name": "13.4",
+    "id": 1304,
+    "first_match": "2023-02-27 05:10",
+    "ddragon_version": "13.4.1",
+    "compared_with": "13.3.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-13-4-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Ahri": {
+        "base_stats": {
+          "hp": [
+            570,
+            590
+          ],
+          "armor": [
+            18,
+            21
+          ]
+        },
+        "abilities": {
+          "R Spirit Rush": {
+            "cooldown": [
+              [
+                140,
+                115,
+                90
+              ],
+              [
+                130,
+                105,
+                80
+              ]
+            ]
+          }
+        }
+      },
+      "Amumu": {
+        "base_stats": {
+          "hpperlevel": [
+            100,
+            94
+          ],
+          "armorperlevel": [
+            4.2,
+            4
+          ]
+        }
+      },
+      "Anivia": {
+        "base_stats": {
+          "hpperlevel": [
+            96,
+            92
+          ],
+          "armorperlevel": [
+            5.2,
+            4.9
+          ]
+        }
+      },
+      "Annie": {
+        "base_stats": {
+          "armorperlevel": [
+            5.2,
+            4.7
+          ]
+        },
+        "abilities": {
+          "E Molten Shield": {
+            "cost": [
+              [
+                40,
+                40,
+                40,
+                40,
+                40
+              ],
+              [
+                60,
+                65,
+                70,
+                75,
+                80
+              ]
+            ]
+          }
+        }
+      },
+      "Aurelion Sol": {
+        "base_stats": {
+          "hpperlevel": [
+            105,
+            100
+          ]
+        }
+      },
+      "Azir": {
+        "base_stats": {
+          "mp": [
+            480,
+            380
+          ],
+          "mpperlevel": [
+            21,
+            36
+          ]
+        }
+      },
+      "Cho'Gath": {
+        "base_stats": {
+          "armorperlevel": [
+            4.7,
+            5
+          ]
+        },
+        "abilities": {
+          "Q Rupture": {
+            "cost": [
+              [
+                60,
+                60,
+                60,
+                60,
+                60
+              ],
+              [
+                50,
+                50,
+                50,
+                50,
+                50
+              ]
+            ]
+          },
+          "W Feral Scream": {
+            "cost": [
+              [
+                70,
+                80,
+                90,
+                100,
+                110
+              ],
+              [
+                70,
+                75,
+                80,
+                85,
+                90
+              ]
+            ]
+          }
+        }
+      },
+      "Jarvan IV": {
+        "abilities": {
+          "W Golden Aegis": {
+            "cooldown": [
+              [
+                8,
+                8,
+                8,
+                8,
+                8
+              ],
+              [
+                9,
+                9,
+                9,
+                9,
+                9
+              ]
+            ]
+          }
+        }
+      },
+      "Jax": {
+        "base_stats": {
+          "hp": [
+            685,
+            665
+          ],
+          "hpperlevel": [
+            99,
+            100
+          ]
+        }
+      },
+      "Malphite": {
+        "abilities": {
+          "W Thunderclap": {
+            "cooldown": [
+              [
+                12,
+                11.5,
+                11,
+                10.5,
+                10
+              ],
+              [
+                10,
+                9.5,
+                9,
+                8.5,
+                8
+              ]
+            ]
+          }
+        }
+      },
+      "Maokai": {
+        "abilities": {
+          "E Sapling Toss": {
+            "cooldown": [
+              [
+                10,
+                10,
+                10,
+                10,
+                10
+              ],
+              [
+                14,
+                14,
+                14,
+                14,
+                14
+              ]
+            ]
+          }
+        }
+      },
+      "Orianna": {
+        "base_stats": {
+          "armor": [
+            17,
+            20
+          ]
+        },
+        "abilities": {
+          "W Command: Dissonance": {
+            "cost": [
+              [
+                70,
+                75,
+                80,
+                85,
+                90
+              ],
+              [
+                60,
+                65,
+                70,
+                75,
+                80
+              ]
+            ]
+          }
+        }
+      },
+      "Senna": {
+        "abilities": {
+          "R Dawning Shadow": {
+            "cooldown": [
+              [
+                160,
+                140,
+                120
+              ],
+              [
+                140,
+                120,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Thresh": {
+        "abilities": {
+          "Q Death Sentence": {
+            "cooldown": [
+              [
+                19,
+                17,
+                15,
+                13,
+                11
+              ],
+              [
+                19,
+                16.5,
+                14,
+                11.5,
+                9
+              ]
+            ]
+          },
+          "W Dark Passage": {
+            "cooldown": [
+              [
+                22,
+                20.5,
+                19,
+                17.5,
+                16
+              ],
+              [
+                21,
+                20,
+                19,
+                18,
+                17
+              ]
+            ]
+          }
+        }
+      },
+      "Udyr": {
+        "base_stats": {
+          "hpperlevel": [
+            98,
+            92
+          ],
+          "armor": [
+            34,
+            31
+          ]
+        }
+      },
+      "Veigar": {
+        "abilities": {
+          "Q Baleful Strike": {
+            "range": [
+              [
+                900,
+                900,
+                900,
+                900,
+                900
+              ],
+              [
+                1000,
+                1000,
+                1000,
+                1000,
+                1000
+              ]
+            ]
+          },
+          "W Dark Matter": {
+            "range": [
+              [
+                900,
+                900,
+                900,
+                900,
+                900
+              ],
+              [
+                950,
+                950,
+                950,
+                950,
+                950
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Doran's Shield": {
+        "stats": {
+          "FlatHPRegenMod": [
+            1.2,
+            0.8
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

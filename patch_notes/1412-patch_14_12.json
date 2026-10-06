@@ -1,0 +1,245 @@
+{
+  "metadata": {
+    "name": "14.12",
+    "id": 1412,
+    "first_match": "2024-06-15 20:12",
+    "ddragon_version": "14.12.1",
+    "compared_with": "14.11.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-14-12-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Aatrox": {
+        "base_stats": {
+          "armorperlevel": [
+            4.45,
+            4.8
+          ],
+          "hpregenperlevel": [
+            1,
+            0.5
+          ]
+        }
+      },
+      "Blitzcrank": {
+        "base_stats": {
+          "hp": [
+            650,
+            600
+          ]
+        }
+      },
+      "Corki": {
+        "base_stats": {
+          "attackdamage": [
+            55,
+            52
+          ],
+          "attackspeedperlevel": [
+            2.3,
+            2.8
+          ]
+        },
+        "abilities": {
+          "Q Phosphorus Bomb": {
+            "cooldown": [
+              [
+                9,
+                8.5,
+                8,
+                7.5,
+                7
+              ],
+              [
+                8,
+                7.5,
+                7,
+                6.5,
+                6
+              ]
+            ]
+          },
+          "E Gatling Gun": {
+            "cost": [
+              [
+                50,
+                55,
+                60,
+                65,
+                70
+              ],
+              [
+                50,
+                60,
+                70,
+                80,
+                90
+              ]
+            ]
+          }
+        }
+      },
+      "Ezreal": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.5,
+            2.75
+          ]
+        }
+      },
+      "Master Yi": {
+        "abilities": {
+          "W Meditate": {
+            "cooldown": [
+              [
+                9,
+                9,
+                9,
+                9,
+                9
+              ],
+              [
+                10,
+                10,
+                10,
+                10,
+                10
+              ]
+            ]
+          }
+        }
+      },
+      "Naafiri": {
+        "abilities": {
+          "Q Darkin Daggers": {
+            "cooldown": [
+              [
+                11,
+                10,
+                9,
+                8,
+                7
+              ],
+              [
+                9,
+                8.5,
+                8,
+                7.5,
+                7
+              ]
+            ]
+          }
+        }
+      },
+      "Nilah": {
+        "base_stats": {
+          "armorperlevel": [
+            4.2,
+            4.5
+          ],
+          "hpregen": [
+            4,
+            6
+          ]
+        }
+      },
+      "Skarner": {
+        "base_stats": {
+          "hp": [
+            650,
+            610
+          ],
+          "hpperlevel": [
+            102,
+            105
+          ]
+        }
+      },
+      "Twisted Fate": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.3,
+            2.5
+          ]
+        },
+        "abilities": {
+          "W Pick a Card": {
+            "cost": [
+              [
+                30,
+                40,
+                50,
+                60,
+                70
+              ],
+              [
+                50,
+                55,
+                60,
+                65,
+                70
+              ]
+            ]
+          }
+        }
+      },
+      "Yone": {
+        "base_stats": {
+          "armor": [
+            30,
+            33
+          ]
+        }
+      },
+      "Yuumi": {
+        "abilities": {
+          "E Zoomies": {
+            "cooldown": [
+              [
+                12,
+                11.5,
+                11,
+                10.5,
+                10
+              ],
+              [
+                10,
+                10,
+                10,
+                10,
+                10
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Noonquiver": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            25,
+            20
+          ]
+        }
+      },
+      "Scout's Slingshot": {
+        "gold": [
+          900,
+          800
+        ]
+      },
+      "Void Staff": {
+        "stats": {
+          "FlatMagicDamageMod": [
+            80,
+            90
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

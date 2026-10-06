@@ -1,0 +1,143 @@
+{
+  "metadata": {
+    "name": "11.24",
+    "id": 1124,
+    "first_match": "2021-12-14 12:45",
+    "ddragon_version": "11.24.1",
+    "compared_with": "11.23.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-11-24-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Camille": {
+        "abilities": {
+          "E Hookshot": {
+            "cooldown": [
+              [
+                16,
+                14.5,
+                13,
+                11.5,
+                10
+              ],
+              [
+                16,
+                15,
+                14,
+                13,
+                12
+              ]
+            ]
+          }
+        }
+      },
+      "Kindred": {
+        "abilities": {
+          "R Lamb's Respite": {
+            "cost": [
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                100,
+                100,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Kled": {
+        "abilities": {
+          "E Jousting": {
+            "cooldown": [
+              [
+                14,
+                13,
+                12,
+                11,
+                10
+              ],
+              [
+                13,
+                12,
+                11,
+                10,
+                9
+              ]
+            ]
+          }
+        }
+      },
+      "Samira": {
+        "abilities": {
+          "R Inferno Trigger": {
+            "cost": [
+              [
+                100,
+                50,
+                0
+              ],
+              [
+                0,
+                0,
+                0
+              ]
+            ]
+          }
+        }
+      },
+      "Varus": {
+        "abilities": {
+          "R Chain of Corruption": {
+            "range": [
+              [
+                1200,
+                1200,
+                1200
+              ],
+              [
+                1300,
+                1300,
+                1300
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Archangel's Staff": {
+        "gold": [
+          3000,
+          2600
+        ]
+      },
+      "Cosmic Drive": {
+        "stats": {
+          "FlatHPPoolMod": [
+            250,
+            200
+          ],
+          "FlatMagicDamageMod": [
+            75,
+            65
+          ]
+        }
+      },
+      "Crown of the Shattered Queen": {
+        "stats": {
+          "FlatMagicDamageMod": [
+            70,
+            60
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

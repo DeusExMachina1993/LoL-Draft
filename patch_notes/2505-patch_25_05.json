@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "name": "25.05",
+    "id": 2505,
+    "first_match": "2025-03-09 15:43",
+    "ddragon_version": "15.5.1",
+    "compared_with": "15.4.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-05-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Dr. Mundo": {
+        "base_stats": {
+          "hp": [
+            613,
+            640
+          ]
+        }
+      },
+      "Poppy": {
+        "base_stats": {
+          "hpperlevel": [
+            104,
+            110
+          ]
+        }
+      },
+      "Skarner": {
+        "abilities": {
+          "E Ixtal's Impact": {
+            "cooldown": [
+              [
+                20,
+                19,
+                18,
+                17,
+                16
+              ],
+              [
+                22,
+                21,
+                20,
+                19,
+                18
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "metadata": {
+    "name": "11.17",
+    "id": 1117,
+    "first_match": "2021-08-26 23:51",
+    "ddragon_version": "11.17.1",
+    "compared_with": "11.16.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-11-17-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Amumu": {
+        "base_stats": {
+          "hpperlevel": [
+            80,
+            75
+          ],
+          "armorperlevel": [
+            3.8,
+            3.5
+          ]
+        },
+        "abilities": {
+          "Q Bandage Toss": {
+            "cooldown": [
+              [
+                10,
+                9.5,
+                9,
+                8.5,
+                8
+              ],
+              [
+                3,
+                3,
+                3,
+                3,
+                3
+              ]
+            ]
+          }
+        }
+      },
+      "Evelynn": {
+        "abilities": {
+          "R Last Caress": {
+            "cooldown": [
+              [
+                140,
+                110,
+                80
+              ],
+              [
+                120,
+                100,
+                80
+              ]
+            ]
+          }
+        }
+      },
+      "Graves": {
+        "abilities": {
+          "Q End of the Line": {
+            "cost": [
+              [
+                60,
+                60,
+                60,
+                60,
+                60
+              ],
+              [
+                80,
+                80,
+                80,
+                80,
+                80
+              ]
+            ]
+          }
+        }
+      },
+      "Lissandra": {
+        "base_stats": {
+          "attackdamage": [
+            53,
+            55
+          ]
+        },
+        "abilities": {
+          "Q Ice Shard": {
+            "cost": [
+              [
+                60,
+                65,
+                70,
+                75,
+                80
+              ],
+              [
+                55,
+                60,
+                65,
+                70,
+                75
+              ]
+            ]
+          }
+        }
+      },
+      "Lucian": {
+        "base_stats": {
+          "attackdamage": [
+            64,
+            62
+          ]
+        },
+        "abilities": {
+          "W Ardent Blaze": {
+            "cost": [
+              [
+                70,
+                70,
+                70,
+                70,
+                70
+              ],
+              [
+                60,
+                60,
+                60,
+                60,
+                60
+              ]
+            ]
+          }
+        }
+      },
+      "Nami": {
+        "base_stats": {
+          "hp": [
+            475,
+            490
+          ]
+        },
+        "abilities": {
+          "W Ebb and Flow": {
+            "cost": [
+              [
+                70,
+                85,
+                100,
+                115,
+                130
+              ],
+              [
+                70,
+                80,
+                90,
+                100,
+                110
+              ]
+            ]
+          }
+        }
+      },
+      "Viego": {
+        "base_stats": {
+          "attackrange": [
+            225,
+            200
+          ]
+        }
+      },
+      "Zed": {
+        "abilities": {
+          "R Death Mark": {
+            "cooldown": [
+              [
+                120,
+                90,
+                60
+              ],
+              [
+                120,
+                100,
+                80
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Divine Sunderer": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            40,
+            35
+          ]
+        }
+      },
+      "Hullbreaker": {
+        "stats": {
+          "FlatHPPoolMod": [
+            300,
+            400
+          ]
+        }
+      },
+      "Youmuu's Ghostblade": {
+        "gold": [
+          3000,
+          2900
+        ],
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            60,
+            55
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

@@ -1,0 +1,1475 @@
+{
+  "metadata": {
+    "name": "26.05",
+    "id": 2605,
+    "first_match": "2026-03-05 16:32",
+    "ddragon_version": "16.5.1",
+    "compared_with": "16.4.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-26-05-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Aatrox": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            5,
+            0
+          ]
+        }
+      },
+      "Ahri": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Akali": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.3,
+            0
+          ]
+        }
+      },
+      "Akshan": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Alistar": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.75,
+            0
+          ]
+        }
+      },
+      "Ambessa": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Amumu": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.8,
+            0
+          ]
+        }
+      },
+      "Anivia": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.2,
+            0
+          ]
+        }
+      },
+      "Annie": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.65,
+            0
+          ]
+        }
+      },
+      "Aphelios": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.3,
+            0
+          ]
+        }
+      },
+      "Ashe": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.5,
+            0
+          ]
+        }
+      },
+      "Aurelion Sol": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.2,
+            0
+          ]
+        }
+      },
+      "Aurora": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Azir": {
+        "base_stats": {
+          "hpperlevel": [
+            119,
+            108
+          ],
+          "attackdamageperlevel": [
+            3.5,
+            0
+          ]
+        }
+      },
+      "Bard": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Bel'Veth": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            1.5,
+            0
+          ]
+        }
+      },
+      "Blitzcrank": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.5,
+            0
+          ]
+        }
+      },
+      "Brand": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Braum": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.2,
+            0
+          ]
+        }
+      },
+      "Briar": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.5,
+            0
+          ]
+        }
+      },
+      "Caitlyn": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.8,
+            0
+          ]
+        }
+      },
+      "Camille": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.8,
+            0
+          ]
+        }
+      },
+      "Cassiopeia": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Cho'Gath": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            4.2,
+            0
+          ]
+        }
+      },
+      "Corki": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2,
+            0
+          ]
+        }
+      },
+      "Darius": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            5,
+            0
+          ]
+        }
+      },
+      "Diana": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Dr. Mundo": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.5,
+            0
+          ]
+        }
+      },
+      "Draven": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.4,
+            0
+          ]
+        }
+      },
+      "Ekko": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Elise": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Evelynn": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Ezreal": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.75,
+            0
+          ]
+        }
+      },
+      "Fiddlesticks": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.65,
+            0
+          ]
+        }
+      },
+      "Fiora": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.3,
+            0
+          ]
+        }
+      },
+      "Fizz": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Galio": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.5,
+            0
+          ]
+        }
+      },
+      "Gangplank": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            4.2,
+            0
+          ]
+        }
+      },
+      "Garen": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            4.5,
+            0
+          ]
+        }
+      },
+      "Gnar": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.2,
+            0
+          ]
+        }
+      },
+      "Gragas": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.5,
+            0
+          ]
+        }
+      },
+      "Graves": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            4,
+            0
+          ]
+        }
+      },
+      "Gwen": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Hecarim": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.7,
+            0
+          ]
+        }
+      },
+      "Heimerdinger": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.7,
+            0
+          ]
+        }
+      },
+      "Hwei": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.3,
+            0
+          ]
+        }
+      },
+      "Illaoi": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            5,
+            0
+          ]
+        }
+      },
+      "Irelia": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.5,
+            0
+          ]
+        }
+      },
+      "Ivern": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Janna": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.5,
+            0
+          ]
+        }
+      },
+      "Jarvan IV": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Jax": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            4.25,
+            0
+          ]
+        }
+      },
+      "Jayce": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            4.25,
+            0
+          ]
+        }
+      },
+      "Jhin": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            4.4,
+            0
+          ]
+        }
+      },
+      "Jinx": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.25,
+            0
+          ]
+        }
+      },
+      "K'Sante": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.5,
+            0
+          ]
+        }
+      },
+      "Kai'Sa": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.6,
+            0
+          ]
+        }
+      },
+      "Kalista": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            4.75,
+            0
+          ]
+        }
+      },
+      "Karma": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.3,
+            0
+          ]
+        }
+      },
+      "Karthus": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.25,
+            0
+          ]
+        }
+      },
+      "Kassadin": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.9,
+            0
+          ]
+        }
+      },
+      "Katarina": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.2,
+            0
+          ]
+        }
+      },
+      "Kayle": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.5,
+            0
+          ]
+        }
+      },
+      "Kayn": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.3,
+            0
+          ]
+        }
+      },
+      "Kennen": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.75,
+            0
+          ]
+        }
+      },
+      "Kha'Zix": {
+        "base_stats": {
+          "movespeed": [
+            350,
+            345
+          ],
+          "attackdamageperlevel": [
+            3.1,
+            0
+          ]
+        }
+      },
+      "Kindred": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.25,
+            0
+          ]
+        }
+      },
+      "Kled": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.5,
+            0
+          ]
+        }
+      },
+      "Kog'Maw": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.1,
+            0
+          ]
+        }
+      },
+      "LeBlanc": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.2,
+            0
+          ]
+        }
+      },
+      "Lee Sin": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.7,
+            0
+          ]
+        }
+      },
+      "Leona": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Lillia": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.1,
+            0
+          ]
+        },
+        "abilities": {
+          "R Lilting Lullaby": {
+            "cooldown": [
+              [
+                140,
+                120,
+                100
+              ],
+              [
+                150,
+                130,
+                110
+              ]
+            ]
+          }
+        }
+      },
+      "Lissandra": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.7,
+            0
+          ]
+        }
+      },
+      "Lucian": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.5,
+            0
+          ]
+        }
+      },
+      "Lulu": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.6,
+            0
+          ]
+        }
+      },
+      "Lux": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.3,
+            0
+          ]
+        }
+      },
+      "Malphite": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            4,
+            0
+          ]
+        }
+      },
+      "Malzahar": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Maokai": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.3,
+            0
+          ]
+        }
+      },
+      "Master Yi": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.5,
+            0
+          ]
+        }
+      },
+      "Mel": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.3,
+            0
+          ]
+        }
+      },
+      "Milio": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.2,
+            0
+          ]
+        }
+      },
+      "Miss Fortune": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.4,
+            0
+          ]
+        }
+      },
+      "Mordekaiser": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            4,
+            0
+          ]
+        }
+      },
+      "Morgana": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.5,
+            0
+          ]
+        }
+      },
+      "Naafiri": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2,
+            0
+          ]
+        }
+      },
+      "Nami": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.1,
+            0
+          ]
+        }
+      },
+      "Nasus": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            4,
+            0
+          ]
+        }
+      },
+      "Nautilus": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.3,
+            0
+          ]
+        }
+      },
+      "Neeko": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.5,
+            0
+          ]
+        }
+      },
+      "Nidalee": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.5,
+            0
+          ]
+        }
+      },
+      "Nilah": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2,
+            0
+          ]
+        }
+      },
+      "Nocturne": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.6,
+            0
+          ]
+        }
+      },
+      "Nunu & Willump": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Olaf": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            4.7,
+            0
+          ]
+        }
+      },
+      "Orianna": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.6,
+            0
+          ]
+        },
+        "abilities": {
+          "Q Command: Attack": {
+            "cooldown": [
+              [
+                6,
+                5.25,
+                4.5,
+                3.75,
+                3
+              ],
+              [
+                7,
+                6,
+                5,
+                4,
+                3
+              ]
+            ]
+          }
+        }
+      },
+      "Ornn": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.5,
+            0
+          ]
+        }
+      },
+      "Pantheon": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.3,
+            0
+          ]
+        }
+      },
+      "Poppy": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            4,
+            0
+          ]
+        }
+      },
+      "Pyke": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2,
+            0
+          ]
+        }
+      },
+      "Qiyana": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.1,
+            0
+          ]
+        }
+      },
+      "Quinn": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.2,
+            0
+          ]
+        }
+      },
+      "Rakan": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.5,
+            0
+          ]
+        }
+      },
+      "Rammus": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.75,
+            0
+          ]
+        }
+      },
+      "Rek'Sai": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Rell": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Renata Glasc": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Renekton": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            4.15,
+            0
+          ]
+        }
+      },
+      "Rengar": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Riven": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Rumble": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.2,
+            0
+          ]
+        }
+      },
+      "Ryze": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Samira": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Sejuani": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            4,
+            0
+          ]
+        }
+      },
+      "Seraphine": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Sett": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            4,
+            0
+          ]
+        }
+      },
+      "Shaco": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Shen": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Shyvana": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Singed": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.4,
+            0
+          ]
+        }
+      },
+      "Sion": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            4,
+            0
+          ]
+        }
+      },
+      "Sivir": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.5,
+            0
+          ]
+        }
+      },
+      "Skarner": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            5,
+            0
+          ]
+        }
+      },
+      "Smolder": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.3,
+            0
+          ]
+        }
+      },
+      "Sona": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Soraka": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Swain": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.7,
+            0
+          ]
+        }
+      },
+      "Sylas": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Syndra": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.9,
+            0
+          ]
+        }
+      },
+      "Tahm Kench": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.2,
+            0
+          ]
+        }
+      },
+      "Taliyah": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.3,
+            0
+          ]
+        }
+      },
+      "Talon": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.1,
+            0
+          ]
+        }
+      },
+      "Taric": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.5,
+            0
+          ]
+        }
+      },
+      "Teemo": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Thresh": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.2,
+            0
+          ]
+        }
+      },
+      "Tristana": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.9,
+            0
+          ]
+        }
+      },
+      "Trundle": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            4.5,
+            0
+          ]
+        }
+      },
+      "Tryndamere": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            4.5,
+            0
+          ]
+        }
+      },
+      "Twisted Fate": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.5,
+            0
+          ]
+        }
+      },
+      "Twitch": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Udyr": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            4,
+            0
+          ]
+        }
+      },
+      "Urgot": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            4,
+            0
+          ]
+        }
+      },
+      "Varus": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.4,
+            0
+          ]
+        }
+      },
+      "Vayne": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.35,
+            0
+          ]
+        }
+      },
+      "Veigar": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.7,
+            0
+          ]
+        }
+      },
+      "Vel'Koz": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.1416,
+            0
+          ]
+        }
+      },
+      "Vex": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.75,
+            0
+          ]
+        }
+      },
+      "Vi": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.5,
+            0
+          ]
+        }
+      },
+      "Viego": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.5,
+            0
+          ]
+        }
+      },
+      "Viktor": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Vladimir": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Volibear": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.5,
+            0
+          ]
+        },
+        "abilities": {
+          "W Frenzied Maul": {
+            "cost": [
+              [
+                30,
+                35,
+                40,
+                45,
+                50
+              ],
+              [
+                20,
+                25,
+                30,
+                35,
+                40
+              ]
+            ]
+          },
+          "E Sky Splitter": {
+            "cost": [
+              [
+                60,
+                60,
+                60,
+                60,
+                60
+              ],
+              [
+                50,
+                50,
+                50,
+                50,
+                50
+              ]
+            ]
+          }
+        }
+      },
+      "Warwick": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.5,
+            0
+          ]
+        }
+      },
+      "Wukong": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.5,
+            0
+          ]
+        }
+      },
+      "Xayah": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.5,
+            0
+          ]
+        }
+      },
+      "Xerath": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Xin Zhao": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Yasuo": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.5,
+            0
+          ]
+        }
+      },
+      "Yone": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2,
+            0
+          ]
+        }
+      },
+      "Yorick": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            5,
+            0
+          ]
+        }
+      },
+      "Yunara": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.5,
+            0
+          ]
+        }
+      },
+      "Yuumi": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.1,
+            0
+          ]
+        }
+      },
+      "Zaahen": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            4,
+            0
+          ]
+        }
+      },
+      "Zac": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.4,
+            0
+          ]
+        }
+      },
+      "Zed": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.4,
+            0
+          ]
+        }
+      },
+      "Zeri": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2,
+            0
+          ]
+        }
+      },
+      "Ziggs": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.1,
+            0
+          ]
+        }
+      },
+      "Zilean": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            0
+          ]
+        }
+      },
+      "Zoe": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.3,
+            0
+          ]
+        }
+      },
+      "Zyra": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.2,
+            0
+          ]
+        }
+      }
+    },
+    "items": {
+      "Hubris": {
+        "gold": [
+          3000,
+          2800
+        ]
+      }
+    },
+    "removed_items": []
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "name": "25.S1.2",
+    "id": 2502,
+    "first_match": "2025-01-24 09:34",
+    "ddragon_version": "15.2.1",
+    "compared_with": "15.1.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-s1-2-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [
+      "Mel"
+    ],
+    "champions": {
+      "Master Yi": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.5,
+            2.8
+          ]
+        }
+      }
+    },
+    "items": {
+      "Cappa Juice": {
+        "new": true,
+        "gold": 500,
+        "stats": {}
+      },
+      "Lord Dominik's Regards": {
+        "gold": [
+          3000,
+          3100
+        ]
+      },
+      "Mortal Reminder": {
+        "gold": [
+          3200,
+          3300
+        ]
+      },
+      "Swiftmarch": {
+        "stats": {
+          "FlatMovementSpeedMod": [
+            75,
+            70
+          ]
+        }
+      },
+      "Yun Tal Wildarrows": {
+        "gold": [
+          2900,
+          3000
+        ],
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            50,
+            55
+          ],
+          "PercentAttackSpeedMod": [
+            0.25,
+            0.35
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

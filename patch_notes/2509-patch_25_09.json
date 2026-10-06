@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "name": "25.09",
+    "id": 2509,
+    "first_match": "2025-04-30 17:09",
+    "ddragon_version": "15.9.1",
+    "compared_with": "15.8.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-09-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Annie": {
+        "abilities": {
+          "W Incinerate": {
+            "cost": [
+              [
+                90,
+                95,
+                100,
+                105,
+                110
+              ],
+              [
+                70,
+                75,
+                80,
+                85,
+                90
+              ]
+            ]
+          }
+        }
+      },
+      "Gwen": {
+        "base_stats": {
+          "armorperlevel": [
+            5.2,
+            4.9
+          ]
+        }
+      },
+      "Kalista": {
+        "base_stats": {
+          "hp": [
+            600,
+            580
+          ],
+          "attackdamage": [
+            59,
+            57
+          ],
+          "attackdamageperlevel": [
+            3.25,
+            4
+          ]
+        }
+      },
+      "Leona": {
+        "abilities": {
+          "Q Shield of Daybreak": {
+            "cost": [
+              [
+                35,
+                40,
+                45,
+                50,
+                55
+              ],
+              [
+                30,
+                35,
+                40,
+                45,
+                50
+              ]
+            ]
+          },
+          "E Zenith Blade": {
+            "cost": [
+              [
+                60,
+                60,
+                60,
+                60,
+                60
+              ],
+              [
+                40,
+                45,
+                50,
+                55,
+                60
+              ]
+            ]
+          }
+        }
+      },
+      "Naafiri": {
+        "abilities": {
+          "W The Call of the Pack": {
+            "cooldown": [
+              [
+                22,
+                21,
+                20,
+                19,
+                18
+              ],
+              [
+                26,
+                24,
+                22,
+                20,
+                18
+              ]
+            ]
+          }
+        }
+      },
+      "Orianna": {
+        "abilities": {
+          "Q Command: Attack": {
+            "cost": [
+              [
+                30,
+                35,
+                40,
+                45,
+                50
+              ],
+              [
+                35,
+                35,
+                35,
+                35,
+                35
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Armored Advance": {
+        "gold": [
+          1950,
+          1700
+        ]
+      },
+      "Boots of Swiftness": {
+        "stats": {
+          "FlatMovementSpeedMod": [
+            60,
+            55
+          ]
+        }
+      },
+      "Chainlaced Crushers": {
+        "gold": [
+          2000,
+          1750
+        ]
+      },
+      "Crimson Lucidity": {
+        "gold": [
+          1650,
+          1400
+        ]
+      },
+      "Forever Forward": {
+        "gold": [
+          1650,
+          1400
+        ]
+      },
+      "Gunmetal Greaves": {
+        "gold": [
+          1850,
+          1600
+        ]
+      },
+      "Rod of Ages": {
+        "stats": {
+          "FlatHPPoolMod": [
+            400,
+            350
+          ],
+          "FlatMagicDamageMod": [
+            50,
+            45
+          ]
+        }
+      },
+      "Spellslinger's Shoes": {
+        "gold": [
+          1850,
+          1600
+        ]
+      },
+      "Swiftmarch": {
+        "gold": [
+          1750,
+          1500
+        ],
+        "stats": {
+          "FlatMovementSpeedMod": [
+            70,
+            65
+          ]
+        }
+      }
+    },
+    "removed_items": [
+      "Empyrean Promise"
+    ]
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "name": "10.8",
+    "id": 1008,
+    "first_match": "2020-04-15 18:24",
+    "ddragon_version": "10.8.1",
+    "compared_with": "10.7.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-10-8-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Kalista": {
+        "base_stats": {
+          "armor": [
+            23,
+            21
+          ]
+        }
+      },
+      "Ryze": {
+        "base_stats": {
+          "hp": [
+            570.48,
+            575
+          ],
+          "armor": [
+            21.552,
+            22
+          ],
+          "attackdamage": [
+            55.04,
+            56
+          ]
+        }
+      },
+      "Soraka": {
+        "base_stats": {
+          "mp": [
+            375,
+            425
+          ]
+        },
+        "abilities": {
+          "Q Starcall": {
+            "cost": [
+              [
+                60,
+                65,
+                70,
+                75,
+                80
+              ],
+              [
+                45,
+                50,
+                55,
+                60,
+                65
+              ]
+            ]
+          }
+        }
+      },
+      "Urgot": {
+        "abilities": {
+          "R Fear Beyond Death": {
+            "cooldown": [
+              [
+                120,
+                95,
+                70
+              ],
+              [
+                100,
+                85,
+                70
+              ]
+            ]
+          }
+        }
+      },
+      "Varus": {
+        "abilities": {
+          "R Chain of Corruption": {
+            "cooldown": [
+              [
+                110,
+                90,
+                70
+              ],
+              [
+                130,
+                100,
+                70
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

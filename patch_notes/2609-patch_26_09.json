@@ -1,0 +1,204 @@
+{
+  "metadata": {
+    "name": "26.09",
+    "id": 2609,
+    "first_match": "2026-04-30 18:09",
+    "ddragon_version": "16.9.1",
+    "compared_with": "16.8.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-26-09-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Briar": {
+        "base_stats": {
+          "hpperlevel": [
+            100,
+            95
+          ]
+        }
+      },
+      "Shyvana": {
+        "base_stats": {
+          "attackspeed": [
+            0.625,
+            0.638
+          ]
+        },
+        "abilities": {
+          "W Inferno Aegis": {
+            "cooldown": [
+              [
+                14,
+                13.5,
+                13,
+                12.5,
+                12
+              ],
+              [
+                13,
+                12,
+                11,
+                10,
+                9
+              ]
+            ]
+          },
+          "E Molten Burst": {
+            "cooldown": [
+              [
+                12,
+                11.5,
+                11,
+                10.5,
+                10
+              ],
+              [
+                12,
+                11,
+                10,
+                9,
+                8
+              ]
+            ]
+          }
+        }
+      },
+      "Zeri": {
+        "base_stats": {
+          "attackrange": [
+            500,
+            550
+          ]
+        },
+        "abilities": {
+          "E Spark Surge": {
+            "cooldown": [
+              [
+                22,
+                21,
+                20,
+                19,
+                18
+              ],
+              [
+                24,
+                22.5,
+                21,
+                19.5,
+                18
+              ]
+            ]
+          }
+        }
+      },
+      "Zoe": {
+        "abilities": {
+          "E Sleepy Trouble Bubble": {
+            "cooldown": [
+              [
+                16,
+                15,
+                14,
+                13,
+                12
+              ],
+              [
+                18,
+                17,
+                16,
+                15,
+                14
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Doran's Bow": {
+        "new": true,
+        "gold": 400,
+        "stats": {
+          "FlatPhysicalDamageMod": 6,
+          "PercentAttackSpeedMod": 0.15
+        }
+      },
+      "Doran's Helm": {
+        "new": true,
+        "gold": 450,
+        "stats": {
+          "FlatSpellBlockMod": 10,
+          "FlatHPPoolMod": 110,
+          "FlatArmorMod": 10
+        }
+      },
+      "Dusk and Dawn": {
+        "stats": {
+          "FlatHPPoolMod": [
+            350,
+            300
+          ],
+          "FlatMagicDamageMod": [
+            70,
+            60
+          ],
+          "PercentAttackSpeedMod": [
+            0.25,
+            0.2
+          ]
+        }
+      },
+      "Gluttonous Greaves": {
+        "new": true,
+        "gold": 950,
+        "stats": {
+          "FlatMovementSpeedMod": 45
+        }
+      },
+      "Hubris": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            60,
+            55
+          ]
+        }
+      },
+      "Immortal Path": {
+        "new": true,
+        "gold": 950,
+        "stats": {
+          "FlatMovementSpeedMod": 45
+        }
+      },
+      "Statikk Shiv": {
+        "gold": [
+          2700,
+          3000
+        ],
+        "stats": {
+          "FlatMagicDamageMod": [
+            null,
+            45
+          ],
+          "FlatPhysicalDamageMod": [
+            45,
+            40
+          ]
+        }
+      },
+      "Voltaic Cyclosword": {
+        "gold": [
+          3000,
+          2900
+        ]
+      }
+    },
+    "removed_items": [
+      "Opportunity",
+      "Trailblazer",
+      "Trailblazer"
+    ]
+  }
+}

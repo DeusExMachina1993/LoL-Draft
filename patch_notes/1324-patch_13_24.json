@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "name": "13.24",
+    "id": 1324,
+    "first_match": "2023-12-07 12:25",
+    "ddragon_version": "13.24.1",
+    "compared_with": "13.23.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-13-24-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [
+      "Hwei"
+    ],
+    "champions": {
+      "Braum": {
+        "base_stats": {
+          "mpregen": [
+            6,
+            7
+          ]
+        }
+      },
+      "Briar": {
+        "base_stats": {
+          "armor": [
+            32,
+            30
+          ]
+        }
+      },
+      "Galio": {
+        "abilities": {
+          "Q Winds of War": {
+            "cooldown": [
+              [
+                12,
+                11.5,
+                11,
+                10.5,
+                10
+              ],
+              [
+                12,
+                11,
+                10,
+                9,
+                8
+              ]
+            ]
+          }
+        }
+      },
+      "Ivern": {
+        "base_stats": {
+          "hp": [
+            655,
+            630
+          ]
+        }
+      },
+      "K'Sante": {
+        "abilities": {
+          "W Path Maker": {
+            "cost": [
+              [
+                60,
+                65,
+                70,
+                75,
+                80
+              ],
+              [
+                40,
+                45,
+                50,
+                55,
+                60
+              ]
+            ]
+          }
+        }
+      },
+      "Lucian": {
+        "abilities": {
+          "E Relentless Pursuit": {
+            "cooldown": [
+              [
+                22,
+                20,
+                18,
+                16,
+                14
+              ],
+              [
+                19,
+                17.75,
+                16.5,
+                15.25,
+                14
+              ]
+            ]
+          }
+        }
+      },
+      "Qiyana": {
+        "base_stats": {
+          "mp": [
+            320,
+            375
+          ],
+          "mpperlevel": [
+            50,
+            60
+          ]
+        }
+      },
+      "Zeri": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            1.3,
+            2
+          ]
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "metadata": {
+    "name": "12.14",
+    "id": 1214,
+    "first_match": "2022-07-28 23:17",
+    "ddragon_version": "12.14.1",
+    "compared_with": "12.13.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-12-14-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Aatrox": {
+        "base_stats": {
+          "hpperlevel": [
+            104,
+            114
+          ]
+        }
+      },
+      "Alistar": {
+        "abilities": {
+          "Q Pulverize": {
+            "cooldown": [
+              [
+                15,
+                14,
+                13,
+                12,
+                11
+              ],
+              [
+                14,
+                13,
+                12,
+                11,
+                10
+              ]
+            ],
+            "cost": [
+              [
+                65,
+                70,
+                75,
+                80,
+                85
+              ],
+              [
+                55,
+                60,
+                65,
+                70,
+                75
+              ]
+            ]
+          }
+        }
+      },
+      "Gangplank": {
+        "base_stats": {
+          "hp": [
+            640,
+            600
+          ],
+          "hpperlevel": [
+            104,
+            114
+          ],
+          "armor": [
+            35,
+            31
+          ]
+        }
+      },
+      "Gnar": {
+        "base_stats": {
+          "hp": [
+            580,
+            540
+          ],
+          "hpregenperlevel": [
+            1.75,
+            1.25
+          ]
+        }
+      },
+      "Gwen": {
+        "base_stats": {
+          "hp": [
+            660,
+            620
+          ]
+        },
+        "abilities": {
+          "R Needlework": {
+            "cooldown": [
+              [
+                100,
+                90,
+                80
+              ],
+              [
+                120,
+                100,
+                80
+              ]
+            ]
+          }
+        }
+      },
+      "Jarvan IV": {
+        "abilities": {
+          "E Demacian Standard": {
+            "cooldown": [
+              [
+                12,
+                12,
+                12,
+                12,
+                12
+              ],
+              [
+                12,
+                11.5,
+                11,
+                10.5,
+                10
+              ]
+            ]
+          }
+        }
+      },
+      "Kayn": {
+        "base_stats": {
+          "hpperlevel": [
+            99,
+            109
+          ]
+        }
+      },
+      "LeBlanc": {
+        "base_stats": {
+          "mp": [
+            334,
+            400
+          ],
+          "mpperlevel": [
+            50,
+            55
+          ]
+        }
+      },
+      "Master Yi": {
+        "base_stats": {
+          "attackdamage": [
+            66,
+            65
+          ],
+          "attackdamageperlevel": [
+            3,
+            2.5
+          ]
+        },
+        "abilities": {
+          "Q Alpha Strike": {
+            "cooldown": [
+              [
+                18,
+                17.5,
+                17,
+                16.5,
+                16
+              ],
+              [
+                20,
+                19.5,
+                19,
+                18.5,
+                18
+              ]
+            ]
+          }
+        }
+      },
+      "Nilah": {
+        "base_stats": {
+          "hp": [
+            590,
+            570
+          ],
+          "armor": [
+            30,
+            27
+          ]
+        }
+      },
+      "Renata Glasc": {
+        "base_stats": {
+          "hp": [
+            595,
+            545
+          ],
+          "attackdamage": [
+            51,
+            49
+          ]
+        }
+      },
+      "Sivir": {
+        "abilities": {
+          "W Ricochet": {
+            "cooldown": [
+              [
+                10,
+                10,
+                10,
+                10,
+                10
+              ],
+              [
+                12,
+                12,
+                12,
+                12,
+                12
+              ]
+            ],
+            "cost": [
+              [
+                60,
+                60,
+                60,
+                60,
+                60
+              ],
+              [
+                60,
+                65,
+                70,
+                75,
+                80
+              ]
+            ]
+          }
+        }
+      },
+      "Teemo": {
+        "base_stats": {
+          "mpperlevel": [
+            20,
+            25
+          ]
+        },
+        "abilities": {
+          "R Noxious Trap": {
+            "cost": [
+              [
+                75,
+                75,
+                75
+              ],
+              [
+                75,
+                55,
+                35
+              ]
+            ],
+            "range": [
+              [
+                400,
+                650,
+                900
+              ],
+              [
+                600,
+                750,
+                900
+              ]
+            ]
+          }
+        }
+      },
+      "Varus": {
+        "base_stats": {
+          "attackdamage": [
+            59,
+            62
+          ]
+        }
+      },
+      "Wukong": {
+        "base_stats": {
+          "hpregen": [
+            2.5,
+            3.5
+          ]
+        }
+      }
+    },
+    "items": {
+      "Chempunk Chainsword": {
+        "gold": [
+          2600,
+          2800
+        ]
+      }
+    },
+    "removed_items": []
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "metadata": {
+    "name": "11.5",
+    "id": 1105,
+    "first_match": "2021-03-04 17:31",
+    "ddragon_version": "11.5.1",
+    "compared_with": "11.4.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-11-5-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Gragas": {
+        "abilities": {
+          "Q Barrel Roll": {
+            "cost": [
+              [
+                60,
+                65,
+                70,
+                75,
+                80
+              ],
+              [
+                80,
+                80,
+                80,
+                80,
+                80
+              ]
+            ]
+          }
+        }
+      },
+      "Jax": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.38,
+            4.25
+          ]
+        }
+      },
+      "Karma": {
+        "abilities": {
+          "Q Inner Flame": {
+            "cooldown": [
+              [
+                9,
+                8.5,
+                8,
+                7.5,
+                7
+              ],
+              [
+                8,
+                7.5,
+                7,
+                6.5,
+                6
+              ]
+            ]
+          }
+        }
+      },
+      "Kled": {
+        "base_stats": {
+          "hp": [
+            340,
+            740
+          ],
+          "hpperlevel": [
+            70,
+            130
+          ]
+        }
+      },
+      "Rammus": {
+        "base_stats": {
+          "hpperlevel": [
+            95,
+            80
+          ]
+        }
+      },
+      "Rell": {
+        "base_stats": {
+          "armor": [
+            35,
+            32
+          ]
+        },
+        "abilities": {
+          "W Ferromancy: Crash Down": {
+            "cooldown": [
+              [
+                11,
+                11,
+                11,
+                11,
+                11
+              ],
+              [
+                13,
+                13,
+                13,
+                13,
+                13
+              ]
+            ]
+          }
+        }
+      },
+      "Samira": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.3,
+            3
+          ]
+        }
+      },
+      "Seraphine": {
+        "abilities": {
+          "R Encore": {
+            "cooldown": [
+              [
+                160,
+                140,
+                120
+              ],
+              [
+                180,
+                150,
+                120
+              ]
+            ]
+          }
+        }
+      },
+      "Trundle": {
+        "abilities": {
+          "Q Chomp": {
+            "cooldown": [
+              [
+                4,
+                4,
+                4,
+                4,
+                4
+              ],
+              [
+                3.5,
+                3.5,
+                3.5,
+                3.5,
+                3.5
+              ]
+            ]
+          }
+        }
+      },
+      "Udyr": {
+        "base_stats": {
+          "hpperlevel": [
+            99,
+            92
+          ]
+        }
+      }
+    },
+    "items": {
+      "Black Cleaver": {
+        "gold": [
+          3300,
+          3100
+        ],
+        "stats": {
+          "FlatHPPoolMod": [
+            300,
+            400
+          ]
+        }
+      },
+      "Maw of Malmortius": {
+        "gold": [
+          3100,
+          2800
+        ]
+      }
+    },
+    "removed_items": []
+  }
+}

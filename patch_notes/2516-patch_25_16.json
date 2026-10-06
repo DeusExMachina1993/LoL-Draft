@@ -1,0 +1,202 @@
+{
+  "metadata": {
+    "name": "25.16",
+    "id": 2516,
+    "first_match": "2025-08-14 21:07",
+    "ddragon_version": "15.16.1",
+    "compared_with": "15.15.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-16-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Brand": {
+        "abilities": {
+          "R Pyroclasm": {
+            "cooldown": [
+              [
+                110,
+                100,
+                90
+              ],
+              [
+                100,
+                90,
+                80
+              ]
+            ]
+          }
+        }
+      },
+      "Gnar": {
+        "abilities": {
+          "Q Boomerang Throw / Boulder Toss": {
+            "cooldown": [
+              [
+                20,
+                17.5,
+                15,
+                12.5,
+                10
+              ],
+              [
+                16,
+                14.5,
+                13,
+                11.5,
+                10
+              ]
+            ]
+          }
+        }
+      },
+      "Jarvan IV": {
+        "base_stats": {
+          "armorperlevel": [
+            5.2,
+            4.6
+          ]
+        }
+      },
+      "Kalista": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            4,
+            4.25
+          ]
+        }
+      },
+      "Lulu": {
+        "abilities": {
+          "E Help, Pix!": {
+            "cooldown": [
+              [
+                8,
+                8,
+                8,
+                8,
+                8
+              ],
+              [
+                10,
+                9.5,
+                9,
+                8.5,
+                8
+              ]
+            ]
+          }
+        }
+      },
+      "Nocturne": {
+        "base_stats": {
+          "armorperlevel": [
+            4.7,
+            4.2
+          ]
+        }
+      },
+      "Rek'Sai": {
+        "base_stats": {
+          "attackdamage": [
+            58,
+            62
+          ]
+        }
+      },
+      "Shaco": {
+        "abilities": {
+          "Q Deceive": {
+            "cooldown": [
+              [
+                12,
+                11.5,
+                11,
+                10.5,
+                10
+              ],
+              [
+                13,
+                12.5,
+                12,
+                11.5,
+                11
+              ]
+            ]
+          }
+        }
+      },
+      "Trundle": {
+        "abilities": {
+          "W Frozen Domain": {
+            "cooldown": [
+              [
+                16,
+                15,
+                14,
+                13,
+                12
+              ],
+              [
+                18,
+                17,
+                16,
+                15,
+                14
+              ]
+            ]
+          }
+        }
+      },
+      "Viego": {
+        "base_stats": {
+          "attackspeedperlevel": [
+            2.5,
+            2.25
+          ]
+        }
+      },
+      "Warwick": {
+        "base_stats": {
+          "attackdamage": [
+            60,
+            65
+          ]
+        }
+      },
+      "Xin Zhao": {
+        "base_stats": {
+          "hp": [
+            640,
+            620
+          ]
+        }
+      },
+      "Zyra": {
+        "abilities": {
+          "E Grasping Roots": {
+            "cooldown": [
+              [
+                12,
+                12,
+                12,
+                12,
+                12
+              ],
+              [
+                11,
+                11,
+                11,
+                11,
+                11
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

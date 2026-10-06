@@ -1,0 +1,659 @@
+{
+  "metadata": {
+    "name": "14.3",
+    "id": 1403,
+    "first_match": "2024-02-08 18:19",
+    "ddragon_version": "14.3.1",
+    "compared_with": "14.2.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-14-3-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Aurelion Sol": {
+        "abilities": {
+          "Q Breath of Light": {
+            "cost": [
+              [
+                45,
+                50,
+                55,
+                60,
+                65
+              ],
+              [
+                30,
+                35,
+                40,
+                45,
+                50
+              ]
+            ]
+          },
+          "W Astral Flight": {
+            "cost": [
+              [
+                80,
+                85,
+                90,
+                95,
+                100
+              ],
+              [
+                50,
+                55,
+                60,
+                65,
+                70
+              ]
+            ]
+          }
+        }
+      },
+      "Azir": {
+        "base_stats": {
+          "hpregen": [
+            7,
+            5
+          ]
+        }
+      },
+      "Corki": {
+        "abilities": {
+          "W Valkyrie": {
+            "cooldown": [
+              [
+                20,
+                19,
+                18,
+                17,
+                16
+              ],
+              [
+                20,
+                18,
+                16,
+                14,
+                12
+              ]
+            ],
+            "cost": [
+              [
+                100,
+                100,
+                100,
+                100,
+                100
+              ],
+              [
+                80,
+                80,
+                80,
+                80,
+                80
+              ]
+            ]
+          }
+        }
+      },
+      "Maokai": {
+        "base_stats": {
+          "mpregen": [
+            7.2,
+            6
+          ]
+        },
+        "abilities": {
+          "Q Bramble Smash": {
+            "cooldown": [
+              [
+                8,
+                7.25,
+                6.5,
+                5.75,
+                5
+              ],
+              [
+                7,
+                6.5,
+                6,
+                5.5,
+                5
+              ]
+            ],
+            "cost": [
+              [
+                60,
+                60,
+                60,
+                60,
+                60
+              ],
+              [
+                40,
+                40,
+                40,
+                40,
+                40
+              ]
+            ]
+          },
+          "E Sapling Toss": {
+            "cooldown": [
+              [
+                14,
+                14,
+                14,
+                14,
+                14
+              ],
+              [
+                16,
+                15,
+                14,
+                13,
+                12
+              ]
+            ],
+            "cost": [
+              [
+                45,
+                55,
+                65,
+                75,
+                85
+              ],
+              [
+                60,
+                65,
+                70,
+                75,
+                80
+              ]
+            ]
+          },
+          "R Nature's Grasp": {
+            "cooldown": [
+              [
+                120,
+                110,
+                100
+              ],
+              [
+                130,
+                110,
+                90
+              ]
+            ]
+          }
+        }
+      },
+      "Nidalee": {
+        "base_stats": {
+          "spellblockperlevel": [
+            1.3,
+            1.45
+          ]
+        }
+      },
+      "Pyke": {
+        "base_stats": {
+          "armor": [
+            45,
+            47
+          ]
+        },
+        "abilities": {
+          "Q Bone Skewer": {
+            "cost": [
+              [
+                74,
+                78,
+                82,
+                86,
+                90
+              ],
+              [
+                70,
+                75,
+                80,
+                85,
+                90
+              ]
+            ]
+          }
+        }
+      },
+      "Rengar": {
+        "base_stats": {
+          "hp": [
+            620,
+            590
+          ]
+        }
+      },
+      "Shaco": {
+        "base_stats": {
+          "mpregenperlevel": [
+            0.45,
+            0.35
+          ]
+        },
+        "abilities": {
+          "W Jack In The Box": {
+            "cost": [
+              [
+                70,
+                70,
+                70,
+                70,
+                70
+              ],
+              [
+                70,
+                65,
+                60,
+                55,
+                50
+              ]
+            ]
+          },
+          "E Two-Shiv Poison": {
+            "cost": [
+              [
+                65,
+                65,
+                65,
+                65,
+                65
+              ],
+              [
+                75,
+                75,
+                75,
+                75,
+                75
+              ]
+            ]
+          }
+        }
+      },
+      "Smolder": {
+        "base_stats": {
+          "attackdamage": [
+            56,
+            55
+          ],
+          "attackdamageperlevel": [
+            2.5,
+            2.3
+          ]
+        }
+      },
+      "Taliyah": {
+        "abilities": {
+          "E Unraveled Earth": {
+            "cooldown": [
+              [
+                16,
+                15.5,
+                15,
+                14.5,
+                14
+              ],
+              [
+                14,
+                14,
+                14,
+                14,
+                14
+              ]
+            ]
+          }
+        }
+      },
+      "Trundle": {
+        "base_stats": {
+          "hp": [
+            686,
+            650
+          ]
+        }
+      },
+      "Wukong": {
+        "abilities": {
+          "E Nimbus Strike": {
+            "cooldown": [
+              [
+                10,
+                9.5,
+                9,
+                8.5,
+                8
+              ],
+              [
+                10,
+                9.25,
+                8.5,
+                7.75,
+                7
+              ]
+            ]
+          }
+        }
+      },
+      "Yorick": {
+        "abilities": {
+          "Q Last Rites": {
+            "cost": [
+              [
+                25,
+                25,
+                25,
+                25,
+                25
+              ],
+              [
+                20,
+                20,
+                20,
+                20,
+                20
+              ]
+            ]
+          }
+        }
+      },
+      "Zeri": {
+        "base_stats": {
+          "attackdamage": [
+            53,
+            56
+          ]
+        },
+        "abilities": {
+          "R Lightning Crash": {
+            "cooldown": [
+              [
+                100,
+                85,
+                70
+              ],
+              [
+                80,
+                75,
+                70
+              ]
+            ]
+          }
+        }
+      },
+      "Ziggs": {
+        "base_stats": {
+          "armor": [
+            18,
+            21
+          ],
+          "armorperlevel": [
+            4.5,
+            4.7
+          ]
+        },
+        "abilities": {
+          "W Satchel Charge": {
+            "cooldown": [
+              [
+                24,
+                21,
+                18,
+                15,
+                12
+              ],
+              [
+                20,
+                18,
+                16,
+                14,
+                12
+              ]
+            ]
+          }
+        }
+      },
+      "Zyra": {
+        "base_stats": {
+          "mpregen": [
+            13,
+            7
+          ],
+          "mpregenperlevel": [
+            0.4,
+            0.8
+          ]
+        },
+        "abilities": {
+          "Q Deadly Spines": {
+            "cost": [
+              [
+                70,
+                70,
+                70,
+                70,
+                70
+              ],
+              [
+                55,
+                55,
+                55,
+                55,
+                55
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Archangel's Staff": {
+        "gold": [
+          3000,
+          2900
+        ]
+      },
+      "Dreamshatter": {
+        "gold": [
+          3000,
+          3300
+        ],
+        "stats": {
+          "FlatHPPoolMod": [
+            475,
+            600
+          ],
+          "FlatPhysicalDamageMod": [
+            70,
+            60
+          ]
+        }
+      },
+      "Enmity of the Masses": {
+        "gold": [
+          2800,
+          2700
+        ]
+      },
+      "Essence Reaver": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            55,
+            60
+          ]
+        }
+      },
+      "Force of Arms": {
+        "gold": [
+          3000,
+          2900
+        ],
+        "stats": {
+          "FlatMagicDamageMod": [
+            115,
+            120
+          ]
+        }
+      },
+      "Guinsoo's Rageblade": {
+        "stats": {
+          "FlatMagicDamageMod": [
+            30,
+            35
+          ],
+          "FlatPhysicalDamageMod": [
+            30,
+            35
+          ]
+        }
+      },
+      "Heavensfall": {
+        "stats": {
+          "FlatHPPoolMod": [
+            500,
+            600
+          ],
+          "FlatPhysicalDamageMod": [
+            65,
+            60
+          ]
+        }
+      },
+      "Infinite Convergence": {
+        "stats": {
+          "FlatHPPoolMod": [
+            500,
+            550
+          ],
+          "FlatMPPoolMod": [
+            550,
+            650
+          ]
+        }
+      },
+      "Luden's Companion": {
+        "gold": [
+          3000,
+          2900
+        ],
+        "stats": {
+          "FlatMagicDamageMod": [
+            90,
+            95
+          ]
+        }
+      },
+      "Malignance": {
+        "gold": [
+          2800,
+          2700
+        ]
+      },
+      "Rod of Ages": {
+        "stats": {
+          "FlatHPPoolMod": [
+            350,
+            400
+          ],
+          "FlatMPPoolMod": [
+            300,
+            400
+          ]
+        }
+      },
+      "Seething Sorrow": {
+        "stats": {
+          "FlatMagicDamageMod": [
+            50,
+            55
+          ],
+          "FlatPhysicalDamageMod": [
+            40,
+            45
+          ]
+        }
+      },
+      "Shattered Armguard": {
+        "new": true,
+        "gold": 1600,
+        "stats": {
+          "FlatMagicDamageMod": 45,
+          "FlatArmorMod": 25
+        }
+      },
+      "Sheen": {
+        "gold": [
+          1000,
+          900
+        ]
+      },
+      "Statikk Shiv": {
+        "gold": [
+          3000,
+          2700
+        ]
+      },
+      "Stormsurge": {
+        "stats": {
+          "FlatMagicDamageMod": [
+            90,
+            95
+          ]
+        }
+      },
+      "Stridebreaker": {
+        "gold": [
+          3000,
+          3300
+        ],
+        "stats": {
+          "FlatHPPoolMod": [
+            400,
+            450
+          ],
+          "FlatPhysicalDamageMod": [
+            55,
+            50
+          ]
+        }
+      },
+      "Sundered Sky": {
+        "stats": {
+          "FlatHPPoolMod": [
+            300,
+            450
+          ],
+          "FlatPhysicalDamageMod": [
+            55,
+            45
+          ]
+        }
+      },
+      "The Collector": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            60,
+            55
+          ]
+        }
+      },
+      "Titanic Hydra": {
+        "stats": {
+          "FlatHPPoolMod": [
+            500,
+            550
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

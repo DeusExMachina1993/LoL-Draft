@@ -1,0 +1,129 @@
+{
+  "metadata": {
+    "name": "25.19",
+    "id": 2519,
+    "first_match": "2025-09-24 17:07",
+    "ddragon_version": "15.19.1",
+    "compared_with": "15.18.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-19-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Caitlyn": {
+        "base_stats": {
+          "attackdamage": [
+            60,
+            62
+          ]
+        }
+      },
+      "Jax": {
+        "base_stats": {
+          "hp": [
+            665,
+            650
+          ]
+        }
+      },
+      "Lee Sin": {
+        "base_stats": {
+          "armorperlevel": [
+            4.9,
+            4.5
+          ]
+        }
+      },
+      "Lillia": {
+        "abilities": {
+          "R Lilting Lullaby": {
+            "cooldown": [
+              [
+                150,
+                130,
+                110
+              ],
+              [
+                140,
+                120,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Seraphine": {
+        "base_stats": {
+          "hpperlevel": [
+            90,
+            95
+          ],
+          "mpperlevel": [
+            25,
+            40
+          ]
+        }
+      },
+      "Syndra": {
+        "base_stats": {
+          "hpperlevel": [
+            104,
+            100
+          ],
+          "armorperlevel": [
+            4.6,
+            4
+          ]
+        },
+        "abilities": {
+          "E Scatter the Weak": {
+            "cooldown": [
+              [
+                17,
+                17,
+                17,
+                17,
+                17
+              ],
+              [
+                15,
+                15,
+                15,
+                15,
+                15
+              ]
+            ]
+          }
+        }
+      },
+      "Yunara": {
+        "base_stats": {
+          "hp": [
+            575,
+            590
+          ],
+          "attackdamage": [
+            53,
+            55
+          ]
+        }
+      }
+    },
+    "items": {
+      "Gambler's Blade": {
+        "stats": {
+          "PercentAttackSpeedMod": [
+            0.5,
+            null
+          ],
+          "PercentMovementSpeedMod": [
+            0.08,
+            0.15
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

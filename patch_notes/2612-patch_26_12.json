@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "name": "26.12",
+    "id": 2612,
+    "first_match": "2026-06-13 14:31",
+    "ddragon_version": "16.12.1",
+    "compared_with": "16.11.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-26-12-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Hwei": {
+        "abilities": {
+          "E Subject: Torment": {
+            "cooldown": [
+              [
+                13,
+                12.5,
+                12,
+                11.5,
+                11
+              ],
+              [
+                12,
+                11.5,
+                11,
+                10.5,
+                10
+              ]
+            ]
+          }
+        }
+      },
+      "Jax": {
+        "abilities": {
+          "Q Leap Strike": {
+            "cost": [
+              [
+                65,
+                65,
+                65,
+                65,
+                65
+              ],
+              [
+                50,
+                50,
+                50,
+                50,
+                50
+              ]
+            ]
+          }
+        }
+      },
+      "Orianna": {
+        "base_stats": {
+          "hp": [
+            585,
+            565
+          ]
+        }
+      },
+      "Ryze": {
+        "base_stats": {
+          "hp": [
+            645,
+            620
+          ],
+          "attackdamage": [
+            58,
+            55
+          ]
+        }
+      },
+      "Syndra": {
+        "base_stats": {
+          "hp": [
+            563,
+            583
+          ]
+        }
+      },
+      "Tristana": {
+        "abilities": {
+          "Q Rapid Fire": {
+            "cost": [
+              [
+                30,
+                35,
+                40,
+                45,
+                50
+              ],
+              [
+                15,
+                20,
+                25,
+                30,
+                35
+              ]
+            ]
+          }
+        }
+      },
+      "Xin Zhao": {
+        "abilities": {
+          "W Wind Becomes Lightning": {
+            "cost": [
+              [
+                60,
+                55,
+                50,
+                45,
+                40
+              ],
+              [
+                60,
+                60,
+                60,
+                60,
+                60
+              ]
+            ]
+          },
+          "E Audacious Charge": {
+            "cost": [
+              [
+                50,
+                50,
+                50,
+                50,
+                50
+              ],
+              [
+                60,
+                60,
+                60,
+                60,
+                60
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

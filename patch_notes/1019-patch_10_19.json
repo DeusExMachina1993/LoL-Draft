@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "name": "10.19",
+    "id": 1019,
+    "first_match": "2020-09-17 15:45",
+    "ddragon_version": "10.19.1",
+    "compared_with": "10.18.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-10-19-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [
+      "Samira"
+    ],
+    "champions": {
+      "Ahri": {
+        "abilities": {
+          "W Fox-Fire": {
+            "cooldown": [
+              [
+                10,
+                9,
+                8,
+                7,
+                6
+              ],
+              [
+                9,
+                8,
+                7,
+                6,
+                5
+              ]
+            ],
+            "cost": [
+              [
+                55,
+                55,
+                55,
+                55,
+                55
+              ],
+              [
+                40,
+                40,
+                40,
+                40,
+                40
+              ]
+            ]
+          }
+        }
+      },
+      "Aphelios": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2,
+            2.4
+          ]
+        }
+      },
+      "Caitlyn": {
+        "base_stats": {
+          "attackdamage": [
+            64,
+            62
+          ],
+          "attackspeedperlevel": [
+            4,
+            3.5
+          ]
+        }
+      },
+      "Lucian": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.75,
+            2.3
+          ]
+        }
+      },
+      "Sylas": {
+        "abilities": {
+          "R Hijack": {
+            "cooldown": [
+              [
+                100,
+                80,
+                60
+              ],
+              [
+                100,
+                70,
+                40
+              ]
+            ]
+          }
+        }
+      },
+      "Twisted Fate": {
+        "base_stats": {
+          "movespeed": [
+            335,
+            330
+          ]
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

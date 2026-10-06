@@ -1,0 +1,245 @@
+{
+  "metadata": {
+    "name": "11.4",
+    "id": 1104,
+    "first_match": "2021-02-19 01:00",
+    "ddragon_version": "11.4.1",
+    "compared_with": "11.3.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-11-4-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Amumu": {
+        "base_stats": {
+          "hp": [
+            613,
+            615
+          ]
+        }
+      },
+      "Braum": {
+        "abilities": {
+          "R Glacial Fissure": {
+            "cooldown": [
+              [
+                140,
+                120,
+                100
+              ],
+              [
+                120,
+                100,
+                80
+              ]
+            ]
+          }
+        }
+      },
+      "Caitlyn": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.3,
+            3.8
+          ],
+          "attackspeedperlevel": [
+            3.5,
+            4
+          ]
+        }
+      },
+      "Camille": {
+        "abilities": {
+          "W Tactical Sweep": {
+            "cooldown": [
+              [
+                15,
+                13.5,
+                12,
+                10.5,
+                9
+              ],
+              [
+                17,
+                15.5,
+                14,
+                12.5,
+                11
+              ]
+            ]
+          }
+        }
+      },
+      "Jinx": {
+        "base_stats": {
+          "hp": [
+            550,
+            610
+          ]
+        }
+      },
+      "Lee Sin": {
+        "abilities": {
+          "Q Sonic Wave / Resonating Strike": {
+            "cooldown": [
+              [
+                11,
+                10,
+                9,
+                8,
+                7
+              ],
+              [
+                10,
+                9,
+                8,
+                7,
+                6
+              ]
+            ]
+          }
+        }
+      },
+      "Samira": {
+        "abilities": {
+          "R Inferno Trigger": {
+            "cooldown": [
+              [
+                3,
+                3,
+                3
+              ],
+              [
+                8,
+                8,
+                8
+              ]
+            ]
+          }
+        }
+      },
+      "Skarner": {
+        "base_stats": {
+          "hp": [
+            601,
+            580
+          ],
+          "hpperlevel": [
+            90,
+            85
+          ]
+        }
+      },
+      "Talon": {
+        "abilities": {
+          "W Rake": {
+            "cooldown": [
+              [
+                9,
+                9,
+                9,
+                9,
+                9
+              ],
+              [
+                9,
+                8.5,
+                8,
+                7.5,
+                7
+              ]
+            ]
+          }
+        }
+      },
+      "Tryndamere": {
+        "base_stats": {
+          "attackdamage": [
+            69,
+            72
+          ]
+        }
+      },
+      "Veigar": {
+        "abilities": {
+          "Q Baleful Strike": {
+            "cost": [
+              [
+                40,
+                45,
+                50,
+                55,
+                60
+              ],
+              [
+                30,
+                35,
+                40,
+                45,
+                50
+              ]
+            ]
+          },
+          "R Primordial Burst": {
+            "cooldown": [
+              [
+                120,
+                100,
+                80
+              ],
+              [
+                120,
+                90,
+                60
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Chempunk Chainsword": {
+        "stats": {
+          "FlatHPPoolMod": [
+            150,
+            250
+          ]
+        }
+      },
+      "Everfrost": {
+        "stats": {
+          "FlatHPPoolMod": [
+            200,
+            250
+          ]
+        }
+      },
+      "Guinsoo's Rageblade": {
+        "stats": {
+          "PercentAttackSpeedMod": [
+            0.4,
+            0.45
+          ]
+        }
+      },
+      "Morellonomicon": {
+        "stats": {
+          "FlatMagicDamageMod": [
+            70,
+            80
+          ]
+        }
+      },
+      "Mortal Reminder": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            20,
+            25
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

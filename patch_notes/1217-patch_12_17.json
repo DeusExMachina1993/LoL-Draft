@@ -1,0 +1,439 @@
+{
+  "metadata": {
+    "name": "12.17",
+    "id": 1217,
+    "first_match": "2022-09-19 16:01",
+    "ddragon_version": "12.17.1",
+    "compared_with": "12.16.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-12-17-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Azir": {
+        "abilities": {
+          "E Shifting Sands": {
+            "cooldown": [
+              [
+                19,
+                18,
+                17,
+                16,
+                15
+              ],
+              [
+                22,
+                20.5,
+                19,
+                17.5,
+                16
+              ]
+            ]
+          }
+        }
+      },
+      "Ezreal": {
+        "abilities": {
+          "E Arcane Shift": {
+            "cooldown": [
+              [
+                28,
+                25,
+                22,
+                19,
+                16
+              ],
+              [
+                26,
+                23,
+                20,
+                17,
+                14
+              ]
+            ]
+          }
+        }
+      },
+      "Graves": {
+        "abilities": {
+          "Q End of the Line": {
+            "cooldown": [
+              [
+                12,
+                11,
+                10,
+                9,
+                8
+              ],
+              [
+                13,
+                11.5,
+                10,
+                8.5,
+                7
+              ]
+            ]
+          }
+        }
+      },
+      "Hecarim": {
+        "base_stats": {
+          "hpperlevel": [
+            104,
+            99
+          ],
+          "armor": [
+            35,
+            32
+          ]
+        },
+        "abilities": {
+          "Q Rampage": {
+            "cost": [
+              [
+                28,
+                31,
+                34,
+                37,
+                40
+              ],
+              [
+                30,
+                30,
+                30,
+                30,
+                30
+              ]
+            ]
+          },
+          "W Spirit of Dread": {
+            "cooldown": [
+              [
+                14,
+                14,
+                14,
+                14,
+                14
+              ],
+              [
+                16,
+                15.5,
+                15,
+                14.5,
+                14
+              ]
+            ]
+          },
+          "E Devastating Charge": {
+            "cooldown": [
+              [
+                20,
+                19,
+                18,
+                17,
+                16
+              ],
+              [
+                18,
+                18,
+                18,
+                18,
+                18
+              ]
+            ]
+          }
+        }
+      },
+      "Kassadin": {
+        "abilities": {
+          "Q Null Sphere": {
+            "cooldown": [
+              [
+                11,
+                10.5,
+                10,
+                9.5,
+                9
+              ],
+              [
+                10,
+                9.5,
+                9,
+                8.5,
+                8
+              ]
+            ],
+            "cost": [
+              [
+                70,
+                75,
+                80,
+                85,
+                90
+              ],
+              [
+                60,
+                65,
+                70,
+                75,
+                80
+              ]
+            ]
+          }
+        }
+      },
+      "Maokai": {
+        "abilities": {
+          "E Sapling Toss": {
+            "cost": [
+              [
+                60,
+                70,
+                80,
+                90,
+                100
+              ],
+              [
+                45,
+                55,
+                65,
+                75,
+                85
+              ]
+            ]
+          }
+        }
+      },
+      "Miss Fortune": {
+        "abilities": {
+          "E Make It Rain": {
+            "cooldown": [
+              [
+                18,
+                16,
+                14,
+                12,
+                10
+              ],
+              [
+                18,
+                17,
+                16,
+                15,
+                14
+              ]
+            ]
+          }
+        }
+      },
+      "Rell": {
+        "abilities": {
+          "E Attract and Repel": {
+            "cooldown": [
+              [
+                18,
+                16.25,
+                14.5,
+                12.75,
+                11
+              ],
+              [
+                13,
+                13,
+                13,
+                13,
+                13
+              ]
+            ]
+          }
+        }
+      },
+      "Sivir": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            2.8
+          ]
+        }
+      },
+      "Sylas": {
+        "base_stats": {
+          "hp": [
+            595,
+            575
+          ]
+        },
+        "abilities": {
+          "Q Chain Lash": {
+            "cooldown": [
+              [
+                10,
+                9,
+                8,
+                7,
+                6
+              ],
+              [
+                11,
+                10,
+                9,
+                8,
+                7
+              ]
+            ]
+          }
+        }
+      },
+      "Taric": {
+        "base_stats": {
+          "spellblock": [
+            32,
+            28
+          ]
+        },
+        "abilities": {
+          "E Dazzle": {
+            "cooldown": [
+              [
+                15,
+                14,
+                13,
+                12,
+                11
+              ],
+              [
+                16,
+                15,
+                14,
+                13,
+                12
+              ]
+            ]
+          }
+        }
+      },
+      "Trundle": {
+        "abilities": {
+          "W Frozen Domain": {
+            "cooldown": [
+              [
+                15,
+                14,
+                13,
+                12,
+                11
+              ],
+              [
+                18,
+                17,
+                16,
+                15,
+                14
+              ]
+            ]
+          }
+        }
+      },
+      "Twisted Fate": {
+        "abilities": {
+          "W Pick a Card": {
+            "cost": [
+              [
+                40,
+                55,
+                70,
+                85,
+                100
+              ],
+              [
+                30,
+                40,
+                50,
+                60,
+                70
+              ]
+            ]
+          }
+        }
+      },
+      "Wukong": {
+        "base_stats": {
+          "movespeed": [
+            345,
+            340
+          ],
+          "attackspeed": [
+            0.711,
+            0.69
+          ]
+        }
+      },
+      "Yuumi": {
+        "abilities": {
+          "R Final Chapter": {
+            "cooldown": [
+              [
+                130,
+                110,
+                90
+              ],
+              [
+                110,
+                100,
+                90
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Broken Stopwatch": {
+        "gold": [
+          650,
+          750
+        ]
+      },
+      "Guardian Angel": {
+        "gold": [
+          2800,
+          3000
+        ],
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            40,
+            45
+          ]
+        }
+      },
+      "Seeker's Armguard": {
+        "stats": {
+          "FlatMagicDamageMod": [
+            20,
+            30
+          ]
+        }
+      },
+      "Stopwatch": {
+        "gold": [
+          650,
+          750
+        ]
+      },
+      "Zhonya's Hourglass": {
+        "gold": [
+          2600,
+          3000
+        ],
+        "stats": {
+          "FlatMagicDamageMod": [
+            65,
+            80
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

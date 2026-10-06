@@ -1,0 +1,161 @@
+{
+  "metadata": {
+    "name": "10.9",
+    "id": 1009,
+    "first_match": "2020-04-29 19:02",
+    "ddragon_version": "10.9.1",
+    "compared_with": "10.8.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-10-9-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Bard": {
+        "abilities": {
+          "W Caretaker's Shrine": {
+            "cooldown": [
+              [
+                12,
+                12,
+                12,
+                12,
+                12
+              ],
+              [
+                14,
+                14,
+                14,
+                14,
+                14
+              ]
+            ]
+          },
+          "E Magical Journey": {
+            "cooldown": [
+              [
+                18,
+                17,
+                16,
+                15,
+                14
+              ],
+              [
+                22,
+                20.5,
+                19,
+                17.5,
+                16
+              ]
+            ]
+          }
+        }
+      },
+      "Karthus": {
+        "base_stats": {
+          "movespeed": [
+            335,
+            325
+          ]
+        }
+      },
+      "Kayn": {
+        "abilities": {
+          "Q Reaping Slash": {
+            "cooldown": [
+              [
+                7,
+                6.5,
+                6,
+                5.5,
+                5
+              ],
+              [
+                6,
+                5.5,
+                5,
+                4.5,
+                4
+              ]
+            ]
+          }
+        }
+      },
+      "Lissandra": {
+        "abilities": {
+          "Q Ice Shard": {
+            "cooldown": [
+              [
+                10,
+                8.5,
+                7,
+                5.5,
+                4
+              ],
+              [
+                8,
+                7,
+                6,
+                5,
+                4
+              ]
+            ]
+          }
+        }
+      },
+      "Nami": {
+        "base_stats": {
+          "hp": [
+            489.32,
+            475
+          ],
+          "mp": [
+            377.24,
+            365
+          ]
+        }
+      },
+      "Trundle": {
+        "abilities": {
+          "R Subjugate": {
+            "cooldown": [
+              [
+                100,
+                80,
+                60
+              ],
+              [
+                120,
+                100,
+                80
+              ]
+            ]
+          }
+        }
+      },
+      "Wukong": {
+        "base_stats": {
+          "armor": [
+            34,
+            31
+          ]
+        }
+      }
+    },
+    "items": {
+      "Sanguine Blade": {
+        "gold": [
+          3100,
+          3000
+        ],
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            50,
+            55
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

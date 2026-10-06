@@ -1,0 +1,201 @@
+{
+  "metadata": {
+    "name": "25.07",
+    "id": 2507,
+    "first_match": "2025-04-03 16:15",
+    "ddragon_version": "15.7.1",
+    "compared_with": "15.6.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-07-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Darius": {
+        "base_stats": {
+          "armor": [
+            39,
+            37
+          ]
+        },
+        "abilities": {
+          "E Apprehend": {
+            "cooldown": [
+              [
+                24,
+                21.5,
+                19,
+                16.5,
+                14
+              ],
+              [
+                26,
+                23.5,
+                21,
+                18.5,
+                16
+              ]
+            ]
+          }
+        }
+      },
+      "Gwen": {
+        "base_stats": {
+          "hp": [
+            650,
+            620
+          ],
+          "armor": [
+            39,
+            36
+          ]
+        }
+      },
+      "Lulu": {
+        "abilities": {
+          "W Whimsy": {
+            "cooldown": [
+              [
+                18,
+                17.5,
+                17,
+                16.5,
+                16
+              ],
+              [
+                18,
+                18,
+                18,
+                18,
+                18
+              ]
+            ]
+          }
+        }
+      },
+      "Naafiri": {
+        "base_stats": {
+          "hp": [
+            635,
+            610
+          ],
+          "armor": [
+            30,
+            28
+          ],
+          "hpregen": [
+            9,
+            7.5
+          ],
+          "hpregenperlevel": [
+            0.9,
+            0.7
+          ],
+          "attackdamage": [
+            57,
+            55
+          ]
+        },
+        "abilities": {
+          "W The Call of the Pack": {
+            "cooldown": [
+              [
+                20,
+                19.5,
+                19,
+                18.5,
+                18
+              ],
+              [
+                22,
+                21,
+                20,
+                19,
+                18
+              ]
+            ]
+          }
+        }
+      },
+      "Trundle": {
+        "abilities": {
+          "E Pillar of Ice": {
+            "cooldown": [
+              [
+                24,
+                22,
+                20,
+                18,
+                16
+              ],
+              [
+                21,
+                19.5,
+                18,
+                16.5,
+                15
+              ]
+            ]
+          }
+        }
+      },
+      "Yorick": {
+        "base_stats": {
+          "armorperlevel": [
+            5.2,
+            4.5
+          ]
+        },
+        "abilities": {
+          "Q Last Rites": {
+            "cooldown": [
+              [
+                7,
+                6.25,
+                5.5,
+                4.75,
+                4
+              ],
+              [
+                6,
+                5.5,
+                5,
+                4.5,
+                4
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Cappa Juice": {
+        "gold": [
+          500,
+          300
+        ]
+      },
+      "Catalyst of Aeons": {
+        "stats": {
+          "FlatMPPoolMod": [
+            300,
+            375
+          ]
+        }
+      },
+      "Umbral Glaive": {
+        "gold": [
+          2600,
+          2500
+        ],
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            50,
+            55
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

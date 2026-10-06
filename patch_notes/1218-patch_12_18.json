@@ -1,0 +1,126 @@
+{
+  "metadata": {
+    "name": "12.18",
+    "id": 1218,
+    "first_match": "2022-09-24 14:31",
+    "ddragon_version": "12.18.1",
+    "compared_with": "12.17.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-12-18-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Hecarim": {
+        "base_stats": {
+          "hp": [
+            650,
+            625
+          ]
+        }
+      },
+      "Kalista": {
+        "base_stats": {
+          "hp": [
+            604,
+            574
+          ]
+        }
+      },
+      "Lee Sin": {
+        "base_stats": {
+          "hpperlevel": [
+            99,
+            105
+          ]
+        }
+      },
+      "Lulu": {
+        "abilities": {
+          "W Whimsy": {
+            "cooldown": [
+              [
+                17,
+                16,
+                15,
+                14,
+                13
+              ],
+              [
+                17,
+                16.5,
+                16,
+                15.5,
+                15
+              ]
+            ]
+          }
+        }
+      },
+      "Miss Fortune": {
+        "base_stats": {
+          "hpperlevel": [
+            107,
+            103
+          ],
+          "attackdamageperlevel": [
+            2.7,
+            2.4
+          ]
+        }
+      },
+      "Nocturne": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.1,
+            2.6
+          ]
+        }
+      },
+      "Thresh": {
+        "base_stats": {
+          "hpperlevel": [
+            115,
+            120
+          ]
+        }
+      },
+      "Udyr": {
+        "base_stats": {
+          "hpperlevel": [
+            106,
+            98
+          ],
+          "armorperlevel": [
+            5.2,
+            4.7
+          ]
+        },
+        "abilities": {
+          "Q Wilding Claw": {
+            "cost": [
+              [
+                45,
+                45,
+                45,
+                45,
+                45,
+                45
+              ],
+              [
+                20,
+                20,
+                20,
+                20,
+                20,
+                20
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

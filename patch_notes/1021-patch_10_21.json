@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "name": "10.21",
+    "id": 1021,
+    "first_match": "2020-10-15 15:40",
+    "ddragon_version": "10.21.1",
+    "compared_with": "10.20.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-10-21-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Karma": {
+        "abilities": {
+          "R Mantra": {
+            "cooldown": [
+              [
+                45,
+                42,
+                39,
+                36
+              ],
+              [
+                40,
+                38,
+                36,
+                34
+              ]
+            ]
+          }
+        }
+      },
+      "Lee Sin": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.2,
+            3.7
+          ]
+        }
+      },
+      "Nidalee": {
+        "base_stats": {
+          "attackdamage": [
+            61,
+            58
+          ]
+        }
+      },
+      "Samira": {
+        "abilities": {
+          "E Wild Rush": {
+            "cooldown": [
+              [
+                15,
+                14,
+                13,
+                12,
+                11
+              ],
+              [
+                20,
+                18,
+                16,
+                14,
+                12
+              ]
+            ]
+          }
+        }
+      },
+      "Trundle": {
+        "abilities": {
+          "W Frozen Domain": {
+            "cooldown": [
+              [
+                15,
+                15,
+                15,
+                15,
+                15
+              ],
+              [
+                15,
+                14,
+                13,
+                12,
+                11
+              ]
+            ]
+          }
+        }
+      },
+      "Yorick": {
+        "base_stats": {
+          "mpperlevel": [
+            40,
+            60
+          ]
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

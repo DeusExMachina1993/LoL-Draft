@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "name": "12.16",
+    "id": 1216,
+    "first_match": "2022-09-03 10:09",
+    "ddragon_version": "12.16.1",
+    "compared_with": "12.15.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-12-16-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Irelia": {
+        "base_stats": {
+          "armorperlevel": [
+            4.2,
+            4.7
+          ],
+          "spellblock": [
+            28,
+            30
+          ]
+        }
+      },
+      "Malphite": {
+        "abilities": {
+          "W Thunderclap": {
+            "cooldown": [
+              [
+                12,
+                12,
+                12,
+                12,
+                12
+              ],
+              [
+                12,
+                11.5,
+                11,
+                10.5,
+                10
+              ]
+            ]
+          }
+        }
+      },
+      "Udyr": {
+        "base_stats": {
+          "attackdamage": [
+            64,
+            62
+          ],
+          "attackdamageperlevel": [
+            5,
+            4
+          ],
+          "attackspeedperlevel": [
+            2.67,
+            3
+          ],
+          "attackspeed": [
+            0.658,
+            0.65
+          ]
+        },
+        "abilities": {
+          "W Iron Mantle": {
+            "range": [
+              [
+                600,
+                600,
+                600,
+                600,
+                600,
+                600
+              ],
+              [
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            ]
+          },
+          "R Wingborne Storm": {
+            "range": [
+              [
+                325,
+                325,
+                325,
+                325,
+                325,
+                325
+              ],
+              [
+                370,
+                370,
+                370,
+                370,
+                370,
+                370
+              ]
+            ]
+          }
+        }
+      },
+      "Yuumi": {
+        "abilities": {
+          "E Zoomies": {
+            "cooldown": [
+              [
+                12,
+                11,
+                10,
+                9,
+                8
+              ],
+              [
+                12,
+                11.5,
+                11,
+                10.5,
+                10
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

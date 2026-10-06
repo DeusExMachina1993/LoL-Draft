@@ -1,0 +1,253 @@
+{
+  "metadata": {
+    "name": "12.15",
+    "id": 1215,
+    "first_match": "2022-08-11 00:26",
+    "ddragon_version": "12.15.1",
+    "compared_with": "12.14.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-12-15-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Kalista": {
+        "base_stats": {
+          "attackdamage": [
+            69,
+            66
+          ]
+        }
+      },
+      "Kennen": {
+        "abilities": {
+          "W Electrical Surge": {
+            "cooldown": [
+              [
+                14,
+                12,
+                10,
+                8,
+                6
+              ],
+              [
+                13,
+                11.25,
+                9.5,
+                7.75,
+                6
+              ]
+            ]
+          }
+        }
+      },
+      "Leona": {
+        "abilities": {
+          "Q Shield of Daybreak": {
+            "cost": [
+              [
+                45,
+                50,
+                55,
+                60,
+                65
+              ],
+              [
+                35,
+                40,
+                45,
+                50,
+                55
+              ]
+            ]
+          }
+        }
+      },
+      "Master Yi": {
+        "abilities": {
+          "E Wuju Style": {
+            "cooldown": [
+              [
+                18,
+                17,
+                16,
+                15,
+                14
+              ],
+              [
+                18,
+                18,
+                18,
+                18,
+                18
+              ]
+            ]
+          }
+        }
+      },
+      "Rammus": {
+        "abilities": {
+          "R Soaring Slam": {
+            "cooldown": [
+              [
+                110,
+                95,
+                80
+              ],
+              [
+                90,
+                90,
+                90
+              ]
+            ]
+          }
+        }
+      },
+      "Sivir": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.3,
+            3
+          ]
+        },
+        "abilities": {
+          "E Spell Shield": {
+            "cooldown": [
+              [
+                22,
+                20,
+                18,
+                16,
+                14
+              ],
+              [
+                24,
+                22.5,
+                21,
+                19.5,
+                18
+              ]
+            ]
+          },
+          "R On The Hunt": {
+            "cooldown": [
+              [
+                100,
+                85,
+                70
+              ],
+              [
+                120,
+                100,
+                80
+              ]
+            ]
+          }
+        }
+      },
+      "Taliyah": {
+        "abilities": {
+          "Q Threaded Volley": {
+            "cost": [
+              [
+                55,
+                50,
+                65,
+                60,
+                75
+              ],
+              [
+                55,
+                60,
+                65,
+                70,
+                75
+              ]
+            ]
+          },
+          "E Unraveled Earth": {
+            "cooldown": [
+              [
+                16,
+                15,
+                14,
+                13,
+                12
+              ],
+              [
+                18,
+                17,
+                16,
+                15,
+                14
+              ]
+            ]
+          }
+        }
+      },
+      "Thresh": {
+        "abilities": {
+          "Q Death Sentence": {
+            "cooldown": [
+              [
+                20,
+                18,
+                16,
+                14,
+                12
+              ],
+              [
+                19,
+                17,
+                15,
+                13,
+                11
+              ]
+            ]
+          }
+        }
+      },
+      "Zed": {
+        "abilities": {
+          "E Shadow Slash": {
+            "cost": [
+              [
+                50,
+                50,
+                50,
+                50,
+                50
+              ],
+              [
+                40,
+                40,
+                40,
+                40,
+                40
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Mercurial Scimitar": {
+        "stats": {
+          "FlatSpellBlockMod": [
+            30,
+            40
+          ]
+        }
+      },
+      "Silvermere Dawn": {
+        "stats": {
+          "FlatSpellBlockMod": [
+            35,
+            40
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

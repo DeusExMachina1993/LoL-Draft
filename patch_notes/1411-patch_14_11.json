@@ -1,0 +1,321 @@
+{
+  "metadata": {
+    "name": "14.11",
+    "id": 1411,
+    "first_match": "2024-05-30 08:22",
+    "ddragon_version": "14.11.1",
+    "compared_with": "14.10.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-14-11-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Gangplank": {
+        "base_stats": {
+          "hp": [
+            600,
+            630
+          ],
+          "armorperlevel": [
+            4.2,
+            4.7
+          ]
+        }
+      },
+      "Gnar": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            3.2
+          ]
+        }
+      },
+      "Irelia": {
+        "base_stats": {
+          "hpperlevel": [
+            124,
+            115
+          ]
+        }
+      },
+      "Jinx": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.15,
+            2.9
+          ]
+        }
+      },
+      "K'Sante": {
+        "abilities": {
+          "Q Ntofo Strikes": {
+            "cost": [
+              [
+                28,
+                26,
+                24,
+                22,
+                20
+              ],
+              [
+                20,
+                20,
+                20,
+                20,
+                20
+              ]
+            ]
+          }
+        }
+      },
+      "Lulu": {
+        "abilities": {
+          "R Wild Growth": {
+            "cooldown": [
+              [
+                120,
+                100,
+                80
+              ],
+              [
+                100,
+                90,
+                80
+              ]
+            ]
+          }
+        }
+      },
+      "Master Yi": {
+        "base_stats": {
+          "hpperlevel": [
+            100,
+            105
+          ],
+          "armorperlevel": [
+            4.2,
+            4.7
+          ],
+          "attackdamageperlevel": [
+            2.2,
+            2.5
+          ],
+          "attackspeedperlevel": [
+            2,
+            2.5
+          ]
+        }
+      },
+      "Nami": {
+        "base_stats": {
+          "attackdamage": [
+            51,
+            54
+          ]
+        },
+        "abilities": {
+          "W Ebb and Flow": {
+            "cost": [
+              [
+                70,
+                80,
+                90,
+                100,
+                110
+              ],
+              [
+                70,
+                75,
+                80,
+                85,
+                90
+              ]
+            ]
+          }
+        }
+      },
+      "Nasus": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.5,
+            4
+          ]
+        },
+        "abilities": {
+          "E Spirit Fire": {
+            "cost": [
+              [
+                70,
+                85,
+                100,
+                115,
+                130
+              ],
+              [
+                60,
+                70,
+                80,
+                90,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Samira": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.3,
+            3
+          ]
+        }
+      },
+      "Singed": {
+        "abilities": {
+          "R Insanity Potion": {
+            "cooldown": [
+              [
+                120,
+                110,
+                100
+              ],
+              [
+                100,
+                100,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Smolder": {
+        "base_stats": {
+          "hp": [
+            575,
+            605
+          ],
+          "hpregen": [
+            3,
+            4.5
+          ],
+          "attackdamage": [
+            55,
+            60
+          ]
+        },
+        "abilities": {
+          "Q Super Scorcher Breath": {
+            "cost": [
+              [
+                23,
+                26,
+                29,
+                32,
+                35
+              ],
+              [
+                25,
+                25,
+                25,
+                25,
+                25
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Essence Reaver": {
+        "gold": [
+          3200,
+          3100
+        ],
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            65,
+            70
+          ]
+        }
+      },
+      "Fated Ashes": {
+        "stats": {
+          "FlatMagicDamageMod": [
+            40,
+            30
+          ]
+        }
+      },
+      "Knight's Vow": {
+        "stats": {
+          "FlatHPPoolMod": [
+            300,
+            200
+          ]
+        }
+      },
+      "Statikk Shiv": {
+        "gold": [
+          2900,
+          2800
+        ],
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            50,
+            55
+          ],
+          "PercentAttackSpeedMod": [
+            0.4,
+            0.45
+          ],
+          "PercentMovementSpeedMod": [
+            null,
+            0.07
+          ]
+        }
+      },
+      "Zeal": {
+        "stats": {
+          "FlatCritChanceMod": [
+            0.2,
+            0.15
+          ]
+        }
+      }
+    },
+    "removed_items": [
+      "Ataraxia",
+      "Certainty",
+      "Cry of the Shrieking City",
+      "Daybreak",
+      "Dreamshatter",
+      "Edge of Finality",
+      "Enmity of the Masses",
+      "Force of Arms",
+      "Frozen Fist",
+      "Heavensfall",
+      "Hope Adrift",
+      "Icathia's Curse",
+      "Infinite Convergence",
+      "Infinity Force",
+      "Leviathan",
+      "Liandry's Lament",
+      "Obsidian Cleaver",
+      "Rabadon's Deathcrown",
+      "Reliquary of the Golden Dawn",
+      "Seething Sorrow",
+      "Shojin's Resolve",
+      "Shurelya's Requiem",
+      "Starcaster",
+      "Swordnado",
+      "Syzygy",
+      "T.U.R.B.O.",
+      "The Baron's Gift",
+      "The Unspoken Parasite",
+      "Upgraded Aeropack",
+      "Wyrmfallen Sacrifice",
+      "Youmuu's Wake"
+    ]
+  }
+}

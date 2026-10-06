@@ -1,0 +1,152 @@
+{
+  "metadata": {
+    "name": "14.13",
+    "id": 1413,
+    "first_match": "2024-06-29 20:07",
+    "ddragon_version": "14.13.1",
+    "compared_with": "14.12.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-14-13-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Kalista": {
+        "base_stats": {
+          "attackdamage": [
+            61,
+            59
+          ]
+        },
+        "abilities": {
+          "R Fate's Call": {
+            "cooldown": [
+              [
+                150,
+                120,
+                90
+              ],
+              [
+                160,
+                140,
+                120
+              ]
+            ]
+          }
+        }
+      },
+      "Kennen": {
+        "base_stats": {
+          "hp": [
+            611,
+            580
+          ]
+        }
+      },
+      "Lee Sin": {
+        "base_stats": {
+          "hpperlevel": [
+            105,
+            108
+          ]
+        }
+      },
+      "Lissandra": {
+        "abilities": {
+          "W Ring of Frost": {
+            "cooldown": [
+              [
+                12,
+                11,
+                10,
+                9,
+                8
+              ],
+              [
+                10,
+                9.5,
+                9,
+                8.5,
+                8
+              ]
+            ]
+          }
+        }
+      },
+      "Miss Fortune": {
+        "base_stats": {
+          "attackdamage": [
+            52,
+            55
+          ]
+        }
+      },
+      "Orianna": {
+        "base_stats": {
+          "attackdamage": [
+            40,
+            44
+          ]
+        }
+      },
+      "Skarner": {
+        "abilities": {
+          "Q Shattered Earth / Upheaval": {
+            "cost": [
+              [
+                30,
+                30,
+                30,
+                30,
+                30
+              ],
+              [
+                50,
+                50,
+                50,
+                50,
+                50
+              ]
+            ]
+          }
+        }
+      },
+      "Varus": {
+        "base_stats": {
+          "attackdamage": [
+            60,
+            57
+          ],
+          "attackspeedperlevel": [
+            4,
+            3.5
+          ]
+        }
+      },
+      "Xayah": {
+        "abilities": {
+          "E Bladecaller": {
+            "cooldown": [
+              [
+                13,
+                12,
+                11,
+                10,
+                9
+              ],
+              [
+                12,
+                11,
+                10,
+                9,
+                8
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

@@ -1,0 +1,3243 @@
+{
+  "metadata": {
+    "name": "12.10",
+    "id": 1210,
+    "first_match": "2022-05-27 16:28",
+    "ddragon_version": "12.10.1",
+    "compared_with": "12.9.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-12-10-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Aatrox": {
+        "base_stats": {
+          "hp": [
+            580,
+            650
+          ],
+          "hpperlevel": [
+            90,
+            104
+          ],
+          "armorperlevel": [
+            3.25,
+            4.45
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Ahri": {
+        "base_stats": {
+          "hp": [
+            500,
+            570
+          ],
+          "hpperlevel": [
+            82,
+            96
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Akali": {
+        "base_stats": {
+          "hp": [
+            500,
+            570
+          ],
+          "hpperlevel": [
+            105,
+            119
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Akshan": {
+        "base_stats": {
+          "hp": [
+            560,
+            630
+          ],
+          "hpperlevel": [
+            90,
+            104
+          ],
+          "armorperlevel": [
+            3,
+            4.2
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Alistar": {
+        "base_stats": {
+          "hp": [
+            600,
+            670
+          ],
+          "hpperlevel": [
+            106,
+            120
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Amumu": {
+        "base_stats": {
+          "hp": [
+            615,
+            685
+          ],
+          "hpperlevel": [
+            75,
+            89
+          ],
+          "armorperlevel": [
+            3,
+            4.2
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Anivia": {
+        "base_stats": {
+          "hp": [
+            480,
+            550
+          ],
+          "hpperlevel": [
+            82,
+            96
+          ],
+          "armorperlevel": [
+            4,
+            5.2
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Annie": {
+        "base_stats": {
+          "hp": [
+            524,
+            594
+          ],
+          "hpperlevel": [
+            88,
+            102
+          ],
+          "armorperlevel": [
+            4,
+            5.2
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Aphelios": {
+        "base_stats": {
+          "hp": [
+            510,
+            580
+          ],
+          "hpperlevel": [
+            88,
+            102
+          ],
+          "armorperlevel": [
+            3,
+            4.2
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Ashe": {
+        "base_stats": {
+          "hp": [
+            570,
+            640
+          ],
+          "hpperlevel": [
+            87,
+            101
+          ],
+          "armorperlevel": [
+            3.4,
+            4.6
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Aurelion Sol": {
+        "base_stats": {
+          "hp": [
+            575,
+            645
+          ],
+          "hpperlevel": [
+            92,
+            106
+          ],
+          "armorperlevel": [
+            3.6,
+            4.8
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Azir": {
+        "base_stats": {
+          "hp": [
+            552,
+            622
+          ],
+          "hpperlevel": [
+            105,
+            119
+          ],
+          "armorperlevel": [
+            3,
+            4.2
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Bard": {
+        "base_stats": {
+          "hp": [
+            560,
+            630
+          ],
+          "hpperlevel": [
+            89,
+            103
+          ],
+          "armorperlevel": [
+            4,
+            5.2
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Blitzcrank": {
+        "base_stats": {
+          "hp": [
+            583,
+            653
+          ],
+          "hpperlevel": [
+            95,
+            109
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Brand": {
+        "base_stats": {
+          "hp": [
+            520,
+            590
+          ],
+          "hpperlevel": [
+            88,
+            102
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Braum": {
+        "base_stats": {
+          "hp": [
+            540,
+            610
+          ],
+          "hpperlevel": [
+            98,
+            112
+          ],
+          "armorperlevel": [
+            4,
+            5.2
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Caitlyn": {
+        "base_stats": {
+          "hp": [
+            510,
+            580
+          ],
+          "hpperlevel": [
+            93,
+            107
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Camille": {
+        "base_stats": {
+          "hp": [
+            576,
+            646
+          ],
+          "hpperlevel": [
+            85,
+            99
+          ],
+          "armorperlevel": [
+            3.8,
+            5
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Cassiopeia": {
+        "base_stats": {
+          "hp": [
+            560,
+            630
+          ],
+          "hpperlevel": [
+            90,
+            104
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Cho'Gath": {
+        "base_stats": {
+          "hp": [
+            574,
+            644
+          ],
+          "hpperlevel": [
+            80,
+            94
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Corki": {
+        "base_stats": {
+          "hp": [
+            518,
+            588
+          ],
+          "hpperlevel": [
+            87,
+            101
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Darius": {
+        "base_stats": {
+          "hp": [
+            582,
+            652
+          ],
+          "hpperlevel": [
+            100,
+            114
+          ],
+          "armorperlevel": [
+            4,
+            5.2
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Diana": {
+        "base_stats": {
+          "hp": [
+            570,
+            640
+          ],
+          "hpperlevel": [
+            95,
+            109
+          ],
+          "armorperlevel": [
+            3.1,
+            4.3
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Dr. Mundo": {
+        "base_stats": {
+          "hp": [
+            583,
+            653
+          ],
+          "hpperlevel": [
+            89,
+            103
+          ],
+          "armorperlevel": [
+            3,
+            4.2
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Draven": {
+        "base_stats": {
+          "hp": [
+            605,
+            675
+          ],
+          "hpperlevel": [
+            90,
+            104
+          ],
+          "armorperlevel": [
+            3.3,
+            4.5
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Ekko": {
+        "base_stats": {
+          "hp": [
+            585,
+            655
+          ],
+          "hpperlevel": [
+            85,
+            99
+          ],
+          "armorperlevel": [
+            3,
+            4.2
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Elise": {
+        "base_stats": {
+          "hp": [
+            555,
+            625
+          ],
+          "hpperlevel": [
+            93,
+            107
+          ],
+          "armorperlevel": [
+            4,
+            5.2
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Evelynn": {
+        "base_stats": {
+          "hp": [
+            572,
+            642
+          ],
+          "hpperlevel": [
+            84,
+            98
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Ezreal": {
+        "base_stats": {
+          "hp": [
+            530,
+            600
+          ],
+          "hpperlevel": [
+            88,
+            102
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Fiddlesticks": {
+        "base_stats": {
+          "hp": [
+            580.4,
+            650.4
+          ],
+          "hpperlevel": [
+            92,
+            106
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Fiora": {
+        "base_stats": {
+          "hp": [
+            550,
+            620
+          ],
+          "hpperlevel": [
+            85,
+            99
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Fizz": {
+        "base_stats": {
+          "hp": [
+            570,
+            640
+          ],
+          "hpperlevel": [
+            98,
+            112
+          ],
+          "armorperlevel": [
+            3.4,
+            4.6
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Galio": {
+        "base_stats": {
+          "hp": [
+            562,
+            632
+          ],
+          "hpperlevel": [
+            112,
+            126
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Gangplank": {
+        "base_stats": {
+          "hp": [
+            570,
+            640
+          ],
+          "hpperlevel": [
+            90,
+            104
+          ],
+          "armorperlevel": [
+            3,
+            4.2
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Garen": {
+        "base_stats": {
+          "hp": [
+            620,
+            690
+          ],
+          "hpperlevel": [
+            84,
+            98
+          ],
+          "armorperlevel": [
+            3,
+            4.2
+          ],
+          "spellblockperlevel": [
+            0.75,
+            1.55
+          ]
+        }
+      },
+      "Gnar": {
+        "base_stats": {
+          "hp": [
+            510,
+            580
+          ],
+          "hpperlevel": [
+            65,
+            79
+          ],
+          "armorperlevel": [
+            2.5,
+            3.7
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Gragas": {
+        "base_stats": {
+          "hp": [
+            600,
+            670
+          ],
+          "hpperlevel": [
+            95,
+            109
+          ],
+          "armorperlevel": [
+            3.6,
+            4.8
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Graves": {
+        "base_stats": {
+          "hp": [
+            555,
+            625
+          ],
+          "hpperlevel": [
+            92,
+            106
+          ],
+          "armorperlevel": [
+            3.4,
+            4.6
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Gwen": {
+        "base_stats": {
+          "hp": [
+            590,
+            660
+          ],
+          "hpperlevel": [
+            95,
+            109
+          ],
+          "armorperlevel": [
+            4,
+            5.2
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Hecarim": {
+        "base_stats": {
+          "hp": [
+            580,
+            650
+          ],
+          "hpperlevel": [
+            90,
+            104
+          ],
+          "armorperlevel": [
+            4.25,
+            5.45
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Heimerdinger": {
+        "base_stats": {
+          "hp": [
+            488,
+            558
+          ],
+          "hpperlevel": [
+            87,
+            101
+          ],
+          "armorperlevel": [
+            3,
+            4.2
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Illaoi": {
+        "base_stats": {
+          "hp": [
+            586,
+            656
+          ],
+          "hpperlevel": [
+            95,
+            109
+          ],
+          "armorperlevel": [
+            3.8,
+            5
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Irelia": {
+        "base_stats": {
+          "hp": [
+            520,
+            590
+          ],
+          "hpperlevel": [
+            110,
+            124
+          ],
+          "armorperlevel": [
+            3,
+            4.2
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Ivern": {
+        "base_stats": {
+          "hp": [
+            585,
+            655
+          ],
+          "hpperlevel": [
+            85,
+            99
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Janna": {
+        "base_stats": {
+          "hp": [
+            500,
+            570
+          ],
+          "hpperlevel": [
+            70,
+            84
+          ],
+          "armorperlevel": [
+            3.8,
+            5
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Jarvan IV": {
+        "base_stats": {
+          "hp": [
+            570,
+            640
+          ],
+          "hpperlevel": [
+            90,
+            104
+          ],
+          "armorperlevel": [
+            3.6,
+            4.8
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Jax": {
+        "base_stats": {
+          "hp": [
+            615,
+            685
+          ],
+          "hpperlevel": [
+            85,
+            99
+          ],
+          "armorperlevel": [
+            3,
+            4.2
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Jayce": {
+        "base_stats": {
+          "hp": [
+            520,
+            590
+          ],
+          "hpperlevel": [
+            95,
+            109
+          ],
+          "armorperlevel": [
+            3.8,
+            5
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Jhin": {
+        "base_stats": {
+          "hp": [
+            585,
+            655
+          ],
+          "hpperlevel": [
+            93,
+            107
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Jinx": {
+        "base_stats": {
+          "hp": [
+            560,
+            630
+          ],
+          "hpperlevel": [
+            86,
+            100
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Kai'Sa": {
+        "base_stats": {
+          "hp": [
+            600,
+            670
+          ],
+          "hpperlevel": [
+            88,
+            102
+          ],
+          "armorperlevel": [
+            3,
+            4.2
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Kalista": {
+        "base_stats": {
+          "hp": [
+            534,
+            604
+          ],
+          "hpperlevel": [
+            100,
+            114
+          ],
+          "armorperlevel": [
+            4,
+            5.2
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Karma": {
+        "base_stats": {
+          "hp": [
+            534,
+            604
+          ],
+          "hpperlevel": [
+            95,
+            109
+          ],
+          "armorperlevel": [
+            3.8,
+            5
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Karthus": {
+        "base_stats": {
+          "hp": [
+            550,
+            620
+          ],
+          "hpperlevel": [
+            87,
+            101
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Kassadin": {
+        "base_stats": {
+          "hp": [
+            576,
+            646
+          ],
+          "hpperlevel": [
+            105,
+            119
+          ],
+          "armorperlevel": [
+            2.8,
+            4
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Katarina": {
+        "base_stats": {
+          "hp": [
+            602,
+            672
+          ],
+          "hpperlevel": [
+            94,
+            108
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Kayle": {
+        "base_stats": {
+          "hp": [
+            600,
+            670
+          ],
+          "hpperlevel": [
+            85,
+            99
+          ],
+          "armorperlevel": [
+            3,
+            4.2
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Kayn": {
+        "base_stats": {
+          "hp": [
+            585,
+            655
+          ],
+          "hpperlevel": [
+            85,
+            99
+          ],
+          "armorperlevel": [
+            3.3,
+            4.5
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Kennen": {
+        "base_stats": {
+          "hp": [
+            541,
+            611
+          ],
+          "hpperlevel": [
+            84,
+            98
+          ],
+          "armorperlevel": [
+            3.75,
+            4.95
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Kha'Zix": {
+        "base_stats": {
+          "hp": [
+            573,
+            643
+          ],
+          "hpperlevel": [
+            85,
+            99
+          ],
+          "armorperlevel": [
+            3,
+            4.2
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Kindred": {
+        "base_stats": {
+          "hp": [
+            540,
+            610
+          ],
+          "hpperlevel": [
+            85,
+            99
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Kled": {
+        "base_stats": {
+          "hp": [
+            340,
+            410
+          ],
+          "hpperlevel": [
+            70,
+            84
+          ],
+          "armorperlevel": [
+            4,
+            5.2
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Kog'Maw": {
+        "base_stats": {
+          "hp": [
+            565,
+            635
+          ],
+          "hpperlevel": [
+            85,
+            99
+          ],
+          "armorperlevel": [
+            3.25,
+            4.45
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "LeBlanc": {
+        "base_stats": {
+          "hp": [
+            528,
+            598
+          ],
+          "hpperlevel": [
+            97,
+            111
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Lee Sin": {
+        "base_stats": {
+          "hp": [
+            575,
+            645
+          ],
+          "hpperlevel": [
+            85,
+            99
+          ],
+          "armorperlevel": [
+            3.7,
+            4.9
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Leona": {
+        "base_stats": {
+          "hp": [
+            576,
+            646
+          ],
+          "hpperlevel": [
+            87,
+            101
+          ],
+          "armorperlevel": [
+            3.6,
+            4.8
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Lillia": {
+        "base_stats": {
+          "hp": [
+            580,
+            650
+          ],
+          "hpperlevel": [
+            90,
+            104
+          ],
+          "armorperlevel": [
+            4,
+            5.2
+          ],
+          "spellblockperlevel": [
+            0.75,
+            1.55
+          ]
+        }
+      },
+      "Lissandra": {
+        "base_stats": {
+          "hp": [
+            550,
+            620
+          ],
+          "hpperlevel": [
+            90,
+            104
+          ],
+          "armorperlevel": [
+            3.7,
+            4.9
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Lucian": {
+        "base_stats": {
+          "hp": [
+            571,
+            641
+          ],
+          "hpperlevel": [
+            86,
+            100
+          ],
+          "armorperlevel": [
+            3,
+            4.2
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Lulu": {
+        "base_stats": {
+          "hp": [
+            525,
+            595
+          ],
+          "hpperlevel": [
+            74,
+            88
+          ],
+          "armorperlevel": [
+            3.7,
+            4.9
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Lux": {
+        "base_stats": {
+          "hp": [
+            490,
+            560
+          ],
+          "hpperlevel": [
+            85,
+            99
+          ],
+          "armorperlevel": [
+            4,
+            5.2
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Malphite": {
+        "base_stats": {
+          "hp": [
+            574,
+            644
+          ],
+          "hpperlevel": [
+            90,
+            104
+          ],
+          "armorperlevel": [
+            3.75,
+            4.95
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Malzahar": {
+        "base_stats": {
+          "hp": [
+            510,
+            580
+          ],
+          "hpperlevel": [
+            87,
+            101
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Maokai": {
+        "base_stats": {
+          "hp": [
+            565,
+            635
+          ],
+          "hpperlevel": [
+            95,
+            109
+          ],
+          "armorperlevel": [
+            4,
+            5.2
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Master Yi": {
+        "base_stats": {
+          "hp": [
+            599,
+            669
+          ],
+          "hpperlevel": [
+            92,
+            106
+          ],
+          "armorperlevel": [
+            3,
+            4.2
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Miss Fortune": {
+        "base_stats": {
+          "hp": [
+            570,
+            640
+          ],
+          "hpperlevel": [
+            93,
+            107
+          ],
+          "armorperlevel": [
+            3,
+            4.2
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        },
+        "abilities": {
+          "R Bullet Time": {
+            "range": [
+              [
+                400,
+                400,
+                400
+              ],
+              [
+                25000,
+                25000,
+                25000
+              ]
+            ]
+          }
+        }
+      },
+      "Mordekaiser": {
+        "base_stats": {
+          "hp": [
+            575,
+            645
+          ],
+          "hpperlevel": [
+            90,
+            104
+          ],
+          "armorperlevel": [
+            3,
+            4.2
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Morgana": {
+        "base_stats": {
+          "hp": [
+            560,
+            630
+          ],
+          "hpperlevel": [
+            90,
+            104
+          ],
+          "armorperlevel": [
+            3.8,
+            5
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Nami": {
+        "base_stats": {
+          "hp": [
+            490,
+            560
+          ],
+          "hpperlevel": [
+            74,
+            88
+          ],
+          "armorperlevel": [
+            4,
+            5.2
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Nasus": {
+        "base_stats": {
+          "hp": [
+            561,
+            631
+          ],
+          "hpperlevel": [
+            90,
+            104
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Nautilus": {
+        "base_stats": {
+          "hp": [
+            576,
+            646
+          ],
+          "hpperlevel": [
+            86,
+            100
+          ],
+          "armorperlevel": [
+            3.75,
+            4.95
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Neeko": {
+        "base_stats": {
+          "hp": [
+            540,
+            610
+          ],
+          "hpperlevel": [
+            90,
+            104
+          ],
+          "armorperlevel": [
+            4,
+            5.2
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Nidalee": {
+        "base_stats": {
+          "hp": [
+            540,
+            610
+          ],
+          "hpperlevel": [
+            95,
+            109
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Nocturne": {
+        "base_stats": {
+          "hp": [
+            585,
+            655
+          ],
+          "hpperlevel": [
+            95,
+            109
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            0.75,
+            1.55
+          ]
+        }
+      },
+      "Nunu & Willump": {
+        "base_stats": {
+          "hp": [
+            540,
+            610
+          ],
+          "hpperlevel": [
+            76,
+            90
+          ],
+          "armorperlevel": [
+            3,
+            4.2
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Olaf": {
+        "base_stats": {
+          "hp": [
+            575,
+            645
+          ],
+          "hpperlevel": [
+            105,
+            119
+          ],
+          "armorperlevel": [
+            3,
+            4.2
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Orianna": {
+        "base_stats": {
+          "hp": [
+            530,
+            600
+          ],
+          "hpperlevel": [
+            91,
+            105
+          ],
+          "armorperlevel": [
+            3,
+            4.2
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Ornn": {
+        "base_stats": {
+          "hp": [
+            590,
+            660
+          ],
+          "hpperlevel": [
+            95,
+            109
+          ],
+          "armorperlevel": [
+            4,
+            5.2
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Pantheon": {
+        "base_stats": {
+          "hp": [
+            580,
+            650
+          ],
+          "hpperlevel": [
+            95,
+            109
+          ],
+          "armorperlevel": [
+            3.75,
+            4.95
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Poppy": {
+        "base_stats": {
+          "hp": [
+            540,
+            610
+          ],
+          "hpperlevel": [
+            90,
+            104
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Pyke": {
+        "base_stats": {
+          "hp": [
+            600,
+            670
+          ],
+          "hpperlevel": [
+            90,
+            104
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Qiyana": {
+        "base_stats": {
+          "hp": [
+            520,
+            590
+          ],
+          "hpperlevel": [
+            110,
+            124
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Quinn": {
+        "base_stats": {
+          "hp": [
+            533,
+            603
+          ],
+          "hpperlevel": [
+            85,
+            99
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Rakan": {
+        "base_stats": {
+          "hp": [
+            540,
+            610
+          ],
+          "hpperlevel": [
+            85,
+            99
+          ],
+          "armorperlevel": [
+            3.9,
+            5.1
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Rammus": {
+        "base_stats": {
+          "hp": [
+            564,
+            634
+          ],
+          "hpperlevel": [
+            80,
+            94
+          ],
+          "armorperlevel": [
+            4.3,
+            5.5
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Rek'Sai": {
+        "base_stats": {
+          "hp": [
+            570,
+            640
+          ],
+          "hpperlevel": [
+            85,
+            99
+          ],
+          "armorperlevel": [
+            3.75,
+            4.95
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Rell": {
+        "base_stats": {
+          "hp": [
+            540,
+            610
+          ],
+          "hpperlevel": [
+            90,
+            104
+          ],
+          "armorperlevel": [
+            3,
+            4.2
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Renata Glasc": {
+        "base_stats": {
+          "hp": [
+            525,
+            595
+          ],
+          "hpperlevel": [
+            80,
+            94
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Renekton": {
+        "base_stats": {
+          "hp": [
+            590,
+            660
+          ],
+          "hpperlevel": [
+            97,
+            111
+          ],
+          "armorperlevel": [
+            4,
+            5.2
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Rengar": {
+        "base_stats": {
+          "hp": [
+            585,
+            655
+          ],
+          "hpperlevel": [
+            90,
+            104
+          ],
+          "armorperlevel": [
+            3,
+            4.2
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Riven": {
+        "base_stats": {
+          "hp": [
+            560,
+            630
+          ],
+          "hpperlevel": [
+            86,
+            100
+          ],
+          "armorperlevel": [
+            3.2,
+            4.4
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Rumble": {
+        "base_stats": {
+          "hp": [
+            589,
+            659
+          ],
+          "hpperlevel": [
+            85,
+            99
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            0.75,
+            1.55
+          ]
+        }
+      },
+      "Ryze": {
+        "base_stats": {
+          "hp": [
+            575,
+            645
+          ],
+          "hpperlevel": [
+            110,
+            124
+          ],
+          "armorperlevel": [
+            3,
+            4.2
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Samira": {
+        "base_stats": {
+          "hp": [
+            530,
+            600
+          ],
+          "hpperlevel": [
+            94,
+            108
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Sejuani": {
+        "base_stats": {
+          "hp": [
+            560,
+            630
+          ],
+          "hpperlevel": [
+            100,
+            114
+          ],
+          "armorperlevel": [
+            4.25,
+            5.45
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Senna": {
+        "base_stats": {
+          "hp": [
+            520,
+            590
+          ],
+          "hpperlevel": [
+            75,
+            89
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Seraphine": {
+        "base_stats": {
+          "hp": [
+            500,
+            570
+          ],
+          "hpperlevel": [
+            90,
+            104
+          ],
+          "armorperlevel": [
+            3,
+            4.2
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Sett": {
+        "base_stats": {
+          "hp": [
+            600,
+            670
+          ],
+          "hpperlevel": [
+            100,
+            114
+          ],
+          "armorperlevel": [
+            4,
+            5.2
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Shaco": {
+        "base_stats": {
+          "hp": [
+            560,
+            630
+          ],
+          "hpperlevel": [
+            89,
+            103
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Shen": {
+        "base_stats": {
+          "hp": [
+            540,
+            610
+          ],
+          "hpperlevel": [
+            85,
+            99
+          ],
+          "armorperlevel": [
+            3,
+            4.2
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Shyvana": {
+        "base_stats": {
+          "hp": [
+            595,
+            665
+          ],
+          "hpperlevel": [
+            95,
+            109
+          ],
+          "armorperlevel": [
+            3.35,
+            4.55
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Singed": {
+        "base_stats": {
+          "hp": [
+            580,
+            650
+          ],
+          "hpperlevel": [
+            85,
+            99
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Sion": {
+        "base_stats": {
+          "hp": [
+            545,
+            615
+          ],
+          "hpperlevel": [
+            73,
+            87
+          ],
+          "armorperlevel": [
+            3,
+            4.2
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Sivir": {
+        "base_stats": {
+          "hp": [
+            562,
+            632
+          ],
+          "hpperlevel": [
+            90,
+            104
+          ],
+          "armorperlevel": [
+            3.25,
+            4.45
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Skarner": {
+        "base_stats": {
+          "hp": [
+            580,
+            650
+          ],
+          "hpperlevel": [
+            85,
+            99
+          ],
+          "armorperlevel": [
+            3.8,
+            5
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Sona": {
+        "base_stats": {
+          "hp": [
+            480,
+            550
+          ],
+          "hpperlevel": [
+            77,
+            91
+          ],
+          "armorperlevel": [
+            3,
+            4.2
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Soraka": {
+        "base_stats": {
+          "hp": [
+            535,
+            605
+          ],
+          "hpperlevel": [
+            74,
+            88
+          ],
+          "armorperlevel": [
+            3.8,
+            5
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Swain": {
+        "base_stats": {
+          "hp": [
+            525,
+            595
+          ],
+          "hpperlevel": [
+            85,
+            99
+          ],
+          "armorperlevel": [
+            4,
+            5.2
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Sylas": {
+        "base_stats": {
+          "hp": [
+            525,
+            595
+          ],
+          "hpperlevel": [
+            115,
+            129
+          ],
+          "armorperlevel": [
+            4,
+            5.2
+          ],
+          "spellblockperlevel": [
+            1.75,
+            2.55
+          ]
+        }
+      },
+      "Syndra": {
+        "base_stats": {
+          "hp": [
+            523,
+            593
+          ],
+          "hpperlevel": [
+            90,
+            104
+          ],
+          "armorperlevel": [
+            3.4,
+            4.6
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Tahm Kench": {
+        "base_stats": {
+          "hp": [
+            570,
+            640
+          ],
+          "hpperlevel": [
+            95,
+            109
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Taliyah": {
+        "base_stats": {
+          "hp": [
+            500,
+            570
+          ],
+          "hpperlevel": [
+            90,
+            104
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Talon": {
+        "base_stats": {
+          "hp": [
+            588,
+            658
+          ],
+          "hpperlevel": [
+            95,
+            109
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Taric": {
+        "base_stats": {
+          "hp": [
+            575,
+            645
+          ],
+          "hpperlevel": [
+            85,
+            99
+          ],
+          "armorperlevel": [
+            3.4,
+            4.6
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Teemo": {
+        "base_stats": {
+          "hp": [
+            528,
+            598
+          ],
+          "hpperlevel": [
+            90,
+            104
+          ],
+          "armorperlevel": [
+            3.75,
+            4.95
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Thresh": {
+        "base_stats": {
+          "hp": [
+            530,
+            600
+          ],
+          "hpperlevel": [
+            95,
+            115
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Tristana": {
+        "base_stats": {
+          "hp": [
+            600,
+            670
+          ],
+          "hpperlevel": [
+            88,
+            102
+          ],
+          "armorperlevel": [
+            3,
+            4.2
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Trundle": {
+        "base_stats": {
+          "hp": [
+            616,
+            686
+          ],
+          "hpperlevel": [
+            96,
+            110
+          ],
+          "armorperlevel": [
+            2.7,
+            3.9
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Tryndamere": {
+        "base_stats": {
+          "hp": [
+            626,
+            696
+          ],
+          "hpperlevel": [
+            98,
+            112
+          ],
+          "armorperlevel": [
+            3.1,
+            4.3
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Twisted Fate": {
+        "base_stats": {
+          "hp": [
+            534,
+            604
+          ],
+          "hpperlevel": [
+            94,
+            108
+          ],
+          "armorperlevel": [
+            3.15,
+            4.35
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Twitch": {
+        "base_stats": {
+          "hp": [
+            612,
+            682
+          ],
+          "hpperlevel": [
+            86,
+            100
+          ],
+          "armorperlevel": [
+            3,
+            4.2
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Udyr": {
+        "base_stats": {
+          "hp": [
+            594,
+            664
+          ],
+          "hpperlevel": [
+            92,
+            106
+          ],
+          "armorperlevel": [
+            4,
+            5.2
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Urgot": {
+        "base_stats": {
+          "hp": [
+            585,
+            655
+          ],
+          "hpperlevel": [
+            88,
+            102
+          ],
+          "armorperlevel": [
+            4.25,
+            5.45
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Varus": {
+        "base_stats": {
+          "hp": [
+            530,
+            600
+          ],
+          "hpperlevel": [
+            91,
+            105
+          ],
+          "armorperlevel": [
+            3.4,
+            4.6
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Vayne": {
+        "base_stats": {
+          "hp": [
+            515,
+            585
+          ],
+          "hpperlevel": [
+            89,
+            103
+          ],
+          "armorperlevel": [
+            3.4,
+            4.6
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Veigar": {
+        "base_stats": {
+          "hp": [
+            505,
+            575
+          ],
+          "hpperlevel": [
+            94,
+            108
+          ],
+          "armorperlevel": [
+            4,
+            5.2
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Vel'Koz": {
+        "base_stats": {
+          "hp": [
+            520,
+            590
+          ],
+          "hpperlevel": [
+            88,
+            102
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Vex": {
+        "base_stats": {
+          "hp": [
+            520,
+            590
+          ],
+          "hpperlevel": [
+            90,
+            104
+          ],
+          "armorperlevel": [
+            3.25,
+            4.45
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Vi": {
+        "base_stats": {
+          "hp": [
+            585,
+            655
+          ],
+          "hpperlevel": [
+            85,
+            99
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Viego": {
+        "base_stats": {
+          "hp": [
+            560,
+            630
+          ],
+          "hpperlevel": [
+            95,
+            109
+          ],
+          "armorperlevel": [
+            4,
+            5.2
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Viktor": {
+        "base_stats": {
+          "hp": [
+            530,
+            600
+          ],
+          "hpperlevel": [
+            90,
+            104
+          ],
+          "armorperlevel": [
+            4,
+            5.2
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Vladimir": {
+        "base_stats": {
+          "hp": [
+            537,
+            607
+          ],
+          "hpperlevel": [
+            96,
+            110
+          ],
+          "armorperlevel": [
+            3.3,
+            4.5
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Volibear": {
+        "base_stats": {
+          "hp": [
+            580,
+            650
+          ],
+          "hpperlevel": [
+            90,
+            104
+          ],
+          "armorperlevel": [
+            4,
+            5.2
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Warwick": {
+        "base_stats": {
+          "hp": [
+            550,
+            620
+          ],
+          "hpperlevel": [
+            85,
+            99
+          ],
+          "armorperlevel": [
+            3.2,
+            4.4
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Wukong": {
+        "base_stats": {
+          "hp": [
+            540,
+            610
+          ],
+          "hpperlevel": [
+            85,
+            99
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Xayah": {
+        "base_stats": {
+          "hp": [
+            590,
+            660
+          ],
+          "hpperlevel": [
+            88,
+            102
+          ],
+          "armorperlevel": [
+            3,
+            4.2
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Xerath": {
+        "base_stats": {
+          "hp": [
+            526,
+            596
+          ],
+          "hpperlevel": [
+            92,
+            106
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Xin Zhao": {
+        "base_stats": {
+          "hp": [
+            570,
+            640
+          ],
+          "hpperlevel": [
+            92,
+            106
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Yasuo": {
+        "base_stats": {
+          "hp": [
+            520,
+            590
+          ],
+          "hpperlevel": [
+            87,
+            101
+          ],
+          "armorperlevel": [
+            3.4,
+            4.6
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Yone": {
+        "base_stats": {
+          "hp": [
+            550,
+            620
+          ],
+          "hpperlevel": [
+            85,
+            99
+          ],
+          "armorperlevel": [
+            3.4,
+            4.6
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Yorick": {
+        "base_stats": {
+          "hp": [
+            580,
+            650
+          ],
+          "hpperlevel": [
+            100,
+            114
+          ],
+          "armorperlevel": [
+            4,
+            5.2
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Yuumi": {
+        "base_stats": {
+          "hp": [
+            480,
+            550
+          ],
+          "hpperlevel": [
+            70,
+            84
+          ],
+          "armorperlevel": [
+            3,
+            4.2
+          ],
+          "spellblockperlevel": [
+            0.3,
+            1.1
+          ]
+        }
+      },
+      "Zac": {
+        "base_stats": {
+          "hp": [
+            615,
+            685
+          ],
+          "hpperlevel": [
+            95,
+            109
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Zed": {
+        "base_stats": {
+          "hp": [
+            584,
+            654
+          ],
+          "hpperlevel": [
+            85,
+            99
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ]
+        }
+      },
+      "Zeri": {
+        "base_stats": {
+          "hp": [
+            530,
+            600
+          ],
+          "hpperlevel": [
+            95,
+            109
+          ],
+          "armorperlevel": [
+            3,
+            4.2
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Ziggs": {
+        "base_stats": {
+          "hp": [
+            536,
+            606
+          ],
+          "hpperlevel": [
+            92,
+            106
+          ],
+          "armorperlevel": [
+            3.3,
+            4.5
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Zilean": {
+        "base_stats": {
+          "hp": [
+            504,
+            574
+          ],
+          "hpperlevel": [
+            82,
+            96
+          ],
+          "armorperlevel": [
+            3.8,
+            5
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Zoe": {
+        "base_stats": {
+          "hp": [
+            560,
+            630
+          ],
+          "hpperlevel": [
+            92,
+            106
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      },
+      "Zyra": {
+        "base_stats": {
+          "hp": [
+            504,
+            574
+          ],
+          "hpperlevel": [
+            79,
+            93
+          ],
+          "armorperlevel": [
+            3,
+            4.2
+          ],
+          "spellblockperlevel": [
+            0.5,
+            1.3
+          ]
+        }
+      }
+    },
+    "items": {
+      "Blade of The Ruined King": {
+        "stats": {
+          "PercentLifeStealMod": [
+            0.08,
+            0.07
+          ]
+        }
+      },
+      "Bloodthirster": {
+        "stats": {
+          "PercentLifeStealMod": [
+            0.2,
+            0.18
+          ]
+        }
+      },
+      "Immortal Shieldbow": {
+        "stats": {
+          "PercentLifeStealMod": [
+            0.08,
+            0.07
+          ]
+        }
+      },
+      "Vampiric Scepter": {
+        "stats": {
+          "PercentLifeStealMod": [
+            0.08,
+            0.07
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

@@ -1,0 +1,456 @@
+{
+  "metadata": {
+    "name": "12.13",
+    "id": 1213,
+    "first_match": "2022-07-15 00:20",
+    "ddragon_version": "12.13.1",
+    "compared_with": "12.12.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-12-13-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [
+      "Nilah"
+    ],
+    "champions": {
+      "Bel'Veth": {
+        "base_stats": {
+          "hpperlevel": [
+            105,
+            99
+          ],
+          "mp": [
+            6,
+            60
+          ],
+          "attackdamageperlevel": [
+            2,
+            1.7
+          ]
+        },
+        "abilities": {
+          "E Royal Maelstrom": {
+            "cooldown": [
+              [
+                22,
+                20,
+                18,
+                16,
+                14
+              ],
+              [
+                22,
+                20.5,
+                19,
+                17.5,
+                16
+              ]
+            ]
+          }
+        }
+      },
+      "Caitlyn": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.4,
+            3.8
+          ]
+        }
+      },
+      "Elise": {
+        "base_stats": {
+          "hp": [
+            625,
+            650
+          ],
+          "hpperlevel": [
+            107,
+            109
+          ],
+          "armor": [
+            27,
+            30
+          ]
+        }
+      },
+      "Gwen": {
+        "base_stats": {
+          "hpregenperlevel": [
+            0.55,
+            0.9
+          ]
+        },
+        "abilities": {
+          "E Skip 'n Slash": {
+            "cooldown": [
+              [
+                13,
+                12,
+                11,
+                10,
+                9
+              ],
+              [
+                13,
+                12.5,
+                12,
+                11.5,
+                11
+              ]
+            ]
+          }
+        }
+      },
+      "Karthus": {
+        "base_stats": {
+          "hpperlevel": [
+            101,
+            110
+          ],
+          "armor": [
+            18,
+            21
+          ]
+        }
+      },
+      "Kled": {
+        "abilities": {
+          "W Violent Tendencies": {
+            "cooldown": [
+              [
+                12,
+                10.5,
+                9,
+                7.5,
+                6
+              ],
+              [
+                11,
+                9.5,
+                8,
+                6.5,
+                5
+              ]
+            ]
+          }
+        }
+      },
+      "Master Yi": {
+        "base_stats": {
+          "attackrange": [
+            125,
+            175
+          ]
+        },
+        "abilities": {
+          "W Meditate": {
+            "cooldown": [
+              [
+                28,
+                28,
+                28,
+                28,
+                28
+              ],
+              [
+                9,
+                9,
+                9,
+                9,
+                9
+              ]
+            ],
+            "cost": [
+              [
+                50,
+                50,
+                50,
+                50,
+                50
+              ],
+              [
+                40,
+                40,
+                40,
+                40,
+                40
+              ]
+            ]
+          }
+        }
+      },
+      "Olaf": {
+        "base_stats": {
+          "hpregen": [
+            8.5,
+            6.5
+          ],
+          "hpregenperlevel": [
+            0.9,
+            0.6
+          ]
+        },
+        "abilities": {
+          "Q Undertow": {
+            "cost": [
+              [
+                40,
+                45,
+                50,
+                55,
+                60
+              ],
+              [
+                50,
+                55,
+                60,
+                65,
+                70
+              ]
+            ]
+          }
+        }
+      },
+      "Senna": {
+        "base_stats": {
+          "hp": [
+            560,
+            530
+          ]
+        }
+      },
+      "Shaco": {
+        "abilities": {
+          "W Jack In The Box": {
+            "cooldown": [
+              [
+                16,
+                16,
+                16,
+                16,
+                16
+              ],
+              [
+                15,
+                15,
+                15,
+                15,
+                15
+              ]
+            ]
+          }
+        }
+      },
+      "Sivir": {
+        "base_stats": {
+          "hp": [
+            632,
+            600
+          ],
+          "mp": [
+            325,
+            340
+          ],
+          "mpperlevel": [
+            50,
+            40
+          ],
+          "mpregen": [
+            8,
+            6
+          ],
+          "mpregenperlevel": [
+            0.9,
+            0.8
+          ],
+          "attackdamage": [
+            63,
+            58
+          ],
+          "attackdamageperlevel": [
+            3,
+            3.3
+          ],
+          "attackspeedperlevel": [
+            1.6,
+            2
+          ]
+        },
+        "abilities": {
+          "Q Boomerang Blade": {
+            "cooldown": [
+              [
+                7,
+                7,
+                7,
+                7,
+                7
+              ],
+              [
+                10,
+                9.5,
+                9,
+                8.5,
+                8
+              ]
+            ],
+            "cost": [
+              [
+                70,
+                80,
+                90,
+                100,
+                110
+              ],
+              [
+                55,
+                60,
+                65,
+                70,
+                75
+              ]
+            ]
+          },
+          "W Ricochet": {
+            "cooldown": [
+              [
+                12,
+                10.5,
+                9,
+                7.5,
+                6
+              ],
+              [
+                10,
+                10,
+                10,
+                10,
+                10
+              ]
+            ],
+            "cost": [
+              [
+                75,
+                75,
+                75,
+                75,
+                75
+              ],
+              [
+                60,
+                60,
+                60,
+                60,
+                60
+              ]
+            ]
+          },
+          "E Spell Shield": {
+            "cooldown": [
+              [
+                22,
+                19,
+                16,
+                13,
+                10
+              ],
+              [
+                22,
+                20,
+                18,
+                16,
+                14
+              ]
+            ]
+          },
+          "R On The Hunt": {
+            "cooldown": [
+              [
+                120,
+                100,
+                80
+              ],
+              [
+                100,
+                85,
+                70
+              ]
+            ]
+          }
+        }
+      },
+      "Tahm Kench": {
+        "base_stats": {
+          "hpperlevel": [
+            109,
+            103
+          ]
+        }
+      },
+      "Taliyah": {
+        "abilities": {
+          "Q Threaded Volley": {
+            "cost": [
+              [
+                60,
+                65,
+                70,
+                75,
+                80
+              ],
+              [
+                55,
+                50,
+                65,
+                60,
+                75
+              ]
+            ]
+          }
+        }
+      },
+      "Vex": {
+        "abilities": {
+          "Q Mistral Bolt": {
+            "cooldown": [
+              [
+                9,
+                8,
+                7,
+                6,
+                5
+              ],
+              [
+                8,
+                7,
+                6,
+                5,
+                4
+              ]
+            ]
+          }
+        }
+      },
+      "Wukong": {
+        "abilities": {
+          "R Cyclone": {
+            "cooldown": [
+              [
+                120,
+                105,
+                90
+              ],
+              [
+                130,
+                110,
+                90
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

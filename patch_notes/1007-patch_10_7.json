@@ -1,0 +1,318 @@
+{
+  "metadata": {
+    "name": "10.7",
+    "id": 1007,
+    "first_match": "2020-04-01 18:55",
+    "ddragon_version": "10.7.1",
+    "compared_with": "10.6.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-10-7-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Akali": {
+        "abilities": {
+          "R Perfect Execution": {
+            "cooldown": [
+              [
+                120,
+                90,
+                60
+              ],
+              [
+                100,
+                80,
+                60
+              ]
+            ]
+          }
+        }
+      },
+      "Fiddlesticks": {
+        "base_stats": {
+          "hp": [
+            524.4,
+            580.4
+          ],
+          "hpperlevel": [
+            80,
+            92
+          ],
+          "armor": [
+            30,
+            34
+          ],
+          "attackdamage": [
+            48.36,
+            55.36
+          ]
+        },
+        "abilities": {
+          "Q Terrify": {
+            "cooldown": [
+              [
+                15,
+                14,
+                13,
+                12,
+                11
+              ],
+              [
+                15,
+                14.5,
+                14,
+                13.5,
+                13
+              ]
+            ]
+          },
+          "W Bountiful Harvest": {
+            "cooldown": [
+              [
+                4,
+                3.75,
+                3.5,
+                3.25,
+                3
+              ],
+              [
+                9,
+                8.5,
+                8,
+                7.5,
+                7
+              ]
+            ],
+            "cost": [
+              [
+                80,
+                90,
+                100,
+                110,
+                120
+              ],
+              [
+                60,
+                65,
+                70,
+                75,
+                80
+              ]
+            ],
+            "range": [
+              [
+                575,
+                575,
+                575,
+                575,
+                575
+              ],
+              [
+                650,
+                650,
+                650,
+                650,
+                650
+              ]
+            ]
+          },
+          "E Reap": {
+            "cooldown": [
+              [
+                10,
+                10,
+                10,
+                10,
+                10
+              ],
+              [
+                10,
+                9,
+                8,
+                7,
+                6
+              ]
+            ],
+            "cost": [
+              [
+                70,
+                75,
+                80,
+                85,
+                90
+              ],
+              [
+                40,
+                45,
+                50,
+                55,
+                60
+              ]
+            ],
+            "range": [
+              [
+                750,
+                750,
+                750,
+                750,
+                750
+              ],
+              [
+                850,
+                850,
+                850,
+                850,
+                850
+              ]
+            ]
+          }
+        }
+      },
+      "Ivern": {
+        "abilities": {
+          "R Daisy!": {
+            "cooldown": [
+              [
+                160,
+                140,
+                120
+              ],
+              [
+                140,
+                130,
+                120
+              ]
+            ]
+          }
+        }
+      },
+      "Kai'Sa": {
+        "abilities": {
+          "E Supercharge": {
+            "cooldown": [
+              [
+                16,
+                15.5,
+                15,
+                14.5,
+                14
+              ],
+              [
+                16,
+                15,
+                14,
+                13,
+                12
+              ]
+            ]
+          }
+        }
+      },
+      "Nasus": {
+        "abilities": {
+          "W Wither": {
+            "range": [
+              [
+                600,
+                600,
+                600,
+                600,
+                600
+              ],
+              [
+                700,
+                700,
+                700,
+                700,
+                700
+              ]
+            ]
+          }
+        }
+      },
+      "Nocturne": {
+        "base_stats": {
+          "spellblockperlevel": [
+            1.25,
+            0.75
+          ],
+          "hpregen": [
+            8.5,
+            7
+          ]
+        }
+      },
+      "Riven": {
+        "base_stats": {
+          "hp": [
+            558.48,
+            560
+          ],
+          "hpregen": [
+            7,
+            8.5
+          ]
+        }
+      },
+      "Wukong": {
+        "base_stats": {
+          "hpregen": [
+            5,
+            4
+          ]
+        },
+        "abilities": {
+          "W Warrior Trickster": {
+            "cost": [
+              [
+                60,
+                60,
+                60,
+                60,
+                60
+              ],
+              [
+                80,
+                70,
+                60,
+                50,
+                40
+              ]
+            ]
+          }
+        }
+      },
+      "Xerath": {
+        "abilities": {
+          "W Eye of Destruction": {
+            "cooldown": [
+              [
+                1,
+                1,
+                1,
+                1,
+                1
+              ],
+              [
+                14,
+                13,
+                12,
+                11,
+                10
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Scarecrow Effigy (Trinket)": {
+        "new": true,
+        "gold": 0,
+        "stats": {}
+      }
+    },
+    "removed_items": []
+  }
+}

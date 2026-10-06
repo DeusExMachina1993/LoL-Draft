@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "name": "25.S1.3",
+    "id": 2503,
+    "first_match": "2025-02-08 10:20",
+    "ddragon_version": "15.3.1",
+    "compared_with": "15.2.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-s1-3-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Galio": {
+        "base_stats": {
+          "hp": [
+            632,
+            600
+          ]
+        }
+      },
+      "Jax": {
+        "base_stats": {
+          "hpperlevel": [
+            100,
+            103
+          ],
+          "mpregen": [
+            7.6,
+            8.2
+          ]
+        }
+      },
+      "Miss Fortune": {
+        "base_stats": {
+          "armor": [
+            28,
+            25
+          ],
+          "armorperlevel": [
+            4.2,
+            4
+          ]
+        }
+      },
+      "Rakan": {
+        "abilities": {
+          "W Grand Entrance": {
+            "cooldown": [
+              [
+                16,
+                14.5,
+                13,
+                11.5,
+                10
+              ],
+              [
+                14,
+                13,
+                12,
+                11,
+                10
+              ]
+            ]
+          }
+        }
+      },
+      "Rell": {
+        "base_stats": {
+          "hp": [
+            640,
+            620
+          ],
+          "armorperlevel": [
+            4.3,
+            4
+          ]
+        }
+      },
+      "Skarner": {
+        "base_stats": {
+          "armorperlevel": [
+            4.8,
+            4.5
+          ]
+        }
+      },
+      "Thresh": {
+        "base_stats": {
+          "hp": [
+            600,
+            620
+          ]
+        }
+      },
+      "Viego": {
+        "base_stats": {
+          "attackdamage": [
+            60,
+            57
+          ]
+        }
+      },
+      "Wukong": {
+        "abilities": {
+          "W Warrior Trickster": {
+            "cooldown": [
+              [
+                18,
+                17,
+                16,
+                15,
+                14
+              ],
+              [
+                20,
+                19,
+                18,
+                17,
+                16
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

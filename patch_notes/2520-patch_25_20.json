@@ -1,0 +1,118 @@
+{
+  "metadata": {
+    "name": "25.20",
+    "id": 2520,
+    "first_match": "2025-10-08 19:05",
+    "ddragon_version": "15.20.1",
+    "compared_with": "15.19.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-20-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Anivia": {
+        "abilities": {
+          "Q Flash Frost": {
+            "cooldown": [
+              [
+                12,
+                11,
+                10,
+                9,
+                8
+              ],
+              [
+                11,
+                10,
+                9,
+                8,
+                7
+              ]
+            ]
+          }
+        }
+      },
+      "Camille": {
+        "base_stats": {
+          "armorperlevel": [
+            5,
+            4.5
+          ]
+        },
+        "abilities": {
+          "W Tactical Sweep": {
+            "cooldown": [
+              [
+                17,
+                15.5,
+                14,
+                12.5,
+                11
+              ],
+              [
+                15,
+                14,
+                13,
+                12,
+                11
+              ]
+            ]
+          }
+        }
+      },
+      "Katarina": {
+        "base_stats": {
+          "armor": [
+            28,
+            32
+          ]
+        }
+      },
+      "Malphite": {
+        "base_stats": {
+          "armor": [
+            37,
+            40
+          ]
+        }
+      },
+      "Warwick": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.75,
+            2.5
+          ],
+          "attackspeedperlevel": [
+            2.3,
+            2
+          ]
+        }
+      },
+      "Wukong": {
+        "abilities": {
+          "W Warrior Trickster": {
+            "cooldown": [
+              [
+                20,
+                19,
+                18,
+                17,
+                16
+              ],
+              [
+                22,
+                21,
+                20,
+                19,
+                18
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

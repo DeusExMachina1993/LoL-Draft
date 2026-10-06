@@ -1,0 +1,201 @@
+{
+  "metadata": {
+    "name": "26.02",
+    "id": 2602,
+    "first_match": "2026-01-24 15:51",
+    "ddragon_version": "16.2.1",
+    "compared_with": "16.1.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-26-02-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Ashe": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            3.5
+          ]
+        }
+      },
+      "Kayle": {
+        "abilities": {
+          "Q Radiant Blast": {
+            "cost": [
+              [
+                70,
+                75,
+                80,
+                85,
+                90
+              ],
+              [
+                60,
+                70,
+                80,
+                90,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Malphite": {
+        "abilities": {
+          "E Ground Slam": {
+            "cost": [
+              [
+                50,
+                50,
+                50,
+                50,
+                50
+              ],
+              [
+                50,
+                55,
+                60,
+                65,
+                70
+              ]
+            ]
+          },
+          "R Unstoppable Force": {
+            "cooldown": [
+              [
+                130,
+                105,
+                80
+              ],
+              [
+                130,
+                115,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Master Yi": {
+        "base_stats": {
+          "armorperlevel": [
+            4.2,
+            4.5
+          ]
+        }
+      },
+      "Nilah": {
+        "base_stats": {
+          "attackspeedperlevel": [
+            2,
+            1.25
+          ]
+        }
+      },
+      "Nunu & Willump": {
+        "abilities": {
+          "Q Consume": {
+            "cooldown": [
+              [
+                12,
+                11,
+                10,
+                9,
+                8
+              ],
+              [
+                13,
+                12,
+                11,
+                10,
+                9
+              ]
+            ]
+          }
+        }
+      },
+      "Quinn": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.7,
+            3.2
+          ]
+        }
+      },
+      "Rammus": {
+        "base_stats": {
+          "hp": [
+            675,
+            645
+          ]
+        }
+      },
+      "Sivir": {
+        "base_stats": {
+          "armorperlevel": [
+            4.45,
+            4
+          ],
+          "attackspeedperlevel": [
+            2,
+            1.6
+          ]
+        }
+      },
+      "Smolder": {
+        "base_stats": {
+          "armorperlevel": [
+            4.7,
+            4
+          ]
+        }
+      },
+      "Viego": {
+        "base_stats": {
+          "attackspeedperlevel": [
+            2.25,
+            2.75
+          ]
+        }
+      }
+    },
+    "items": {
+      "Bandlepipes": {
+        "gold": [
+          2000,
+          2300
+        ]
+      },
+      "Essence Reaver": {
+        "gold": [
+          2900,
+          3050
+        ],
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            55,
+            50
+          ]
+        }
+      },
+      "Fiendhunter Bolts": {
+        "stats": {
+          "PercentAttackSpeedMod": [
+            0.4,
+            0.45
+          ]
+        }
+      },
+      "Hexoptics C44": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            50,
+            55
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

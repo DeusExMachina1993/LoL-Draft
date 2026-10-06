@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "name": "13.18",
+    "id": 1318,
+    "first_match": "2023-09-21 09:13",
+    "ddragon_version": "13.18.1",
+    "compared_with": "13.17.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-13-18-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [
+      "Briar"
+    ],
+    "champions": {
+      "Bard": {
+        "abilities": {
+          "W Caretaker's Shrine": {
+            "cooldown": [
+              [
+                14,
+                14,
+                14,
+                14,
+                14
+              ],
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            ]
+          }
+        }
+      },
+      "Gwen": {
+        "base_stats": {
+          "hpperlevel": [
+            109,
+            115
+          ]
+        }
+      },
+      "Irelia": {
+        "abilities": {
+          "R Vanguard's Edge": {
+            "cooldown": [
+              [
+                140,
+                120,
+                100
+              ],
+              [
+                125,
+                105,
+                85
+              ]
+            ]
+          }
+        }
+      },
+      "Kennen": {
+        "abilities": {
+          "E Lightning Rush": {
+            "cost": [
+              [
+                100,
+                95,
+                90,
+                85,
+                80
+              ],
+              [
+                80,
+                80,
+                80,
+                80,
+                80
+              ]
+            ]
+          },
+          "R Slicing Maelstrom": {
+            "cooldown": [
+              [
+                120,
+                120,
+                120
+              ],
+              [
+                120,
+                100,
+                80
+              ]
+            ]
+          }
+        }
+      },
+      "Tryndamere": {
+        "base_stats": {
+          "hpperlevel": [
+            115,
+            108
+          ],
+          "attackdamage": [
+            68,
+            66
+          ]
+        }
+      },
+      "Xayah": {
+        "base_stats": {
+          "hp": [
+            660,
+            630
+          ],
+          "hpperlevel": [
+            102,
+            107
+          ]
+        },
+        "abilities": {
+          "E Bladecaller": {
+            "cooldown": [
+              [
+                11,
+                10.5,
+                10,
+                9.5,
+                9
+              ],
+              [
+                13,
+                12,
+                11,
+                10,
+                9
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Crown of the Shattered Queen": {
+        "stats": {
+          "FlatMagicDamageMod": [
+            70,
+            85
+          ]
+        }
+      },
+      "Spear Of Shojin": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            60,
+            55
+          ]
+        }
+      },
+      "Statikk Shiv": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            45,
+            50
+          ]
+        }
+      },
+      "Stormrazor": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            50,
+            55
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

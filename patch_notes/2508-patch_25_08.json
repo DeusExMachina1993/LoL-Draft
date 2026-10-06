@@ -1,0 +1,134 @@
+{
+  "metadata": {
+    "name": "25.08",
+    "id": 2508,
+    "first_match": "2025-04-17 15:18",
+    "ddragon_version": "15.8.1",
+    "compared_with": "15.7.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-08-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Ahri": {
+        "base_stats": {
+          "armorperlevel": [
+            4.7,
+            4.2
+          ]
+        },
+        "abilities": {
+          "W Fox-Fire": {
+            "cooldown": [
+              [
+                9,
+                8,
+                7,
+                6,
+                5
+              ],
+              [
+                10,
+                9,
+                8,
+                7,
+                6
+              ]
+            ]
+          }
+        }
+      },
+      "Annie": {
+        "base_stats": {
+          "hpperlevel": [
+            102,
+            96
+          ]
+        },
+        "abilities": {
+          "W Incinerate": {
+            "cooldown": [
+              [
+                8,
+                8,
+                8,
+                8,
+                8
+              ],
+              [
+                7,
+                7,
+                7,
+                7,
+                7
+              ]
+            ]
+          }
+        }
+      },
+      "Lulu": {
+        "base_stats": {
+          "hp": [
+            595,
+            565
+          ]
+        }
+      },
+      "Mel": {
+        "base_stats": {
+          "hp": [
+            600,
+            630
+          ]
+        }
+      },
+      "Naafiri": {
+        "abilities": {
+          "E Eviscerate": {
+            "cooldown": [
+              [
+                9,
+                8.5,
+                8,
+                7.5,
+                7
+              ],
+              [
+                11,
+                10,
+                9,
+                8,
+                7
+              ]
+            ]
+          }
+        }
+      },
+      "Shen": {
+        "abilities": {
+          "W Spirit's Refuge": {
+            "cooldown": [
+              [
+                18,
+                16.5,
+                15,
+                13.5,
+                12
+              ],
+              [
+                16,
+                14.5,
+                13,
+                11.5,
+                10
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "name": "25.14",
+    "id": 2514,
+    "first_match": "2025-07-17 16:19",
+    "ddragon_version": "15.14.1",
+    "compared_with": "15.13.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-14-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [
+      "Yunara"
+    ],
+    "champions": {
+      "Azir": {
+        "base_stats": {
+          "hp": [
+            550,
+            575
+          ]
+        }
+      },
+      "Braum": {
+        "base_stats": {
+          "armor": [
+            47,
+            42
+          ]
+        }
+      },
+      "Briar": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            2.5
+          ]
+        }
+      },
+      "Fizz": {
+        "abilities": {
+          "W Seastone Trident": {
+            "cooldown": [
+              [
+                7,
+                6.5,
+                6,
+                5.5,
+                5
+              ],
+              [
+                7,
+                6,
+                5,
+                4,
+                3
+              ]
+            ]
+          }
+        }
+      },
+      "Kled": {
+        "abilities": {
+          "W Violent Tendencies": {
+            "cooldown": [
+              [
+                11,
+                9.5,
+                8,
+                6.5,
+                5
+              ],
+              [
+                13,
+                12,
+                11,
+                10,
+                9
+              ]
+            ]
+          }
+        }
+      },
+      "Lee Sin": {
+        "base_stats": {
+          "attackdamage": [
+            69,
+            66
+          ]
+        }
+      },
+      "Sett": {
+        "base_stats": {
+          "armorperlevel": [
+            5.2,
+            4.7
+          ]
+        }
+      },
+      "Yasuo": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            2.5
+          ]
+        }
+      }
+    },
+    "items": {
+      "Kraken Slayer": {
+        "gold": [
+          3100,
+          3000
+        ]
+      },
+      "Phantom Dancer": {
+        "stats": {
+          "PercentAttackSpeedMod": [
+            0.6,
+            0.65
+          ],
+          "PercentMovementSpeedMod": [
+            0.08,
+            0.1
+          ]
+        }
+      },
+      "Rod of Ages": {
+        "stats": {
+          "FlatMPPoolMod": [
+            400,
+            500
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

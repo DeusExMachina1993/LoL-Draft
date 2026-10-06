@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "name": "26.11",
+    "id": 2611,
+    "first_match": "2026-05-30 16:11",
+    "ddragon_version": "16.11.1",
+    "compared_with": "16.10.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-26-11-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Brand": {
+        "base_stats": {
+          "armor": [
+            27,
+            24
+          ]
+        }
+      },
+      "Kassadin": {
+        "abilities": {
+          "Q Null Sphere": {
+            "cooldown": [
+              [
+                10,
+                9.5,
+                9,
+                8.5,
+                8
+              ],
+              [
+                9,
+                8.5,
+                8,
+                7.5,
+                7
+              ]
+            ]
+          }
+        }
+      },
+      "Smolder": {
+        "base_stats": {
+          "attackdamage": [
+            60,
+            58
+          ]
+        }
+      },
+      "Teemo": {
+        "base_stats": {
+          "armorperlevel": [
+            4.95,
+            4.5
+          ]
+        }
+      }
+    },
+    "items": {
+      "Imperial Mandate": {
+        "gold": [
+          2250,
+          2400
+        ],
+        "stats": {
+          "FlatMagicDamageMod": [
+            60,
+            65
+          ]
+        }
+      },
+      "Locket of the Iron Solari": {
+        "stats": {
+          "FlatArmorMod": [
+            25,
+            30
+          ],
+          "FlatSpellBlockMod": [
+            25,
+            30
+          ]
+        }
+      },
+      "Statikk Shiv": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            40,
+            45
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

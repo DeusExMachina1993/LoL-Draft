@@ -1,0 +1,495 @@
+{
+  "year": 2026,
+  "schema_version": "1.0",
+  "periods": [
+    "202601",
+    "202602",
+    "202603",
+    "202604",
+    "202605",
+    "202606",
+    "202607",
+    "202608"
+  ],
+  "first_match": "2026-01-01 09:14",
+  "last_match": "2026-08-31 23:25",
+  "matches": 8848,
+  "team_drafts": 17696,
+  "interactions": 176960,
+  "picks": 88480,
+  "bans": 88480,
+  "heroes": 173,
+  "blue_win_rate": 0.5381,
+  "patches": [
+    {
+      "patch": 2524,
+      "version": "25.24",
+      "matches": 9,
+      "source_matches": 9,
+      "completeness": 1.0,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 2601,
+      "version": "26.01",
+      "matches": 458,
+      "source_matches": 521,
+      "completeness": 0.8791,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 2602,
+      "version": "26.02",
+      "matches": 602,
+      "source_matches": 665,
+      "completeness": 0.9053,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 2603,
+      "version": "26.03",
+      "matches": 637,
+      "source_matches": 696,
+      "completeness": 0.9152,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 2604,
+      "version": "26.04",
+      "matches": 298,
+      "source_matches": 437,
+      "completeness": 0.6819,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 2605,
+      "version": "26.05",
+      "matches": 364,
+      "source_matches": 400,
+      "completeness": 0.91,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 2606,
+      "version": "26.06",
+      "matches": 359,
+      "source_matches": 381,
+      "completeness": 0.9423,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 2607,
+      "version": "26.07",
+      "matches": 786,
+      "source_matches": 826,
+      "completeness": 0.9516,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 2608,
+      "version": "26.08",
+      "matches": 736,
+      "source_matches": 802,
+      "completeness": 0.9177,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 2609,
+      "version": "26.09",
+      "matches": 799,
+      "source_matches": 884,
+      "completeness": 0.9038,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 2610,
+      "version": "26.10",
+      "matches": 795,
+      "source_matches": 920,
+      "completeness": 0.8641,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 2611,
+      "version": "26.11",
+      "matches": 456,
+      "source_matches": 538,
+      "completeness": 0.8476,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 2612,
+      "version": "26.12",
+      "matches": 49,
+      "source_matches": 236,
+      "completeness": 0.2076,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 2613,
+      "version": "26.13",
+      "matches": 470,
+      "source_matches": 502,
+      "completeness": 0.9363,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 2614,
+      "version": "26.14",
+      "matches": 611,
+      "source_matches": 699,
+      "completeness": 0.8741,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 2615,
+      "version": "26.15",
+      "matches": 772,
+      "source_matches": 820,
+      "completeness": 0.9415,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 2616,
+      "version": "26.16",
+      "matches": 584,
+      "source_matches": 640,
+      "completeness": 0.9125,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 2617,
+      "version": "26.17",
+      "matches": 63,
+      "source_matches": 72,
+      "completeness": 0.875,
+      "draft_format": "td20_10.1"
+    }
+  ],
+  "draft_formats": {
+    "td20_10.1": 8848
+  },
+  "hero_ids": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    48,
+    50,
+    51,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    67,
+    68,
+    69,
+    72,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    89,
+    90,
+    91,
+    92,
+    96,
+    98,
+    99,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    117,
+    119,
+    120,
+    121,
+    122,
+    126,
+    127,
+    131,
+    133,
+    134,
+    136,
+    141,
+    142,
+    143,
+    145,
+    147,
+    150,
+    154,
+    157,
+    161,
+    163,
+    164,
+    166,
+    200,
+    201,
+    202,
+    203,
+    221,
+    222,
+    223,
+    233,
+    234,
+    235,
+    236,
+    238,
+    240,
+    245,
+    246,
+    254,
+    266,
+    267,
+    268,
+    350,
+    360,
+    412,
+    420,
+    421,
+    427,
+    429,
+    432,
+    497,
+    498,
+    516,
+    517,
+    518,
+    523,
+    526,
+    555,
+    711,
+    777,
+    799,
+    800,
+    804,
+    805,
+    875,
+    876,
+    887,
+    888,
+    893,
+    895,
+    897,
+    901,
+    902,
+    904,
+    910,
+    950
+  ],
+  "new_heroes": [
+    "Locke"
+  ],
+  "matches_per_month": {
+    "2026-01": 759,
+    "2026-02": 1040,
+    "2026-03": 791,
+    "2026-04": 1554,
+    "2026-05": 1576,
+    "2026-06": 666,
+    "2026-07": 1003,
+    "2026-08": 1459
+  },
+  "top_picks": [
+    {
+      "hero": "Ezreal",
+      "count": 2353,
+      "rate": 0.2659
+    },
+    {
+      "hero": "Jarvan IV",
+      "count": 2210,
+      "rate": 0.2498
+    },
+    {
+      "hero": "Ryze",
+      "count": 2162,
+      "rate": 0.2443
+    },
+    {
+      "hero": "Xin Zhao",
+      "count": 2134,
+      "rate": 0.2412
+    },
+    {
+      "hero": "Nautilus",
+      "count": 1921,
+      "rate": 0.2171
+    },
+    {
+      "hero": "Rumble",
+      "count": 1862,
+      "rate": 0.2104
+    },
+    {
+      "hero": "K'Sante",
+      "count": 1827,
+      "rate": 0.2065
+    },
+    {
+      "hero": "Ambessa",
+      "count": 1809,
+      "rate": 0.2045
+    },
+    {
+      "hero": "Yunara",
+      "count": 1783,
+      "rate": 0.2015
+    },
+    {
+      "hero": "Wukong",
+      "count": 1705,
+      "rate": 0.1927
+    }
+  ],
+  "top_bans": [
+    {
+      "hero": "Orianna",
+      "count": 4974,
+      "rate": 0.5622
+    },
+    {
+      "hero": "Varus",
+      "count": 3215,
+      "rate": 0.3634
+    },
+    {
+      "hero": "Nocturne",
+      "count": 3193,
+      "rate": 0.3609
+    },
+    {
+      "hero": "Jarvan IV",
+      "count": 2877,
+      "rate": 0.3252
+    },
+    {
+      "hero": "Rumble",
+      "count": 2597,
+      "rate": 0.2935
+    },
+    {
+      "hero": "Karma",
+      "count": 2545,
+      "rate": 0.2876
+    },
+    {
+      "hero": "Nautilus",
+      "count": 2538,
+      "rate": 0.2868
+    },
+    {
+      "hero": "Jayce",
+      "count": 2320,
+      "rate": 0.2622
+    },
+    {
+      "hero": "Akali",
+      "count": 2268,
+      "rate": 0.2563
+    },
+    {
+      "hero": "Vi",
+      "count": 2093,
+      "rate": 0.2366
+    }
+  ],
+  "breakdowns": {
+    "tier": {
+      "primary": 2598,
+      "secondary": 6250
+    },
+    "season_phase": {
+      "2026_1_pre-MSI": 6352,
+      "2026_2_MSI-to-Worlds": 2496
+    }
+  },
+  "filtering": {
+    "raw_matches": 9038,
+    "kept_matches": 8848,
+    "dropped_unknown_format_by_actions": {
+      "10": 5,
+      "11": 1,
+      "13": 1,
+      "14": 1,
+      "15": 12,
+      "16": 5,
+      "17": 11,
+      "18": 32,
+      "19": 122
+    },
+    "dropped_no_metadata": 0,
+    "unknown_hero_ids": [],
+    "patch_label_fixes": {
+      "?->2602": 2,
+      "?->2616": 2
+    }
+  }
+}

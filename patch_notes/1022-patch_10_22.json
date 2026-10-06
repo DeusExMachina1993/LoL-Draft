@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "name": "10.22",
+    "id": 1022,
+    "first_match": "2020-10-28 22:46",
+    "ddragon_version": "10.22.1",
+    "compared_with": "10.21.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-10-22-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [
+      "Seraphine"
+    ],
+    "champions": {
+      "Annie": {
+        "abilities": {
+          "E Molten Shield": {
+            "cost": [
+              [
+                20,
+                20,
+                20,
+                20,
+                20
+              ],
+              [
+                40,
+                40,
+                40,
+                40,
+                40
+              ]
+            ],
+            "range": [
+              [
+                400,
+                400,
+                400,
+                400,
+                400
+              ],
+              [
+                800,
+                800,
+                800,
+                800,
+                800
+              ]
+            ]
+          }
+        }
+      },
+      "Ivern": {
+        "abilities": {
+          "R Daisy!": {
+            "range": [
+              [
+                25000,
+                25000,
+                25000
+              ],
+              [
+                600,
+                600,
+                600
+              ]
+            ]
+          }
+        }
+      },
+      "Jinx": {
+        "abilities": {
+          "Q Switcheroo!": {
+            "cooldown": [
+              [
+                1,
+                1,
+                1,
+                1,
+                1
+              ],
+              [
+                0.9,
+                0.9,
+                0.9,
+                0.9,
+                0.9
+              ]
+            ]
+          }
+        }
+      },
+      "LeBlanc": {
+        "abilities": {
+          "E Ethereal Chains": {
+            "cost": [
+              [
+                70,
+                70,
+                70,
+                70,
+                70
+              ],
+              [
+                50,
+                50,
+                50,
+                50,
+                50
+              ]
+            ]
+          }
+        }
+      },
+      "Samira": {
+        "base_stats": {
+          "armor": [
+            28,
+            26
+          ],
+          "attackdamage": [
+            59,
+            57
+          ]
+        }
+      },
+      "Xayah": {
+        "base_stats": {
+          "attackspeedperlevel": [
+            3.3,
+            3.9
+          ]
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

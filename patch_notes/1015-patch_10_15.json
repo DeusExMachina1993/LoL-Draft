@@ -1,0 +1,246 @@
+{
+  "metadata": {
+    "name": "10.15",
+    "id": 1015,
+    "first_match": "2020-07-23 12:06",
+    "ddragon_version": "10.15.1",
+    "compared_with": "10.14.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-10-15-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [
+      "Lillia"
+    ],
+    "champions": {
+      "Ahri": {
+        "abilities": {
+          "Q Orb of Deception": {
+            "range": [
+              [
+                880,
+                880,
+                880,
+                880,
+                880
+              ],
+              [
+                970,
+                970,
+                970,
+                970,
+                970
+              ]
+            ]
+          }
+        }
+      },
+      "Caitlyn": {
+        "base_stats": {
+          "movespeed": [
+            325,
+            330
+          ],
+          "attackdamage": [
+            62,
+            64
+          ]
+        }
+      },
+      "Lee Sin": {
+        "abilities": {
+          "W Safeguard / Iron Will": {
+            "cooldown": [
+              [
+                12,
+                12,
+                12,
+                12,
+                12
+              ],
+              [
+                14,
+                14,
+                14,
+                14,
+                14
+              ]
+            ]
+          }
+        }
+      },
+      "Ornn": {
+        "base_stats": {
+          "armor": [
+            36,
+            33
+          ]
+        }
+      },
+      "Skarner": {
+        "abilities": {
+          "Q Crystal Slash": {
+            "cost": [
+              [
+                10,
+                11,
+                12,
+                13,
+                14
+              ],
+              [
+                15,
+                15,
+                15,
+                15,
+                15
+              ]
+            ]
+          }
+        }
+      },
+      "Swain": {
+        "base_stats": {
+          "movespeed": [
+            335,
+            325
+          ]
+        },
+        "abilities": {
+          "Q Death's Hand": {
+            "cooldown": [
+              [
+                10,
+                8.5,
+                7,
+                5.5,
+                4
+              ],
+              [
+                9,
+                7.5,
+                6,
+                4.5,
+                3
+              ]
+            ]
+          },
+          "W Vision of Empire": {
+            "cost": [
+              [
+                70,
+                85,
+                100,
+                115,
+                130
+              ],
+              [
+                70,
+                80,
+                90,
+                100,
+                110
+              ]
+            ],
+            "range": [
+              [
+                3500,
+                3500,
+                3500,
+                3500,
+                3500
+              ],
+              [
+                5500,
+                6000,
+                6500,
+                7000,
+                7500
+              ]
+            ]
+          },
+          "E Nevermove": {
+            "cooldown": [
+              [
+                13,
+                12,
+                11,
+                10,
+                9
+              ],
+              [
+                10,
+                10,
+                10,
+                10,
+                10
+              ]
+            ],
+            "cost": [
+              [
+                60,
+                65,
+                70,
+                75,
+                80
+              ],
+              [
+                50,
+                50,
+                50,
+                50,
+                50
+              ]
+            ]
+          }
+        }
+      },
+      "Thresh": {
+        "abilities": {
+          "W Dark Passage": {
+            "cooldown": [
+              [
+                22,
+                19.5,
+                17,
+                14.5,
+                12
+              ],
+              [
+                22,
+                20.5,
+                19,
+                17.5,
+                16
+              ]
+            ]
+          }
+        }
+      },
+      "Twisted Fate": {
+        "abilities": {
+          "W Pick a Card": {
+            "cooldown": [
+              [
+                6,
+                6,
+                6,
+                6,
+                6
+              ],
+              [
+                8,
+                7.5,
+                7,
+                6.5,
+                6
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

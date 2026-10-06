@@ -1,0 +1,249 @@
+{
+  "metadata": {
+    "name": "26.03",
+    "id": 2603,
+    "first_match": "2026-02-07 01:39",
+    "ddragon_version": "16.3.1",
+    "compared_with": "16.2.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-26-03-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Ahri": {
+        "abilities": {
+          "W Fox-Fire": {
+            "cooldown": [
+              [
+                10,
+                9,
+                8,
+                7,
+                6
+              ],
+              [
+                9,
+                8,
+                7,
+                6,
+                5
+              ]
+            ]
+          }
+        }
+      },
+      "Bel'Veth": {
+        "base_stats": {
+          "hpperlevel": [
+            99,
+            105
+          ]
+        }
+      },
+      "Braum": {
+        "base_stats": {
+          "hp": [
+            630,
+            610
+          ]
+        }
+      },
+      "Briar": {
+        "base_stats": {
+          "hpperlevel": [
+            95,
+            100
+          ],
+          "armorperlevel": [
+            4.2,
+            4.5
+          ]
+        }
+      },
+      "Draven": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            3.4
+          ]
+        }
+      },
+      "Ezreal": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.25,
+            3.75
+          ]
+        }
+      },
+      "Heimerdinger": {
+        "base_stats": {
+          "hpperlevel": [
+            101,
+            105
+          ]
+        }
+      },
+      "Mel": {
+        "abilities": {
+          "Q Radiant Volley": {
+            "cost": [
+              [
+                70,
+                80,
+                90,
+                100,
+                110
+              ],
+              [
+                70,
+                75,
+                80,
+                85,
+                90
+              ]
+            ]
+          },
+          "E Solar Snare": {
+            "cooldown": [
+              [
+                12,
+                11.5,
+                11,
+                10.5,
+                10
+              ],
+              [
+                11,
+                10.5,
+                10,
+                9.5,
+                9
+              ]
+            ],
+            "range": [
+              [
+                1050,
+                1050,
+                1050,
+                1050,
+                1050
+              ],
+              [
+                1000,
+                1000,
+                1000,
+                1000,
+                1000
+              ]
+            ]
+          }
+        }
+      },
+      "Nilah": {
+        "base_stats": {
+          "armorperlevel": [
+            4.5,
+            4.2
+          ],
+          "attackdamage": [
+            60,
+            58
+          ]
+        }
+      },
+      "Trundle": {
+        "base_stats": {
+          "armorperlevel": [
+            3.9,
+            4.5
+          ],
+          "attackdamageperlevel": [
+            4,
+            4.5
+          ]
+        }
+      },
+      "Tryndamere": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            4,
+            4.5
+          ]
+        }
+      },
+      "Varus": {
+        "base_stats": {
+          "armorperlevel": [
+            4.6,
+            4
+          ]
+        }
+      },
+      "Vi": {
+        "base_stats": {
+          "hpperlevel": [
+            99,
+            105
+          ],
+          "attackdamageperlevel": [
+            3,
+            3.5
+          ]
+        }
+      },
+      "Volibear": {
+        "abilities": {
+          "E Sky Splitter": {
+            "cooldown": [
+              [
+                14,
+                14,
+                14,
+                14,
+                14
+              ],
+              [
+                16,
+                16,
+                16,
+                16,
+                16
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Actualizer": {
+        "gold": [
+          3100,
+          2800
+        ]
+      },
+      "Dusk and Dawn": {
+        "stats": {
+          "FlatHPPoolMod": [
+            300,
+            350
+          ]
+        }
+      },
+      "Endless Hunger": {
+        "gold": [
+          3000,
+          3100
+        ],
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            60,
+            65
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

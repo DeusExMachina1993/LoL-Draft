@@ -1,0 +1,163 @@
+{
+  "metadata": {
+    "name": "25.04",
+    "id": 2504,
+    "first_match": "2025-02-21 19:08",
+    "ddragon_version": "15.4.1",
+    "compared_with": "15.3.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-04-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Gangplank": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.7,
+            4.2
+          ]
+        }
+      },
+      "Lulu": {
+        "abilities": {
+          "W Whimsy": {
+            "cooldown": [
+              [
+                17,
+                16.5,
+                16,
+                15.5,
+                15
+              ],
+              [
+                18,
+                17.5,
+                17,
+                16.5,
+                16
+              ]
+            ]
+          }
+        }
+      },
+      "Mel": {
+        "abilities": {
+          "Q Radiant Volley": {
+            "range": [
+              [
+                1000,
+                1000,
+                1000,
+                1000,
+                1000
+              ],
+              [
+                950,
+                950,
+                950,
+                950,
+                950
+              ]
+            ]
+          },
+          "W Rebuttal": {
+            "cost": [
+              [
+                60,
+                45,
+                30,
+                15,
+                0
+              ],
+              [
+                80,
+                60,
+                40,
+                20,
+                0
+              ]
+            ]
+          }
+        }
+      },
+      "Sion": {
+        "base_stats": {
+          "armor": [
+            32,
+            36
+          ],
+          "hpregen": [
+            7.5,
+            9
+          ]
+        }
+      },
+      "Warwick": {
+        "abilities": {
+          "Q Jaws of the Beast": {
+            "cost": [
+              [
+                70,
+                75,
+                80,
+                85,
+                90
+              ],
+              [
+                80,
+                85,
+                90,
+                95,
+                100
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Abyssal Mask": {
+        "stats": {
+          "FlatSpellBlockMod": [
+            50,
+            45
+          ]
+        }
+      },
+      "Chainlaced Crushers": {
+        "gold": [
+          2050,
+          2000
+        ]
+      },
+      "Infinity Edge": {
+        "gold": [
+          3600,
+          3450
+        ],
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            70,
+            65
+          ]
+        }
+      },
+      "Mercury's Treads": {
+        "gold": [
+          1300,
+          1250
+        ]
+      },
+      "Symbiotic Soles": {
+        "stats": {
+          "FlatMovementSpeedMod": [
+            35,
+            40
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

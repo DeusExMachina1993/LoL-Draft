@@ -1,0 +1,1716 @@
+{
+  "metadata": {
+    "name": "10.23",
+    "id": 1023,
+    "first_match": "2020-11-17 00:42",
+    "ddragon_version": "10.23.1",
+    "compared_with": "10.22.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-10-23-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Akali": {
+        "abilities": {
+          "Q Five Point Strike": {
+            "cost": [
+              [
+                120,
+                115,
+                110,
+                105,
+                100
+              ],
+              [
+                120,
+                110,
+                100,
+                90,
+                80
+              ]
+            ]
+          }
+        }
+      },
+      "Amumu": {
+        "base_stats": {
+          "hp": [
+            613.12,
+            615
+          ],
+          "hpperlevel": [
+            84,
+            80
+          ],
+          "mp": [
+            287.2,
+            285
+          ],
+          "mpperlevel": [
+            40,
+            60
+          ],
+          "armor": [
+            33,
+            30
+          ]
+        }
+      },
+      "Anivia": {
+        "base_stats": {
+          "mpperlevel": [
+            25,
+            45
+          ]
+        }
+      },
+      "Brand": {
+        "abilities": {
+          "E Conflagration": {
+            "cooldown": [
+              [
+                10,
+                9,
+                8,
+                7,
+                6
+              ],
+              [
+                12,
+                11,
+                10,
+                9,
+                8
+              ]
+            ]
+          }
+        }
+      },
+      "Camille": {
+        "base_stats": {
+          "mpperlevel": [
+            32,
+            52
+          ]
+        }
+      },
+      "Cassiopeia": {
+        "base_stats": {
+          "mpperlevel": [
+            40,
+            60
+          ]
+        }
+      },
+      "Cho'Gath": {
+        "base_stats": {
+          "mp": [
+            272.2,
+            270
+          ],
+          "mpperlevel": [
+            40,
+            60
+          ],
+          "mpregen": [
+            7.206,
+            7.2
+          ]
+        }
+      },
+      "Corki": {
+        "base_stats": {
+          "mp": [
+            350.16,
+            350
+          ],
+          "mpperlevel": [
+            34,
+            54
+          ]
+        }
+      },
+      "Darius": {
+        "base_stats": {
+          "mpperlevel": [
+            37.5,
+            57.5
+          ]
+        }
+      },
+      "Ekko": {
+        "base_stats": {
+          "mpperlevel": [
+            50,
+            70
+          ]
+        }
+      },
+      "Evelynn": {
+        "base_stats": {
+          "mp": [
+            315.6,
+            315
+          ],
+          "mpregen": [
+            8.108,
+            8.11
+          ]
+        }
+      },
+      "Ezreal": {
+        "base_stats": {
+          "mpperlevel": [
+            50,
+            70
+          ]
+        }
+      },
+      "Fiora": {
+        "base_stats": {
+          "mpperlevel": [
+            40,
+            60
+          ]
+        }
+      },
+      "Fizz": {
+        "base_stats": {
+          "mpperlevel": [
+            37,
+            57
+          ]
+        }
+      },
+      "Gangplank": {
+        "base_stats": {
+          "mp": [
+            282,
+            280
+          ],
+          "mpperlevel": [
+            40,
+            60
+          ]
+        }
+      },
+      "Hecarim": {
+        "base_stats": {
+          "mpperlevel": [
+            40,
+            60
+          ]
+        }
+      },
+      "Irelia": {
+        "base_stats": {
+          "mpperlevel": [
+            30,
+            50
+          ]
+        }
+      },
+      "Jax": {
+        "base_stats": {
+          "mpperlevel": [
+            32,
+            52
+          ]
+        }
+      },
+      "Kassadin": {
+        "base_stats": {
+          "mp": [
+            397.6,
+            400
+          ],
+          "mpperlevel": [
+            67,
+            87
+          ]
+        }
+      },
+      "Malphite": {
+        "base_stats": {
+          "hp": [
+            574.2,
+            575
+          ],
+          "mp": [
+            282.2,
+            280
+          ],
+          "mpperlevel": [
+            40,
+            60
+          ]
+        }
+      },
+      "Nasus": {
+        "base_stats": {
+          "mpperlevel": [
+            42,
+            62
+          ]
+        }
+      },
+      "Nidalee": {
+        "base_stats": {
+          "mp": [
+            295.6,
+            295
+          ]
+        }
+      },
+      "Olaf": {
+        "base_stats": {
+          "mpregen": [
+            7.466,
+            7.465
+          ]
+        }
+      },
+      "Ornn": {
+        "base_stats": {
+          "mpperlevel": [
+            45,
+            65
+          ]
+        }
+      },
+      "Ryze": {
+        "base_stats": {
+          "mpperlevel": [
+            50,
+            70
+          ]
+        }
+      },
+      "Seraphine": {
+        "base_stats": {
+          "mpregen": [
+            10,
+            8
+          ]
+        }
+      },
+      "Skarner": {
+        "base_stats": {
+          "mpperlevel": [
+            40,
+            60
+          ],
+          "mpregen": [
+            7.206,
+            7.2
+          ]
+        }
+      },
+      "Sylas": {
+        "base_stats": {
+          "mpperlevel": [
+            50,
+            70
+          ]
+        }
+      },
+      "Twisted Fate": {
+        "base_stats": {
+          "mpperlevel": [
+            19,
+            39
+          ]
+        }
+      },
+      "Udyr": {
+        "base_stats": {
+          "mpperlevel": [
+            30,
+            50
+          ]
+        }
+      },
+      "Vi": {
+        "base_stats": {
+          "mpperlevel": [
+            45,
+            65
+          ]
+        }
+      },
+      "Viktor": {
+        "base_stats": {
+          "mpperlevel": [
+            25,
+            45
+          ]
+        }
+      },
+      "Volibear": {
+        "base_stats": {
+          "mpperlevel": [
+            50,
+            70
+          ]
+        }
+      },
+      "Warwick": {
+        "base_stats": {
+          "mpregen": [
+            7.466,
+            7.465
+          ]
+        }
+      },
+      "Wukong": {
+        "base_stats": {
+          "mpperlevel": [
+            45,
+            65
+          ]
+        }
+      },
+      "Xin Zhao": {
+        "base_stats": {
+          "mpperlevel": [
+            35,
+            55
+          ]
+        }
+      },
+      "Zilean": {
+        "base_stats": {
+          "mpperlevel": [
+            30,
+            50
+          ]
+        }
+      }
+    },
+    "items": {
+      "Abyssal Mask": {
+        "gold": [
+          3000,
+          2700
+        ],
+        "stats": {
+          "FlatMPPoolMod": [
+            300,
+            null
+          ],
+          "FlatSpellBlockMod": [
+            55,
+            60
+          ]
+        }
+      },
+      "Aegis of the Legion": {
+        "gold": [
+          1100,
+          1500
+        ]
+      },
+      "Archangel's Staff": {
+        "gold": [
+          3200,
+          3000
+        ],
+        "stats": {
+          "FlatMPPoolMod": [
+            650,
+            400
+          ],
+          "FlatMagicDamageMod": [
+            50,
+            60
+          ]
+        }
+      },
+      "Bami's Cinder": {
+        "new": true,
+        "gold": 1000,
+        "stats": {
+          "FlatHPPoolMod": 300
+        }
+      },
+      "Bandleglass Mirror": {
+        "new": true,
+        "gold": 1050,
+        "stats": {
+          "FlatMagicDamageMod": 20
+        }
+      },
+      "Banshee's Veil": {
+        "gold": [
+          3000,
+          2500
+        ],
+        "stats": {
+          "FlatMagicDamageMod": [
+            75,
+            65
+          ],
+          "FlatSpellBlockMod": [
+            60,
+            45
+          ]
+        }
+      },
+      "Black Cleaver": {
+        "gold": [
+          3000,
+          3300
+        ],
+        "stats": {
+          "FlatHPPoolMod": [
+            400,
+            300
+          ]
+        }
+      },
+      "Blade of The Ruined King": {
+        "gold": [
+          3300,
+          3100
+        ],
+        "stats": {
+          "PercentAttackSpeedMod": [
+            0.25,
+            0.3
+          ]
+        }
+      },
+      "Blighting Jewel": {
+        "new": true,
+        "gold": 1250,
+        "stats": {
+          "FlatMagicDamageMod": 25
+        }
+      },
+      "Bloodthirster": {
+        "gold": [
+          3500,
+          3400
+        ],
+        "stats": {
+          "FlatCritChanceMod": [
+            null,
+            0.2
+          ],
+          "FlatPhysicalDamageMod": [
+            80,
+            55
+          ],
+          "PercentLifeStealMod": [
+            null,
+            0.2
+          ]
+        }
+      },
+      "Bramble Vest": {
+        "gold": [
+          1000,
+          800
+        ]
+      },
+      "Chempunk Chainsword": {
+        "new": true,
+        "gold": 2700,
+        "stats": {
+          "FlatPhysicalDamageMod": 45,
+          "FlatHPPoolMod": 200
+        }
+      },
+      "Chemtech Putrifier": {
+        "new": true,
+        "gold": 2300,
+        "stats": {
+          "FlatMagicDamageMod": 45
+        }
+      },
+      "Cloak of Agility": {
+        "gold": [
+          800,
+          600
+        ],
+        "stats": {
+          "FlatCritChanceMod": [
+            0.2,
+            0.15
+          ]
+        }
+      },
+      "Cosmic Drive": {
+        "new": true,
+        "gold": 3000,
+        "stats": {
+          "FlatHPPoolMod": 200,
+          "FlatMagicDamageMod": 70
+        }
+      },
+      "Dark Seal": {
+        "stats": {
+          "FlatHPPoolMod": [
+            null,
+            40
+          ],
+          "FlatMPPoolMod": [
+            100,
+            null
+          ],
+          "FlatMagicDamageMod": [
+            10,
+            15
+          ]
+        }
+      },
+      "Dead Man's Plate": {
+        "stats": {
+          "FlatArmorMod": [
+            60,
+            40
+          ],
+          "FlatHPPoolMod": [
+            425,
+            475
+          ],
+          "PercentMovementSpeedMod": [
+            null,
+            0.05
+          ]
+        }
+      },
+      "Death's Dance": {
+        "new": true,
+        "gold": 3100,
+        "stats": {
+          "FlatPhysicalDamageMod": 50,
+          "FlatArmorMod": 40
+        }
+      },
+      "Demonic Embrace": {
+        "new": true,
+        "gold": 3000,
+        "stats": {
+          "FlatHPPoolMod": 350,
+          "FlatMagicDamageMod": 70
+        }
+      },
+      "Divine Sunderer": {
+        "new": true,
+        "gold": 3300,
+        "stats": {
+          "FlatPhysicalDamageMod": 40,
+          "FlatHPPoolMod": 400
+        }
+      },
+      "Doran's Blade": {
+        "stats": {
+          "PercentLifeStealMod": [
+            0.03,
+            null
+          ]
+        }
+      },
+      "Doran's Ring": {
+        "stats": {
+          "FlatHPPoolMod": [
+            60,
+            70
+          ]
+        }
+      },
+      "Duskblade of Draktharr": {
+        "new": true,
+        "gold": 3200,
+        "stats": {
+          "FlatPhysicalDamageMod": 55
+        }
+      },
+      "Eclipse": {
+        "new": true,
+        "gold": 3200,
+        "stats": {
+          "FlatPhysicalDamageMod": 55
+        }
+      },
+      "Edge of Night": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            55,
+            50
+          ]
+        }
+      },
+      "Emberknife": {
+        "new": true,
+        "gold": 350,
+        "stats": {}
+      },
+      "Essence Reaver": {
+        "gold": [
+          3300,
+          2900
+        ],
+        "stats": {
+          "FlatCritChanceMod": [
+            0.25,
+            0.2
+          ],
+          "FlatPhysicalDamageMod": [
+            70,
+            40
+          ]
+        }
+      },
+      "Everfrost": {
+        "new": true,
+        "gold": 3400,
+        "stats": {
+          "FlatHPPoolMod": 200,
+          "FlatMPPoolMod": 600,
+          "FlatMagicDamageMod": 80
+        }
+      },
+      "Faerie Charm": {
+        "gold": [
+          125,
+          250
+        ]
+      },
+      "Force of Nature": {
+        "new": true,
+        "gold": 2900,
+        "stats": {
+          "PercentMovementSpeedMod": 0.05,
+          "FlatHPPoolMod": 350,
+          "FlatSpellBlockMod": 60
+        }
+      },
+      "Frostfire Gauntlet": {
+        "new": true,
+        "gold": 3200,
+        "stats": {
+          "FlatHPPoolMod": 350,
+          "FlatSpellBlockMod": 25,
+          "FlatArmorMod": 50
+        }
+      },
+      "Frozen Heart": {
+        "stats": {
+          "FlatArmorMod": [
+            110,
+            80
+          ]
+        }
+      },
+      "Galeforce": {
+        "new": true,
+        "gold": 3400,
+        "stats": {
+          "FlatPhysicalDamageMod": 55,
+          "FlatCritChanceMod": 0.2,
+          "PercentAttackSpeedMod": 0.2
+        }
+      },
+      "Gargoyle Stoneplate": {
+        "gold": [
+          2500,
+          3300
+        ],
+        "stats": {
+          "FlatArmorMod": [
+            40,
+            60
+          ],
+          "FlatSpellBlockMod": [
+            40,
+            60
+          ]
+        }
+      },
+      "Giant's Belt": {
+        "gold": [
+          1000,
+          900
+        ],
+        "stats": {
+          "FlatHPPoolMod": [
+            380,
+            350
+          ]
+        }
+      },
+      "Goredrinker": {
+        "new": true,
+        "gold": 3300,
+        "stats": {
+          "FlatPhysicalDamageMod": 45,
+          "FlatHPPoolMod": 400
+        }
+      },
+      "Guardian Angel": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            45,
+            40
+          ]
+        }
+      },
+      "Guinsoo's Rageblade": {
+        "gold": [
+          3100,
+          2600
+        ],
+        "stats": {
+          "FlatCritChanceMod": [
+            null,
+            0.2
+          ],
+          "FlatMagicDamageMod": [
+            25,
+            null
+          ],
+          "FlatPhysicalDamageMod": [
+            25,
+            null
+          ],
+          "PercentAttackSpeedMod": [
+            0.25,
+            0.4
+          ]
+        }
+      },
+      "Hearthbound Axe": {
+        "new": true,
+        "gold": 1100,
+        "stats": {
+          "FlatPhysicalDamageMod": 15,
+          "PercentAttackSpeedMod": 0.15
+        }
+      },
+      "Hextech Rocketbelt": {
+        "gold": [
+          2500,
+          3200
+        ],
+        "stats": {
+          "FlatHPPoolMod": [
+            300,
+            250
+          ],
+          "FlatMagicDamageMod": [
+            60,
+            80
+          ]
+        }
+      },
+      "Horizon Focus": {
+        "new": true,
+        "gold": 3000,
+        "stats": {
+          "FlatMagicDamageMod": 100
+        }
+      },
+      "Immortal Shieldbow": {
+        "new": true,
+        "gold": 3400,
+        "stats": {
+          "FlatPhysicalDamageMod": 50,
+          "FlatCritChanceMod": 0.2,
+          "PercentAttackSpeedMod": 0.15,
+          "PercentLifeStealMod": 0.12
+        }
+      },
+      "Imperial Mandate": {
+        "new": true,
+        "gold": 2700,
+        "stats": {
+          "FlatHPPoolMod": 200,
+          "FlatMagicDamageMod": 40
+        }
+      },
+      "Infinity Edge": {
+        "stats": {
+          "FlatCritChanceMod": [
+            0.25,
+            0.2
+          ],
+          "FlatPhysicalDamageMod": [
+            80,
+            70
+          ]
+        }
+      },
+      "Ironspike Whip": {
+        "new": true,
+        "gold": 1200,
+        "stats": {
+          "FlatPhysicalDamageMod": 30
+        }
+      },
+      "Knight's Vow": {
+        "gold": [
+          2200,
+          2300
+        ],
+        "stats": {
+          "FlatArmorMod": [
+            40,
+            null
+          ],
+          "FlatHPPoolMod": [
+            250,
+            400
+          ]
+        }
+      },
+      "Kraken Slayer": {
+        "new": true,
+        "gold": 3400,
+        "stats": {
+          "FlatPhysicalDamageMod": 60,
+          "FlatCritChanceMod": 0.2,
+          "PercentAttackSpeedMod": 0.25
+        }
+      },
+      "Leeching Leer": {
+        "new": true,
+        "gold": 1300,
+        "stats": {
+          "FlatHPPoolMod": 150,
+          "FlatMagicDamageMod": 20
+        }
+      },
+      "Liandry's Anguish": {
+        "new": true,
+        "gold": 3400,
+        "stats": {
+          "FlatMPPoolMod": 600,
+          "FlatMagicDamageMod": 80
+        }
+      },
+      "Lich Bane": {
+        "gold": [
+          3200,
+          3000
+        ],
+        "stats": {
+          "FlatMPPoolMod": [
+            250,
+            null
+          ],
+          "PercentMovementSpeedMod": [
+            0.07,
+            0.1
+          ]
+        }
+      },
+      "Locket of the Iron Solari": {
+        "gold": [
+          2200,
+          2700
+        ],
+        "stats": {
+          "FlatHPPoolMod": [
+            null,
+            200
+          ],
+          "FlatSpellBlockMod": [
+            60,
+            30
+          ]
+        }
+      },
+      "Lord Dominik's Regards": {
+        "gold": [
+          2800,
+          2900
+        ],
+        "stats": {
+          "FlatCritChanceMod": [
+            null,
+            0.2
+          ],
+          "FlatPhysicalDamageMod": [
+            45,
+            30
+          ]
+        }
+      },
+      "Luden's Tempest": {
+        "new": true,
+        "gold": 3400,
+        "stats": {
+          "FlatMPPoolMod": 600,
+          "FlatMagicDamageMod": 80
+        }
+      },
+      "Manamune": {
+        "gold": [
+          2400,
+          2600
+        ],
+        "stats": {
+          "FlatMPPoolMod": [
+            250,
+            400
+          ]
+        }
+      },
+      "Maw of Malmortius": {
+        "gold": [
+          3250,
+          3100
+        ]
+      },
+      "Mejai's Soulstealer": {
+        "gold": [
+          1400,
+          1600
+        ],
+        "stats": {
+          "FlatHPPoolMod": [
+            null,
+            100
+          ],
+          "FlatMPPoolMod": [
+            200,
+            null
+          ]
+        }
+      },
+      "Mercurial Scimitar": {
+        "gold": [
+          3400,
+          2900
+        ],
+        "stats": {
+          "FlatCritChanceMod": [
+            null,
+            0.2
+          ],
+          "FlatPhysicalDamageMod": [
+            50,
+            30
+          ],
+          "FlatSpellBlockMod": [
+            35,
+            30
+          ],
+          "PercentLifeStealMod": [
+            0.1,
+            null
+          ]
+        }
+      },
+      "Mikael's Blessing": {
+        "gold": [
+          2100,
+          2300
+        ],
+        "stats": {
+          "FlatSpellBlockMod": [
+            40,
+            50
+          ]
+        }
+      },
+      "Moonstone Renewer": {
+        "new": true,
+        "gold": 2700,
+        "stats": {
+          "FlatHPPoolMod": 200,
+          "FlatMagicDamageMod": 40
+        }
+      },
+      "Morellonomicon": {
+        "gold": [
+          3000,
+          2500
+        ],
+        "stats": {
+          "FlatHPPoolMod": [
+            300,
+            250
+          ]
+        }
+      },
+      "Mortal Reminder": {
+        "gold": [
+          2800,
+          2700
+        ],
+        "stats": {
+          "FlatCritChanceMod": [
+            null,
+            0.2
+          ],
+          "FlatPhysicalDamageMod": [
+            45,
+            20
+          ],
+          "PercentAttackSpeedMod": [
+            null,
+            0.25
+          ],
+          "PercentMovementSpeedMod": [
+            null,
+            0.07
+          ]
+        }
+      },
+      "Nashor's Tooth": {
+        "stats": {
+          "FlatMagicDamageMod": [
+            80,
+            100
+          ]
+        }
+      },
+      "Navori Quickblades": {
+        "new": true,
+        "gold": 3400,
+        "stats": {
+          "FlatPhysicalDamageMod": 60,
+          "FlatCritChanceMod": 0.2
+        }
+      },
+      "Negatron Cloak": {
+        "gold": [
+          720,
+          900
+        ],
+        "stats": {
+          "FlatSpellBlockMod": [
+            40,
+            50
+          ]
+        }
+      },
+      "Night Harvester": {
+        "new": true,
+        "gold": 3200,
+        "stats": {
+          "FlatHPPoolMod": 250,
+          "FlatMagicDamageMod": 80
+        }
+      },
+      "Noonquiver": {
+        "new": true,
+        "gold": 1300,
+        "stats": {
+          "FlatPhysicalDamageMod": 30,
+          "PercentAttackSpeedMod": 0.15
+        }
+      },
+      "Oblivion Orb": {
+        "gold": [
+          1600,
+          800
+        ],
+        "stats": {
+          "FlatHPPoolMod": [
+            200,
+            null
+          ],
+          "FlatMagicDamageMod": [
+            20,
+            30
+          ]
+        }
+      },
+      "Phage": {
+        "gold": [
+          1250,
+          1100
+        ]
+      },
+      "Phantom Dancer": {
+        "gold": [
+          2600,
+          2900
+        ],
+        "stats": {
+          "FlatCritChanceMod": [
+            0.25,
+            0.2
+          ],
+          "PercentAttackSpeedMod": [
+            0.3,
+            0.4
+          ]
+        }
+      },
+      "Prowler's Claw": {
+        "new": true,
+        "gold": 3200,
+        "stats": {
+          "FlatPhysicalDamageMod": 55
+        }
+      },
+      "Rabadon's Deathcap": {
+        "gold": [
+          3600,
+          3800
+        ]
+      },
+      "Rageknife": {
+        "new": true,
+        "gold": 800,
+        "stats": {
+          "PercentAttackSpeedMod": 0.25
+        }
+      },
+      "Randuin's Omen": {
+        "gold": [
+          2900,
+          2700
+        ],
+        "stats": {
+          "FlatArmorMod": [
+            70,
+            80
+          ],
+          "FlatHPPoolMod": [
+            400,
+            250
+          ]
+        }
+      },
+      "Rapid Firecannon": {
+        "gold": [
+          2600,
+          2700
+        ],
+        "stats": {
+          "FlatCritChanceMod": [
+            0.25,
+            0.2
+          ],
+          "PercentAttackSpeedMod": [
+            0.3,
+            0.35
+          ]
+        }
+      },
+      "Ravenous Hydra": {
+        "gold": [
+          3500,
+          3300
+        ],
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            80,
+            65
+          ],
+          "PercentLifeStealMod": [
+            0.18,
+            null
+          ]
+        }
+      },
+      "Redemption": {
+        "gold": [
+          2100,
+          2300
+        ]
+      },
+      "Riftmaker": {
+        "new": true,
+        "gold": 3200,
+        "stats": {
+          "FlatHPPoolMod": 150,
+          "FlatMagicDamageMod": 80
+        }
+      },
+      "Runaan's Hurricane": {
+        "gold": [
+          2600,
+          3400
+        ],
+        "stats": {
+          "FlatCritChanceMod": [
+            0.25,
+            0.2
+          ],
+          "FlatPhysicalDamageMod": [
+            null,
+            25
+          ],
+          "PercentMovementSpeedMod": [
+            0.09,
+            0.07
+          ]
+        }
+      },
+      "Rylai's Crystal Scepter": {
+        "gold": [
+          2600,
+          3000
+        ],
+        "stats": {
+          "FlatHPPoolMod": [
+            300,
+            350
+          ]
+        }
+      },
+      "Sanguine Blade": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            55,
+            50
+          ],
+          "PercentLifeStealMod": [
+            0.15,
+            null
+          ]
+        }
+      },
+      "Seeker's Armguard": {
+        "gold": [
+          1100,
+          900
+        ],
+        "stats": {
+          "FlatArmorMod": [
+            30,
+            15
+          ],
+          "FlatMagicDamageMod": [
+            20,
+            30
+          ]
+        }
+      },
+      "Serpent's Fang": {
+        "new": true,
+        "gold": 2800,
+        "stats": {
+          "FlatPhysicalDamageMod": 60
+        }
+      },
+      "Serylda's Grudge": {
+        "new": true,
+        "gold": 3400,
+        "stats": {
+          "FlatPhysicalDamageMod": 45
+        }
+      },
+      "Sheen": {
+        "gold": [
+          1050,
+          700
+        ],
+        "stats": {
+          "FlatMPPoolMod": [
+            250,
+            null
+          ]
+        }
+      },
+      "Shurelya's Battlesong": {
+        "gold": [
+          2050,
+          2700
+        ],
+        "stats": {
+          "FlatHPPoolMod": [
+            300,
+            350
+          ],
+          "PercentMovementSpeedMod": [
+            null,
+            0.05
+          ]
+        }
+      },
+      "Silvermere Dawn": {
+        "new": true,
+        "gold": 3000,
+        "stats": {
+          "FlatPhysicalDamageMod": 35,
+          "PercentMovementSpeedMod": 0.07,
+          "FlatHPPoolMod": 200,
+          "FlatSpellBlockMod": 35
+        }
+      },
+      "Spectre's Cowl": {
+        "gold": [
+          1200,
+          1250
+        ]
+      },
+      "Spirit Visage": {
+        "gold": [
+          2800,
+          2900
+        ],
+        "stats": {
+          "FlatSpellBlockMod": [
+            55,
+            40
+          ]
+        }
+      },
+      "Staff of Flowing Water": {
+        "new": true,
+        "gold": 2300,
+        "stats": {
+          "FlatMagicDamageMod": 60
+        }
+      },
+      "Sterak's Gage": {
+        "gold": [
+          3200,
+          3100
+        ],
+        "stats": {
+          "FlatHPPoolMod": [
+            450,
+            400
+          ],
+          "FlatPhysicalDamageMod": [
+            null,
+            50
+          ]
+        }
+      },
+      "Stirring Wardstone": {
+        "new": true,
+        "gold": 1100,
+        "stats": {}
+      },
+      "Stormrazor": {
+        "gold": [
+          3200,
+          2700
+        ],
+        "stats": {
+          "FlatCritChanceMod": [
+            0.25,
+            0.2
+          ],
+          "FlatPhysicalDamageMod": [
+            50,
+            40
+          ]
+        }
+      },
+      "Stridebreaker": {
+        "new": true,
+        "gold": 3300,
+        "stats": {
+          "FlatPhysicalDamageMod": 50,
+          "FlatHPPoolMod": 300,
+          "PercentAttackSpeedMod": 0.2
+        }
+      },
+      "Sunfire Aegis": {
+        "gold": [
+          2750,
+          3200
+        ],
+        "stats": {
+          "FlatArmorMod": [
+            60,
+            30
+          ],
+          "FlatHPPoolMod": [
+            425,
+            450
+          ],
+          "FlatSpellBlockMod": [
+            null,
+            30
+          ]
+        }
+      },
+      "Tear of the Goddess": {
+        "gold": [
+          850,
+          400
+        ],
+        "stats": {
+          "FlatMPPoolMod": [
+            250,
+            150
+          ]
+        }
+      },
+      "The Collector": {
+        "new": true,
+        "gold": 3000,
+        "stats": {
+          "FlatPhysicalDamageMod": 45,
+          "FlatCritChanceMod": 0.2
+        }
+      },
+      "Thornmail": {
+        "gold": [
+          2900,
+          2700
+        ],
+        "stats": {
+          "FlatArmorMod": [
+            80,
+            60
+          ],
+          "FlatHPPoolMod": [
+            250,
+            350
+          ]
+        }
+      },
+      "Tiamat": {
+        "gold": [
+          1325,
+          1200
+        ]
+      },
+      "Titanic Hydra": {
+        "gold": [
+          3500,
+          3300
+        ],
+        "stats": {
+          "FlatHPPoolMod": [
+            450,
+            500
+          ],
+          "FlatPhysicalDamageMod": [
+            40,
+            30
+          ]
+        }
+      },
+      "Trinity Force": {
+        "gold": [
+          3733,
+          3333
+        ],
+        "stats": {
+          "FlatHPPoolMod": [
+            250,
+            200
+          ],
+          "FlatMPPoolMod": [
+            250,
+            null
+          ],
+          "FlatPhysicalDamageMod": [
+            25,
+            35
+          ],
+          "PercentAttackSpeedMod": [
+            0.4,
+            0.35
+          ],
+          "PercentMovementSpeedMod": [
+            0.05,
+            null
+          ]
+        }
+      },
+      "Turbo Chemtank": {
+        "new": true,
+        "gold": 3200,
+        "stats": {
+          "FlatHPPoolMod": 350,
+          "FlatSpellBlockMod": 50,
+          "FlatArmorMod": 25
+        }
+      },
+      "Umbral Glaive": {
+        "gold": [
+          2400,
+          2800
+        ]
+      },
+      "Verdant Barrier": {
+        "new": true,
+        "gold": 1200,
+        "stats": {
+          "FlatSpellBlockMod": 25,
+          "FlatMagicDamageMod": 25
+        }
+      },
+      "Vigilant Wardstone": {
+        "new": true,
+        "gold": 2300,
+        "stats": {
+          "PercentMovementSpeedMod": 0.1
+        }
+      },
+      "Void Staff": {
+        "gold": [
+          2650,
+          2500
+        ],
+        "stats": {
+          "FlatMagicDamageMod": [
+            70,
+            65
+          ]
+        }
+      },
+      "Warmog's Armor": {
+        "gold": [
+          2850,
+          3000
+        ]
+      },
+      "Winged Moonplate": {
+        "new": true,
+        "gold": 800,
+        "stats": {
+          "FlatHPPoolMod": 150
+        }
+      },
+      "Wit's End": {
+        "gold": [
+          2900,
+          3100
+        ],
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            null,
+            30
+          ],
+          "PercentAttackSpeedMod": [
+            0.5,
+            0.4
+          ],
+          "PercentMovementSpeedMod": [
+            0.05,
+            null
+          ]
+        }
+      },
+      "Youmuu's Ghostblade": {
+        "gold": [
+          2900,
+          3000
+        ],
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            55,
+            60
+          ]
+        }
+      },
+      "Zeal": {
+        "gold": [
+          1400,
+          1200
+        ],
+        "stats": {
+          "FlatCritChanceMod": [
+            0.25,
+            0.15
+          ],
+          "PercentAttackSpeedMod": [
+            0.12,
+            0.18
+          ]
+        }
+      },
+      "Zeke's Convergence": {
+        "gold": [
+          2250,
+          2400
+        ],
+        "stats": {
+          "FlatArmorMod": [
+            60,
+            30
+          ],
+          "FlatHPPoolMod": [
+            null,
+            300
+          ],
+          "FlatSpellBlockMod": [
+            30,
+            null
+          ]
+        }
+      },
+      "Zhonya's Hourglass": {
+        "gold": [
+          2900,
+          2500
+        ],
+        "stats": {
+          "FlatMagicDamageMod": [
+            75,
+            65
+          ]
+        }
+      }
+    },
+    "removed_items": [
+      "Adaptive Helm",
+      "Archangel's Staff (Quick Charge)",
+      "Athene's Unholy Grail",
+      "Bami's Cinder",
+      "Bilgewater Cutlass",
+      "Catalyst of Aeons",
+      "Chalice of Harmony",
+      "Circlet of the Iron Solari",
+      "Death's Dance",
+      "Death's Daughter",
+      "Duskblade of Draktharr",
+      "Enchantment: Bloodrazor",
+      "Enchantment: Bloodrazor",
+      "Enchantment: Bloodrazor",
+      "Enchantment: Cinderhulk",
+      "Enchantment: Cinderhulk",
+      "Enchantment: Cinderhulk",
+      "Enchantment: Runic Echoes",
+      "Enchantment: Runic Echoes",
+      "Enchantment: Runic Echoes",
+      "Enchantment: Warrior",
+      "Enchantment: Warrior",
+      "Enchantment: Warrior",
+      "Fire at Will",
+      "Forgefire Cape",
+      "Frozen Fist",
+      "Frozen Mallet",
+      "Haunting Guise",
+      "Hex Core mk-1",
+      "Hex Core mk-2",
+      "Hextech GLP-800",
+      "Hextech Gunblade",
+      "Hunter's Machete",
+      "Iceborn Gauntlet",
+      "Infernal Mask",
+      "Jaurim's Fist",
+      "Liandry's Torment",
+      "Luden's Echo",
+      "Luden's Pulse",
+      "Manamune (Quick Charge)",
+      "Might of the Ruined King",
+      "Molten Edge",
+      "Obsidian Cleaver",
+      "Perfect Hex Core",
+      "Rabadon's Deathcrown",
+      "Raise Morale",
+      "Righteous Glory",
+      "Rod of Ages",
+      "Rod of Ages (Quick Charge)",
+      "Salvation",
+      "Skirmisher's Sabre",
+      "Spellbinder",
+      "Stalker's Blade",
+      "Statikk Shiv",
+      "Stinger",
+      "Tear of the Goddess (Quick Charge)",
+      "Trinity Fusion",
+      "Twin Shadows",
+      "Youmuu's Wraithblade",
+      "Zhonya's Paradox"
+    ]
+  }
+}

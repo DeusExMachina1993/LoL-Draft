@@ -1,0 +1,231 @@
+{
+  "metadata": {
+    "name": "12.3",
+    "id": 1203,
+    "first_match": "2022-02-03 18:22",
+    "ddragon_version": "12.3.1",
+    "compared_with": "12.2.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-12-3-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Ahri": {
+        "base_stats": {
+          "hp": [
+            526,
+            500
+          ],
+          "hpperlevel": [
+            92,
+            82
+          ],
+          "armor": [
+            21,
+            18
+          ],
+          "hpregen": [
+            5.5,
+            2.5
+          ]
+        },
+        "abilities": {
+          "Q Orb of Deception": {
+            "cost": [
+              [
+                65,
+                70,
+                75,
+                80,
+                85
+              ],
+              [
+                60,
+                70,
+                80,
+                90,
+                100
+              ]
+            ]
+          },
+          "W Fox-Fire": {
+            "cost": [
+              [
+                40,
+                40,
+                40,
+                40,
+                40
+              ],
+              [
+                25,
+                25,
+                25,
+                25,
+                25
+              ]
+            ]
+          },
+          "E Charm": {
+            "cost": [
+              [
+                70,
+                70,
+                70,
+                70,
+                70
+              ],
+              [
+                50,
+                50,
+                50,
+                50,
+                50
+              ]
+            ]
+          }
+        }
+      },
+      "Amumu": {
+        "base_stats": {
+          "armorperlevel": [
+            3.5,
+            3
+          ]
+        }
+      },
+      "Caitlyn": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.8,
+            3.4
+          ]
+        }
+      },
+      "Janna": {
+        "abilities": {
+          "W Zephyr": {
+            "range": [
+              [
+                650,
+                650,
+                650,
+                650,
+                650
+              ],
+              [
+                600,
+                600,
+                600,
+                600,
+                600
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Black Cleaver": {
+        "stats": {
+          "FlatHPPoolMod": [
+            450,
+            350
+          ],
+          "FlatPhysicalDamageMod": [
+            40,
+            45
+          ]
+        }
+      },
+      "Blade of The Ruined King": {
+        "gold": [
+          3200,
+          3300
+        ]
+      },
+      "Death's Dance": {
+        "gold": [
+          3100,
+          3300
+        ]
+      },
+      "Divine Sunderer": {
+        "stats": {
+          "FlatHPPoolMod": [
+            400,
+            300
+          ],
+          "FlatPhysicalDamageMod": [
+            35,
+            40
+          ]
+        }
+      },
+      "Goredrinker": {
+        "stats": {
+          "FlatHPPoolMod": [
+            450,
+            300
+          ],
+          "FlatPhysicalDamageMod": [
+            45,
+            55
+          ]
+        }
+      },
+      "Hearthbound Axe": {
+        "gold": [
+          1100,
+          1000
+        ]
+      },
+      "Hexdrinker": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            20,
+            25
+          ]
+        }
+      },
+      "Maw of Malmortius": {
+        "gold": [
+          2800,
+          2900
+        ],
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            50,
+            55
+          ]
+        }
+      },
+      "Ravenous Hydra": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            65,
+            70
+          ]
+        }
+      },
+      "Sterak's Gage": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            50,
+            null
+          ]
+        }
+      },
+      "Trinity Force": {
+        "stats": {
+          "FlatHPPoolMod": [
+            200,
+            300
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

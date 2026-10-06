@@ -1,0 +1,1373 @@
+{
+  "metadata": {
+    "name": "11.1",
+    "id": 1101,
+    "first_match": "2021-01-06 21:53",
+    "ddragon_version": "11.1.1",
+    "compared_with": "10.25.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-11-1-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Aatrox": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Ahri": {
+        "base_stats": {
+          "armor": [
+            20.88,
+            21
+          ],
+          "attackdamage": [
+            53.04,
+            53
+          ]
+        }
+      },
+      "Akali": {
+        "base_stats": {
+          "attackdamage": [
+            62.4,
+            62
+          ]
+        }
+      },
+      "Alistar": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Amumu": {
+        "base_stats": {
+          "hp": [
+            615,
+            613
+          ],
+          "spellblock": [
+            32.1,
+            32
+          ],
+          "mpregen": [
+            7.382,
+            7.38
+          ],
+          "mpregenperlevel": [
+            0.525,
+            0.53
+          ],
+          "attackdamage": [
+            53.38,
+            53
+          ]
+        }
+      },
+      "Anivia": {
+        "base_stats": {
+          "armor": [
+            21.22,
+            21
+          ],
+          "attackdamage": [
+            51.376,
+            51
+          ]
+        },
+        "abilities": {
+          "E Frostbite": {
+            "cost": [
+              [
+                40,
+                40,
+                40,
+                40,
+                40
+              ],
+              [
+                50,
+                50,
+                50,
+                50,
+                50
+              ]
+            ]
+          }
+        }
+      },
+      "Annie": {
+        "base_stats": {
+          "armor": [
+            19.22,
+            19
+          ],
+          "attackdamage": [
+            50.41,
+            50
+          ],
+          "attackdamageperlevel": [
+            2.625,
+            2.63
+          ]
+        }
+      },
+      "Ashe": {
+        "base_stats": {
+          "mpregen": [
+            6.972,
+            6.97
+          ]
+        }
+      },
+      "Azir": {
+        "base_stats": {
+          "armor": [
+            19.04,
+            19
+          ]
+        }
+      },
+      "Blitzcrank": {
+        "base_stats": {
+          "hp": [
+            582.6,
+            583
+          ],
+          "mp": [
+            267.2,
+            267
+          ],
+          "spellblock": [
+            32.1,
+            32
+          ],
+          "attackdamage": [
+            61.54,
+            62
+          ]
+        }
+      },
+      "Brand": {
+        "base_stats": {
+          "hp": [
+            519.68,
+            520
+          ],
+          "armor": [
+            21.88,
+            22
+          ],
+          "mpregen": [
+            10.665,
+            10.67
+          ],
+          "attackdamage": [
+            57.04,
+            57
+          ]
+        }
+      },
+      "Braum": {
+        "base_stats": {
+          "mp": [
+            310.6,
+            311
+          ],
+          "spellblock": [
+            32.1,
+            32
+          ],
+          "attackdamage": [
+            55.376,
+            55
+          ]
+        }
+      },
+      "Caitlyn": {
+        "base_stats": {
+          "mp": [
+            313.7,
+            315
+          ]
+        }
+      },
+      "Camille": {
+        "base_stats": {
+          "hp": [
+            575.6,
+            576
+          ],
+          "mp": [
+            338.8,
+            339
+          ]
+        }
+      },
+      "Cho'Gath": {
+        "base_stats": {
+          "hp": [
+            574.4,
+            574
+          ],
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Corki": {
+        "base_stats": {
+          "mpregen": [
+            7.424,
+            7.42
+          ]
+        }
+      },
+      "Darius": {
+        "base_stats": {
+          "hp": [
+            582.24,
+            582
+          ],
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Diana": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Dr. Mundo": {
+        "base_stats": {
+          "hp": [
+            582.52,
+            583
+          ],
+          "spellblock": [
+            32.1,
+            32
+          ],
+          "attackdamage": [
+            61.27,
+            61
+          ]
+        }
+      },
+      "Draven": {
+        "base_stats": {
+          "mpregen": [
+            8.042,
+            8.04
+          ]
+        }
+      },
+      "Fiddlesticks": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.625,
+            2.63
+          ]
+        },
+        "abilities": {
+          "W Bountiful Harvest": {
+            "cooldown": [
+              [
+                9,
+                8.5,
+                8,
+                7.5,
+                7
+              ],
+              [
+                10,
+                9.5,
+                9,
+                8.5,
+                8
+              ]
+            ]
+          }
+        }
+      },
+      "Fiora": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Fizz": {
+        "base_stats": {
+          "mp": [
+            317.2,
+            317
+          ],
+          "armor": [
+            22.412,
+            22
+          ],
+          "spellblock": [
+            32.1,
+            32
+          ],
+          "attackdamage": [
+            58.04,
+            58
+          ]
+        }
+      },
+      "Galio": {
+        "abilities": {
+          "W Shield of Durand": {
+            "cooldown": [
+              [
+                16,
+                15,
+                14,
+                13,
+                12
+              ],
+              [
+                18,
+                17.5,
+                17,
+                16.5,
+                16
+              ]
+            ]
+          }
+        }
+      },
+      "Gangplank": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ],
+          "attackdamageperlevel": [
+            3,
+            4
+          ]
+        }
+      },
+      "Garen": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Gragas": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Hecarim": {
+        "base_stats": {
+          "mp": [
+            277.2,
+            277
+          ],
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Heimerdinger": {
+        "base_stats": {
+          "armor": [
+            19.04,
+            19
+          ],
+          "attackdamage": [
+            55.536,
+            56
+          ]
+        }
+      },
+      "Illaoi": {
+        "base_stats": {
+          "hp": [
+            585.6,
+            586
+          ],
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Ivern": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Jarvan IV": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Jax": {
+        "base_stats": {
+          "hp": [
+            592.8,
+            593
+          ],
+          "mp": [
+            338.8,
+            339
+          ],
+          "spellblock": [
+            32.1,
+            32
+          ],
+          "mpregen": [
+            7.576,
+            7.58
+          ],
+          "attackdamageperlevel": [
+            3.375,
+            3.38
+          ]
+        }
+      },
+      "Karma": {
+        "base_stats": {
+          "attackdamage": [
+            53.544,
+            54
+          ]
+        }
+      },
+      "Karthus": {
+        "base_stats": {
+          "attackdamage": [
+            45.66,
+            46
+          ]
+        }
+      },
+      "Kassadin": {
+        "base_stats": {
+          "attackdamage": [
+            58.852,
+            59
+          ]
+        }
+      },
+      "Katarina": {
+        "base_stats": {
+          "armor": [
+            27.88,
+            28
+          ],
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Kayn": {
+        "base_stats": {
+          "armor": [
+            35,
+            38
+          ],
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Kha'Zix": {
+        "base_stats": {
+          "hp": [
+            572.8,
+            573
+          ],
+          "mp": [
+            327.2,
+            327
+          ],
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "LeBlanc": {
+        "base_stats": {
+          "armor": [
+            21.88,
+            22
+          ],
+          "attackdamage": [
+            54.88,
+            55
+          ]
+        }
+      },
+      "Lee Sin": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Leona": {
+        "base_stats": {
+          "hp": [
+            576.16,
+            576
+          ],
+          "mp": [
+            302.2,
+            302
+          ],
+          "spellblock": [
+            32.1,
+            32
+          ],
+          "attackdamage": [
+            60.04,
+            60
+          ]
+        }
+      },
+      "Lillia": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Lucian": {
+        "base_stats": {
+          "mpregen": [
+            8.176,
+            8.18
+          ]
+        }
+      },
+      "Lux": {
+        "base_stats": {
+          "armor": [
+            18.72,
+            19
+          ],
+          "attackdamage": [
+            53.54,
+            54
+          ]
+        }
+      },
+      "Malphite": {
+        "base_stats": {
+          "hp": [
+            575,
+            574
+          ],
+          "spellblock": [
+            32.1,
+            28
+          ],
+          "mpregen": [
+            7.324,
+            7.32
+          ],
+          "attackdamage": [
+            61.97,
+            62
+          ]
+        }
+      },
+      "Maokai": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ],
+          "attackdamage": [
+            63.54,
+            64
+          ]
+        }
+      },
+      "Master Yi": {
+        "base_stats": {
+          "hp": [
+            598.56,
+            599
+          ],
+          "mp": [
+            250.56,
+            251
+          ],
+          "spellblock": [
+            32.1,
+            32
+          ],
+          "mpregen": [
+            7.256,
+            7.26
+          ]
+        },
+        "abilities": {
+          "Q Alpha Strike": {
+            "cooldown": [
+              [
+                18,
+                17,
+                16,
+                15,
+                14
+              ],
+              [
+                18,
+                17.5,
+                17,
+                16.5,
+                16
+              ]
+            ]
+          }
+        }
+      },
+      "Miss Fortune": {
+        "base_stats": {
+          "mpregen": [
+            8.042,
+            8.04
+          ]
+        }
+      },
+      "Nami": {
+        "base_stats": {
+          "attackdamage": [
+            51.208,
+            51
+          ]
+        }
+      },
+      "Nasus": {
+        "base_stats": {
+          "hp": [
+            561.2,
+            561
+          ],
+          "mp": [
+            325.6,
+            326
+          ],
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Nautilus": {
+        "base_stats": {
+          "hp": [
+            576.48,
+            576
+          ],
+          "spellblock": [
+            32.1,
+            32
+          ],
+          "mpregen": [
+            8.626,
+            8.63
+          ]
+        }
+      },
+      "Nocturne": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Nunu & Willump": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Olaf": {
+        "base_stats": {
+          "hp": [
+            597.24,
+            597
+          ],
+          "mp": [
+            315.6,
+            316
+          ],
+          "spellblock": [
+            32.1,
+            32
+          ],
+          "mpregen": [
+            7.465,
+            7.47
+          ],
+          "mpregenperlevel": [
+            0.575,
+            0.58
+          ]
+        }
+      },
+      "Orianna": {
+        "base_stats": {
+          "armor": [
+            17.04,
+            17
+          ],
+          "attackdamage": [
+            40.368,
+            40
+          ]
+        }
+      },
+      "Ornn": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Pantheon": {
+        "base_stats": {
+          "hpregen": [
+            10,
+            9
+          ],
+          "mpregen": [
+            7.356,
+            7.36
+          ]
+        }
+      },
+      "Qiyana": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ],
+          "hpregen": [
+            8.5,
+            9
+          ],
+          "hpregenperlevel": [
+            0.65,
+            0.9
+          ],
+          "attackdamage": [
+            64,
+            66
+          ]
+        }
+      },
+      "Quinn": {
+        "base_stats": {
+          "hp": [
+            532.8,
+            533
+          ],
+          "mp": [
+            268.8,
+            269
+          ],
+          "mpregen": [
+            6.972,
+            6.97
+          ]
+        }
+      },
+      "Rakan": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Rammus": {
+        "base_stats": {
+          "hp": [
+            564.48,
+            564
+          ],
+          "mp": [
+            310.44,
+            310
+          ],
+          "spellblock": [
+            32.1,
+            32
+          ],
+          "attackdamage": [
+            55.88,
+            56
+          ]
+        }
+      },
+      "Rek'Sai": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Renekton": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Rengar": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Riven": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Rumble": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Ryze": {
+        "abilities": {
+          "Q Overload": {
+            "cost": [
+              [
+                40,
+                40,
+                40,
+                40,
+                40
+              ],
+              [
+                40,
+                38,
+                36,
+                34,
+                32
+              ]
+            ]
+          }
+        }
+      },
+      "Samira": {
+        "base_stats": {
+          "mpregen": [
+            8.176,
+            8.18
+          ]
+        }
+      },
+      "Sejuani": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Shaco": {
+        "base_stats": {
+          "mp": [
+            297.2,
+            297
+          ],
+          "spellblock": [
+            32.1,
+            32
+          ],
+          "mpregen": [
+            7.156,
+            7.16
+          ]
+        }
+      },
+      "Shen": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Shyvana": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Singed": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ],
+          "attackdamageperlevel": [
+            3.375,
+            3.38
+          ]
+        }
+      },
+      "Sion": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Skarner": {
+        "base_stats": {
+          "hp": [
+            601.28,
+            601
+          ],
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Swain": {
+        "base_stats": {
+          "armor": [
+            22.72,
+            23
+          ]
+        }
+      },
+      "Syndra": {
+        "base_stats": {
+          "armor": [
+            24.712,
+            25
+          ],
+          "attackdamage": [
+            53.872,
+            54
+          ]
+        }
+      },
+      "Tahm Kench": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Taliyah": {
+        "base_stats": {
+          "mpregen": [
+            9.335,
+            9.34
+          ]
+        }
+      },
+      "Talon": {
+        "abilities": {
+          "Q Noxian Diplomacy": {
+            "cooldown": [
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              [
+                8,
+                7.5,
+                7,
+                6.5,
+                6
+              ]
+            ]
+          }
+        }
+      },
+      "Taric": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Teemo": {
+        "base_stats": {
+          "armor": [
+            24.3,
+            24
+          ]
+        }
+      },
+      "Thresh": {
+        "base_stats": {
+          "hp": [
+            560.52,
+            561
+          ],
+          "mp": [
+            273.92,
+            274
+          ]
+        }
+      },
+      "Trundle": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Tryndamere": {
+        "base_stats": {
+          "hp": [
+            625.64,
+            626
+          ],
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Twitch": {
+        "base_stats": {
+          "mpregen": [
+            7.256,
+            7.26
+          ]
+        }
+      },
+      "Udyr": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Urgot": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Vayne": {
+        "base_stats": {
+          "mpregen": [
+            6.972,
+            6.97
+          ]
+        }
+      },
+      "Vel'Koz": {
+        "base_stats": {
+          "armor": [
+            21.88,
+            22
+          ],
+          "attackdamage": [
+            54.9379,
+            55
+          ]
+        }
+      },
+      "Vi": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Warwick": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ],
+          "mpregen": [
+            7.465,
+            7.47
+          ],
+          "mpregenperlevel": [
+            0.575,
+            0.58
+          ]
+        }
+      },
+      "Xayah": {
+        "abilities": {
+          "E Bladecaller": {
+            "cooldown": [
+              [
+                12,
+                11,
+                10,
+                9,
+                8
+              ],
+              [
+                10,
+                9.5,
+                9,
+                8.5,
+                8
+              ]
+            ],
+            "cost": [
+              [
+                40,
+                40,
+                40,
+                40,
+                40
+              ],
+              [
+                30,
+                30,
+                30,
+                30,
+                30
+              ]
+            ]
+          }
+        }
+      },
+      "Xerath": {
+        "base_stats": {
+          "armor": [
+            21.88,
+            22
+          ],
+          "attackdamage": [
+            54.7,
+            55
+          ]
+        }
+      },
+      "Xin Zhao": {
+        "base_stats": {
+          "mp": [
+            273.8,
+            274
+          ],
+          "spellblock": [
+            32.1,
+            32
+          ],
+          "mpregen": [
+            7.256,
+            7.26
+          ]
+        }
+      },
+      "Yasuo": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.2,
+            2.2
+          ]
+        }
+      },
+      "Yone": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            2
+          ]
+        }
+      },
+      "Zed": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Ziggs": {
+        "base_stats": {
+          "armor": [
+            21.544,
+            22
+          ],
+          "attackdamage": [
+            54.208,
+            54
+          ]
+        }
+      },
+      "Zilean": {
+        "base_stats": {
+          "mpregen": [
+            11.335,
+            11.34
+          ],
+          "attackdamage": [
+            51.64,
+            52
+          ]
+        }
+      },
+      "Zoe": {
+        "base_stats": {
+          "armor": [
+            20.8,
+            21
+          ]
+        }
+      },
+      "Zyra": {
+        "base_stats": {
+          "attackdamage": [
+            53.376,
+            53
+          ]
+        }
+      }
+    },
+    "items": {
+      "Archangel's Staff": {
+        "stats": {
+          "FlatMagicDamageMod": [
+            60,
+            65
+          ]
+        }
+      },
+      "Duskblade of Draktharr": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            55,
+            60
+          ]
+        }
+      },
+      "Hextech Rocketbelt": {
+        "stats": {
+          "FlatHPPoolMod": [
+            250,
+            350
+          ],
+          "FlatMagicDamageMod": [
+            80,
+            90
+          ]
+        }
+      },
+      "Manamune": {
+        "gold": [
+          2600,
+          2900
+        ]
+      },
+      "Night Harvester": {
+        "stats": {
+          "FlatHPPoolMod": [
+            250,
+            300
+          ],
+          "FlatMagicDamageMod": [
+            80,
+            90
+          ]
+        }
+      },
+      "Runaan's Hurricane": {
+        "gold": [
+          3400,
+          2500
+        ],
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            25,
+            null
+          ]
+        }
+      },
+      "Stridebreaker": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            50,
+            45
+          ]
+        }
+      },
+      "Trinity Force": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            35,
+            25
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

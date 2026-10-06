@@ -1,0 +1,740 @@
+{
+  "description": "Tournament draft formats in LoL-Draft. Every .inter row has draft_format:token (= name) and timestamp:float (= slot). team 1 = the team that drafts first (first_team:float = 1 on its rows; blue side until 2025, either side from 2026), team 2 = the other team. The order is rebuilt from Leaguepedia's per-team ban/pick slots.",
+  "formats": [
+    {
+      "name": "td20_10.1",
+      "actions": 20,
+      "picks_per_team": 5,
+      "bans_per_team": 5,
+      "patches": [
+        {
+          "patch": 924,
+          "version": "9.24b"
+        },
+        {
+          "patch": 1001,
+          "version": "10.1"
+        },
+        {
+          "patch": 1002,
+          "version": "10.2"
+        },
+        {
+          "patch": 1003,
+          "version": "10.3"
+        },
+        {
+          "patch": 1004,
+          "version": "10.4"
+        },
+        {
+          "patch": 1005,
+          "version": "10.5"
+        },
+        {
+          "patch": 1006,
+          "version": "10.6"
+        },
+        {
+          "patch": 1007,
+          "version": "10.7"
+        },
+        {
+          "patch": 1008,
+          "version": "10.8"
+        },
+        {
+          "patch": 1009,
+          "version": "10.9"
+        },
+        {
+          "patch": 1010,
+          "version": "10.10"
+        },
+        {
+          "patch": 1011,
+          "version": "10.11"
+        },
+        {
+          "patch": 1012,
+          "version": "10.12"
+        },
+        {
+          "patch": 1013,
+          "version": "10.13"
+        },
+        {
+          "patch": 1014,
+          "version": "10.14"
+        },
+        {
+          "patch": 1015,
+          "version": "10.15"
+        },
+        {
+          "patch": 1016,
+          "version": "10.16"
+        },
+        {
+          "patch": 1018,
+          "version": "10.18"
+        },
+        {
+          "patch": 1019,
+          "version": "10.19"
+        },
+        {
+          "patch": 1020,
+          "version": "10.20"
+        },
+        {
+          "patch": 1021,
+          "version": "10.21"
+        },
+        {
+          "patch": 1022,
+          "version": "10.22"
+        },
+        {
+          "patch": 1023,
+          "version": "10.23"
+        },
+        {
+          "patch": 1024,
+          "version": "10.24"
+        },
+        {
+          "patch": 1025,
+          "version": "10.25b"
+        },
+        {
+          "patch": 1101,
+          "version": "11.1"
+        },
+        {
+          "patch": 1102,
+          "version": "11.2"
+        },
+        {
+          "patch": 1103,
+          "version": "11.3"
+        },
+        {
+          "patch": 1104,
+          "version": "11.4"
+        },
+        {
+          "patch": 1105,
+          "version": "11.5"
+        },
+        {
+          "patch": 1106,
+          "version": "11.6"
+        },
+        {
+          "patch": 1107,
+          "version": "11.7"
+        },
+        {
+          "patch": 1108,
+          "version": "11.8"
+        },
+        {
+          "patch": 1109,
+          "version": "11.9"
+        },
+        {
+          "patch": 1110,
+          "version": "11.10"
+        },
+        {
+          "patch": 1111,
+          "version": "11.11"
+        },
+        {
+          "patch": 1112,
+          "version": "11.12"
+        },
+        {
+          "patch": 1113,
+          "version": "11.13"
+        },
+        {
+          "patch": 1114,
+          "version": "11.14"
+        },
+        {
+          "patch": 1115,
+          "version": "11.15"
+        },
+        {
+          "patch": 1116,
+          "version": "11.16"
+        },
+        {
+          "patch": 1117,
+          "version": "11.17"
+        },
+        {
+          "patch": 1118,
+          "version": "11.18"
+        },
+        {
+          "patch": 1119,
+          "version": "11.19"
+        },
+        {
+          "patch": 1120,
+          "version": "11.20"
+        },
+        {
+          "patch": 1121,
+          "version": "11.21"
+        },
+        {
+          "patch": 1122,
+          "version": "11.22"
+        },
+        {
+          "patch": 1123,
+          "version": "11.23"
+        },
+        {
+          "patch": 1124,
+          "version": "11.24"
+        },
+        {
+          "patch": 1201,
+          "version": "12.1"
+        },
+        {
+          "patch": 1202,
+          "version": "12.2"
+        },
+        {
+          "patch": 1203,
+          "version": "12.3"
+        },
+        {
+          "patch": 1204,
+          "version": "12.4"
+        },
+        {
+          "patch": 1205,
+          "version": "12.5"
+        },
+        {
+          "patch": 1206,
+          "version": "12.6"
+        },
+        {
+          "patch": 1207,
+          "version": "12.7"
+        },
+        {
+          "patch": 1208,
+          "version": "12.8"
+        },
+        {
+          "patch": 1209,
+          "version": "12.9"
+        },
+        {
+          "patch": 1210,
+          "version": "12.10"
+        },
+        {
+          "patch": 1211,
+          "version": "12.11"
+        },
+        {
+          "patch": 1212,
+          "version": "12.12"
+        },
+        {
+          "patch": 1213,
+          "version": "12.13"
+        },
+        {
+          "patch": 1214,
+          "version": "12.14"
+        },
+        {
+          "patch": 1215,
+          "version": "12.15"
+        },
+        {
+          "patch": 1216,
+          "version": "12.16"
+        },
+        {
+          "patch": 1217,
+          "version": "12.17"
+        },
+        {
+          "patch": 1218,
+          "version": "12.18"
+        },
+        {
+          "patch": 1219,
+          "version": "12.19"
+        },
+        {
+          "patch": 1220,
+          "version": "12.20"
+        },
+        {
+          "patch": 1221,
+          "version": "12.21"
+        },
+        {
+          "patch": 1223,
+          "version": "12.23"
+        },
+        {
+          "patch": 1301,
+          "version": "13.1"
+        },
+        {
+          "patch": 1303,
+          "version": "13.3"
+        },
+        {
+          "patch": 1304,
+          "version": "13.4"
+        },
+        {
+          "patch": 1305,
+          "version": "13.5"
+        },
+        {
+          "patch": 1306,
+          "version": "13.6"
+        },
+        {
+          "patch": 1307,
+          "version": "13.7"
+        },
+        {
+          "patch": 1308,
+          "version": "13.8"
+        },
+        {
+          "patch": 1310,
+          "version": "13.10"
+        },
+        {
+          "patch": 1311,
+          "version": "13.11"
+        },
+        {
+          "patch": 1312,
+          "version": "13.12"
+        },
+        {
+          "patch": 1313,
+          "version": "13.13"
+        },
+        {
+          "patch": 1314,
+          "version": "13.14"
+        },
+        {
+          "patch": 1315,
+          "version": "13.15"
+        },
+        {
+          "patch": 1316,
+          "version": "13.16"
+        },
+        {
+          "patch": 1317,
+          "version": "13.17"
+        },
+        {
+          "patch": 1318,
+          "version": "13.18"
+        },
+        {
+          "patch": 1319,
+          "version": "13.19"
+        },
+        {
+          "patch": 1320,
+          "version": "13.20"
+        },
+        {
+          "patch": 1321,
+          "version": "13.21"
+        },
+        {
+          "patch": 1324,
+          "version": "13.24"
+        },
+        {
+          "patch": 1401,
+          "version": "14.1"
+        },
+        {
+          "patch": 1402,
+          "version": "14.2"
+        },
+        {
+          "patch": 1403,
+          "version": "14.3"
+        },
+        {
+          "patch": 1404,
+          "version": "14.4"
+        },
+        {
+          "patch": 1405,
+          "version": "14.5"
+        },
+        {
+          "patch": 1406,
+          "version": "14.6"
+        },
+        {
+          "patch": 1407,
+          "version": "14.7"
+        },
+        {
+          "patch": 1408,
+          "version": "14.8"
+        },
+        {
+          "patch": 1409,
+          "version": "14.9"
+        },
+        {
+          "patch": 1410,
+          "version": "14.10"
+        },
+        {
+          "patch": 1411,
+          "version": "14.11"
+        },
+        {
+          "patch": 1412,
+          "version": "14.12"
+        },
+        {
+          "patch": 1413,
+          "version": "14.13"
+        },
+        {
+          "patch": 1414,
+          "version": "14.14"
+        },
+        {
+          "patch": 1415,
+          "version": "14.15"
+        },
+        {
+          "patch": 1416,
+          "version": "14.16"
+        },
+        {
+          "patch": 1417,
+          "version": "14.17"
+        },
+        {
+          "patch": 1418,
+          "version": "14.18"
+        },
+        {
+          "patch": 1419,
+          "version": "14.19"
+        },
+        {
+          "patch": 1420,
+          "version": "14.20"
+        },
+        {
+          "patch": 1421,
+          "version": "14.21"
+        },
+        {
+          "patch": 1422,
+          "version": "14.22"
+        },
+        {
+          "patch": 1423,
+          "version": "14.23"
+        },
+        {
+          "patch": 1424,
+          "version": "14.24"
+        },
+        {
+          "patch": 2501,
+          "version": "25.S1.1"
+        },
+        {
+          "patch": 2502,
+          "version": "25.S1.2"
+        },
+        {
+          "patch": 2503,
+          "version": "25.S1.3"
+        },
+        {
+          "patch": 2504,
+          "version": "25.04"
+        },
+        {
+          "patch": 2505,
+          "version": "25.05"
+        },
+        {
+          "patch": 2506,
+          "version": "25.06"
+        },
+        {
+          "patch": 2507,
+          "version": "25.07"
+        },
+        {
+          "patch": 2508,
+          "version": "25.08"
+        },
+        {
+          "patch": 2509,
+          "version": "25.09"
+        },
+        {
+          "patch": 2510,
+          "version": "25.10"
+        },
+        {
+          "patch": 2511,
+          "version": "25.11"
+        },
+        {
+          "patch": 2512,
+          "version": "25.12"
+        },
+        {
+          "patch": 2513,
+          "version": "25.13"
+        },
+        {
+          "patch": 2514,
+          "version": "25.14"
+        },
+        {
+          "patch": 2515,
+          "version": "25.15"
+        },
+        {
+          "patch": 2516,
+          "version": "25.16"
+        },
+        {
+          "patch": 2517,
+          "version": "25.17"
+        },
+        {
+          "patch": 2518,
+          "version": "25.18"
+        },
+        {
+          "patch": 2519,
+          "version": "25.19"
+        },
+        {
+          "patch": 2520,
+          "version": "25.20"
+        },
+        {
+          "patch": 2521,
+          "version": "25.21"
+        },
+        {
+          "patch": 2522,
+          "version": "25.22"
+        },
+        {
+          "patch": 2523,
+          "version": "25.23"
+        },
+        {
+          "patch": 2524,
+          "version": "25.24"
+        },
+        {
+          "patch": 2601,
+          "version": "26.01"
+        },
+        {
+          "patch": 2602,
+          "version": "26.02"
+        },
+        {
+          "patch": 2603,
+          "version": "26.03"
+        },
+        {
+          "patch": 2604,
+          "version": "26.04"
+        },
+        {
+          "patch": 2605,
+          "version": "26.05"
+        },
+        {
+          "patch": 2606,
+          "version": "26.06"
+        },
+        {
+          "patch": 2607,
+          "version": "26.07"
+        },
+        {
+          "patch": 2608,
+          "version": "26.08"
+        },
+        {
+          "patch": 2609,
+          "version": "26.09"
+        },
+        {
+          "patch": 2610,
+          "version": "26.10"
+        },
+        {
+          "patch": 2611,
+          "version": "26.11"
+        },
+        {
+          "patch": 2612,
+          "version": "26.12"
+        },
+        {
+          "patch": 2613,
+          "version": "26.13"
+        },
+        {
+          "patch": 2614,
+          "version": "26.14"
+        },
+        {
+          "patch": 2615,
+          "version": "26.15"
+        },
+        {
+          "patch": 2616,
+          "version": "26.16"
+        },
+        {
+          "patch": 2617,
+          "version": "26.17"
+        }
+      ],
+      "order": "b1 b2 b1 b2 b1 b2 P1 P2 P2 P1 P1 P2 b2 b1 b2 b1 P2 P1 P1 P2",
+      "slots": [
+        {
+          "slot": 0,
+          "action": "ban",
+          "team": 1
+        },
+        {
+          "slot": 1,
+          "action": "ban",
+          "team": 2
+        },
+        {
+          "slot": 2,
+          "action": "ban",
+          "team": 1
+        },
+        {
+          "slot": 3,
+          "action": "ban",
+          "team": 2
+        },
+        {
+          "slot": 4,
+          "action": "ban",
+          "team": 1
+        },
+        {
+          "slot": 5,
+          "action": "ban",
+          "team": 2
+        },
+        {
+          "slot": 6,
+          "action": "pick",
+          "team": 1
+        },
+        {
+          "slot": 7,
+          "action": "pick",
+          "team": 2
+        },
+        {
+          "slot": 8,
+          "action": "pick",
+          "team": 2
+        },
+        {
+          "slot": 9,
+          "action": "pick",
+          "team": 1
+        },
+        {
+          "slot": 10,
+          "action": "pick",
+          "team": 1
+        },
+        {
+          "slot": 11,
+          "action": "pick",
+          "team": 2
+        },
+        {
+          "slot": 12,
+          "action": "ban",
+          "team": 2
+        },
+        {
+          "slot": 13,
+          "action": "ban",
+          "team": 1
+        },
+        {
+          "slot": 14,
+          "action": "ban",
+          "team": 2
+        },
+        {
+          "slot": 15,
+          "action": "ban",
+          "team": 1
+        },
+        {
+          "slot": 16,
+          "action": "pick",
+          "team": 2
+        },
+        {
+          "slot": 17,
+          "action": "pick",
+          "team": 1
+        },
+        {
+          "slot": 18,
+          "action": "pick",
+          "team": 1
+        },
+        {
+          "slot": 19,
+          "action": "pick",
+          "team": 2
+        }
+      ]
+    }
+  ]
+}

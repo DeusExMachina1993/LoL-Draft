@@ -1,0 +1,191 @@
+{
+  "metadata": {
+    "name": "26.13",
+    "id": 2613,
+    "first_match": "2026-06-27 16:12",
+    "ddragon_version": "16.13.1",
+    "compared_with": "16.12.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-26-13-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [
+      "Locke"
+    ],
+    "champions": {
+      "Brand": {
+        "base_stats": {
+          "mpregen": [
+            9,
+            11
+          ]
+        },
+        "abilities": {
+          "E Conflagration": {
+            "cost": [
+              [
+                70,
+                75,
+                80,
+                85,
+                90
+              ],
+              [
+                90,
+                90,
+                90,
+                90,
+                90
+              ]
+            ]
+          }
+        }
+      },
+      "Cassiopeia": {
+        "base_stats": {
+          "hpperlevel": [
+            104,
+            98
+          ]
+        }
+      },
+      "Draven": {
+        "abilities": {
+          "E Stand Aside": {
+            "cooldown": [
+              [
+                18,
+                17,
+                16,
+                15,
+                14
+              ],
+              [
+                16,
+                15,
+                14,
+                13,
+                12
+              ]
+            ]
+          }
+        }
+      },
+      "Kai'Sa": {
+        "abilities": {
+          "W Void Seeker": {
+            "cooldown": [
+              [
+                22,
+                20,
+                18,
+                16,
+                14
+              ],
+              [
+                20,
+                18.5,
+                17,
+                15.5,
+                14
+              ]
+            ]
+          }
+        }
+      },
+      "Sion": {
+        "abilities": {
+          "W Soul Furnace": {
+            "cost": [
+              [
+                65,
+                70,
+                75,
+                80,
+                85
+              ],
+              [
+                75,
+                80,
+                85,
+                90,
+                95
+              ]
+            ]
+          }
+        }
+      },
+      "Vex": {
+        "abilities": {
+          "E Looming Darkness": {
+            "cooldown": [
+              [
+                13,
+                13,
+                13,
+                13,
+                13
+              ],
+              [
+                12,
+                12,
+                12,
+                12,
+                12
+              ]
+            ]
+          }
+        }
+      },
+      "Zaahen": {
+        "abilities": {
+          "W Dreaded Return": {
+            "cooldown": [
+              [
+                16,
+                15,
+                14,
+                13,
+                12
+              ],
+              [
+                14,
+                13.5,
+                13,
+                12.5,
+                12
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Doran's Helm": {
+        "stats": {
+          "FlatArmorMod": [
+            10,
+            8
+          ],
+          "FlatHPPoolMod": [
+            140,
+            150
+          ],
+          "FlatSpellBlockMod": [
+            10,
+            8
+          ]
+        }
+      },
+      "Imperial Mandate": {
+        "stats": {
+          "FlatMagicDamageMod": [
+            65,
+            60
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

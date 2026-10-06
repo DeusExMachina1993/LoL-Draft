@@ -1,0 +1,225 @@
+{
+  "metadata": {
+    "name": "11.7",
+    "id": 1107,
+    "first_match": "2021-04-01 23:44",
+    "ddragon_version": "11.7.1",
+    "compared_with": "11.6.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-11-7-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Amumu": {
+        "abilities": {
+          "Q Bandage Toss": {
+            "cost": [
+              [
+                50,
+                55,
+                60,
+                65,
+                70
+              ],
+              [
+                30,
+                35,
+                40,
+                45,
+                50
+              ]
+            ]
+          },
+          "E Tantrum": {
+            "cooldown": [
+              [
+                10,
+                9,
+                8,
+                7,
+                6
+              ],
+              [
+                9,
+                8,
+                7,
+                6,
+                5
+              ]
+            ]
+          }
+        }
+      },
+      "Ashe": {
+        "abilities": {
+          "R Enchanted Crystal Arrow": {
+            "cooldown": [
+              [
+                100,
+                90,
+                80
+              ],
+              [
+                100,
+                80,
+                60
+              ]
+            ]
+          }
+        }
+      },
+      "Braum": {
+        "abilities": {
+          "E Unbreakable": {
+            "cooldown": [
+              [
+                18,
+                16,
+                14,
+                12,
+                10
+              ],
+              [
+                16,
+                14,
+                12,
+                10,
+                8
+              ]
+            ]
+          }
+        }
+      },
+      "Kai'Sa": {
+        "abilities": {
+          "R Killer Instinct": {
+            "cooldown": [
+              [
+                110,
+                90,
+                70
+              ],
+              [
+                130,
+                100,
+                70
+              ]
+            ]
+          }
+        }
+      },
+      "Kindred": {
+        "abilities": {
+          "E Mounting Dread": {
+            "cooldown": [
+              [
+                16,
+                15,
+                14,
+                13,
+                12
+              ],
+              [
+                14,
+                13,
+                12,
+                11,
+                10
+              ]
+            ]
+          }
+        }
+      },
+      "Tristana": {
+        "base_stats": {
+          "attackdamage": [
+            61,
+            59
+          ]
+        }
+      },
+      "Udyr": {
+        "base_stats": {
+          "attackdamage": [
+            66,
+            64
+          ]
+        }
+      },
+      "Varus": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            3.4
+          ]
+        }
+      },
+      "Yasuo": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.2,
+            3
+          ]
+        }
+      }
+    },
+    "items": {
+      "Essence Reaver": {
+        "gold": [
+          2900,
+          2800
+        ],
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            55,
+            45
+          ]
+        }
+      },
+      "Goredrinker": {
+        "gold": [
+          3200,
+          3300
+        ]
+      },
+      "Lord Dominik's Regards": {
+        "gold": [
+          2900,
+          3000
+        ],
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            35,
+            30
+          ]
+        }
+      },
+      "Serylda's Grudge": {
+        "gold": [
+          3400,
+          3200
+        ]
+      },
+      "Stridebreaker": {
+        "gold": [
+          3200,
+          3300
+        ]
+      },
+      "Trinity Force": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            25,
+            30
+          ],
+          "PercentAttackSpeedMod": [
+            0.35,
+            0.3
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

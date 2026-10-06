@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "name": "10.10",
+    "id": 1010,
+    "first_match": "2020-05-13 22:59",
+    "ddragon_version": "10.10.1",
+    "compared_with": "10.9.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-10-10-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Diana": {
+        "base_stats": {
+          "hp": [
+            594,
+            570
+          ],
+          "attackdamage": [
+            57.04,
+            57
+          ]
+        }
+      },
+      "Kled": {
+        "abilities": {
+          "Q Bear Trap on a Rope": {
+            "cooldown": [
+              [
+                9,
+                8.5,
+                8,
+                7.5,
+                7
+              ],
+              [
+                11,
+                10,
+                9,
+                8,
+                7
+              ]
+            ]
+          }
+        }
+      },
+      "Maokai": {
+        "base_stats": {
+          "mp": [
+            377.28,
+            375
+          ]
+        },
+        "abilities": {
+          "Q Bramble Smash": {
+            "cost": [
+              [
+                50,
+                50,
+                50,
+                50,
+                50
+              ],
+              [
+                60,
+                60,
+                60,
+                60,
+                60
+              ]
+            ]
+          }
+        }
+      },
+      "Taric": {
+        "base_stats": {
+          "hpperlevel": [
+            90,
+            85
+          ]
+        }
+      },
+      "Twisted Fate": {
+        "base_stats": {
+          "armor": [
+            20.542,
+            21
+          ],
+          "attackdamage": [
+            49.954,
+            52
+          ]
+        },
+        "abilities": {
+          "R Destiny": {
+            "cost": [
+              [
+                150,
+                125,
+                100
+              ],
+              [
+                100,
+                100,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Udyr": {
+        "base_stats": {
+          "hp": [
+            593.32,
+            594
+          ],
+          "mp": [
+            270.4,
+            271
+          ],
+          "movespeed": [
+            345,
+            350
+          ],
+          "mpregen": [
+            7.506,
+            7.5
+          ]
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

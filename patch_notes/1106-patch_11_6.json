@@ -1,0 +1,301 @@
+{
+  "metadata": {
+    "name": "11.6",
+    "id": 1106,
+    "first_match": "2021-03-18 19:49",
+    "ddragon_version": "11.6.1",
+    "compared_with": "11.5.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-11-6-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Akali": {
+        "base_stats": {
+          "hp": [
+            575,
+            500
+          ],
+          "hpperlevel": [
+            95,
+            105
+          ]
+        },
+        "abilities": {
+          "Q Five Point Strike": {
+            "cost": [
+              [
+                120,
+                115,
+                110,
+                105,
+                100
+              ],
+              [
+                130,
+                115,
+                100,
+                85,
+                70
+              ]
+            ]
+          }
+        }
+      },
+      "Kled": {
+        "base_stats": {
+          "hp": [
+            740,
+            340
+          ],
+          "hpperlevel": [
+            130,
+            70
+          ]
+        }
+      },
+      "LeBlanc": {
+        "abilities": {
+          "W Distortion": {
+            "cost": [
+              [
+                60,
+                75,
+                90,
+                105,
+                120
+              ],
+              [
+                60,
+                70,
+                80,
+                90,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Lillia": {
+        "abilities": {
+          "R Lilting Lullaby": {
+            "cooldown": [
+              [
+                130,
+                110,
+                90
+              ],
+              [
+                150,
+                130,
+                110
+              ]
+            ]
+          }
+        }
+      },
+      "Pyke": {
+        "abilities": {
+          "E Phantom Undertow": {
+            "cooldown": [
+              [
+                15,
+                15,
+                15,
+                15,
+                15
+              ],
+              [
+                15,
+                14,
+                13,
+                12,
+                11
+              ]
+            ]
+          }
+        }
+      },
+      "Sylas": {
+        "abilities": {
+          "W Kingslayer": {
+            "cooldown": [
+              [
+                13,
+                11.5,
+                10,
+                8.5,
+                7
+              ],
+              [
+                13,
+                11.25,
+                9.5,
+                7.75,
+                6
+              ]
+            ],
+            "cost": [
+              [
+                70,
+                80,
+                90,
+                100,
+                110
+              ],
+              [
+                60,
+                70,
+                80,
+                90,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Xin Zhao": {
+        "abilities": {
+          "W Wind Becomes Lightning": {
+            "cooldown": [
+              [
+                12,
+                11,
+                10,
+                9,
+                8
+              ],
+              [
+                12,
+                10.5,
+                9,
+                7.5,
+                6
+              ]
+            ],
+            "cost": [
+              [
+                45,
+                45,
+                45,
+                45,
+                45
+              ],
+              [
+                60,
+                60,
+                60,
+                60,
+                60
+              ]
+            ],
+            "range": [
+              [
+                900,
+                900,
+                900,
+                900,
+                900
+              ],
+              [
+                1000,
+                1000,
+                1000,
+                1000,
+                1000
+              ]
+            ]
+          },
+          "E Audacious Charge": {
+            "cooldown": [
+              [
+                12,
+                12,
+                12,
+                12,
+                12
+              ],
+              [
+                11,
+                11,
+                11,
+                11,
+                11
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Blade of The Ruined King": {
+        "stats": {
+          "PercentLifeStealMod": [
+            0.12,
+            0.1
+          ]
+        }
+      },
+      "Goredrinker": {
+        "gold": [
+          3300,
+          3200
+        ]
+      },
+      "Immortal Shieldbow": {
+        "stats": {
+          "PercentLifeStealMod": [
+            0.12,
+            0.1
+          ]
+        }
+      },
+      "Ironspike Whip": {
+        "gold": [
+          1200,
+          1100
+        ]
+      },
+      "Rabadon's Deathcap": {
+        "gold": [
+          3800,
+          3600
+        ]
+      },
+      "Stridebreaker": {
+        "gold": [
+          3300,
+          3200
+        ],
+        "stats": {
+          "FlatHPPoolMod": [
+            300,
+            200
+          ]
+        }
+      },
+      "Verdant Barrier": {
+        "stats": {
+          "FlatMagicDamageMod": [
+            25,
+            20
+          ]
+        }
+      },
+      "Void Staff": {
+        "gold": [
+          2500,
+          2700
+        ],
+        "stats": {
+          "FlatMagicDamageMod": [
+            65,
+            70
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

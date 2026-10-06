@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "name": "12.19",
+    "id": 1219,
+    "first_match": "2022-10-05 22:45",
+    "ddragon_version": "12.19.1",
+    "compared_with": "12.18.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-12-19-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Blitzcrank": {
+        "base_stats": {
+          "attackspeed": [
+            0.625,
+            0.65
+          ]
+        },
+        "abilities": {
+          "W Overdrive": {
+            "cost": [
+              [
+                75,
+                75,
+                75,
+                75,
+                75
+              ],
+              [
+                85,
+                85,
+                85,
+                85,
+                85
+              ]
+            ]
+          },
+          "E Power Fist": {
+            "cost": [
+              [
+                25,
+                25,
+                25,
+                25,
+                25
+              ],
+              [
+                40,
+                40,
+                40,
+                40,
+                40
+              ]
+            ]
+          }
+        }
+      },
+      "Jinx": {
+        "base_stats": {
+          "attackdamage": [
+            57,
+            59
+          ]
+        }
+      },
+      "Master Yi": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.5,
+            2.2
+          ]
+        }
+      },
+      "Rakan": {
+        "abilities": {
+          "Q Gleaming Quill": {
+            "cooldown": [
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              [
+                12,
+                11,
+                10,
+                9,
+                8
+              ]
+            ]
+          }
+        }
+      },
+      "Rek'Sai": {
+        "base_stats": {
+          "attackdamage": [
+            64,
+            61
+          ]
+        }
+      },
+      "Syndra": {
+        "base_stats": {
+          "hp": [
+            593,
+            563
+          ]
+        },
+        "abilities": {
+          "Q Dark Sphere": {
+            "cooldown": [
+              [
+                4,
+                4,
+                4,
+                4,
+                4
+              ],
+              [
+                7,
+                7,
+                7,
+                7,
+                7
+              ]
+            ],
+            "cost": [
+              [
+                40,
+                50,
+                60,
+                70,
+                80
+              ],
+              [
+                40,
+                45,
+                50,
+                55,
+                60
+              ]
+            ]
+          },
+          "E Scatter the Weak": {
+            "cooldown": [
+              [
+                18,
+                17,
+                16,
+                15,
+                14
+              ],
+              [
+                15,
+                15,
+                15,
+                15,
+                15
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Eclipse": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            55,
+            60
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

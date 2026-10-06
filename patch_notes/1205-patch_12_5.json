@@ -1,0 +1,214 @@
+{
+  "metadata": {
+    "name": "12.5",
+    "id": 1205,
+    "first_match": "2022-03-03 01:15",
+    "ddragon_version": "12.5.1",
+    "compared_with": "12.4.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-12-5-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Ahri": {
+        "abilities": {
+          "W Fox-Fire": {
+            "cost": [
+              [
+                25,
+                25,
+                25,
+                25,
+                25
+              ],
+              [
+                30,
+                30,
+                30,
+                30,
+                30
+              ]
+            ]
+          },
+          "E Charm": {
+            "cost": [
+              [
+                50,
+                50,
+                50,
+                50,
+                50
+              ],
+              [
+                60,
+                60,
+                60,
+                60,
+                60
+              ]
+            ]
+          }
+        }
+      },
+      "Janna": {
+        "abilities": {
+          "W Zephyr": {
+            "range": [
+              [
+                600,
+                600,
+                600,
+                600,
+                600
+              ],
+              [
+                650,
+                650,
+                650,
+                650,
+                650
+              ]
+            ]
+          }
+        }
+      },
+      "Renata Glasc": {
+        "base_stats": {
+          "armorperlevel": [
+            4,
+            3.5
+          ]
+        },
+        "abilities": {
+          "W Bailout": {
+            "cooldown": [
+              [
+                28,
+                26,
+                24,
+                22,
+                20
+              ],
+              [
+                28,
+                27,
+                26,
+                25,
+                24
+              ]
+            ]
+          }
+        }
+      },
+      "Samira": {
+        "base_stats": {
+          "hpperlevel": [
+            88,
+            94
+          ],
+          "armorperlevel": [
+            3,
+            3.5
+          ]
+        },
+        "abilities": {
+          "R Inferno Trigger": {
+            "cooldown": [
+              [
+                8,
+                8,
+                8
+              ],
+              [
+                5,
+                5,
+                5
+              ]
+            ]
+          }
+        }
+      },
+      "Seraphine": {
+        "abilities": {
+          "W Surround Sound": {
+            "cooldown": [
+              [
+                26,
+                25,
+                24,
+                23,
+                22
+              ],
+              [
+                28,
+                26,
+                24,
+                22,
+                20
+              ]
+            ],
+            "cost": [
+              [
+                50,
+                70,
+                90,
+                110,
+                130
+              ],
+              [
+                50,
+                60,
+                70,
+                80,
+                90
+              ]
+            ]
+          },
+          "E Beat Drop": {
+            "cooldown": [
+              [
+                13,
+                12,
+                11,
+                10,
+                9
+              ],
+              [
+                11,
+                10.5,
+                10,
+                9.5,
+                9
+              ]
+            ]
+          }
+        }
+      },
+      "Xin Zhao": {
+        "abilities": {
+          "E Audacious Charge": {
+            "cooldown": [
+              [
+                11,
+                11,
+                11,
+                11,
+                11
+              ],
+              [
+                12,
+                12,
+                12,
+                12,
+                12
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

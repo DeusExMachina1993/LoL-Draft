@@ -1,0 +1,257 @@
+{
+  "metadata": {
+    "name": "26.06",
+    "id": 2606,
+    "first_match": "2026-03-21 14:18",
+    "ddragon_version": "16.6.1",
+    "compared_with": "16.5.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-26-06-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Lissandra": {
+        "base_stats": {
+          "armorperlevel": [
+            4.9,
+            4.2
+          ]
+        },
+        "abilities": {
+          "Q Ice Shard": {
+            "cooldown": [
+              [
+                8,
+                7,
+                6,
+                5,
+                4
+              ],
+              [
+                7,
+                6,
+                5,
+                4,
+                3
+              ]
+            ]
+          }
+        }
+      },
+      "Olaf": {
+        "base_stats": {
+          "attackspeed": [
+            0.694,
+            0.72
+          ]
+        }
+      },
+      "Pyke": {
+        "base_stats": {
+          "armor": [
+            43,
+            37
+          ]
+        }
+      },
+      "Shyvana": {
+        "base_stats": {
+          "hp": [
+            665,
+            625
+          ],
+          "hpperlevel": [
+            104,
+            100
+          ],
+          "armor": [
+            38,
+            35
+          ],
+          "armorperlevel": [
+            4.55,
+            4
+          ],
+          "spellblockperlevel": [
+            1.5,
+            2.05
+          ],
+          "attackrange": [
+            125,
+            150
+          ],
+          "hpregen": [
+            8.5,
+            7
+          ],
+          "hpregenperlevel": [
+            0.8,
+            0.65
+          ],
+          "attackdamage": [
+            66,
+            62
+          ],
+          "attackspeedperlevel": [
+            2.5,
+            2
+          ],
+          "attackspeed": [
+            0.658,
+            0.625
+          ]
+        },
+        "abilities": {
+          "Q Emberstrike": {
+            "cooldown": [
+              [
+                8,
+                7.5,
+                7,
+                6.5,
+                6
+              ],
+              [
+                10,
+                9,
+                8,
+                7,
+                6
+              ]
+            ],
+            "range": [
+              [
+                650,
+                650,
+                650,
+                650,
+                650
+              ],
+              [
+                25000,
+                25000,
+                25000,
+                25000,
+                25000
+              ]
+            ]
+          },
+          "W Inferno Aegis": {
+            "cooldown": [
+              [
+                12,
+                12,
+                12,
+                12,
+                12
+              ],
+              [
+                14,
+                13.5,
+                13,
+                12.5,
+                12
+              ]
+            ],
+            "range": [
+              [
+                325,
+                325,
+                325,
+                325,
+                325
+              ],
+              [
+                350,
+                350,
+                350,
+                350,
+                350
+              ]
+            ]
+          },
+          "E Molten Burst": {
+            "cooldown": [
+              [
+                12,
+                11,
+                10,
+                9,
+                8
+              ],
+              [
+                12,
+                11.5,
+                11,
+                10.5,
+                10
+              ]
+            ],
+            "range": [
+              [
+                925,
+                925,
+                925,
+                925,
+                925
+              ],
+              [
+                800,
+                800,
+                800,
+                800,
+                800
+              ]
+            ]
+          },
+          "R Dragon's Descent": {
+            "range": [
+              [
+                850,
+                850,
+                850
+              ],
+              [
+                1050,
+                1050,
+                1050
+              ]
+            ]
+          }
+        }
+      },
+      "Skarner": {
+        "abilities": {
+          "Q Shattered Earth / Upheaval": {
+            "cost": [
+              [
+                45,
+                45,
+                45,
+                45,
+                45
+              ],
+              [
+                30,
+                30,
+                30,
+                30,
+                30
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Chempunk Chainsword": {
+        "gold": [
+          3100,
+          3000
+        ]
+      }
+    },
+    "removed_items": []
+  }
+}

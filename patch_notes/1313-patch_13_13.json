@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "name": "13.13",
+    "id": 1313,
+    "first_match": "2023-07-01 12:08",
+    "ddragon_version": "13.13.1",
+    "compared_with": "13.12.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-13-13-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Kindred": {
+        "base_stats": {
+          "hp": [
+            610,
+            580
+          ],
+          "armor": [
+            29,
+            26
+          ]
+        }
+      },
+      "Neeko": {
+        "abilities": {
+          "Q Blooming Burst": {
+            "cooldown": [
+              [
+                7,
+                7,
+                7,
+                7,
+                7
+              ],
+              [
+                9,
+                8.5,
+                8,
+                7.5,
+                7
+              ]
+            ]
+          }
+        }
+      },
+      "Nidalee": {
+        "base_stats": {
+          "movespeed": [
+            335,
+            340
+          ]
+        }
+      },
+      "Rek'Sai": {
+        "base_stats": {
+          "hp": [
+            640,
+            600
+          ],
+          "attackdamage": [
+            61,
+            58
+          ]
+        }
+      },
+      "Rell": {
+        "base_stats": {
+          "spellblock": [
+            32,
+            30
+          ],
+          "spellblockperlevel": [
+            2.05,
+            1.85
+          ],
+          "hpregen": [
+            8.5,
+            7.5
+          ]
+        }
+      },
+      "Vi": {
+        "abilities": {
+          "R Cease and Desist": {
+            "cooldown": [
+              [
+                120,
+                100,
+                80
+              ],
+              [
+                140,
+                115,
+                90
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

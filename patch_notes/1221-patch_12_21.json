@@ -1,0 +1,482 @@
+{
+  "metadata": {
+    "name": "12.21",
+    "id": 1221,
+    "first_match": "2022-11-02 22:22",
+    "ddragon_version": "12.21.1",
+    "compared_with": "12.20.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-12-21-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [
+      "K'Sante"
+    ],
+    "champions": {
+      "Ahri": {
+        "abilities": {
+          "Q Orb of Deception": {
+            "cost": [
+              [
+                60,
+                70,
+                80,
+                90,
+                100
+              ],
+              [
+                55,
+                65,
+                75,
+                85,
+                95
+              ]
+            ]
+          }
+        }
+      },
+      "Akshan": {
+        "base_stats": {
+          "mpregen": [
+            8.175,
+            8.2
+          ]
+        }
+      },
+      "Amumu": {
+        "base_stats": {
+          "mpregen": [
+            7.38,
+            7.4
+          ],
+          "mpregenperlevel": [
+            0.53,
+            0.55
+          ]
+        }
+      },
+      "Annie": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.63,
+            2.65
+          ]
+        }
+      },
+      "Ashe": {
+        "base_stats": {
+          "mpregen": [
+            6.97,
+            7
+          ],
+          "attackdamageperlevel": [
+            2.96,
+            2.95
+          ]
+        }
+      },
+      "Bel'Veth": {
+        "abilities": {
+          "E Royal Maelstrom": {
+            "cooldown": [
+              [
+                22,
+                20.5,
+                19,
+                17.5,
+                16
+              ],
+              [
+                24,
+                22.5,
+                21,
+                19.5,
+                18
+              ]
+            ]
+          }
+        }
+      },
+      "Blitzcrank": {
+        "base_stats": {
+          "hp": [
+            653,
+            633
+          ],
+          "spellblock": [
+            32,
+            28
+          ]
+        }
+      },
+      "Brand": {
+        "base_stats": {
+          "mpregen": [
+            10.67,
+            10.65
+          ]
+        }
+      },
+      "Camille": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Corki": {
+        "base_stats": {
+          "hpperlevel": [
+            101,
+            105
+          ],
+          "mpregen": [
+            7.42,
+            7.4
+          ],
+          "attackdamageperlevel": [
+            2.5,
+            2.8
+          ]
+        }
+      },
+      "Darius": {
+        "base_stats": {
+          "mpperlevel": [
+            57.5,
+            58
+          ]
+        }
+      },
+      "Draven": {
+        "base_stats": {
+          "mp": [
+            360.56,
+            361
+          ],
+          "mpregen": [
+            8.04,
+            8.05
+          ],
+          "attackdamageperlevel": [
+            3.61,
+            3.6
+          ]
+        }
+      },
+      "Evelynn": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Fiddlesticks": {
+        "base_stats": {
+          "hp": [
+            650.4,
+            650
+          ],
+          "attackdamage": [
+            55.36,
+            55
+          ],
+          "attackdamageperlevel": [
+            2.63,
+            2.65
+          ]
+        }
+      },
+      "Jax": {
+        "base_stats": {
+          "mpregen": [
+            7.58,
+            7.6
+          ]
+        }
+      },
+      "Karthus": {
+        "base_stats": {
+          "mpperlevel": [
+            30.5,
+            31
+          ]
+        }
+      },
+      "Kog'Maw": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.11,
+            3.1
+          ]
+        }
+      },
+      "Lucian": {
+        "base_stats": {
+          "mp": [
+            348.88,
+            349
+          ]
+        }
+      },
+      "Malphite": {
+        "base_stats": {
+          "mpregen": [
+            7.32,
+            7.3
+          ]
+        }
+      },
+      "Malzahar": {
+        "base_stats": {
+          "mpperlevel": [
+            27.5,
+            28
+          ]
+        }
+      },
+      "Master Yi": {
+        "base_stats": {
+          "mpregen": [
+            7.26,
+            7.25
+          ]
+        }
+      },
+      "Miss Fortune": {
+        "base_stats": {
+          "mpregen": [
+            8.04,
+            8.05
+          ]
+        }
+      },
+      "Nasus": {
+        "base_stats": {
+          "mpregen": [
+            7.44,
+            7.45
+          ]
+        }
+      },
+      "Nautilus": {
+        "base_stats": {
+          "mpregen": [
+            8.63,
+            8.65
+          ]
+        }
+      },
+      "Nilah": {
+        "base_stats": {
+          "mpregen": [
+            8.18,
+            8.2
+          ]
+        }
+      },
+      "Orianna": {
+        "abilities": {
+          "W Command: Dissonance": {
+            "range": [
+              [
+                255,
+                255,
+                255,
+                255,
+                255
+              ],
+              [
+                225,
+                225,
+                225,
+                225,
+                225
+              ]
+            ]
+          }
+        }
+      },
+      "Ornn": {
+        "base_stats": {
+          "mp": [
+            340.6,
+            341
+          ],
+          "mpregen": [
+            8.01,
+            8
+          ]
+        }
+      },
+      "Pantheon": {
+        "base_stats": {
+          "mp": [
+            317.12,
+            317
+          ],
+          "mpregen": [
+            7.36,
+            7.35
+          ]
+        }
+      },
+      "Quinn": {
+        "base_stats": {
+          "mpregen": [
+            6.97,
+            7
+          ]
+        }
+      },
+      "Rammus": {
+        "base_stats": {
+          "mpregen": [
+            7.84,
+            7.85
+          ]
+        }
+      },
+      "Rell": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            32
+          ]
+        }
+      },
+      "Ryze": {
+        "base_stats": {
+          "attackspeedperlevel": [
+            2.112,
+            2.11
+          ]
+        }
+      },
+      "Samira": {
+        "base_stats": {
+          "mp": [
+            348.88,
+            349
+          ],
+          "mpregen": [
+            8.18,
+            8.2
+          ]
+        }
+      },
+      "Shaco": {
+        "base_stats": {
+          "mpregen": [
+            7.16,
+            7.15
+          ]
+        }
+      },
+      "Singed": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.38,
+            3.4
+          ]
+        }
+      },
+      "Swain": {
+        "base_stats": {
+          "mpperlevel": [
+            28.5,
+            29
+          ]
+        }
+      },
+      "Talon": {
+        "base_stats": {
+          "mp": [
+            377.2,
+            377
+          ]
+        }
+      },
+      "Twitch": {
+        "base_stats": {
+          "mpregen": [
+            7.26,
+            7.25
+          ],
+          "attackdamageperlevel": [
+            3.11,
+            3.1
+          ]
+        }
+      },
+      "Vayne": {
+        "base_stats": {
+          "mp": [
+            231.8,
+            232
+          ],
+          "mpregen": [
+            6.97,
+            7
+          ],
+          "attackdamageperlevel": [
+            2.36,
+            2.35
+          ]
+        }
+      },
+      "Warwick": {
+        "base_stats": {
+          "mpregen": [
+            7.47,
+            7.45
+          ],
+          "mpregenperlevel": [
+            0.58,
+            0.6
+          ]
+        }
+      },
+      "Xin Zhao": {
+        "base_stats": {
+          "mpregen": [
+            7.26,
+            7.25
+          ]
+        },
+        "abilities": {
+          "E Audacious Charge": {
+            "cooldown": [
+              [
+                12,
+                12,
+                12,
+                12,
+                12
+              ],
+              [
+                11,
+                11,
+                11,
+                11,
+                11
+              ]
+            ]
+          }
+        }
+      },
+      "Zilean": {
+        "base_stats": {
+          "mpregen": [
+            11.34,
+            11.35
+          ]
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

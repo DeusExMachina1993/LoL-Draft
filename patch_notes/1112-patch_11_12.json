@@ -1,0 +1,198 @@
+{
+  "metadata": {
+    "name": "11.12",
+    "id": 1112,
+    "first_match": "2021-06-10 17:32",
+    "ddragon_version": "11.12.1",
+    "compared_with": "11.11.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-11-12-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Aphelios": {
+        "base_stats": {
+          "spellblock": [
+            26,
+            30
+          ],
+          "attackdamageperlevel": [
+            2.4,
+            3
+          ]
+        }
+      },
+      "Dr. Mundo": {
+        "base_stats": {
+          "armor": [
+            36,
+            32
+          ],
+          "attackdamageperlevel": [
+            3,
+            4.2
+          ],
+          "attackspeedperlevel": [
+            2.8,
+            3.3
+          ],
+          "attackspeed": [
+            0.721,
+            0.67
+          ]
+        },
+        "abilities": {
+          "W Heart Zapper": {
+            "cooldown": [
+              [
+                4,
+                4,
+                4,
+                4,
+                4
+              ],
+              [
+                17,
+                16.5,
+                16,
+                15.5,
+                15
+              ]
+            ]
+          },
+          "E Blunt Force Trauma": {
+            "cooldown": [
+              [
+                6,
+                5.5,
+                5,
+                4.5,
+                4
+              ],
+              [
+                8,
+                7.5,
+                7,
+                6.5,
+                6
+              ]
+            ],
+            "range": [
+              [
+                300,
+                300,
+                300,
+                300,
+                300
+              ],
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            ]
+          }
+        }
+      },
+      "Gnar": {
+        "base_stats": {
+          "attackdamage": [
+            59,
+            57
+          ]
+        }
+      },
+      "Hecarim": {
+        "base_stats": {
+          "armor": [
+            32,
+            35
+          ]
+        }
+      },
+      "Illaoi": {
+        "base_stats": {
+          "mpperlevel": [
+            40,
+            50
+          ]
+        }
+      },
+      "Jarvan IV": {
+        "abilities": {
+          "W Golden Aegis": {
+            "cooldown": [
+              [
+                12,
+                12,
+                12,
+                12,
+                12
+              ],
+              [
+                9,
+                9,
+                9,
+                9,
+                9
+              ]
+            ]
+          }
+        }
+      },
+      "Kai'Sa": {
+        "abilities": {
+          "Q Icathian Rain": {
+            "cooldown": [
+              [
+                8,
+                7.5,
+                7,
+                6.5,
+                6
+              ],
+              [
+                10,
+                9,
+                8,
+                7,
+                6
+              ]
+            ]
+          }
+        }
+      },
+      "Rammus": {
+        "abilities": {
+          "R Soaring Slam": {
+            "cooldown": [
+              [
+                130,
+                110,
+                90
+              ],
+              [
+                110,
+                95,
+                80
+              ]
+            ]
+          }
+        }
+      },
+      "Wukong": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            4,
+            3.5
+          ]
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

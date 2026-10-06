@@ -1,0 +1,558 @@
+{
+  "year": 2024,
+  "schema_version": "1.0",
+  "periods": [
+    "202401",
+    "202402",
+    "202403",
+    "202404",
+    "202405",
+    "202406",
+    "202407",
+    "202408",
+    "202409",
+    "202410",
+    "202411",
+    "202412"
+  ],
+  "first_match": "2024-01-01 05:13",
+  "last_match": "2024-12-22 18:13",
+  "matches": 11089,
+  "team_drafts": 22178,
+  "interactions": 221780,
+  "picks": 110890,
+  "bans": 110890,
+  "heroes": 169,
+  "blue_win_rate": 0.5291,
+  "patches": [
+    {
+      "patch": 1324,
+      "version": "13.24",
+      "matches": 14,
+      "source_matches": 18,
+      "completeness": 0.7778,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1401,
+      "version": "14.1",
+      "matches": 883,
+      "source_matches": 1034,
+      "completeness": 0.854,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1402,
+      "version": "14.2",
+      "matches": 776,
+      "source_matches": 989,
+      "completeness": 0.7846,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1403,
+      "version": "14.3",
+      "matches": 847,
+      "source_matches": 975,
+      "completeness": 0.8687,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1404,
+      "version": "14.4",
+      "matches": 646,
+      "source_matches": 943,
+      "completeness": 0.685,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1405,
+      "version": "14.5",
+      "matches": 808,
+      "source_matches": 1030,
+      "completeness": 0.7845,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1406,
+      "version": "14.6",
+      "matches": 248,
+      "source_matches": 383,
+      "completeness": 0.6475,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1407,
+      "version": "14.7",
+      "matches": 168,
+      "source_matches": 308,
+      "completeness": 0.5455,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1408,
+      "version": "14.8",
+      "matches": 139,
+      "source_matches": 466,
+      "completeness": 0.2983,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1409,
+      "version": "14.9",
+      "matches": 252,
+      "source_matches": 514,
+      "completeness": 0.4903,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1410,
+      "version": "14.10",
+      "matches": 683,
+      "source_matches": 835,
+      "completeness": 0.818,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1411,
+      "version": "14.11",
+      "matches": 770,
+      "source_matches": 916,
+      "completeness": 0.8406,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1412,
+      "version": "14.12",
+      "matches": 829,
+      "source_matches": 1065,
+      "completeness": 0.7784,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1413,
+      "version": "14.13",
+      "matches": 1272,
+      "source_matches": 1468,
+      "completeness": 0.8665,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1414,
+      "version": "14.14",
+      "matches": 341,
+      "source_matches": 423,
+      "completeness": 0.8061,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1415,
+      "version": "14.15",
+      "matches": 667,
+      "source_matches": 703,
+      "completeness": 0.9488,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1416,
+      "version": "14.16",
+      "matches": 329,
+      "source_matches": 395,
+      "completeness": 0.8329,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1417,
+      "version": "14.17",
+      "matches": 200,
+      "source_matches": 324,
+      "completeness": 0.6173,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1418,
+      "version": "14.18",
+      "matches": 735,
+      "source_matches": 814,
+      "completeness": 0.9029,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1419,
+      "version": "14.19",
+      "matches": 84,
+      "source_matches": 154,
+      "completeness": 0.5455,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1420,
+      "version": "14.20",
+      "matches": 118,
+      "source_matches": 195,
+      "completeness": 0.6051,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1421,
+      "version": "14.21",
+      "matches": 114,
+      "source_matches": 132,
+      "completeness": 0.8636,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1422,
+      "version": "14.22",
+      "matches": 49,
+      "source_matches": 177,
+      "completeness": 0.2768,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1423,
+      "version": "14.23",
+      "matches": 100,
+      "source_matches": 287,
+      "completeness": 0.3484,
+      "draft_format": "td20_10.1"
+    },
+    {
+      "patch": 1424,
+      "version": "14.24",
+      "matches": 17,
+      "source_matches": 18,
+      "completeness": 0.9444,
+      "draft_format": "td20_10.1"
+    }
+  ],
+  "draft_formats": {
+    "td20_10.1": 11089
+  },
+  "hero_ids": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    48,
+    50,
+    51,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    67,
+    68,
+    69,
+    72,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    89,
+    90,
+    91,
+    92,
+    96,
+    98,
+    99,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    117,
+    119,
+    120,
+    121,
+    122,
+    126,
+    127,
+    131,
+    133,
+    134,
+    136,
+    141,
+    142,
+    143,
+    145,
+    147,
+    150,
+    154,
+    157,
+    161,
+    163,
+    164,
+    166,
+    200,
+    201,
+    202,
+    203,
+    221,
+    222,
+    223,
+    233,
+    234,
+    235,
+    236,
+    238,
+    240,
+    245,
+    246,
+    254,
+    266,
+    267,
+    268,
+    350,
+    360,
+    412,
+    420,
+    421,
+    427,
+    429,
+    432,
+    497,
+    498,
+    516,
+    517,
+    518,
+    523,
+    526,
+    555,
+    711,
+    777,
+    799,
+    875,
+    876,
+    887,
+    888,
+    893,
+    895,
+    897,
+    901,
+    902,
+    910,
+    950
+  ],
+  "new_heroes": [
+    "Ambessa",
+    "Aurora",
+    "Smolder",
+    "Hwei"
+  ],
+  "matches_per_month": {
+    "2024-01": 777,
+    "2024-02": 1571,
+    "2024-03": 1504,
+    "2024-04": 554,
+    "2024-05": 609,
+    "2024-06": 1869,
+    "2024-07": 1614,
+    "2024-08": 984,
+    "2024-09": 566,
+    "2024-10": 676,
+    "2024-11": 260,
+    "2024-12": 105
+  },
+  "top_picks": [
+    {
+      "hero": "Rell",
+      "count": 4151,
+      "rate": 0.3743
+    },
+    {
+      "hero": "Nautilus",
+      "count": 4108,
+      "rate": 0.3705
+    },
+    {
+      "hero": "K'Sante",
+      "count": 4040,
+      "rate": 0.3643
+    },
+    {
+      "hero": "Varus",
+      "count": 2873,
+      "rate": 0.2591
+    },
+    {
+      "hero": "Corki",
+      "count": 2793,
+      "rate": 0.2519
+    },
+    {
+      "hero": "Maokai",
+      "count": 2627,
+      "rate": 0.2369
+    },
+    {
+      "hero": "Leona",
+      "count": 2600,
+      "rate": 0.2345
+    },
+    {
+      "hero": "Sejuani",
+      "count": 2406,
+      "rate": 0.217
+    },
+    {
+      "hero": "Ezreal",
+      "count": 2342,
+      "rate": 0.2112
+    },
+    {
+      "hero": "Renekton",
+      "count": 2277,
+      "rate": 0.2053
+    }
+  ],
+  "top_bans": [
+    {
+      "hero": "Ashe",
+      "count": 5343,
+      "rate": 0.4818
+    },
+    {
+      "hero": "Rumble",
+      "count": 4982,
+      "rate": 0.4493
+    },
+    {
+      "hero": "Kalista",
+      "count": 3851,
+      "rate": 0.3473
+    },
+    {
+      "hero": "Vi",
+      "count": 3190,
+      "rate": 0.2877
+    },
+    {
+      "hero": "Varus",
+      "count": 3152,
+      "rate": 0.2842
+    },
+    {
+      "hero": "Tristana",
+      "count": 3083,
+      "rate": 0.278
+    },
+    {
+      "hero": "Skarner",
+      "count": 2574,
+      "rate": 0.2321
+    },
+    {
+      "hero": "Orianna",
+      "count": 2443,
+      "rate": 0.2203
+    },
+    {
+      "hero": "Senna",
+      "count": 2431,
+      "rate": 0.2192
+    },
+    {
+      "hero": "Nautilus",
+      "count": 2408,
+      "rate": 0.2172
+    }
+  ],
+  "breakdowns": {
+    "tier": {
+      "primary": 3286,
+      "secondary": 7803
+    },
+    "season_phase": {
+      "2024_1_pre-MSI": 4406,
+      "2024_2_MSI-to-Worlds": 5578,
+      "2024_3_Worlds": 1105
+    }
+  },
+  "filtering": {
+    "raw_matches": 11607,
+    "kept_matches": 11089,
+    "dropped_unknown_format_by_actions": {
+      "8": 1,
+      "9": 2,
+      "10": 83,
+      "15": 22,
+      "16": 25,
+      "17": 43,
+      "18": 59,
+      "19": 283
+    },
+    "dropped_no_metadata": 0,
+    "unknown_hero_ids": [],
+    "patch_label_fixes": {},
+    "other_drops": {
+      "showmatch games (not competitive)": 11
+    }
+  }
+}

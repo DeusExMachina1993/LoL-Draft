@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "name": "11.20",
+    "id": 1120,
+    "first_match": "2021-10-14 15:44",
+    "ddragon_version": "11.20.1",
+    "compared_with": "11.19.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-11-20-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Amumu": {
+        "abilities": {
+          "Q Bandage Toss": {
+            "cost": [
+              [
+                30,
+                35,
+                40,
+                45,
+                50
+              ],
+              [
+                70,
+                70,
+                70,
+                70,
+                70
+              ]
+            ]
+          }
+        }
+      },
+      "Darius": {
+        "abilities": {
+          "W Crippling Strike": {
+            "cooldown": [
+              [
+                7,
+                6.5,
+                6,
+                5.5,
+                5
+              ],
+              [
+                5,
+                5,
+                5,
+                5,
+                5
+              ]
+            ]
+          }
+        }
+      },
+      "Elise": {
+        "base_stats": {
+          "hp": [
+            534,
+            555
+          ],
+          "armorperlevel": [
+            3.35,
+            4
+          ]
+        }
+      },
+      "Hecarim": {
+        "abilities": {
+          "W Spirit of Dread": {
+            "cooldown": [
+              [
+                22,
+                21,
+                20,
+                19,
+                18
+              ],
+              [
+                18,
+                18,
+                18,
+                18,
+                18
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

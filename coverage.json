@@ -1,0 +1,857 @@
+{
+  "schema_version": "1.0",
+  "source_ref": "lol.fandom.com Cargo: ScoreboardGames + PicksAndBansS7",
+  "source_snapshot": "2026-10-06T06:34:10",
+  "data_through": "2026-08-31",
+  "last_match": "2026-08-31 23:25",
+  "last_release": "v2026.08",
+  "periods": {
+    "202001": {
+      "year": 2020,
+      "signature": {
+        "games": 321,
+        "drafts": 316
+      },
+      "complete": true,
+      "matches": 295,
+      "last_match": "2020-01-31 23:31"
+    },
+    "202002": {
+      "year": 2020,
+      "signature": {
+        "games": 1282,
+        "drafts": 1082
+      },
+      "complete": true,
+      "matches": 1026,
+      "last_match": "2020-02-29 23:59"
+    },
+    "202003": {
+      "year": 2020,
+      "signature": {
+        "games": 1398,
+        "drafts": 1276
+      },
+      "complete": true,
+      "matches": 1231,
+      "last_match": "2020-03-31 18:39"
+    },
+    "202004": {
+      "year": 2020,
+      "signature": {
+        "games": 1163,
+        "drafts": 1048
+      },
+      "complete": true,
+      "matches": 1002,
+      "last_match": "2020-04-30 20:31"
+    },
+    "202005": {
+      "year": 2020,
+      "signature": {
+        "games": 491,
+        "drafts": 280
+      },
+      "complete": true,
+      "matches": 243,
+      "last_match": "2020-05-31 20:57"
+    },
+    "202006": {
+      "year": 2020,
+      "signature": {
+        "games": 1930,
+        "drafts": 1267
+      },
+      "complete": true,
+      "matches": 1198,
+      "last_match": "2020-06-30 23:40"
+    },
+    "202007": {
+      "year": 2020,
+      "signature": {
+        "games": 2302,
+        "drafts": 1758
+      },
+      "complete": true,
+      "matches": 1678,
+      "last_match": "2020-07-31 23:47"
+    },
+    "202008": {
+      "year": 2020,
+      "signature": {
+        "games": 1474,
+        "drafts": 1319
+      },
+      "complete": true,
+      "matches": 1294,
+      "last_match": "2020-08-31 19:45"
+    },
+    "202009": {
+      "year": 2020,
+      "signature": {
+        "games": 471,
+        "drafts": 323
+      },
+      "complete": true,
+      "matches": 314,
+      "last_match": "2020-09-30 20:38"
+    },
+    "202010": {
+      "year": 2020,
+      "signature": {
+        "games": 589,
+        "drafts": 323
+      },
+      "complete": true,
+      "matches": 306,
+      "last_match": "2020-10-31 13:23"
+    },
+    "202011": {
+      "year": 2020,
+      "signature": {
+        "games": 608,
+        "drafts": 349
+      },
+      "complete": true,
+      "matches": 315,
+      "last_match": "2020-11-30 18:30"
+    },
+    "202012": {
+      "year": 2020,
+      "signature": {
+        "games": 202,
+        "drafts": 126
+      },
+      "complete": true,
+      "matches": 124,
+      "last_match": "2020-12-27 11:06"
+    },
+    "202101": {
+      "year": 2021,
+      "signature": {
+        "games": 1522,
+        "drafts": 945
+      },
+      "complete": true,
+      "matches": 926,
+      "last_match": "2021-01-31 23:16"
+    },
+    "202102": {
+      "year": 2021,
+      "signature": {
+        "games": 2127,
+        "drafts": 1521
+      },
+      "complete": true,
+      "matches": 1432,
+      "last_match": "2021-02-28 23:37"
+    },
+    "202103": {
+      "year": 2021,
+      "signature": {
+        "games": 2098,
+        "drafts": 1646
+      },
+      "complete": true,
+      "matches": 1593,
+      "last_match": "2021-03-31 23:51"
+    },
+    "202104": {
+      "year": 2021,
+      "signature": {
+        "games": 854,
+        "drafts": 670
+      },
+      "complete": true,
+      "matches": 625,
+      "last_match": "2021-04-30 18:41"
+    },
+    "202105": {
+      "year": 2021,
+      "signature": {
+        "games": 737,
+        "drafts": 474
+      },
+      "complete": true,
+      "matches": 444,
+      "last_match": "2021-05-31 23:53"
+    },
+    "202106": {
+      "year": 2021,
+      "signature": {
+        "games": 2426,
+        "drafts": 1646
+      },
+      "complete": true,
+      "matches": 1575,
+      "last_match": "2021-06-30 23:52"
+    },
+    "202107": {
+      "year": 2021,
+      "signature": {
+        "games": 2491,
+        "drafts": 1905
+      },
+      "complete": true,
+      "matches": 1821,
+      "last_match": "2021-07-31 23:58"
+    },
+    "202108": {
+      "year": 2021,
+      "signature": {
+        "games": 1426,
+        "drafts": 1116
+      },
+      "complete": true,
+      "matches": 1068,
+      "last_match": "2021-08-31 18:27"
+    },
+    "202109": {
+      "year": 2021,
+      "signature": {
+        "games": 456,
+        "drafts": 320
+      },
+      "complete": true,
+      "matches": 301,
+      "last_match": "2021-09-29 19:53"
+    },
+    "202110": {
+      "year": 2021,
+      "signature": {
+        "games": 685,
+        "drafts": 359
+      },
+      "complete": true,
+      "matches": 337,
+      "last_match": "2021-10-31 23:01"
+    },
+    "202111": {
+      "year": 2021,
+      "signature": {
+        "games": 753,
+        "drafts": 489
+      },
+      "complete": true,
+      "matches": 467,
+      "last_match": "2021-11-30 21:50"
+    },
+    "202112": {
+      "year": 2021,
+      "signature": {
+        "games": 269,
+        "drafts": 202
+      },
+      "complete": true,
+      "matches": 193,
+      "last_match": "2021-12-26 13:41"
+    },
+    "202201": {
+      "year": 2022,
+      "signature": {
+        "games": 1207,
+        "drafts": 908
+      },
+      "complete": true,
+      "matches": 885,
+      "last_match": "2022-01-31 23:54"
+    },
+    "202202": {
+      "year": 2022,
+      "signature": {
+        "games": 2301,
+        "drafts": 1828
+      },
+      "complete": true,
+      "matches": 1775,
+      "last_match": "2022-02-28 23:03"
+    },
+    "202203": {
+      "year": 2022,
+      "signature": {
+        "games": 2370,
+        "drafts": 1957
+      },
+      "complete": true,
+      "matches": 1881,
+      "last_match": "2022-03-31 23:22"
+    },
+    "202204": {
+      "year": 2022,
+      "signature": {
+        "games": 901,
+        "drafts": 676
+      },
+      "complete": true,
+      "matches": 636,
+      "last_match": "2022-04-30 17:50"
+    },
+    "202205": {
+      "year": 2022,
+      "signature": {
+        "games": 629,
+        "drafts": 296
+      },
+      "complete": true,
+      "matches": 271,
+      "last_match": "2022-05-31 23:07"
+    },
+    "202206": {
+      "year": 2022,
+      "signature": {
+        "games": 2152,
+        "drafts": 1526
+      },
+      "complete": true,
+      "matches": 1448,
+      "last_match": "2022-06-30 23:55"
+    },
+    "202207": {
+      "year": 2022,
+      "signature": {
+        "games": 2421,
+        "drafts": 2089
+      },
+      "complete": true,
+      "matches": 2003,
+      "last_match": "2022-07-31 23:31"
+    },
+    "202208": {
+      "year": 2022,
+      "signature": {
+        "games": 1620,
+        "drafts": 1384
+      },
+      "complete": true,
+      "matches": 1272,
+      "last_match": "2022-08-31 23:16"
+    },
+    "202209": {
+      "year": 2022,
+      "signature": {
+        "games": 661,
+        "drafts": 552
+      },
+      "complete": true,
+      "matches": 500,
+      "last_match": "2022-09-30 23:23"
+    },
+    "202210": {
+      "year": 2022,
+      "signature": {
+        "games": 877,
+        "drafts": 459
+      },
+      "complete": true,
+      "matches": 364,
+      "last_match": "2022-10-31 20:29"
+    },
+    "202211": {
+      "year": 2022,
+      "signature": {
+        "games": 655,
+        "drafts": 437
+      },
+      "complete": true,
+      "matches": 369,
+      "last_match": "2022-11-29 19:03"
+    },
+    "202212": {
+      "year": 2022,
+      "signature": {
+        "games": 171,
+        "drafts": 71
+      },
+      "complete": true,
+      "matches": 71,
+      "last_match": "2022-12-27 12:43"
+    },
+    "202301": {
+      "year": 2023,
+      "signature": {
+        "games": 866,
+        "drafts": 791
+      },
+      "complete": true,
+      "matches": 697,
+      "last_match": "2023-01-31 23:56"
+    },
+    "202302": {
+      "year": 2023,
+      "signature": {
+        "games": 2057,
+        "drafts": 1679
+      },
+      "complete": true,
+      "matches": 1565,
+      "last_match": "2023-02-28 23:04"
+    },
+    "202303": {
+      "year": 2023,
+      "signature": {
+        "games": 2316,
+        "drafts": 1848
+      },
+      "complete": true,
+      "matches": 1774,
+      "last_match": "2023-03-31 23:20"
+    },
+    "202304": {
+      "year": 2023,
+      "signature": {
+        "games": 734,
+        "drafts": 518
+      },
+      "complete": true,
+      "matches": 511,
+      "last_match": "2023-04-29 18:41"
+    },
+    "202305": {
+      "year": 2023,
+      "signature": {
+        "games": 543,
+        "drafts": 174
+      },
+      "complete": true,
+      "matches": 173,
+      "last_match": "2023-05-31 20:08"
+    },
+    "202306": {
+      "year": 2023,
+      "signature": {
+        "games": 2179,
+        "drafts": 1709
+      },
+      "complete": true,
+      "matches": 1628,
+      "last_match": "2023-06-30 23:47"
+    },
+    "202307": {
+      "year": 2023,
+      "signature": {
+        "games": 2455,
+        "drafts": 1832
+      },
+      "complete": true,
+      "matches": 1761,
+      "last_match": "2023-07-31 23:47"
+    },
+    "202308": {
+      "year": 2023,
+      "signature": {
+        "games": 1286,
+        "drafts": 958
+      },
+      "complete": true,
+      "matches": 936,
+      "last_match": "2023-08-31 23:49"
+    },
+    "202309": {
+      "year": 2023,
+      "signature": {
+        "games": 797,
+        "drafts": 377
+      },
+      "complete": true,
+      "matches": 368,
+      "last_match": "2023-09-30 12:37"
+    },
+    "202310": {
+      "year": 2023,
+      "signature": {
+        "games": 861,
+        "drafts": 302
+      },
+      "complete": true,
+      "matches": 288,
+      "last_match": "2023-10-31 19:40"
+    },
+    "202311": {
+      "year": 2023,
+      "signature": {
+        "games": 485,
+        "drafts": 89
+      },
+      "complete": true,
+      "matches": 55,
+      "last_match": "2023-11-19 10:44"
+    },
+    "202312": {
+      "year": 2023,
+      "signature": {
+        "games": 165,
+        "drafts": 41
+      },
+      "complete": true,
+      "matches": 41,
+      "last_match": "2023-12-31 11:48"
+    },
+    "202401": {
+      "year": 2024,
+      "signature": {
+        "games": 888,
+        "drafts": 813
+      },
+      "complete": true,
+      "matches": 777,
+      "last_match": "2024-01-31 23:57"
+    },
+    "202402": {
+      "year": 2024,
+      "signature": {
+        "games": 1929,
+        "drafts": 1653
+      },
+      "complete": true,
+      "matches": 1571,
+      "last_match": "2024-02-29 23:52"
+    },
+    "202403": {
+      "year": 2024,
+      "signature": {
+        "games": 2095,
+        "drafts": 1555
+      },
+      "complete": true,
+      "matches": 1504,
+      "last_match": "2024-03-31 22:47"
+    },
+    "202404": {
+      "year": 2024,
+      "signature": {
+        "games": 944,
+        "drafts": 568
+      },
+      "complete": true,
+      "matches": 554,
+      "last_match": "2024-04-28 19:07"
+    },
+    "202405": {
+      "year": 2024,
+      "signature": {
+        "games": 1077,
+        "drafts": 645
+      },
+      "complete": true,
+      "matches": 609,
+      "last_match": "2024-05-31 23:07"
+    },
+    "202406": {
+      "year": 2024,
+      "signature": {
+        "games": 2284,
+        "drafts": 1969
+      },
+      "complete": true,
+      "matches": 1869,
+      "last_match": "2024-06-30 23:30"
+    },
+    "202407": {
+      "year": 2024,
+      "signature": {
+        "games": 1936,
+        "drafts": 1682
+      },
+      "complete": true,
+      "matches": 1614,
+      "last_match": "2024-07-31 23:52"
+    },
+    "202408": {
+      "year": 2024,
+      "signature": {
+        "games": 1142,
+        "drafts": 1014
+      },
+      "complete": true,
+      "matches": 984,
+      "last_match": "2024-08-31 23:47"
+    },
+    "202409": {
+      "year": 2024,
+      "signature": {
+        "games": 724,
+        "drafts": 607
+      },
+      "complete": true,
+      "matches": 566,
+      "last_match": "2024-09-30 20:04"
+    },
+    "202410": {
+      "year": 2024,
+      "signature": {
+        "games": 869,
+        "drafts": 757
+      },
+      "complete": true,
+      "matches": 676,
+      "last_match": "2024-10-31 18:56"
+    },
+    "202411": {
+      "year": 2024,
+      "signature": {
+        "games": 470,
+        "drafts": 303
+      },
+      "complete": true,
+      "matches": 260,
+      "last_match": "2024-11-30 12:51"
+    },
+    "202412": {
+      "year": 2024,
+      "signature": {
+        "games": 219,
+        "drafts": 143
+      },
+      "complete": true,
+      "matches": 105,
+      "last_match": "2024-12-22 18:13"
+    },
+    "202501": {
+      "year": 2025,
+      "signature": {
+        "games": 625,
+        "drafts": 553
+      },
+      "complete": true,
+      "matches": 537,
+      "last_match": "2025-01-31 20:44"
+    },
+    "202502": {
+      "year": 2025,
+      "signature": {
+        "games": 1383,
+        "drafts": 1230
+      },
+      "complete": true,
+      "matches": 1195,
+      "last_match": "2025-02-28 19:58"
+    },
+    "202503": {
+      "year": 2025,
+      "signature": {
+        "games": 932,
+        "drafts": 887
+      },
+      "complete": true,
+      "matches": 854,
+      "last_match": "2025-03-31 23:43"
+    },
+    "202504": {
+      "year": 2025,
+      "signature": {
+        "games": 2006,
+        "drafts": 1689
+      },
+      "complete": true,
+      "matches": 1641,
+      "last_match": "2025-04-30 23:48"
+    },
+    "202505": {
+      "year": 2025,
+      "signature": {
+        "games": 2184,
+        "drafts": 1770
+      },
+      "complete": true,
+      "matches": 1718,
+      "last_match": "2025-05-31 22:47"
+    },
+    "202506": {
+      "year": 2025,
+      "signature": {
+        "games": 1079,
+        "drafts": 959
+      },
+      "complete": true,
+      "matches": 931,
+      "last_match": "2025-06-30 19:57"
+    },
+    "202507": {
+      "year": 2025,
+      "signature": {
+        "games": 1209,
+        "drafts": 1137
+      },
+      "complete": true,
+      "matches": 1098,
+      "last_match": "2025-07-31 23:31"
+    },
+    "202508": {
+      "year": 2025,
+      "signature": {
+        "games": 1906,
+        "drafts": 1652
+      },
+      "complete": true,
+      "matches": 1537,
+      "last_match": "2025-08-31 22:59"
+    },
+    "202509": {
+      "year": 2025,
+      "signature": {
+        "games": 1160,
+        "drafts": 1018
+      },
+      "complete": true,
+      "matches": 980,
+      "last_match": "2025-09-30 19:14"
+    },
+    "202510": {
+      "year": 2025,
+      "signature": {
+        "games": 859,
+        "drafts": 837
+      },
+      "complete": true,
+      "matches": 795,
+      "last_match": "2025-10-31 21:34"
+    },
+    "202511": {
+      "year": 2025,
+      "signature": {
+        "games": 509,
+        "drafts": 451
+      },
+      "complete": true,
+      "matches": 426,
+      "last_match": "2025-11-30 14:49"
+    },
+    "202512": {
+      "year": 2025,
+      "signature": {
+        "games": 265,
+        "drafts": 253
+      },
+      "complete": true,
+      "matches": 249,
+      "last_match": "2025-12-29 10:52"
+    },
+    "202601": {
+      "year": 2026,
+      "signature": {
+        "games": 852,
+        "drafts": 772
+      },
+      "complete": true,
+      "matches": 759,
+      "last_match": "2026-01-31 23:09"
+    },
+    "202602": {
+      "year": 2026,
+      "signature": {
+        "games": 1169,
+        "drafts": 1074
+      },
+      "complete": true,
+      "matches": 1040,
+      "last_match": "2026-02-28 23:06"
+    },
+    "202603": {
+      "year": 2026,
+      "signature": {
+        "games": 939,
+        "drafts": 812
+      },
+      "complete": true,
+      "matches": 791,
+      "last_match": "2026-03-31 23:12"
+    },
+    "202604": {
+      "year": 2026,
+      "signature": {
+        "games": 1641,
+        "drafts": 1579
+      },
+      "complete": true,
+      "matches": 1554,
+      "last_match": "2026-04-30 23:55"
+    },
+    "202605": {
+      "year": 2026,
+      "signature": {
+        "games": 1805,
+        "drafts": 1607
+      },
+      "complete": true,
+      "matches": 1576,
+      "last_match": "2026-05-31 21:55"
+    },
+    "202606": {
+      "year": 2026,
+      "signature": {
+        "games": 949,
+        "drafts": 684
+      },
+      "complete": true,
+      "matches": 666,
+      "last_match": "2026-06-30 19:25"
+    },
+    "202607": {
+      "year": 2026,
+      "signature": {
+        "games": 1106,
+        "drafts": 1039
+      },
+      "complete": true,
+      "matches": 1003,
+      "last_match": "2026-07-31 23:56"
+    },
+    "202608": {
+      "year": 2026,
+      "signature": {
+        "games": 1587,
+        "drafts": 1519
+      },
+      "complete": true,
+      "matches": 1459,
+      "last_match": "2026-08-31 23:25"
+    }
+  },
+  "years": {
+    "2020": {
+      "matches": 9026,
+      "interactions": 180520,
+      "first_match": "2020-01-03 07:33",
+      "last_match": "2020-12-27 11:06"
+    },
+    "2021": {
+      "matches": 10782,
+      "interactions": 215640,
+      "first_match": "2021-01-02 07:40",
+      "last_match": "2021-12-26 13:41"
+    },
+    "2022": {
+      "matches": 11475,
+      "interactions": 229500,
+      "first_match": "2022-01-10 08:08",
+      "last_match": "2022-12-27 12:43"
+    },
+    "2023": {
+      "matches": 9797,
+      "interactions": 195940,
+      "first_match": "2023-01-06 06:20",
+      "last_match": "2023-12-31 11:48"
+    },
+    "2024": {
+      "matches": 11089,
+      "interactions": 221780,
+      "first_match": "2024-01-01 05:13",
+      "last_match": "2024-12-22 18:13"
+    },
+    "2025": {
+      "matches": 11961,
+      "interactions": 239220,
+      "first_match": "2025-01-11 11:11",
+      "last_match": "2025-12-29 10:52"
+    },
+    "2026": {
+      "matches": 8848,
+      "interactions": 176960,
+      "first_match": "2026-01-01 09:14",
+      "last_match": "2026-08-31 23:25"
+    }
+  },
+  "draft_formats": {
+    "b1b2b1b2b1b2P1P2P2P1P1P2b2b1b2b1P2P1P1P2": "td20_10.1"
+  }
+}

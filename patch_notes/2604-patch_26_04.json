@@ -1,0 +1,304 @@
+{
+  "metadata": {
+    "name": "26.04",
+    "id": 2604,
+    "first_match": "2026-02-20 21:09",
+    "ddragon_version": "16.4.1",
+    "compared_with": "16.3.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-26-04-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Annie": {
+        "abilities": {
+          "E Molten Shield": {
+            "cooldown": [
+              [
+                12,
+                11.5,
+                11,
+                10.5,
+                10
+              ],
+              [
+                10,
+                10,
+                10,
+                10,
+                10
+              ]
+            ]
+          }
+        }
+      },
+      "Braum": {
+        "abilities": {
+          "R Glacial Fissure": {
+            "cooldown": [
+              [
+                120,
+                100,
+                80
+              ],
+              [
+                130,
+                115,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Hwei": {
+        "abilities": {
+          "R Spiraling Despair": {
+            "cooldown": [
+              [
+                140,
+                115,
+                80
+              ],
+              [
+                120,
+                100,
+                80
+              ]
+            ]
+          }
+        }
+      },
+      "Jinx": {
+        "base_stats": {
+          "armorperlevel": [
+            4.7,
+            4.2
+          ]
+        }
+      },
+      "Kassadin": {
+        "base_stats": {
+          "hpperlevel": [
+            119,
+            113
+          ]
+        }
+      },
+      "Kennen": {
+        "abilities": {
+          "R Slicing Maelstrom": {
+            "cooldown": [
+              [
+                120,
+                100,
+                80
+              ],
+              [
+                120,
+                120,
+                120
+              ]
+            ]
+          }
+        }
+      },
+      "Lux": {
+        "base_stats": {
+          "mp": [
+            480,
+            440
+          ],
+          "mpregen": [
+            7,
+            9
+          ]
+        },
+        "abilities": {
+          "Q Light Binding": {
+            "cooldown": [
+              [
+                11,
+                10.5,
+                10,
+                9.5,
+                9
+              ],
+              [
+                10,
+                10,
+                10,
+                10,
+                10
+              ]
+            ]
+          },
+          "W Prismatic Barrier": {
+            "cooldown": [
+              [
+                14,
+                13,
+                12,
+                11,
+                10
+              ],
+              [
+                12,
+                11.5,
+                11,
+                10.5,
+                10
+              ]
+            ]
+          }
+        }
+      },
+      "Mel": {
+        "base_stats": {
+          "hpperlevel": [
+            93,
+            99
+          ]
+        }
+      },
+      "Naafiri": {
+        "base_stats": {
+          "hpregen": [
+            7.5,
+            6.25
+          ],
+          "hpregenperlevel": [
+            0.7,
+            0.6
+          ]
+        },
+        "abilities": {
+          "Q Darkin Daggers": {
+            "cost": [
+              [
+                55,
+                60,
+                65,
+                70,
+                75
+              ],
+              [
+                50,
+                60,
+                70,
+                80,
+                90
+              ]
+            ]
+          },
+          "E Eviscerate": {
+            "cost": [
+              [
+                35,
+                35,
+                35,
+                35,
+                35
+              ],
+              [
+                40,
+                40,
+                40,
+                40,
+                40
+              ]
+            ]
+          }
+        }
+      },
+      "Qiyana": {
+        "base_stats": {
+          "hpperlevel": [
+            121,
+            115
+          ]
+        }
+      },
+      "Rumble": {
+        "base_stats": {
+          "hp": [
+            655,
+            640
+          ]
+        }
+      },
+      "Twitch": {
+        "base_stats": {
+          "hpperlevel": [
+            104,
+            98
+          ],
+          "armorperlevel": [
+            4.2,
+            4
+          ]
+        }
+      },
+      "Xayah": {
+        "abilities": {
+          "Q Double Daggers": {
+            "cost": [
+              [
+                50,
+                50,
+                50,
+                50,
+                50
+              ],
+              [
+                35,
+                35,
+                35,
+                35,
+                35
+              ]
+            ]
+          },
+          "W Deadly Plumage": {
+            "cooldown": [
+              [
+                20,
+                19,
+                18,
+                17,
+                16
+              ],
+              [
+                18,
+                17,
+                16,
+                15,
+                14
+              ]
+            ]
+          },
+          "E Bladecaller": {
+            "cost": [
+              [
+                30,
+                30,
+                30,
+                30,
+                30
+              ],
+              [
+                20,
+                20,
+                20,
+                20,
+                20
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

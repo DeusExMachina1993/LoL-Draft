@@ -1,0 +1,272 @@
+{
+  "metadata": {
+    "name": "13.21",
+    "id": 1321,
+    "first_match": "2023-10-26 00:21",
+    "ddragon_version": "13.21.1",
+    "compared_with": "13.20.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-13-21-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Bel'Veth": {
+        "abilities": {
+          "E Royal Maelstrom": {
+            "cooldown": [
+              [
+                24,
+                22.5,
+                21,
+                19.5,
+                18
+              ],
+              [
+                20,
+                19,
+                18,
+                17,
+                16
+              ]
+            ]
+          }
+        }
+      },
+      "Brand": {
+        "base_stats": {
+          "hp": [
+            590,
+            570
+          ],
+          "hpperlevel": [
+            102,
+            105
+          ],
+          "armor": [
+            22,
+            27
+          ],
+          "armorperlevel": [
+            4.7,
+            4.2
+          ],
+          "attackspeedperlevel": [
+            1.36,
+            2
+          ],
+          "attackspeed": [
+            0.625,
+            0.681
+          ]
+        }
+      },
+      "Briar": {
+        "base_stats": {
+          "attackspeedperlevel": [
+            2.3,
+            2
+          ]
+        }
+      },
+      "Caitlyn": {
+        "abilities": {
+          "R Ace in the Hole": {
+            "cooldown": [
+              [
+                90,
+                75,
+                60
+              ],
+              [
+                90,
+                90,
+                90
+              ]
+            ]
+          }
+        }
+      },
+      "Hecarim": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.2,
+            3.7
+          ]
+        }
+      },
+      "Jax": {
+        "abilities": {
+          "E Counter Strike": {
+            "cooldown": [
+              [
+                14,
+                12.5,
+                11,
+                9.5,
+                8
+              ],
+              [
+                15,
+                13.5,
+                12,
+                10.5,
+                9
+              ]
+            ]
+          },
+          "R Grandmaster-at-Arms": {
+            "cost": [
+              [
+                50,
+                50,
+                50
+              ],
+              [
+                100,
+                100,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Master Yi": {
+        "abilities": {
+          "E Wuju Style": {
+            "cooldown": [
+              [
+                18,
+                18,
+                18,
+                18,
+                18
+              ],
+              [
+                14,
+                14,
+                14,
+                14,
+                14
+              ]
+            ]
+          }
+        }
+      },
+      "Seraphine": {
+        "base_stats": {
+          "hpperlevel": [
+            104,
+            90
+          ],
+          "mp": [
+            440,
+            360
+          ],
+          "mpperlevel": [
+            40,
+            50
+          ],
+          "armor": [
+            19,
+            26
+          ],
+          "mpregen": [
+            8,
+            11.5
+          ],
+          "mpregenperlevel": [
+            1,
+            0.4
+          ],
+          "attackspeedperlevel": [
+            1,
+            2
+          ]
+        },
+        "abilities": {
+          "Q High Note": {
+            "cooldown": [
+              [
+                10,
+                8.75,
+                7.5,
+                6.25,
+                5
+              ],
+              [
+                9,
+                8,
+                7,
+                6,
+                5
+              ]
+            ]
+          },
+          "W Surround Sound": {
+            "cooldown": [
+              [
+                28,
+                26,
+                24,
+                22,
+                20
+              ],
+              [
+                28,
+                25,
+                22,
+                19,
+                16
+              ]
+            ],
+            "cost": [
+              [
+                50,
+                60,
+                70,
+                80,
+                90
+              ],
+              [
+                80,
+                85,
+                90,
+                95,
+                100
+              ]
+            ]
+          },
+          "E Beat Drop": {
+            "cost": [
+              [
+                60,
+                70,
+                80,
+                90,
+                100
+              ],
+              [
+                60,
+                65,
+                70,
+                75,
+                80
+              ]
+            ]
+          }
+        }
+      },
+      "Zyra": {
+        "base_stats": {
+          "attackspeed": [
+            0.625,
+            0.681
+          ]
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

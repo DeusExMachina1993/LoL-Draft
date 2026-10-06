@@ -1,0 +1,185 @@
+{
+  "metadata": {
+    "name": "10.5",
+    "id": 1005,
+    "first_match": "2020-03-07 01:44",
+    "ddragon_version": "10.5.1",
+    "compared_with": "10.4.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-10-5-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Alistar": {
+        "base_stats": {
+          "hp": [
+            575,
+            600
+          ]
+        }
+      },
+      "Amumu": {
+        "abilities": {
+          "R Curse of the Sad Mummy": {
+            "cooldown": [
+              [
+                130,
+                115,
+                100
+              ],
+              [
+                150,
+                125,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Blitzcrank": {
+        "base_stats": {
+          "armor": [
+            40,
+            37
+          ]
+        }
+      },
+      "Graves": {
+        "base_stats": {
+          "spellblock": [
+            30,
+            32
+          ],
+          "spellblockperlevel": [
+            1,
+            1.25
+          ]
+        },
+        "abilities": {
+          "Q End of the Line": {
+            "cooldown": [
+              [
+                13,
+                12,
+                11,
+                10,
+                9
+              ],
+              [
+                12,
+                11,
+                10,
+                9,
+                8
+              ]
+            ],
+            "cost": [
+              [
+                60,
+                65,
+                70,
+                75,
+                80
+              ],
+              [
+                60,
+                60,
+                60,
+                60,
+                60
+              ]
+            ]
+          }
+        }
+      },
+      "Neeko": {
+        "base_stats": {
+          "attackspeedperlevel": [
+            3,
+            3.5
+          ]
+        }
+      },
+      "Sett": {
+        "base_stats": {
+          "armor": [
+            37,
+            33
+          ],
+          "hpregen": [
+            8,
+            7
+          ],
+          "hpregenperlevel": [
+            0.75,
+            0.5
+          ]
+        }
+      },
+      "Soraka": {
+        "abilities": {
+          "W Astral Infusion": {
+            "cooldown": [
+              [
+                8,
+                6.5,
+                5,
+                3.5,
+                2
+              ],
+              [
+                6,
+                5,
+                4,
+                3,
+                2
+              ]
+            ],
+            "cost": [
+              [
+                50,
+                55,
+                60,
+                65,
+                70
+              ],
+              [
+                40,
+                45,
+                50,
+                55,
+                60
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Boots of Mobility": {
+        "gold": [
+          900,
+          1000
+        ]
+      },
+      "Boots of Swiftness": {
+        "stats": {
+          "FlatMovementSpeedMod": [
+            55,
+            60
+          ]
+        }
+      },
+      "Ravenous Hydra": {
+        "stats": {
+          "PercentLifeStealMod": [
+            0.12,
+            0.18
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

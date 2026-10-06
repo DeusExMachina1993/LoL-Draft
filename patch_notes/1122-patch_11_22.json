@@ -1,0 +1,57 @@
+{
+  "metadata": {
+    "name": "11.22",
+    "id": 1122,
+    "first_match": "2021-11-08 15:25",
+    "ddragon_version": "11.22.1",
+    "compared_with": "11.21.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-11-22-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Qiyana": {
+        "base_stats": {
+          "hp": [
+            590,
+            520
+          ],
+          "hpperlevel": [
+            90,
+            110
+          ]
+        }
+      },
+      "Tahm Kench": {
+        "abilities": {
+          "R Devour": {
+            "cost": [
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                100,
+                100,
+                100
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Goredrinker": {
+        "stats": {
+          "FlatHPPoolMod": [
+            400,
+            450
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

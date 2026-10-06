@@ -1,0 +1,256 @@
+{
+  "metadata": {
+    "name": "11.16",
+    "id": 1116,
+    "first_match": "2021-08-12 23:52",
+    "ddragon_version": "11.16.1",
+    "compared_with": "11.15.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-11-16-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Akshan": {
+        "base_stats": {
+          "hp": [
+            530,
+            560
+          ],
+          "attackdamage": [
+            50,
+            52
+          ],
+          "attackspeedperlevel": [
+            2.5,
+            4
+          ]
+        },
+        "abilities": {
+          "Q Avengerang": {
+            "cooldown": [
+              [
+                8,
+                7.5,
+                7,
+                6.5,
+                6
+              ],
+              [
+                8,
+                7.25,
+                6.5,
+                5.75,
+                5
+              ]
+            ]
+          }
+        }
+      },
+      "Fiora": {
+        "abilities": {
+          "E Bladework": {
+            "cooldown": [
+              [
+                11,
+                9.5,
+                8,
+                6.5,
+                5
+              ],
+              [
+                11,
+                10,
+                9,
+                8,
+                7
+              ]
+            ]
+          }
+        }
+      },
+      "Karma": {
+        "abilities": {
+          "Q Inner Flame": {
+            "cooldown": [
+              [
+                8,
+                7.5,
+                7,
+                6.5,
+                6
+              ],
+              [
+                9,
+                8,
+                7,
+                6,
+                5
+              ]
+            ],
+            "cost": [
+              [
+                55,
+                55,
+                55,
+                55,
+                55
+              ],
+              [
+                45,
+                45,
+                45,
+                45,
+                45
+              ]
+            ]
+          }
+        }
+      },
+      "Lulu": {
+        "abilities": {
+          "W Whimsy": {
+            "cooldown": [
+              [
+                15,
+                14,
+                13,
+                12,
+                11
+              ],
+              [
+                16,
+                15,
+                14,
+                13,
+                12
+              ]
+            ]
+          },
+          "R Wild Growth": {
+            "cooldown": [
+              [
+                110,
+                95,
+                80
+              ],
+              [
+                120,
+                100,
+                80
+              ]
+            ]
+          }
+        }
+      },
+      "Nunu & Willump": {
+        "base_stats": {
+          "movespeed": [
+            340,
+            345
+          ]
+        }
+      },
+      "Sona": {
+        "abilities": {
+          "Q Hymn of Valor": {
+            "cost": [
+              [
+                75,
+                80,
+                85,
+                90,
+                95
+              ],
+              [
+                50,
+                55,
+                60,
+                65,
+                70
+              ]
+            ]
+          },
+          "W Aria of Perseverance": {
+            "cost": [
+              [
+                105,
+                110,
+                115,
+                120,
+                125
+              ],
+              [
+                80,
+                85,
+                90,
+                95,
+                100
+              ]
+            ]
+          },
+          "E Song of Celerity": {
+            "cost": [
+              [
+                90,
+                90,
+                90,
+                90,
+                90
+              ],
+              [
+                65,
+                65,
+                65,
+                65,
+                65
+              ]
+            ]
+          }
+        }
+      },
+      "Xin Zhao": {
+        "base_stats": {
+          "attackdamage": [
+            66,
+            63
+          ]
+        }
+      },
+      "Ziggs": {
+        "base_stats": {
+          "mp": [
+            420,
+            480
+          ]
+        }
+      }
+    },
+    "items": {},
+    "removed_items": [
+      "Bloodward",
+      "Ceaseless Hunger",
+      "Deicide",
+      "Draktharr's Shadowcarver",
+      "Dreamshatter",
+      "Eternal Winter",
+      "Eye of Luden",
+      "Forgefire Crest",
+      "Icathia's Curse",
+      "Infinity Force",
+      "Liandry's Lament",
+      "Reliquary of the Golden Dawn",
+      "Rimeforged Grasp",
+      "Sandshrike's Claw",
+      "Seat of Command",
+      "Shurelya's Requiem",
+      "Starcaster",
+      "Syzygy",
+      "Turbocharged Hexperiment",
+      "Typhoon",
+      "Upgraded Aeropack",
+      "Vespertide",
+      "Wyrmfallen Sacrifice"
+    ]
+  }
+}

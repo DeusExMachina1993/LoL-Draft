@@ -1,0 +1,223 @@
+{
+  "metadata": {
+    "name": "13.12",
+    "id": 1312,
+    "first_match": "2023-06-16 00:12",
+    "ddragon_version": "13.12.1",
+    "compared_with": "13.11.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-13-12-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Gragas": {
+        "abilities": {
+          "Q Barrel Roll": {
+            "cost": [
+              [
+                80,
+                80,
+                80,
+                80,
+                80
+              ],
+              [
+                80,
+                75,
+                70,
+                65,
+                60
+              ]
+            ]
+          }
+        }
+      },
+      "K'Sante": {
+        "abilities": {
+          "E Footwork": {
+            "cooldown": [
+              [
+                9,
+                8.5,
+                8,
+                7.5,
+                7
+              ],
+              [
+                10.5,
+                10,
+                9.5,
+                9,
+                8.5
+              ]
+            ]
+          }
+        }
+      },
+      "Kai'Sa": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2,
+            2.6
+          ]
+        }
+      },
+      "Kha'Zix": {
+        "base_stats": {
+          "attackdamage": [
+            63,
+            60
+          ]
+        }
+      },
+      "Lulu": {
+        "base_stats": {
+          "armor": [
+            29,
+            26
+          ]
+        }
+      },
+      "Milio": {
+        "base_stats": {
+          "armor": [
+            28,
+            26
+          ],
+          "armorperlevel": [
+            4.9,
+            4.6
+          ]
+        }
+      },
+      "Nasus": {
+        "abilities": {
+          "R Fury of the Sands": {
+            "cooldown": [
+              [
+                120,
+                120,
+                120
+              ],
+              [
+                120,
+                100,
+                80
+              ]
+            ]
+          }
+        }
+      },
+      "Rell": {
+        "base_stats": {
+          "armor": [
+            32,
+            39
+          ],
+          "armorperlevel": [
+            3,
+            4.2
+          ],
+          "spellblockperlevel": [
+            1,
+            2.05
+          ],
+          "hpregen": [
+            7,
+            8.5
+          ],
+          "hpregenperlevel": [
+            0.55,
+            0.85
+          ]
+        }
+      },
+      "Rumble": {
+        "base_stats": {
+          "hp": [
+            659,
+            625
+          ],
+          "hpperlevel": [
+            99,
+            105
+          ],
+          "mp": [
+            100,
+            150
+          ],
+          "hpregen": [
+            8,
+            7
+          ]
+        },
+        "abilities": {
+          "R The Equalizer": {
+            "cooldown": [
+              [
+                100,
+                85,
+                70
+              ],
+              [
+                130,
+                105,
+                80
+              ]
+            ]
+          }
+        }
+      },
+      "Sivir": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.8,
+            2.5
+          ]
+        }
+      },
+      "Zeri": {
+        "base_stats": {
+          "movespeed": [
+            330,
+            335
+          ]
+        }
+      }
+    },
+    "items": {
+      "Bloodthirster": {
+        "gold": [
+          3200,
+          3400
+        ]
+      },
+      "Galeforce": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            55,
+            50
+          ]
+        }
+      },
+      "Immortal Shieldbow": {
+        "stats": {
+          "PercentLifeStealMod": [
+            0.07,
+            0.1
+          ]
+        }
+      },
+      "Phantom Dancer": {
+        "stats": {
+          "PercentAttackSpeedMod": [
+            0.3,
+            0.35
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

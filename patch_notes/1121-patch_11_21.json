@@ -1,0 +1,165 @@
+{
+  "metadata": {
+    "name": "11.21",
+    "id": 1121,
+    "first_match": "2021-10-25 15:05",
+    "ddragon_version": "11.21.1",
+    "compared_with": "11.20.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-11-21-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Jinx": {
+        "abilities": {
+          "E Flame Chompers!": {
+            "range": [
+              [
+                900,
+                900,
+                900,
+                900,
+                900
+              ],
+              [
+                925,
+                925,
+                925,
+                925,
+                925
+              ]
+            ]
+          },
+          "R Super Mega Death Rocket!": {
+            "cooldown": [
+              [
+                90,
+                75,
+                60
+              ],
+              [
+                75,
+                65,
+                55
+              ]
+            ]
+          }
+        }
+      },
+      "Lux": {
+        "base_stats": {
+          "attackspeedperlevel": [
+            1,
+            2
+          ]
+        },
+        "abilities": {
+          "R Final Spark": {
+            "cooldown": [
+              [
+                80,
+                60,
+                40
+              ],
+              [
+                60,
+                50,
+                40
+              ]
+            ]
+          }
+        }
+      },
+      "Miss Fortune": {
+        "base_stats": {
+          "mp": [
+            325.84,
+            300
+          ]
+        },
+        "abilities": {
+          "W Strut": {
+            "cost": [
+              [
+                30,
+                30,
+                30,
+                30,
+                30
+              ],
+              [
+                45,
+                45,
+                45,
+                45,
+                45
+              ]
+            ]
+          }
+        }
+      },
+      "Teemo": {
+        "abilities": {
+          "Q Blinding Dart": {
+            "cooldown": [
+              [
+                8,
+                8,
+                8,
+                8,
+                8
+              ],
+              [
+                7,
+                7,
+                7,
+                7,
+                7
+              ]
+            ]
+          }
+        }
+      },
+      "Xayah": {
+        "base_stats": {
+          "movespeed": [
+            325,
+            330
+          ]
+        },
+        "abilities": {
+          "Q Double Daggers": {
+            "cooldown": [
+              [
+                10,
+                9,
+                8,
+                7,
+                6
+              ],
+              [
+                10,
+                8.5,
+                7,
+                5.5,
+                4
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Stridebreaker": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            45,
+            50
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

@@ -1,0 +1,272 @@
+{
+  "metadata": {
+    "name": "14.14",
+    "id": 1414,
+    "first_match": "2024-07-18 09:02",
+    "ddragon_version": "14.14.1",
+    "compared_with": "14.13.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-14-14-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [
+      "Aurora"
+    ],
+    "champions": {
+      "Aurelion Sol": {
+        "base_stats": {
+          "attackdamage": [
+            55,
+            58
+          ]
+        },
+        "abilities": {
+          "W Astral Flight": {
+            "range": [
+              [
+                1200,
+                1200,
+                1200,
+                1200,
+                1200
+              ],
+              [
+                1500,
+                1600,
+                1700,
+                1800,
+                1900
+              ]
+            ]
+          },
+          "E Singularity": {
+            "cost": [
+              [
+                80,
+                85,
+                90,
+                95,
+                100
+              ],
+              [
+                80,
+                80,
+                80,
+                80,
+                80
+              ]
+            ]
+          }
+        }
+      },
+      "Bel'Veth": {
+        "base_stats": {
+          "attackrange": [
+            175,
+            150
+          ]
+        }
+      },
+      "Brand": {
+        "abilities": {
+          "E Conflagration": {
+            "cooldown": [
+              [
+                12,
+                11,
+                10,
+                9,
+                8
+              ],
+              [
+                13,
+                12,
+                11,
+                10,
+                9
+              ]
+            ]
+          }
+        }
+      },
+      "Corki": {
+        "base_stats": {
+          "hp": [
+            640,
+            610
+          ]
+        }
+      },
+      "Hecarim": {
+        "base_stats": {
+          "hpperlevel": [
+            99,
+            106
+          ]
+        },
+        "abilities": {
+          "W Spirit of Dread": {
+            "cooldown": [
+              [
+                16,
+                15.5,
+                15,
+                14.5,
+                14
+              ],
+              [
+                14,
+                14,
+                14,
+                14,
+                14
+              ]
+            ]
+          },
+          "E Devastating Charge": {
+            "cooldown": [
+              [
+                18,
+                18,
+                18,
+                18,
+                18
+              ],
+              [
+                20,
+                19,
+                18,
+                17,
+                16
+              ]
+            ]
+          }
+        }
+      },
+      "Irelia": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            4,
+            3.5
+          ]
+        }
+      },
+      "Jax": {
+        "abilities": {
+          "E Counter Strike": {
+            "cooldown": [
+              [
+                15,
+                13.5,
+                12,
+                10.5,
+                9
+              ],
+              [
+                17,
+                15,
+                13,
+                11,
+                9
+              ]
+            ]
+          }
+        }
+      },
+      "Kindred": {
+        "base_stats": {
+          "hp": [
+            610,
+            595
+          ]
+        }
+      },
+      "Milio": {
+        "abilities": {
+          "Q Ultra Mega Fire Kick": {
+            "cooldown": [
+              [
+                12,
+                12,
+                12,
+                12,
+                12
+              ],
+              [
+                10,
+                10,
+                10,
+                10,
+                10
+              ]
+            ],
+            "range": [
+              [
+                1000,
+                1000,
+                1000,
+                1000,
+                1000
+              ],
+              [
+                1200,
+                1200,
+                1200,
+                1200,
+                1200
+              ]
+            ]
+          }
+        }
+      },
+      "Tristana": {
+        "base_stats": {
+          "mp": [
+            250,
+            300
+          ]
+        },
+        "abilities": {
+          "Q Rapid Fire": {
+            "cost": [
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              [
+                50,
+                50,
+                50,
+                50,
+                50
+              ]
+            ]
+          },
+          "W Rocket Jump": {
+            "cost": [
+              [
+                60,
+                60,
+                60,
+                60,
+                60
+              ],
+              [
+                50,
+                50,
+                50,
+                50,
+                50
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

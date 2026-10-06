@@ -1,0 +1,104 @@
+{
+  "metadata": {
+    "name": "25.15",
+    "id": 2515,
+    "first_match": "2025-07-31 21:22",
+    "ddragon_version": "15.15.1",
+    "compared_with": "15.14.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-15-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Alistar": {
+        "base_stats": {
+          "armor": [
+            47,
+            40
+          ]
+        }
+      },
+      "Braum": {
+        "base_stats": {
+          "armor": [
+            42,
+            35
+          ],
+          "armorperlevel": [
+            5.2,
+            5
+          ]
+        }
+      },
+      "Irelia": {
+        "base_stats": {
+          "hpregen": [
+            6,
+            3.5
+          ]
+        }
+      },
+      "Nilah": {
+        "base_stats": {
+          "attackdamage": [
+            58,
+            60
+          ],
+          "attackspeedperlevel": [
+            3,
+            2.25
+          ]
+        }
+      },
+      "Rek'Sai": {
+        "base_stats": {
+          "armor": [
+            36,
+            35
+          ],
+          "armorperlevel": [
+            4.95,
+            4.5
+          ]
+        },
+        "abilities": {
+          "E Furious Bite / Tunnel": {
+            "cooldown": [
+              [
+                10,
+                10,
+                10,
+                10,
+                10
+              ],
+              [
+                6,
+                6,
+                6,
+                6,
+                6
+              ]
+            ]
+          },
+          "R Void Rush": {
+            "cooldown": [
+              [
+                100,
+                90,
+                80
+              ],
+              [
+                120,
+                100,
+                80
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

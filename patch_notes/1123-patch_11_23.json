@@ -1,0 +1,262 @@
+{
+  "metadata": {
+    "name": "11.23",
+    "id": 1123,
+    "first_match": "2021-11-21 00:32",
+    "ddragon_version": "11.23.1",
+    "compared_with": "11.22.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-11-23-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Vi": {
+        "base_stats": {
+          "armorperlevel": [
+            4,
+            3.5
+          ],
+          "attackdamageperlevel": [
+            3.5,
+            3
+          ]
+        }
+      },
+      "Xayah": {
+        "abilities": {
+          "Q Double Daggers": {
+            "cooldown": [
+              [
+                10,
+                8.5,
+                7,
+                5.5,
+                4
+              ],
+              [
+                10,
+                9,
+                8,
+                7,
+                6
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Abyssal Mask": {
+        "new": true,
+        "gold": 2700,
+        "stats": {
+          "FlatHPPoolMod": 450,
+          "FlatSpellBlockMod": 30
+        }
+      },
+      "Aegis of the Legion": {
+        "gold": [
+          1500,
+          1400
+        ]
+      },
+      "Archangel's Staff": {
+        "stats": {
+          "FlatHPPoolMod": [
+            null,
+            200
+          ],
+          "FlatMagicDamageMod": [
+            65,
+            60
+          ]
+        }
+      },
+      "Axiom Arc": {
+        "new": true,
+        "gold": 3000,
+        "stats": {
+          "FlatPhysicalDamageMod": 55
+        }
+      },
+      "Cosmic Drive": {
+        "stats": {
+          "FlatHPPoolMod": [
+            200,
+            250
+          ],
+          "FlatMagicDamageMod": [
+            80,
+            75
+          ],
+          "PercentMovementSpeedMod": [
+            null,
+            0.05
+          ]
+        }
+      },
+      "Crown of the Shattered Queen": {
+        "new": true,
+        "gold": 2800,
+        "stats": {
+          "FlatHPPoolMod": 250,
+          "FlatMPPoolMod": 600,
+          "FlatMagicDamageMod": 70
+        }
+      },
+      "Demonic Embrace": {
+        "stats": {
+          "FlatHPPoolMod": [
+            350,
+            450
+          ],
+          "FlatMagicDamageMod": [
+            70,
+            60
+          ]
+        }
+      },
+      "Duskblade of Draktharr": {
+        "gold": [
+          3200,
+          3100
+        ]
+      },
+      "Eclipse": {
+        "gold": [
+          3200,
+          3100
+        ]
+      },
+      "Evenshroud": {
+        "gold": [
+          2700,
+          2500
+        ],
+        "stats": {
+          "FlatArmorMod": [
+            null,
+            30
+          ],
+          "FlatHPPoolMod": [
+            400,
+            200
+          ],
+          "FlatSpellBlockMod": [
+            60,
+            30
+          ]
+        }
+      },
+      "Everfrost": {
+        "gold": [
+          3200,
+          2800
+        ],
+        "stats": {
+          "FlatMagicDamageMod": [
+            80,
+            70
+          ]
+        }
+      },
+      "Force of Nature": {
+        "stats": {
+          "FlatSpellBlockMod": [
+            60,
+            70
+          ]
+        }
+      },
+      "Gargoyle Stoneplate": {
+        "gold": [
+          3300,
+          3200
+        ]
+      },
+      "Hextech Alternator": {
+        "stats": {
+          "FlatHPPoolMod": [
+            null,
+            150
+          ],
+          "FlatMagicDamageMod": [
+            40,
+            25
+          ]
+        }
+      },
+      "Horizon Focus": {
+        "stats": {
+          "FlatHPPoolMod": [
+            null,
+            150
+          ],
+          "FlatMagicDamageMod": [
+            115,
+            85
+          ]
+        }
+      },
+      "Obsidian Edge": {
+        "new": true,
+        "gold": 350,
+        "stats": {}
+      },
+      "Prowler's Claw": {
+        "gold": [
+          3200,
+          3100
+        ]
+      },
+      "Shadowflame": {
+        "new": true,
+        "gold": 3000,
+        "stats": {
+          "FlatHPPoolMod": 200,
+          "FlatMagicDamageMod": 100
+        }
+      },
+      "Sunfire Aegis": {
+        "stats": {
+          "FlatArmorMod": [
+            30,
+            35
+          ],
+          "FlatSpellBlockMod": [
+            30,
+            35
+          ]
+        }
+      },
+      "Void Staff": {
+        "gold": [
+          2700,
+          2800
+        ],
+        "stats": {
+          "FlatMagicDamageMod": [
+            70,
+            65
+          ]
+        }
+      },
+      "Winter's Approach": {
+        "new": true,
+        "gold": 2600,
+        "stats": {
+          "FlatHPPoolMod": 400,
+          "FlatMPPoolMod": 500
+        }
+      },
+      "Youmuu's Ghostblade": {
+        "gold": [
+          2900,
+          3000
+        ]
+      }
+    },
+    "removed_items": []
+  }
+}

@@ -1,0 +1,256 @@
+{
+  "metadata": {
+    "name": "25.12",
+    "id": 2512,
+    "first_match": "2025-06-12 20:17",
+    "ddragon_version": "15.12.1",
+    "compared_with": "15.11.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-12-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Ahri": {
+        "abilities": {
+          "R Spirit Rush": {
+            "cooldown": [
+              [
+                130,
+                115,
+                100
+              ],
+              [
+                140,
+                120,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Aphelios": {
+        "base_stats": {
+          "attackspeed": [
+            0.64,
+            0.665
+          ]
+        }
+      },
+      "Aurora": {
+        "base_stats": {
+          "spellblock": [
+            30,
+            32
+          ]
+        }
+      },
+      "Azir": {
+        "base_stats": {
+          "movespeed": [
+            335,
+            330
+          ],
+          "attackspeedperlevel": [
+            6,
+            5.5
+          ]
+        }
+      },
+      "Bard": {
+        "base_stats": {
+          "movespeed": [
+            330,
+            335
+          ]
+        }
+      },
+      "Bel'Veth": {
+        "abilities": {
+          "R Endless Banquet": {
+            "range": [
+              [
+                275,
+                275,
+                275
+              ],
+              [
+                450,
+                450,
+                450
+              ]
+            ]
+          }
+        }
+      },
+      "Gwen": {
+        "base_stats": {
+          "hp": [
+            620,
+            600
+          ]
+        },
+        "abilities": {
+          "W Hallowed Mist": {
+            "cooldown": [
+              [
+                22,
+                21,
+                20,
+                19,
+                18
+              ],
+              [
+                24,
+                22.5,
+                21,
+                19.5,
+                18
+              ]
+            ]
+          }
+        }
+      },
+      "Kalista": {
+        "base_stats": {
+          "hp": [
+            580,
+            560
+          ]
+        },
+        "abilities": {
+          "Q Pierce": {
+            "cooldown": [
+              [
+                8,
+                8,
+                8,
+                8,
+                8
+              ],
+              [
+                9,
+                9,
+                9,
+                9,
+                9
+              ]
+            ]
+          }
+        }
+      },
+      "LeBlanc": {
+        "abilities": {
+          "R Mimic": {
+            "cooldown": [
+              [
+                50,
+                40,
+                30
+              ],
+              [
+                45,
+                35,
+                25
+              ]
+            ]
+          }
+        }
+      },
+      "Lee Sin": {
+        "abilities": {
+          "E Tempest / Cripple": {
+            "cooldown": [
+              [
+                9,
+                9,
+                9,
+                9,
+                9
+              ],
+              [
+                8,
+                8,
+                8,
+                8,
+                8
+              ]
+            ]
+          }
+        }
+      },
+      "Rammus": {
+        "base_stats": {
+          "armor": [
+            40,
+            35
+          ],
+          "armorperlevel": [
+            5.5,
+            4.5
+          ],
+          "attackdamage": [
+            55,
+            65
+          ],
+          "attackspeed": [
+            0.656,
+            0.7
+          ]
+        },
+        "abilities": {
+          "R Soaring Slam": {
+            "cooldown": [
+              [
+                90,
+                90,
+                90
+              ],
+              [
+                120,
+                105,
+                90
+              ]
+            ]
+          }
+        }
+      },
+      "Taliyah": {
+        "base_stats": {
+          "spellblock": [
+            30,
+            28
+          ]
+        }
+      },
+      "Twisted Fate": {
+        "abilities": {
+          "R Destiny": {
+            "cooldown": [
+              [
+                180,
+                150,
+                120
+              ],
+              [
+                160,
+                130,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Varus": {
+        "base_stats": {
+          "armor": [
+            27,
+            24
+          ]
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "name": "14.18",
+    "id": 1418,
+    "first_match": "2024-09-12 08:02",
+    "ddragon_version": "14.18.1",
+    "compared_with": "14.17.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-14-18-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Aurora": {
+        "abilities": {
+          "R Between Worlds": {
+            "range": [
+              [
+                400,
+                400,
+                400
+              ],
+              [
+                250,
+                250,
+                250
+              ]
+            ]
+          }
+        }
+      },
+      "Gnar": {
+        "base_stats": {
+          "attackdamage": [
+            57,
+            60
+          ]
+        }
+      },
+      "Jinx": {
+        "base_stats": {
+          "attackspeedperlevel": [
+            1,
+            1.4
+          ]
+        }
+      },
+      "Leona": {
+        "base_stats": {
+          "armor": [
+            47,
+            43
+          ]
+        }
+      },
+      "Maokai": {
+        "abilities": {
+          "E Sapling Toss": {
+            "cooldown": [
+              [
+                16,
+                15,
+                14,
+                13,
+                12
+              ],
+              [
+                18,
+                17,
+                16,
+                15,
+                14
+              ]
+            ]
+          }
+        }
+      },
+      "Miss Fortune": {
+        "base_stats": {
+          "attackdamage": [
+            55,
+            53
+          ]
+        }
+      },
+      "Smolder": {
+        "base_stats": {
+          "hp": [
+            605,
+            575
+          ]
+        }
+      },
+      "Viego": {
+        "base_stats": {
+          "attackdamage": [
+            57,
+            60
+          ]
+        }
+      },
+      "Xin Zhao": {
+        "base_stats": {
+          "armorperlevel": [
+            4.7,
+            5
+          ]
+        }
+      }
+    },
+    "items": {
+      "Bloodthirster": {
+        "stats": {
+          "PercentLifeStealMod": [
+            0.18,
+            0.15
+          ]
+        }
+      },
+      "Luden's Companion": {
+        "gold": [
+          2900,
+          2850
+        ],
+        "stats": {
+          "FlatMagicDamageMod": [
+            95,
+            100
+          ]
+        }
+      },
+      "Shadowflame": {
+        "stats": {
+          "FlatMagicDamageMod": [
+            120,
+            115
+          ]
+        }
+      },
+      "Stormsurge": {
+        "stats": {
+          "PercentMovementSpeedMod": [
+            0.08,
+            0.05
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

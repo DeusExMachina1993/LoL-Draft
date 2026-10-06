@@ -1,0 +1,525 @@
+{
+  "metadata": {
+    "name": "13.5",
+    "id": 1305,
+    "first_match": "2023-03-11 21:08",
+    "ddragon_version": "13.5.1",
+    "compared_with": "13.4.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-13-5-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Aatrox": {
+        "abilities": {
+          "W Infernal Chains": {
+            "cooldown": [
+              [
+                20,
+                18.5,
+                17,
+                15.5,
+                14
+              ],
+              [
+                20,
+                18,
+                16,
+                14,
+                12
+              ]
+            ]
+          }
+        }
+      },
+      "Annie": {
+        "base_stats": {
+          "hp": [
+            594,
+            560
+          ]
+        },
+        "abilities": {
+          "R Summon: Tibbers": {
+            "cooldown": [
+              [
+                120,
+                100,
+                80
+              ],
+              [
+                130,
+                115,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Ashe": {
+        "abilities": {
+          "Q Ranger's Focus": {
+            "cost": [
+              [
+                50,
+                50,
+                50,
+                50,
+                50
+              ],
+              [
+                30,
+                30,
+                30,
+                30,
+                30
+              ]
+            ]
+          },
+          "R Enchanted Crystal Arrow": {
+            "cooldown": [
+              [
+                80,
+                70,
+                60
+              ],
+              [
+                100,
+                80,
+                60
+              ]
+            ]
+          }
+        }
+      },
+      "Aurelion Sol": {
+        "base_stats": {
+          "hpperlevel": [
+            100,
+            95
+          ],
+          "armorperlevel": [
+            4.8,
+            4.3
+          ]
+        }
+      },
+      "Azir": {
+        "base_stats": {
+          "hp": [
+            622,
+            550
+          ],
+          "mp": [
+            380,
+            320
+          ],
+          "mpperlevel": [
+            36,
+            40
+          ],
+          "armorperlevel": [
+            4.2,
+            5
+          ],
+          "attackdamageperlevel": [
+            2.8,
+            3.5
+          ],
+          "attackspeedperlevel": [
+            3,
+            5
+          ]
+        },
+        "abilities": {
+          "Q Conquering Sands": {
+            "cost": [
+              [
+                55,
+                55,
+                55,
+                55,
+                55
+              ],
+              [
+                65,
+                70,
+                75,
+                80,
+                85
+              ]
+            ]
+          }
+        }
+      },
+      "Caitlyn": {
+        "base_stats": {
+          "armor": [
+            28,
+            27
+          ],
+          "attackdamage": [
+            62,
+            60
+          ]
+        }
+      },
+      "Fizz": {
+        "abilities": {
+          "E Playful / Trickster": {
+            "cost": [
+              [
+                90,
+                95,
+                100,
+                105,
+                110
+              ],
+              [
+                75,
+                80,
+                85,
+                90,
+                95
+              ]
+            ]
+          }
+        }
+      },
+      "Jinx": {
+        "base_stats": {
+          "attackspeedperlevel": [
+            1,
+            1.36
+          ]
+        },
+        "abilities": {
+          "W Zap!": {
+            "cost": [
+              [
+                50,
+                55,
+                60,
+                65,
+                70
+              ],
+              [
+                40,
+                45,
+                50,
+                55,
+                60
+              ]
+            ]
+          }
+        }
+      },
+      "Kennen": {
+        "abilities": {
+          "Q Thundering Shuriken": {
+            "cooldown": [
+              [
+                8,
+                7,
+                6,
+                5,
+                4
+              ],
+              [
+                7,
+                6.25,
+                5.5,
+                4.75,
+                4
+              ]
+            ]
+          }
+        }
+      },
+      "Pantheon": {
+        "base_stats": {
+          "hpregen": [
+            7.5,
+            6
+          ],
+          "attackspeed": [
+            0.644,
+            0.658
+          ]
+        },
+        "abilities": {
+          "Q Comet Spear": {
+            "cooldown": [
+              [
+                13,
+                11.75,
+                10.5,
+                9.25,
+                8
+              ],
+              [
+                11,
+                10.25,
+                9.5,
+                8.75,
+                8
+              ]
+            ],
+            "cost": [
+              [
+                30,
+                30,
+                30,
+                30,
+                30
+              ],
+              [
+                25,
+                25,
+                25,
+                25,
+                25
+              ]
+            ]
+          },
+          "E Aegis Assault": {
+            "cooldown": [
+              [
+                22,
+                20.5,
+                19,
+                17.5,
+                16
+              ],
+              [
+                22,
+                21,
+                20,
+                19,
+                18
+              ]
+            ]
+          }
+        }
+      },
+      "Qiyana": {
+        "abilities": {
+          "E Audacity": {
+            "cooldown": [
+              [
+                12,
+                11,
+                10,
+                9,
+                8
+              ],
+              [
+                11,
+                10,
+                9,
+                8,
+                7
+              ]
+            ]
+          }
+        }
+      },
+      "Rammus": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.5,
+            2.75
+          ]
+        }
+      },
+      "Tryndamere": {
+        "base_stats": {
+          "hpperlevel": [
+            112,
+            115
+          ],
+          "attackdamageperlevel": [
+            3.7,
+            4
+          ]
+        }
+      },
+      "Xayah": {
+        "abilities": {
+          "E Bladecaller": {
+            "cooldown": [
+              [
+                10,
+                9.5,
+                9,
+                8.5,
+                8
+              ],
+              [
+                11,
+                10.5,
+                10,
+                9.5,
+                9
+              ]
+            ]
+          }
+        }
+      },
+      "Yuumi": {
+        "base_stats": {
+          "hpperlevel": [
+            84,
+            69
+          ],
+          "mp": [
+            400,
+            440
+          ]
+        },
+        "abilities": {
+          "Q Prowling Projectile": {
+            "cooldown": [
+              [
+                13.5,
+                12,
+                10.5,
+                9,
+                7.5,
+                6
+              ],
+              [
+                7.5,
+                7.25,
+                7,
+                6.75,
+                6.5,
+                6.25
+              ]
+            ],
+            "cost": [
+              [
+                90,
+                90,
+                90,
+                90,
+                90,
+                90
+              ],
+              [
+                50,
+                55,
+                60,
+                65,
+                70,
+                75
+              ]
+            ],
+            "range": [
+              [
+                1150,
+                1150,
+                1150,
+                1150,
+                1150,
+                1150
+              ],
+              [
+                25000,
+                25000,
+                25000,
+                25000,
+                25000,
+                25000
+              ]
+            ]
+          },
+          "E Zoomies": {
+            "cost": [
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              [
+                80,
+                90,
+                100,
+                110,
+                120
+              ]
+            ]
+          },
+          "R Final Chapter": {
+            "cooldown": [
+              [
+                110,
+                100,
+                90
+              ],
+              [
+                120,
+                110,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Zed": {
+        "base_stats": {
+          "spellblock": [
+            32,
+            29
+          ]
+        },
+        "abilities": {
+          "E Shadow Slash": {
+            "cooldown": [
+              [
+                5,
+                4.75,
+                4.5,
+                4.25,
+                4
+              ],
+              [
+                5,
+                4.5,
+                4,
+                3.5,
+                3
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Archangel's Staff": {
+        "stats": {
+          "FlatMagicDamageMod": [
+            80,
+            70
+          ]
+        }
+      },
+      "Cosmic Drive": {
+        "stats": {
+          "FlatHPPoolMod": [
+            200,
+            null
+          ],
+          "FlatMagicDamageMod": [
+            65,
+            90
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

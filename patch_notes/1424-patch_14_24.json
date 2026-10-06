@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "name": "14.24",
+    "id": 1424,
+    "first_match": "2024-12-21 10:20",
+    "ddragon_version": "14.24.1",
+    "compared_with": "14.23.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-14-24-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Elise": {
+        "base_stats": {
+          "hp": [
+            650,
+            620
+          ]
+        }
+      },
+      "Poppy": {
+        "base_stats": {
+          "armor": [
+            38,
+            35
+          ],
+          "armorperlevel": [
+            4.7,
+            5
+          ]
+        }
+      },
+      "Rell": {
+        "base_stats": {
+          "hp": [
+            610,
+            640
+          ]
+        }
+      },
+      "Swain": {
+        "base_stats": {
+          "armor": [
+            26,
+            25
+          ],
+          "armorperlevel": [
+            5.2,
+            4.7
+          ]
+        }
+      },
+      "Talon": {
+        "base_stats": {
+          "spellblock": [
+            39,
+            36
+          ]
+        }
+      },
+      "Viktor": {
+        "abilities": {
+          "E Hextech Ray": {
+            "cost": [
+              [
+                70,
+                80,
+                90,
+                100,
+                110
+              ],
+              [
+                60,
+                70,
+                80,
+                90,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Warwick": {
+        "base_stats": {
+          "attackdamage": [
+            65,
+            63
+          ]
+        },
+        "abilities": {
+          "Q Jaws of the Beast": {
+            "range": [
+              [
+                350,
+                350,
+                350,
+                350,
+                350
+              ],
+              [
+                365,
+                365,
+                365,
+                365,
+                365
+              ]
+            ]
+          }
+        }
+      },
+      "Yuumi": {
+        "abilities": {
+          "Q Prowling Projectile": {
+            "cost": [
+              [
+                50,
+                60,
+                70,
+                80,
+                90,
+                100
+              ],
+              [
+                50,
+                55,
+                60,
+                65,
+                70,
+                75
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

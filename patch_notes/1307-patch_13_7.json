@@ -1,0 +1,245 @@
+{
+  "metadata": {
+    "name": "13.7",
+    "id": 1307,
+    "first_match": "2023-04-09 10:21",
+    "ddragon_version": "13.7.1",
+    "compared_with": "13.6.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-13-7-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Alistar": {
+        "base_stats": {
+          "hp": [
+            670,
+            685
+          ],
+          "armor": [
+            44,
+            47
+          ]
+        }
+      },
+      "Annie": {
+        "abilities": {
+          "E Molten Shield": {
+            "cooldown": [
+              [
+                12,
+                11,
+                10,
+                9,
+                8
+              ],
+              [
+                12,
+                11.5,
+                11,
+                10.5,
+                10
+              ]
+            ]
+          }
+        }
+      },
+      "Azir": {
+        "base_stats": {
+          "armor": [
+            19,
+            22
+          ],
+          "attackspeedperlevel": [
+            5,
+            6
+          ]
+        },
+        "abilities": {
+          "Q Conquering Sands": {
+            "cost": [
+              [
+                65,
+                70,
+                75,
+                80,
+                85
+              ],
+              [
+                70,
+                80,
+                90,
+                100,
+                110
+              ]
+            ]
+          },
+          "W Arise!": {
+            "cost": [
+              [
+                40,
+                40,
+                40,
+                40,
+                40
+              ],
+              [
+                40,
+                35,
+                30,
+                25,
+                20
+              ]
+            ]
+          }
+        }
+      },
+      "Graves": {
+        "abilities": {
+          "R Collateral Damage": {
+            "cooldown": [
+              [
+                120,
+                90,
+                60
+              ],
+              [
+                100,
+                80,
+                60
+              ]
+            ]
+          }
+        }
+      },
+      "Kalista": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.5,
+            3.75
+          ]
+        }
+      },
+      "Lee Sin": {
+        "base_stats": {
+          "armor": [
+            36,
+            34
+          ],
+          "attackdamage": [
+            68,
+            66
+          ]
+        }
+      },
+      "Sejuani": {
+        "abilities": {
+          "Q Arctic Assault": {
+            "cooldown": [
+              [
+                18,
+                16.5,
+                15,
+                13.5,
+                12
+              ],
+              [
+                19,
+                17.5,
+                16,
+                14.5,
+                13
+              ]
+            ]
+          },
+          "R Glacial Prison": {
+            "cooldown": [
+              [
+                120,
+                100,
+                80
+              ],
+              [
+                130,
+                110,
+                90
+              ]
+            ]
+          }
+        }
+      },
+      "Wukong": {
+        "base_stats": {
+          "attackdamage": [
+            68,
+            66
+          ]
+        },
+        "abilities": {
+          "W Warrior Trickster": {
+            "cooldown": [
+              [
+                22,
+                19.5,
+                17,
+                14.5,
+                12
+              ],
+              [
+                22,
+                20,
+                18,
+                16,
+                14
+              ]
+            ]
+          }
+        }
+      },
+      "Zeri": {
+        "base_stats": {
+          "hpperlevel": [
+            115,
+            110
+          ]
+        }
+      }
+    },
+    "items": {
+      "Abyssal Mask": {
+        "stats": {
+          "FlatHPPoolMod": [
+            500,
+            550
+          ]
+        }
+      },
+      "Catalyst of Aeons": {
+        "gold": [
+          1100,
+          1300
+        ],
+        "stats": {
+          "FlatHPPoolMod": [
+            225,
+            300
+          ]
+        }
+      },
+      "Death's Dance": {
+        "stats": {
+          "FlatArmorMod": [
+            50,
+            45
+          ],
+          "FlatPhysicalDamageMod": [
+            65,
+            55
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

@@ -1,0 +1,415 @@
+{
+  "metadata": {
+    "name": "13.11",
+    "id": 1311,
+    "first_match": "2023-06-03 00:13",
+    "ddragon_version": "13.11.1",
+    "compared_with": "13.10.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-13-11-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Aurelion Sol": {
+        "abilities": {
+          "E Singularity": {
+            "cost": [
+              [
+                60,
+                70,
+                80,
+                90,
+                100
+              ],
+              [
+                80,
+                85,
+                90,
+                95,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Azir": {
+        "abilities": {
+          "Q Conquering Sands": {
+            "cooldown": [
+              [
+                14,
+                12,
+                10,
+                8,
+                6
+              ],
+              [
+                12,
+                10.5,
+                9,
+                7.5,
+                6
+              ]
+            ]
+          },
+          "W Arise!": {
+            "range": [
+              [
+                500,
+                500,
+                500,
+                500,
+                500
+              ],
+              [
+                525,
+                525,
+                525,
+                525,
+                525
+              ]
+            ]
+          }
+        }
+      },
+      "Ivern": {
+        "abilities": {
+          "Q Rootcaller": {
+            "range": [
+              [
+                1075,
+                1075,
+                1075,
+                1075,
+                1075
+              ],
+              [
+                1125,
+                1125,
+                1125,
+                1125,
+                1125
+              ]
+            ]
+          }
+        }
+      },
+      "Jinx": {
+        "base_stats": {
+          "attackspeedperlevel": [
+            1.36,
+            1
+          ]
+        }
+      },
+      "Kalista": {
+        "base_stats": {
+          "hp": [
+            574,
+            600
+          ],
+          "hpregen": [
+            3.75,
+            4
+          ],
+          "hpregenperlevel": [
+            0.55,
+            0.75
+          ],
+          "attackdamage": [
+            66,
+            61
+          ],
+          "attackdamageperlevel": [
+            3.75,
+            3.25
+          ]
+        }
+      },
+      "Kindred": {
+        "base_stats": {
+          "hpperlevel": [
+            99,
+            104
+          ],
+          "attackdamageperlevel": [
+            2.5,
+            3.25
+          ]
+        }
+      },
+      "Rek'Sai": {
+        "abilities": {
+          "Q Queen's Wrath / Prey Seeker": {
+            "cooldown": [
+              [
+                4,
+                4,
+                4,
+                4,
+                4
+              ],
+              [
+                4,
+                3.5,
+                3,
+                2.5,
+                2
+              ]
+            ]
+          }
+        }
+      },
+      "Rell": {
+        "base_stats": {
+          "movespeed": [
+            335,
+            330
+          ],
+          "armorperlevel": [
+            4.2,
+            3
+          ],
+          "spellblockperlevel": [
+            2.05,
+            1
+          ],
+          "attackspeedperlevel": [
+            2,
+            1.5
+          ],
+          "attackspeed": [
+            0.55,
+            0.625
+          ]
+        },
+        "abilities": {
+          "Q Shattering Strike": {
+            "cooldown": [
+              [
+                9,
+                8,
+                7,
+                6,
+                5
+              ],
+              [
+                11,
+                10.5,
+                10,
+                9.5,
+                9
+              ]
+            ],
+            "range": [
+              [
+                700,
+                700,
+                700,
+                700,
+                700
+              ],
+              [
+                600,
+                600,
+                600,
+                600,
+                600
+              ]
+            ]
+          },
+          "W Ferromancy: Crash Down": {
+            "range": [
+              [
+                550,
+                550,
+                550,
+                550,
+                550
+              ],
+              [
+                450,
+                450,
+                450,
+                450,
+                450
+              ]
+            ]
+          },
+          "E Full Tilt": {
+            "cooldown": [
+              [
+                13,
+                13,
+                13,
+                13,
+                13
+              ],
+              [
+                15,
+                15,
+                15,
+                15,
+                15
+              ]
+            ],
+            "range": [
+              [
+                1500,
+                1500,
+                1500,
+                1500,
+                1500
+              ],
+              [
+                1200,
+                1200,
+                1200,
+                1200,
+                1200
+              ]
+            ]
+          }
+        }
+      },
+      "Renekton": {
+        "abilities": {
+          "E Slice and Dice": {
+            "cooldown": [
+              [
+                18,
+                17,
+                16,
+                15,
+                14
+              ],
+              [
+                16,
+                15,
+                14,
+                13,
+                12
+              ]
+            ]
+          },
+          "R Dominus": {
+            "cooldown": [
+              [
+                120,
+                120,
+                120
+              ],
+              [
+                120,
+                100,
+                80
+              ]
+            ]
+          }
+        }
+      },
+      "Twisted Fate": {
+        "abilities": {
+          "W Pick a Card": {
+            "cooldown": [
+              [
+                8,
+                7.5,
+                7,
+                6.5,
+                6
+              ],
+              [
+                6,
+                6,
+                6,
+                6,
+                6
+              ]
+            ]
+          }
+        }
+      },
+      "Yasuo": {
+        "base_stats": {
+          "hpperlevel": [
+            101,
+            110
+          ]
+        },
+        "abilities": {
+          "W Wind Wall": {
+            "cooldown": [
+              [
+                30,
+                27,
+                24,
+                21,
+                18
+              ],
+              [
+                25,
+                23,
+                21,
+                19,
+                17
+              ]
+            ]
+          }
+        }
+      },
+      "Yone": {
+        "base_stats": {
+          "hpperlevel": [
+            99,
+            105
+          ],
+          "armor": [
+            28,
+            30
+          ]
+        },
+        "abilities": {
+          "W Spirit Cleave": {
+            "cooldown": [
+              [
+                16,
+                16,
+                16,
+                16,
+                16
+              ],
+              [
+                14,
+                14,
+                14,
+                14,
+                14
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Navori Quickblades": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            60,
+            65
+          ]
+        }
+      },
+      "Stormrazor": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            55,
+            50
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

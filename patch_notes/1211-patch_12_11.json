@@ -1,0 +1,819 @@
+{
+  "metadata": {
+    "name": "12.11",
+    "id": 1211,
+    "first_match": "2022-06-09 17:15",
+    "ddragon_version": "12.11.1",
+    "compared_with": "12.10.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-12-11-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [
+      "Bel'Veth"
+    ],
+    "champions": {
+      "Anivia": {
+        "abilities": {
+          "Q Flash Frost": {
+            "cooldown": [
+              [
+                11,
+                10,
+                9,
+                8,
+                7
+              ],
+              [
+                12,
+                11,
+                10,
+                9,
+                8
+              ]
+            ]
+          }
+        }
+      },
+      "Caitlyn": {
+        "abilities": {
+          "Q Piltover Peacemaker": {
+            "cost": [
+              [
+                50,
+                60,
+                70,
+                80,
+                90
+              ],
+              [
+                55,
+                60,
+                65,
+                70,
+                75
+              ]
+            ]
+          },
+          "E 90 Caliber Net": {
+            "cooldown": [
+              [
+                16,
+                14.5,
+                13,
+                11.5,
+                10
+              ],
+              [
+                16,
+                14,
+                12,
+                10,
+                8
+              ]
+            ]
+          }
+        }
+      },
+      "Fizz": {
+        "base_stats": {
+          "hpperlevel": [
+            112,
+            106
+          ],
+          "mpperlevel": [
+            37,
+            52
+          ]
+        }
+      },
+      "Gragas": {
+        "abilities": {
+          "Q Barrel Roll": {
+            "cooldown": [
+              [
+                11,
+                10,
+                9,
+                8,
+                7
+              ],
+              [
+                10,
+                9,
+                8,
+                7,
+                6
+              ]
+            ]
+          },
+          "E Body Slam": {
+            "cooldown": [
+              [
+                16,
+                15,
+                14,
+                13,
+                12
+              ],
+              [
+                14,
+                13.5,
+                13,
+                12.5,
+                12
+              ]
+            ]
+          }
+        }
+      },
+      "Gwen": {
+        "abilities": {
+          "W Hallowed Mist": {
+            "cooldown": [
+              [
+                22,
+                20,
+                18,
+                16,
+                14
+              ],
+              [
+                22,
+                21,
+                20,
+                19,
+                18
+              ]
+            ]
+          }
+        }
+      },
+      "Irelia": {
+        "abilities": {
+          "E Flawless Duet": {
+            "cooldown": [
+              [
+                18,
+                16.5,
+                15,
+                13.5,
+                12
+              ],
+              [
+                16,
+                15,
+                14,
+                13,
+                12
+              ]
+            ]
+          }
+        }
+      },
+      "Kayle": {
+        "base_stats": {
+          "hpperlevel": [
+            99,
+            92
+          ],
+          "spellblock": [
+            26,
+            22
+          ]
+        }
+      },
+      "Kled": {
+        "abilities": {
+          "W Violent Tendencies": {
+            "cooldown": [
+              [
+                14,
+                12.5,
+                11,
+                9.5,
+                8
+              ],
+              [
+                12,
+                10.5,
+                9,
+                7.5,
+                6
+              ]
+            ]
+          },
+          "R Chaaaaaaaarge!!!": {
+            "cooldown": [
+              [
+                160,
+                140,
+                120
+              ],
+              [
+                140,
+                125,
+                110
+              ]
+            ]
+          }
+        }
+      },
+      "Lee Sin": {
+        "base_stats": {
+          "attackdamage": [
+            66,
+            68
+          ]
+        }
+      },
+      "Lillia": {
+        "base_stats": {
+          "hp": [
+            650,
+            625
+          ]
+        }
+      },
+      "Master Yi": {
+        "base_stats": {
+          "hpperlevel": [
+            106,
+            100
+          ]
+        }
+      },
+      "Nunu & Willump": {
+        "abilities": {
+          "E Snowball Barrage": {
+            "cooldown": [
+              [
+                14,
+                14,
+                14,
+                14,
+                14
+              ],
+              [
+                14,
+                13,
+                12,
+                11,
+                10
+              ]
+            ]
+          }
+        }
+      },
+      "Olaf": {
+        "abilities": {
+          "W Tough It Out": {
+            "cooldown": [
+              [
+                16,
+                14.5,
+                13,
+                11.5,
+                10
+              ],
+              [
+                16,
+                15,
+                14,
+                13,
+                12
+              ]
+            ]
+          }
+        }
+      },
+      "Rakan": {
+        "abilities": {
+          "W Grand Entrance": {
+            "cooldown": [
+              [
+                18,
+                16.5,
+                15,
+                13.5,
+                12
+              ],
+              [
+                16,
+                14.5,
+                13,
+                11.5,
+                10
+              ]
+            ]
+          },
+          "E Battle Dance": {
+            "cost": [
+              [
+                60,
+                70,
+                80,
+                90,
+                100
+              ],
+              [
+                40,
+                45,
+                50,
+                55,
+                60
+              ]
+            ]
+          }
+        }
+      },
+      "Renekton": {
+        "abilities": {
+          "Q Cull the Meek": {
+            "cooldown": [
+              [
+                8,
+                8,
+                8,
+                8,
+                8
+              ],
+              [
+                7,
+                7,
+                7,
+                7,
+                7
+              ]
+            ]
+          }
+        }
+      },
+      "Rengar": {
+        "base_stats": {
+          "hp": [
+            655,
+            620
+          ]
+        },
+        "abilities": {
+          "R Thrill of the Hunt": {
+            "cooldown": [
+              [
+                110,
+                90,
+                70
+              ],
+              [
+                110,
+                100,
+                90
+              ]
+            ]
+          }
+        }
+      },
+      "Ryze": {
+        "abilities": {
+          "E Spell Flux": {
+            "cost": [
+              [
+                40,
+                55,
+                70,
+                85,
+                100
+              ],
+              [
+                35,
+                45,
+                55,
+                65,
+                75
+              ]
+            ]
+          }
+        }
+      },
+      "Samira": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            3.3
+          ]
+        }
+      },
+      "Senna": {
+        "base_stats": {
+          "hp": [
+            590,
+            560
+          ]
+        }
+      },
+      "Sylas": {
+        "abilities": {
+          "W Kingslayer": {
+            "cooldown": [
+              [
+                13,
+                11.25,
+                9.5,
+                7.75,
+                6
+              ],
+              [
+                12,
+                10.5,
+                9,
+                7.5,
+                6
+              ]
+            ],
+            "cost": [
+              [
+                60,
+                70,
+                80,
+                90,
+                100
+              ],
+              [
+                50,
+                60,
+                70,
+                80,
+                90
+              ]
+            ]
+          },
+          "E Abscond / Abduct": {
+            "cooldown": [
+              [
+                14,
+                13,
+                12,
+                11,
+                10
+              ],
+              [
+                13,
+                12,
+                11,
+                10,
+                9
+              ]
+            ]
+          }
+        }
+      },
+      "Taliyah": {
+        "base_stats": {
+          "hp": [
+            570,
+            550
+          ]
+        },
+        "abilities": {
+          "Q Threaded Volley": {
+            "cooldown": [
+              [
+                6.5,
+                5.5,
+                4.5,
+                3.5,
+                2.5
+              ],
+              [
+                7,
+                6,
+                5,
+                4,
+                3
+              ]
+            ]
+          }
+        }
+      },
+      "Taric": {
+        "abilities": {
+          "Q Starlight's Touch": {
+            "cost": [
+              [
+                65,
+                70,
+                75,
+                80,
+                85
+              ],
+              [
+                60,
+                60,
+                60,
+                60,
+                60
+              ]
+            ]
+          },
+          "E Dazzle": {
+            "cooldown": [
+              [
+                17,
+                16,
+                15,
+                14,
+                13
+              ],
+              [
+                15,
+                14,
+                13,
+                12,
+                11
+              ]
+            ]
+          }
+        }
+      },
+      "Tryndamere": {
+        "abilities": {
+          "R Undying Rage": {
+            "cooldown": [
+              [
+                130,
+                110,
+                90
+              ],
+              [
+                120,
+                100,
+                80
+              ]
+            ]
+          }
+        }
+      },
+      "Vayne": {
+        "base_stats": {
+          "hp": [
+            585,
+            550
+          ]
+        }
+      },
+      "Veigar": {
+        "abilities": {
+          "E Event Horizon": {
+            "cooldown": [
+              [
+                20,
+                18,
+                16,
+                14,
+                12
+              ],
+              [
+                20,
+                18.5,
+                17,
+                15.5,
+                14
+              ]
+            ]
+          }
+        }
+      },
+      "Wukong": {
+        "abilities": {
+          "W Warrior Trickster": {
+            "cooldown": [
+              [
+                20,
+                18,
+                16,
+                14,
+                12
+              ],
+              [
+                22,
+                19.5,
+                17,
+                14.5,
+                12
+              ]
+            ]
+          }
+        }
+      },
+      "Xin Zhao": {
+        "abilities": {
+          "W Wind Becomes Lightning": {
+            "cost": [
+              [
+                60,
+                60,
+                60,
+                60,
+                60
+              ],
+              [
+                60,
+                55,
+                50,
+                45,
+                40
+              ]
+            ]
+          }
+        }
+      },
+      "Zeri": {
+        "abilities": {
+          "W Ultrashock Laser": {
+            "cooldown": [
+              [
+                13,
+                12,
+                11,
+                10,
+                9
+              ],
+              [
+                12,
+                11,
+                10,
+                9,
+                8
+              ]
+            ]
+          },
+          "E Spark Surge": {
+            "cooldown": [
+              [
+                26,
+                24.5,
+                23,
+                21.5,
+                20
+              ],
+              [
+                22,
+                20.5,
+                19,
+                17.5,
+                16
+              ]
+            ]
+          },
+          "R Lightning Crash": {
+            "cooldown": [
+              [
+                120,
+                95,
+                70
+              ],
+              [
+                100,
+                85,
+                70
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Abyssal Mask": {
+        "stats": {
+          "FlatSpellBlockMod": [
+            30,
+            35
+          ]
+        }
+      },
+      "Bami's Cinder": {
+        "gold": [
+          1100,
+          1000
+        ]
+      },
+      "Blade of The Ruined King": {
+        "stats": {
+          "PercentLifeStealMod": [
+            0.07,
+            0.08
+          ]
+        }
+      },
+      "Chempunk Chainsword": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            45,
+            55
+          ]
+        }
+      },
+      "Chemtech Putrifier": {
+        "stats": {
+          "FlatMagicDamageMod": [
+            55,
+            60
+          ]
+        }
+      },
+      "Crown of the Shattered Queen": {
+        "stats": {
+          "FlatMagicDamageMod": [
+            60,
+            70
+          ]
+        }
+      },
+      "Executioner's Calling": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            15,
+            20
+          ]
+        }
+      },
+      "Frostfire Gauntlet": {
+        "stats": {
+          "FlatHPPoolMod": [
+            350,
+            450
+          ]
+        }
+      },
+      "Morellonomicon": {
+        "stats": {
+          "FlatHPPoolMod": [
+            250,
+            300
+          ],
+          "FlatMagicDamageMod": [
+            80,
+            90
+          ]
+        }
+      },
+      "Oblivion Orb": {
+        "stats": {
+          "FlatMagicDamageMod": [
+            30,
+            35
+          ]
+        }
+      },
+      "Randuin's Omen": {
+        "stats": {
+          "FlatArmorMod": [
+            80,
+            90
+          ]
+        }
+      },
+      "Riftmaker": {
+        "stats": {
+          "FlatMagicDamageMod": [
+            80,
+            70
+          ]
+        }
+      },
+      "Spirit Visage": {
+        "stats": {
+          "FlatSpellBlockMod": [
+            40,
+            50
+          ]
+        }
+      },
+      "Sunfire Aegis": {
+        "stats": {
+          "FlatHPPoolMod": [
+            350,
+            450
+          ]
+        }
+      },
+      "Turbo Chemtank": {
+        "stats": {
+          "FlatHPPoolMod": [
+            350,
+            450
+          ]
+        }
+      },
+      "Zeke's Convergence": {
+        "stats": {
+          "FlatArmorMod": [
+            25,
+            35
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

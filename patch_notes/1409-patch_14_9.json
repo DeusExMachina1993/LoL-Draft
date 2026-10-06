@@ -1,0 +1,285 @@
+{
+  "metadata": {
+    "name": "14.9",
+    "id": 1409,
+    "first_match": "2024-05-02 00:18",
+    "ddragon_version": "14.9.1",
+    "compared_with": "14.8.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-14-9-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Ahri": {
+        "abilities": {
+          "R Spirit Rush": {
+            "cooldown": [
+              [
+                130,
+                105,
+                80
+              ],
+              [
+                130,
+                115,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Amumu": {
+        "base_stats": {
+          "armor": [
+            30,
+            33
+          ],
+          "attackdamage": [
+            53,
+            57
+          ]
+        }
+      },
+      "Graves": {
+        "base_stats": {
+          "attackspeedperlevel": [
+            2.6,
+            3
+          ]
+        }
+      },
+      "Jinx": {
+        "abilities": {
+          "R Super Mega Death Rocket!": {
+            "cooldown": [
+              [
+                70,
+                60,
+                50
+              ],
+              [
+                85,
+                65,
+                45
+              ]
+            ]
+          }
+        }
+      },
+      "Kennen": {
+        "abilities": {
+          "E Lightning Rush": {
+            "range": [
+              [
+                200,
+                200,
+                200,
+                200,
+                200
+              ],
+              [
+                170,
+                170,
+                170,
+                170,
+                170
+              ]
+            ]
+          }
+        }
+      },
+      "Lee Sin": {
+        "abilities": {
+          "E Tempest / Cripple": {
+            "range": [
+              [
+                425,
+                425,
+                425,
+                425,
+                425
+              ],
+              [
+                450,
+                450,
+                450,
+                450,
+                450
+              ]
+            ]
+          }
+        }
+      },
+      "Malzahar": {
+        "abilities": {
+          "Q Call of the Void": {
+            "cost": [
+              [
+                80,
+                80,
+                80,
+                80,
+                80
+              ],
+              [
+                60,
+                65,
+                70,
+                75,
+                80
+              ]
+            ]
+          },
+          "E Malefic Visions": {
+            "cooldown": [
+              [
+                15,
+                13,
+                11,
+                9,
+                7
+              ],
+              [
+                11,
+                10,
+                9,
+                8,
+                7
+              ]
+            ]
+          }
+        }
+      },
+      "Pyke": {
+        "abilities": {
+          "W Ghostwater Dive": {
+            "cooldown": [
+              [
+                12,
+                11,
+                10,
+                9,
+                8
+              ],
+              [
+                14,
+                13,
+                12,
+                11,
+                10
+              ]
+            ],
+            "cost": [
+              [
+                50,
+                50,
+                50,
+                50,
+                50
+              ],
+              [
+                65,
+                65,
+                65,
+                65,
+                65
+              ]
+            ]
+          }
+        }
+      },
+      "Skarner": {
+        "base_stats": {
+          "mpregenperlevel": [
+            0.6,
+            0.75
+          ]
+        }
+      },
+      "Taliyah": {
+        "abilities": {
+          "Q Threaded Volley": {
+            "cost": [
+              [
+                55,
+                60,
+                65,
+                70,
+                75
+              ],
+              [
+                65,
+                70,
+                75,
+                80,
+                85
+              ]
+            ]
+          }
+        }
+      },
+      "Twitch": {
+        "base_stats": {
+          "hp": [
+            682,
+            630
+          ],
+          "hpperlevel": [
+            100,
+            104
+          ]
+        }
+      },
+      "Urgot": {
+        "base_stats": {
+          "armorperlevel": [
+            5.45,
+            5
+          ]
+        }
+      }
+    },
+    "items": {
+      "Death's Dance": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            55,
+            60
+          ]
+        }
+      },
+      "Hexdrinker": {
+        "stats": {
+          "FlatSpellBlockMod": [
+            35,
+            30
+          ]
+        }
+      },
+      "Maw of Malmortius": {
+        "gold": [
+          2800,
+          3100
+        ],
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            65,
+            70
+          ],
+          "FlatSpellBlockMod": [
+            50,
+            40
+          ]
+        }
+      },
+      "Sterak's Gage": {
+        "gold": [
+          3000,
+          3200
+        ]
+      }
+    },
+    "removed_items": []
+  }
+}

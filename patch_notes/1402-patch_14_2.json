@@ -1,0 +1,493 @@
+{
+  "metadata": {
+    "name": "14.2",
+    "id": 1402,
+    "first_match": "2024-01-27 20:15",
+    "ddragon_version": "14.2.1",
+    "compared_with": "14.1.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-14-2-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [
+      "Smolder"
+    ],
+    "champions": {
+      "Ahri": {
+        "abilities": {
+          "E Charm": {
+            "cooldown": [
+              [
+                14,
+                14,
+                14,
+                14,
+                14
+              ],
+              [
+                12,
+                12,
+                12,
+                12,
+                12
+              ]
+            ]
+          }
+        }
+      },
+      "Aphelios": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            2.3
+          ]
+        }
+      },
+      "Blitzcrank": {
+        "base_stats": {
+          "armor": [
+            40,
+            37
+          ]
+        }
+      },
+      "Camille": {
+        "base_stats": {
+          "hp": [
+            646,
+            670
+          ]
+        }
+      },
+      "Corki": {
+        "base_stats": {
+          "attackdamage": [
+            59,
+            61
+          ]
+        }
+      },
+      "Darius": {
+        "abilities": {
+          "Q Decimate": {
+            "cost": [
+              [
+                30,
+                35,
+                40,
+                45,
+                50
+              ],
+              [
+                25,
+                30,
+                35,
+                40,
+                45
+              ]
+            ]
+          }
+        }
+      },
+      "Ezreal": {
+        "abilities": {
+          "W Essence Flux": {
+            "cooldown": [
+              [
+                12,
+                12,
+                12,
+                12,
+                12
+              ],
+              [
+                8,
+                8,
+                8,
+                8,
+                8
+              ]
+            ]
+          },
+          "E Arcane Shift": {
+            "cost": [
+              [
+                90,
+                90,
+                90,
+                90,
+                90
+              ],
+              [
+                70,
+                70,
+                70,
+                70,
+                70
+              ]
+            ]
+          }
+        }
+      },
+      "Gragas": {
+        "base_stats": {
+          "hpperlevel": [
+            109,
+            115
+          ],
+          "armorperlevel": [
+            4.8,
+            5
+          ]
+        },
+        "abilities": {
+          "R Explosive Cask": {
+            "cooldown": [
+              [
+                120,
+                100,
+                80
+              ],
+              [
+                100,
+                85,
+                70
+              ]
+            ]
+          }
+        }
+      },
+      "Hwei": {
+        "base_stats": {
+          "hpperlevel": [
+            104,
+            109
+          ]
+        },
+        "abilities": {
+          "E Subject: Torment": {
+            "cooldown": [
+              [
+                15,
+                14,
+                13,
+                12,
+                11
+              ],
+              [
+                12,
+                11.5,
+                11,
+                10.5,
+                10
+              ]
+            ]
+          }
+        }
+      },
+      "Illaoi": {
+        "base_stats": {
+          "hpperlevel": [
+            109,
+            115
+          ],
+          "mp": [
+            300,
+            350
+          ],
+          "mpperlevel": [
+            50,
+            60
+          ]
+        }
+      },
+      "Karma": {
+        "base_stats": {
+          "hp": [
+            604,
+            630
+          ]
+        }
+      },
+      "LeBlanc": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.7,
+            2.2
+          ],
+          "attackspeedperlevel": [
+            1.5,
+            2.35
+          ]
+        }
+      },
+      "Lux": {
+        "base_stats": {
+          "hp": [
+            560,
+            580
+          ],
+          "armor": [
+            19,
+            21
+          ],
+          "attackspeedperlevel": [
+            2,
+            3
+          ]
+        }
+      },
+      "Naafiri": {
+        "base_stats": {
+          "movespeed": [
+            335,
+            340
+          ]
+        }
+      },
+      "Rumble": {
+        "base_stats": {
+          "attackdamage": [
+            61,
+            64
+          ]
+        }
+      },
+      "Shen": {
+        "base_stats": {
+          "attackdamage": [
+            60,
+            64
+          ]
+        }
+      },
+      "Taric": {
+        "base_stats": {
+          "armorperlevel": [
+            4.6,
+            4.3
+          ]
+        }
+      },
+      "Twisted Fate": {
+        "base_stats": {
+          "attackspeedperlevel": [
+            3.22,
+            3
+          ],
+          "attackspeed": [
+            0.651,
+            0.625
+          ]
+        }
+      },
+      "Veigar": {
+        "base_stats": {
+          "hp": [
+            550,
+            580
+          ]
+        }
+      },
+      "Zac": {
+        "abilities": {
+          "E Elastic Slingshot": {
+            "cooldown": [
+              [
+                24,
+                21,
+                18,
+                15,
+                12
+              ],
+              [
+                22,
+                19,
+                16,
+                13,
+                10
+              ]
+            ]
+          },
+          "R Let's Bounce!": {
+            "cooldown": [
+              [
+                130,
+                115,
+                100
+              ],
+              [
+                120,
+                105,
+                90
+              ]
+            ]
+          }
+        }
+      },
+      "Zed": {
+        "abilities": {
+          "W Living Shadow": {
+            "cooldown": [
+              [
+                20,
+                19.25,
+                18.5,
+                17.75,
+                17
+              ],
+              [
+                20,
+                19,
+                18,
+                17,
+                16
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Dreamshatter": {
+        "gold": [
+          3100,
+          3000
+        ],
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            65,
+            70
+          ],
+          "PercentAttackSpeedMod": [
+            0.3,
+            0.4
+          ]
+        }
+      },
+      "Essence Reaver": {
+        "gold": [
+          3000,
+          2900
+        ]
+      },
+      "Experimental Hexplate": {
+        "stats": {
+          "PercentAttackSpeedMod": [
+            0.2,
+            0.25
+          ]
+        }
+      },
+      "Frozen Heart": {
+        "gold": [
+          2300,
+          2400
+        ]
+      },
+      "Heartsteel": {
+        "stats": {
+          "FlatHPPoolMod": [
+            800,
+            900
+          ]
+        }
+      },
+      "Icathia's Curse": {
+        "gold": [
+          3000,
+          3100
+        ]
+      },
+      "Leviathan": {
+        "stats": {
+          "FlatHPPoolMod": [
+            1050,
+            1150
+          ]
+        }
+      },
+      "Profane Hydra": {
+        "gold": [
+          3400,
+          3300
+        ]
+      },
+      "Ravenous Hydra": {
+        "stats": {
+          "PercentLifeStealMod": [
+            0.1,
+            0.12
+          ]
+        }
+      },
+      "Riftmaker": {
+        "gold": [
+          3000,
+          3100
+        ]
+      },
+      "Steel Sigil": {
+        "gold": [
+          1200,
+          1100
+        ]
+      },
+      "Stormsurge": {
+        "stats": {
+          "FlatMagicDamageMod": [
+            100,
+            90
+          ]
+        }
+      },
+      "Stridebreaker": {
+        "gold": [
+          3100,
+          3000
+        ],
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            50,
+            55
+          ],
+          "PercentAttackSpeedMod": [
+            0.2,
+            0.3
+          ]
+        }
+      },
+      "The Collector": {
+        "gold": [
+          3000,
+          3100
+        ]
+      },
+      "Titanic Hydra": {
+        "stats": {
+          "FlatHPPoolMod": [
+            550,
+            500
+          ],
+          "FlatPhysicalDamageMod": [
+            55,
+            50
+          ]
+        }
+      },
+      "Trailblazer": {
+        "gold": [
+          2400,
+          2500
+        ],
+        "stats": {
+          "FlatHPPoolMod": [
+            250,
+            200
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "name": "10.20",
+    "id": 1020,
+    "first_match": "2020-10-01 15:29",
+    "ddragon_version": "10.20.1",
+    "compared_with": "10.19.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-10-20-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Braum": {
+        "abilities": {
+          "Q Winter's Bite": {
+            "cost": [
+              [
+                55,
+                60,
+                65,
+                70,
+                75
+              ],
+              [
+                45,
+                50,
+                55,
+                60,
+                65
+              ]
+            ]
+          }
+        }
+      },
+      "Karthus": {
+        "base_stats": {
+          "armor": [
+            20.88,
+            18
+          ]
+        }
+      },
+      "Kled": {
+        "base_stats": {
+          "spellblock": [
+            32.1,
+            28
+          ]
+        }
+      },
+      "Nunu & Willump": {
+        "base_stats": {
+          "armor": [
+            32,
+            29
+          ]
+        }
+      },
+      "Samira": {
+        "base_stats": {
+          "hp": [
+            600,
+            530
+          ]
+        }
+      },
+      "Varus": {
+        "abilities": {
+          "R Chain of Corruption": {
+            "cooldown": [
+              [
+                130,
+                100,
+                70
+              ],
+              [
+                120,
+                90,
+                60
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

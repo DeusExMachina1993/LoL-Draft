@@ -1,0 +1,138 @@
+{
+  "metadata": {
+    "name": "25.24",
+    "id": 2524,
+    "first_match": "2025-12-06 00:46",
+    "ddragon_version": "15.24.1",
+    "compared_with": "15.23.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-24-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Braum": {
+        "base_stats": {
+          "hp": [
+            610,
+            630
+          ]
+        }
+      },
+      "Master Yi": {
+        "base_stats": {
+          "hp": [
+            655,
+            640
+          ],
+          "attackdamageperlevel": [
+            2.8,
+            2.5
+          ]
+        }
+      },
+      "Mel": {
+        "abilities": {
+          "E Solar Snare": {
+            "cost": [
+              [
+                50,
+                55,
+                60,
+                65,
+                70
+              ],
+              [
+                50,
+                60,
+                70,
+                80,
+                90
+              ]
+            ]
+          }
+        }
+      },
+      "Nasus": {
+        "base_stats": {
+          "hp": [
+            631,
+            650
+          ]
+        }
+      },
+      "Sejuani": {
+        "abilities": {
+          "Q Arctic Assault": {
+            "cooldown": [
+              [
+                19,
+                17.5,
+                16,
+                14.5,
+                13
+              ],
+              [
+                18,
+                16.5,
+                15,
+                13.5,
+                12
+              ]
+            ],
+            "cost": [
+              [
+                70,
+                75,
+                80,
+                85,
+                90
+              ],
+              [
+                60,
+                65,
+                70,
+                75,
+                80
+              ]
+            ]
+          },
+          "W Winter's Wrath": {
+            "cost": [
+              [
+                65,
+                65,
+                65,
+                65,
+                65
+              ],
+              [
+                60,
+                60,
+                60,
+                60,
+                60
+              ]
+            ]
+          },
+          "R Glacial Prison": {
+            "cooldown": [
+              [
+                130,
+                110,
+                90
+              ],
+              [
+                120,
+                105,
+                90
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

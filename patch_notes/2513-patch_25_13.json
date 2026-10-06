@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "name": "25.13",
+    "id": 2513,
+    "first_match": "2025-06-27 19:13",
+    "ddragon_version": "15.13.1",
+    "compared_with": "15.12.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-13-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Gangplank": {
+        "abilities": {
+          "Q Parrrley": {
+            "cost": [
+              [
+                55,
+                50,
+                45,
+                40,
+                35
+              ],
+              [
+                50,
+                45,
+                40,
+                35,
+                30
+              ]
+            ]
+          },
+          "R Cannon Barrage": {
+            "cooldown": [
+              [
+                170,
+                150,
+                130
+              ],
+              [
+                160,
+                140,
+                120
+              ]
+            ]
+          }
+        }
+      },
+      "Kindred": {
+        "abilities": {
+          "R Lamb's Respite": {
+            "cooldown": [
+              [
+                180,
+                150,
+                120
+              ],
+              [
+                160,
+                140,
+                120
+              ]
+            ]
+          }
+        }
+      },
+      "Rammus": {
+        "base_stats": {
+          "hpperlevel": [
+            94,
+            100
+          ]
+        }
+      },
+      "Ryze": {
+        "abilities": {
+          "W Rune Prison": {
+            "cost": [
+              [
+                40,
+                55,
+                70,
+                85,
+                100
+              ],
+              [
+                50,
+                60,
+                70,
+                80,
+                90
+              ]
+            ]
+          }
+        }
+      },
+      "Twisted Fate": {
+        "abilities": {
+          "R Destiny": {
+            "cooldown": [
+              [
+                160,
+                130,
+                100
+              ],
+              [
+                170,
+                140,
+                110
+              ]
+            ]
+          }
+        }
+      },
+      "Yorick": {
+        "base_stats": {
+          "armor": [
+            39,
+            36
+          ]
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

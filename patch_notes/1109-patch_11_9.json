@@ -1,0 +1,393 @@
+{
+  "metadata": {
+    "name": "11.9",
+    "id": 1109,
+    "first_match": "2021-04-29 16:31",
+    "ddragon_version": "11.9.1",
+    "compared_with": "11.8.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-11-9-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Diana": {
+        "base_stats": {
+          "armorperlevel": [
+            3.6,
+            3.1
+          ],
+          "hpregen": [
+            7.5,
+            6.5
+          ]
+        }
+      },
+      "Dr. Mundo": {
+        "base_stats": {
+          "armorperlevel": [
+            3.5,
+            3
+          ],
+          "attackdamageperlevel": [
+            3.5,
+            3
+          ]
+        }
+      },
+      "Gwen": {
+        "base_stats": {
+          "armor": [
+            37,
+            39
+          ]
+        }
+      },
+      "Hecarim": {
+        "base_stats": {
+          "armor": [
+            36,
+            32
+          ],
+          "armorperlevel": [
+            4,
+            4.25
+          ]
+        }
+      },
+      "Kindred": {
+        "abilities": {
+          "Q Dance of Arrows": {
+            "cooldown": [
+              [
+                9,
+                9,
+                9,
+                9,
+                9
+              ],
+              [
+                8,
+                8,
+                8,
+                8,
+                8
+              ]
+            ]
+          }
+        }
+      },
+      "Kog'Maw": {
+        "abilities": {
+          "E Void Ooze": {
+            "cost": [
+              [
+                80,
+                90,
+                100,
+                110,
+                120
+              ],
+              [
+                60,
+                70,
+                80,
+                90,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Lulu": {
+        "abilities": {
+          "W Whimsy": {
+            "cooldown": [
+              [
+                16,
+                15,
+                14,
+                13,
+                12
+              ],
+              [
+                15,
+                14,
+                13,
+                12,
+                11
+              ]
+            ]
+          }
+        }
+      },
+      "Taric": {
+        "abilities": {
+          "Q Starlight's Touch": {
+            "cost": [
+              [
+                70,
+                80,
+                90,
+                100,
+                110
+              ],
+              [
+                70,
+                75,
+                80,
+                85,
+                90
+              ]
+            ]
+          }
+        }
+      },
+      "Vladimir": {
+        "abilities": {
+          "Q Transfusion": {
+            "cooldown": [
+              [
+                9,
+                7.75,
+                6.5,
+                5.25,
+                4
+              ],
+              [
+                9,
+                7.9,
+                6.8,
+                5.7,
+                4.6
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "%i:ornnIcon% Bloodward": {
+        "new": true,
+        "gold": 3400,
+        "stats": {
+          "FlatPhysicalDamageMod": 70,
+          "FlatCritChanceMod": 0.2,
+          "PercentAttackSpeedMod": 0.3,
+          "PercentLifeStealMod": 0.12
+        }
+      },
+      "%i:ornnIcon% Ceaseless Hunger": {
+        "new": true,
+        "gold": 3300,
+        "stats": {
+          "FlatPhysicalDamageMod": 60,
+          "FlatHPPoolMod": 550
+        }
+      },
+      "%i:ornnIcon% Deicide": {
+        "new": true,
+        "gold": 3300,
+        "stats": {
+          "FlatPhysicalDamageMod": 55,
+          "FlatHPPoolMod": 550
+        }
+      },
+      "%i:ornnIcon% Draktharr's Shadowcarver": {
+        "new": true,
+        "gold": 3200,
+        "stats": {
+          "FlatPhysicalDamageMod": 75
+        }
+      },
+      "%i:ornnIcon% Dreamshatter": {
+        "new": true,
+        "gold": 3300,
+        "stats": {
+          "FlatPhysicalDamageMod": 55,
+          "FlatHPPoolMod": 300,
+          "PercentAttackSpeedMod": 0.3
+        }
+      },
+      "%i:ornnIcon% Eternal Winter": {
+        "new": true,
+        "gold": 3400,
+        "stats": {
+          "FlatHPPoolMod": 350,
+          "FlatMPPoolMod": 800,
+          "FlatMagicDamageMod": 100
+        }
+      },
+      "%i:ornnIcon% Eye of Luden": {
+        "new": true,
+        "gold": 3400,
+        "stats": {
+          "FlatMPPoolMod": 800,
+          "FlatMagicDamageMod": 100
+        }
+      },
+      "%i:ornnIcon% Forgefire Crest": {
+        "new": true,
+        "gold": 3200,
+        "stats": {
+          "FlatHPPoolMod": 500,
+          "FlatSpellBlockMod": 45,
+          "FlatArmorMod": 45
+        }
+      },
+      "%i:ornnIcon% Icathia's Curse": {
+        "new": true,
+        "gold": 3200,
+        "stats": {
+          "FlatHPPoolMod": 450,
+          "FlatMagicDamageMod": 100
+        }
+      },
+      "%i:ornnIcon% Infinity Force": {
+        "new": true,
+        "gold": 3333,
+        "stats": {
+          "FlatPhysicalDamageMod": 40,
+          "FlatHPPoolMod": 300,
+          "PercentAttackSpeedMod": 0.4
+        }
+      },
+      "%i:ornnIcon% Liandry's Lament": {
+        "new": true,
+        "gold": 3400,
+        "stats": {
+          "FlatMPPoolMod": 800,
+          "FlatMagicDamageMod": 110
+        }
+      },
+      "%i:ornnIcon% Reliquary of the Golden Dawn": {
+        "new": true,
+        "gold": 2500,
+        "stats": {
+          "FlatHPPoolMod": 400,
+          "FlatSpellBlockMod": 40,
+          "FlatArmorMod": 40
+        }
+      },
+      "%i:ornnIcon% Rimeforged Grasp": {
+        "new": true,
+        "gold": 2800,
+        "stats": {
+          "FlatHPPoolMod": 500,
+          "FlatSpellBlockMod": 40,
+          "FlatArmorMod": 40
+        }
+      },
+      "%i:ornnIcon% Sandshrike's Claw": {
+        "new": true,
+        "gold": 3200,
+        "stats": {
+          "FlatPhysicalDamageMod": 75
+        }
+      },
+      "%i:ornnIcon% Seat of Command": {
+        "new": true,
+        "gold": 2500,
+        "stats": {
+          "FlatHPPoolMod": 300,
+          "FlatMagicDamageMod": 70
+        }
+      },
+      "%i:ornnIcon% Shurelya's Requiem": {
+        "new": true,
+        "gold": 2500,
+        "stats": {
+          "FlatHPPoolMod": 300,
+          "FlatMagicDamageMod": 70
+        }
+      },
+      "%i:ornnIcon% Starcaster": {
+        "new": true,
+        "gold": 2500,
+        "stats": {
+          "FlatHPPoolMod": 300,
+          "FlatMagicDamageMod": 70
+        }
+      },
+      "%i:ornnIcon% Syzygy": {
+        "new": true,
+        "gold": 3200,
+        "stats": {
+          "FlatPhysicalDamageMod": 75
+        }
+      },
+      "%i:ornnIcon% Turbocharged Hexperiment": {
+        "new": true,
+        "gold": 2800,
+        "stats": {
+          "FlatHPPoolMod": 500,
+          "FlatSpellBlockMod": 40,
+          "FlatArmorMod": 40
+        }
+      },
+      "%i:ornnIcon% Typhoon": {
+        "new": true,
+        "gold": 3400,
+        "stats": {
+          "FlatPhysicalDamageMod": 80,
+          "FlatCritChanceMod": 0.2,
+          "PercentAttackSpeedMod": 0.35
+        }
+      },
+      "%i:ornnIcon% Upgraded Aeropack": {
+        "new": true,
+        "gold": 3200,
+        "stats": {
+          "FlatHPPoolMod": 350,
+          "FlatMagicDamageMod": 120
+        }
+      },
+      "%i:ornnIcon% Vespertide": {
+        "new": true,
+        "gold": 3200,
+        "stats": {
+          "FlatHPPoolMod": 400,
+          "FlatMagicDamageMod": 120
+        }
+      },
+      "%i:ornnIcon% Wyrmfallen Sacrifice": {
+        "new": true,
+        "gold": 3400,
+        "stats": {
+          "FlatPhysicalDamageMod": 85,
+          "FlatCritChanceMod": 0.2,
+          "PercentAttackSpeedMod": 0.4
+        }
+      },
+      "Dead Man's Plate": {
+        "stats": {
+          "FlatHPPoolMod": [
+            400,
+            300
+          ]
+        }
+      },
+      "Death's Dance": {
+        "stats": {
+          "FlatArmorMod": [
+            40,
+            45
+          ],
+          "FlatPhysicalDamageMod": [
+            50,
+            55
+          ]
+        }
+      },
+      "Wit's End": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            30,
+            40
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

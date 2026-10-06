@@ -1,0 +1,133 @@
+{
+  "metadata": {
+    "name": "14.17",
+    "id": 1417,
+    "first_match": "2024-08-29 07:59",
+    "ddragon_version": "14.17.1",
+    "compared_with": "14.16.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-14-17-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Ashe": {
+        "base_stats": {
+          "hp": [
+            640,
+            610
+          ]
+        }
+      },
+      "Ezreal": {
+        "base_stats": {
+          "attackdamage": [
+            62,
+            60
+          ]
+        }
+      },
+      "Graves": {
+        "abilities": {
+          "Q End of the Line": {
+            "cooldown": [
+              [
+                13,
+                11.5,
+                10,
+                8.5,
+                7
+              ],
+              [
+                13,
+                11.25,
+                9.5,
+                7.75,
+                6
+              ]
+            ]
+          }
+        }
+      },
+      "Kindred": {
+        "abilities": {
+          "E Mounting Dread": {
+            "cooldown": [
+              [
+                14,
+                13,
+                12,
+                11,
+                10
+              ],
+              [
+                14,
+                12.5,
+                11,
+                9.5,
+                8
+              ]
+            ]
+          }
+        }
+      },
+      "Pyke": {
+        "base_stats": {
+          "armor": [
+            47,
+            43
+          ]
+        }
+      },
+      "Ryze": {
+        "abilities": {
+          "R Realm Warp": {
+            "cooldown": [
+              [
+                210,
+                180,
+                150
+              ],
+              [
+                180,
+                160,
+                140
+              ]
+            ]
+          }
+        }
+      },
+      "Seraphine": {
+        "abilities": {
+          "W Surround Sound": {
+            "cooldown": [
+              [
+                22,
+                21,
+                20,
+                19,
+                18
+              ],
+              [
+                22,
+                22,
+                22,
+                22,
+                22
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Warmog's Armor": {
+        "gold": [
+          3100,
+          3300
+        ]
+      }
+    },
+    "removed_items": []
+  }
+}

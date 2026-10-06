@@ -1,0 +1,265 @@
+{
+  "metadata": {
+    "name": "12.7",
+    "id": 1207,
+    "first_match": "2022-04-15 00:17",
+    "ddragon_version": "12.7.1",
+    "compared_with": "12.6.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-12-7-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Gangplank": {
+        "abilities": {
+          "W Remove Scurvy": {
+            "cost": [
+              [
+                80,
+                90,
+                100,
+                110,
+                120
+              ],
+              [
+                60,
+                70,
+                80,
+                90,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Gwen": {
+        "abilities": {
+          "R Needlework": {
+            "cooldown": [
+              [
+                120,
+                100,
+                80
+              ],
+              [
+                100,
+                90,
+                80
+              ]
+            ]
+          }
+        }
+      },
+      "Jayce": {
+        "base_stats": {
+          "hp": [
+            560,
+            520
+          ],
+          "hpperlevel": [
+            90,
+            95
+          ],
+          "armor": [
+            27,
+            22
+          ],
+          "armorperlevel": [
+            3.5,
+            3.8
+          ]
+        }
+      },
+      "Kalista": {
+        "base_stats": {
+          "mp": [
+            250,
+            300
+          ],
+          "movespeed": [
+            325,
+            330
+          ],
+          "attackspeedperlevel": [
+            4,
+            4.5
+          ]
+        }
+      },
+      "Lee Sin": {
+        "base_stats": {
+          "attackdamage": [
+            68,
+            66
+          ]
+        }
+      },
+      "Pantheon": {
+        "base_stats": {
+          "hpregen": [
+            9,
+            7.5
+          ]
+        }
+      },
+      "Wukong": {
+        "abilities": {
+          "Q Crushing Blow": {
+            "cooldown": [
+              [
+                9,
+                8.5,
+                8,
+                7.5,
+                7
+              ],
+              [
+                8,
+                7.5,
+                7,
+                6.5,
+                6
+              ]
+            ]
+          },
+          "W Warrior Trickster": {
+            "cooldown": [
+              [
+                20,
+                19,
+                18,
+                17,
+                16
+              ],
+              [
+                20,
+                18,
+                16,
+                14,
+                12
+              ]
+            ]
+          }
+        }
+      },
+      "Yasuo": {
+        "base_stats": {
+          "hp": [
+            490,
+            520
+          ]
+        },
+        "abilities": {
+          "R Last Breath": {
+            "cooldown": [
+              [
+                80,
+                55,
+                30
+              ],
+              [
+                70,
+                50,
+                30
+              ]
+            ]
+          }
+        }
+      },
+      "Yone": {
+        "abilities": {
+          "R Fate Sealed": {
+            "cooldown": [
+              [
+                120,
+                100,
+                80
+              ],
+              [
+                120,
+                90,
+                60
+              ]
+            ]
+          }
+        }
+      },
+      "Zeri": {
+        "base_stats": {
+          "hpperlevel": [
+            90,
+            95
+          ],
+          "armor": [
+            22,
+            20
+          ],
+          "attackdamage": [
+            53,
+            50
+          ],
+          "attackdamageperlevel": [
+            2,
+            1.5
+          ]
+        },
+        "abilities": {
+          "E Spark Surge": {
+            "cooldown": [
+              [
+                23,
+                23,
+                23,
+                23,
+                23
+              ],
+              [
+                28,
+                26.5,
+                25,
+                23.5,
+                22
+              ]
+            ]
+          },
+          "R Lightning Crash": {
+            "cooldown": [
+              [
+                100,
+                90,
+                80
+              ],
+              [
+                120,
+                95,
+                70
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Umbral Glaive": {
+        "gold": [
+          2400,
+          2300
+        ]
+      },
+      "Winter's Approach": {
+        "gold": [
+          2600,
+          2700
+        ],
+        "stats": {
+          "FlatHPPoolMod": [
+            400,
+            350
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

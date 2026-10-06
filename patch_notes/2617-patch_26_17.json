@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "name": "26.17",
+    "id": 2617,
+    "first_match": "2026-08-27 13:13",
+    "ddragon_version": "16.17.1",
+    "compared_with": "16.16.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-26-17-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Aurelion Sol": {
+        "abilities": {
+          "Q Breath of Light": {
+            "cost": [
+              [
+                35,
+                40,
+                45,
+                50,
+                55
+              ],
+              [
+                30,
+                35,
+                40,
+                45,
+                50
+              ]
+            ]
+          },
+          "W Astral Flight": {
+            "cooldown": [
+              [
+                22,
+                20.5,
+                19,
+                17.5,
+                16
+              ],
+              [
+                22,
+                20,
+                18,
+                16,
+                14
+              ]
+            ]
+          }
+        }
+      },
+      "LeBlanc": {
+        "base_stats": {
+          "attackspeedperlevel": [
+            2.35,
+            1.5
+          ]
+        }
+      },
+      "Nocturne": {
+        "base_stats": {
+          "hp": [
+            655,
+            640
+          ],
+          "armor": [
+            38,
+            36
+          ]
+        }
+      },
+      "Vayne": {
+        "base_stats": {
+          "hp": [
+            550,
+            580
+          ],
+          "hpperlevel": [
+            103,
+            98
+          ],
+          "hpregen": [
+            3.5,
+            4
+          ],
+          "hpregenperlevel": [
+            0.55,
+            0.5
+          ],
+          "attackspeedperlevel": [
+            3.3,
+            2.8
+          ]
+        },
+        "abilities": {
+          "Q Tumble": {
+            "cost": [
+              [
+                30,
+                30,
+                30,
+                30,
+                30
+              ],
+              [
+                46,
+                42,
+                38,
+                34,
+                30
+              ]
+            ]
+          }
+        }
+      },
+      "Xerath": {
+        "base_stats": {
+          "hp": [
+            596,
+            575
+          ]
+        }
+      }
+    },
+    "items": {
+      "Stormrazor": {
+        "new": true,
+        "gold": 3200,
+        "stats": {
+          "FlatCritChanceMod": 0.25,
+          "FlatPhysicalDamageMod": 50,
+          "PercentAttackSpeedMod": 0.25
+        }
+      },
+      "Sundered Sky": {
+        "stats": {
+          "FlatHPPoolMod": [
+            450,
+            400
+          ],
+          "FlatPhysicalDamageMod": [
+            45,
+            40
+          ]
+        }
+      }
+    },
+    "removed_items": [
+      "Stormrazor"
+    ]
+  }
+}

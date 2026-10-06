@@ -1,0 +1,539 @@
+{
+  "metadata": {
+    "name": "13.10",
+    "id": 1310,
+    "first_match": "2023-05-23 16:22",
+    "ddragon_version": "13.10.1",
+    "compared_with": "13.9.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-13-10-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {},
+    "items": {
+      "Abyssal Mask": {
+        "gold": [
+          3000,
+          2400
+        ],
+        "stats": {
+          "FlatHPPoolMod": [
+            550,
+            300
+          ],
+          "FlatMPPoolMod": [
+            300,
+            null
+          ],
+          "FlatSpellBlockMod": [
+            40,
+            60
+          ]
+        }
+      },
+      "Ardent Censer": {
+        "gold": [
+          2300,
+          2100
+        ],
+        "stats": {
+          "FlatMagicDamageMod": [
+            60,
+            35
+          ],
+          "PercentMovementSpeedMod": [
+            null,
+            0.05
+          ]
+        }
+      },
+      "Bloodthirster": {
+        "stats": {
+          "PercentLifeStealMod": [
+            0.15,
+            0.18
+          ]
+        }
+      },
+      "Chalice of Blessing": {
+        "new": true,
+        "gold": 950,
+        "stats": {
+          "FlatHPPoolMod": 200
+        }
+      },
+      "Chemtech Putrifier": {
+        "gold": [
+          2300,
+          2100
+        ],
+        "stats": {
+          "FlatMagicDamageMod": [
+            40,
+            35
+          ]
+        }
+      },
+      "Echoes of Helia": {
+        "new": true,
+        "gold": 2300,
+        "stats": {
+          "FlatHPPoolMod": 200,
+          "FlatMagicDamageMod": 30
+        }
+      },
+      "Evenshroud": {
+        "gold": [
+          2500,
+          2300
+        ]
+      },
+      "Force of Nature": {
+        "gold": [
+          2900,
+          2800
+        ],
+        "stats": {
+          "FlatHPPoolMod": [
+            350,
+            400
+          ],
+          "FlatSpellBlockMod": [
+            70,
+            60
+          ]
+        }
+      },
+      "Galeforce": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            60,
+            55
+          ],
+          "PercentAttackSpeedMod": [
+            0.2,
+            0.15
+          ],
+          "PercentMovementSpeedMod": [
+            null,
+            0.07
+          ]
+        }
+      },
+      "Goredrinker": {
+        "gold": [
+          3300,
+          3200
+        ]
+      },
+      "Guinsoo's Rageblade": {
+        "gold": [
+          2600,
+          3200
+        ],
+        "stats": {
+          "FlatCritChanceMod": [
+            0.2,
+            null
+          ],
+          "FlatMagicDamageMod": [
+            null,
+            30
+          ],
+          "FlatPhysicalDamageMod": [
+            null,
+            30
+          ],
+          "PercentAttackSpeedMod": [
+            0.45,
+            0.25
+          ]
+        }
+      },
+      "Hearthbound Axe": {
+        "gold": [
+          1000,
+          1100
+        ],
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            15,
+            20
+          ]
+        }
+      },
+      "Hullbreaker": {
+        "gold": [
+          2800,
+          3000
+        ],
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            50,
+            60
+          ],
+          "PercentMovementSpeedMod": [
+            null,
+            0.05
+          ]
+        }
+      },
+      "Immortal Shieldbow": {
+        "gold": [
+          3400,
+          3000
+        ],
+        "stats": {
+          "PercentAttackSpeedMod": [
+            0.2,
+            null
+          ]
+        }
+      },
+      "Imperial Mandate": {
+        "gold": [
+          2500,
+          2300
+        ],
+        "stats": {
+          "FlatHPPoolMod": [
+            200,
+            null
+          ],
+          "FlatMagicDamageMod": [
+            40,
+            55
+          ]
+        }
+      },
+      "Kircheis Shard": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            null,
+            15
+          ],
+          "PercentAttackSpeedMod": [
+            0.15,
+            null
+          ]
+        }
+      },
+      "Knight's Vow": {
+        "gold": [
+          2300,
+          2200
+        ],
+        "stats": {
+          "FlatArmorMod": [
+            null,
+            25
+          ],
+          "FlatHPPoolMod": [
+            400,
+            350
+          ]
+        }
+      },
+      "Kraken Slayer": {
+        "gold": [
+          3400,
+          3000
+        ],
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            65,
+            40
+          ],
+          "PercentAttackSpeedMod": [
+            0.25,
+            0.3
+          ]
+        }
+      },
+      "Lifewell Pendant": {
+        "new": true,
+        "gold": 1050,
+        "stats": {
+          "FlatHPPoolMod": 150,
+          "FlatArmorMod": 25
+        }
+      },
+      "Locket of the Iron Solari": {
+        "gold": [
+          2500,
+          2300
+        ]
+      },
+      "Lost Chapter": {
+        "gold": [
+          1300,
+          1100
+        ]
+      },
+      "Maw of Malmortius": {
+        "gold": [
+          2900,
+          2800
+        ]
+      },
+      "Mercurial Scimitar": {
+        "stats": {
+          "FlatSpellBlockMod": [
+            40,
+            50
+          ]
+        }
+      },
+      "Mikael's Blessing": {
+        "stats": {
+          "FlatHPPoolMod": [
+            null,
+            250
+          ],
+          "FlatSpellBlockMod": [
+            50,
+            null
+          ]
+        }
+      },
+      "Moonstone Renewer": {
+        "gold": [
+          2500,
+          2300
+        ],
+        "stats": {
+          "FlatMagicDamageMod": [
+            40,
+            35
+          ]
+        }
+      },
+      "Mortal Reminder": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            35,
+            40
+          ]
+        }
+      },
+      "Phantom Dancer": {
+        "gold": [
+          2600,
+          2800
+        ],
+        "stats": {
+          "PercentAttackSpeedMod": [
+            0.25,
+            0.3
+          ]
+        }
+      },
+      "Prowler's Claw": {
+        "gold": [
+          3100,
+          3000
+        ],
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            60,
+            55
+          ]
+        }
+      },
+      "Radiant Virtue": {
+        "gold": [
+          3200,
+          2700
+        ],
+        "stats": {
+          "FlatHPPoolMod": [
+            400,
+            350
+          ]
+        }
+      },
+      "Rageknife": {
+        "gold": [
+          800,
+          1200
+        ]
+      },
+      "Rapid Firecannon": {
+        "gold": [
+          2500,
+          3000
+        ],
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            null,
+            30
+          ],
+          "PercentAttackSpeedMod": [
+            0.35,
+            0.15
+          ]
+        }
+      },
+      "Recurve Bow": {
+        "gold": [
+          1000,
+          700
+        ],
+        "stats": {
+          "PercentAttackSpeedMod": [
+            0.25,
+            0.15
+          ]
+        }
+      },
+      "Redemption": {
+        "stats": {
+          "FlatHPPoolMod": [
+            200,
+            250
+          ]
+        }
+      },
+      "Runaan's Hurricane": {
+        "gold": [
+          2600,
+          2800
+        ],
+        "stats": {
+          "PercentAttackSpeedMod": [
+            0.45,
+            0.4
+          ]
+        }
+      },
+      "Shurelya's Battlesong": {
+        "gold": [
+          2500,
+          2300
+        ],
+        "stats": {
+          "FlatMagicDamageMod": [
+            40,
+            35
+          ]
+        }
+      },
+      "Staff of Flowing Water": {
+        "gold": [
+          2300,
+          2100
+        ],
+        "stats": {
+          "FlatMagicDamageMod": [
+            50,
+            35
+          ],
+          "PercentMovementSpeedMod": [
+            null,
+            0.05
+          ]
+        }
+      },
+      "Statikk Shiv": {
+        "new": true,
+        "gold": 3000,
+        "stats": {
+          "FlatPhysicalDamageMod": 45,
+          "FlatCritChanceMod": 0.2,
+          "PercentAttackSpeedMod": 0.25
+        }
+      },
+      "Stormrazor": {
+        "gold": [
+          2700,
+          3000
+        ],
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            45,
+            55
+          ]
+        }
+      },
+      "Stridebreaker": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            50,
+            60
+          ]
+        }
+      },
+      "Trinity Force": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            35,
+            40
+          ],
+          "PercentAttackSpeedMod": [
+            0.3,
+            0.35
+          ]
+        }
+      },
+      "Vigilant Wardstone": {
+        "new": true,
+        "gold": 2300,
+        "stats": {
+          "FlatHPPoolMod": 250
+        }
+      },
+      "Wit's End": {
+        "gold": [
+          3100,
+          3200
+        ]
+      },
+      "Youmuu's Ghostblade": {
+        "gold": [
+          3000,
+          3100
+        ],
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            55,
+            60
+          ]
+        }
+      },
+      "Zeal": {
+        "gold": [
+          1050,
+          1100
+        ],
+        "stats": {
+          "PercentAttackSpeedMod": [
+            0.18,
+            0.15
+          ],
+          "PercentMovementSpeedMod": [
+            null,
+            0.05
+          ]
+        }
+      },
+      "Zeke's Convergence": {
+        "gold": [
+          2400,
+          2200
+        ],
+        "stats": {
+          "FlatArmorMod": [
+            35,
+            45
+          ],
+          "FlatHPPoolMod": [
+            250,
+            200
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

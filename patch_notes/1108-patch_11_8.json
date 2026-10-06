@@ -1,0 +1,225 @@
+{
+  "metadata": {
+    "name": "11.8",
+    "id": 1108,
+    "first_match": "2021-04-15 23:47",
+    "ddragon_version": "11.8.1",
+    "compared_with": "11.7.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-11-8-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [
+      "Gwen"
+    ],
+    "champions": {
+      "Annie": {
+        "abilities": {
+          "W Incinerate": {
+            "cost": [
+              [
+                70,
+                80,
+                90,
+                100,
+                110
+              ],
+              [
+                90,
+                95,
+                100,
+                105,
+                110
+              ]
+            ]
+          }
+        }
+      },
+      "Cassiopeia": {
+        "abilities": {
+          "E Twin Fang": {
+            "cost": [
+              [
+                50,
+                50,
+                50,
+                50,
+                50
+              ],
+              [
+                50,
+                48,
+                46,
+                44,
+                42
+              ]
+            ]
+          }
+        }
+      },
+      "Hecarim": {
+        "abilities": {
+          "W Spirit of Dread": {
+            "range": [
+              [
+                575,
+                575,
+                575,
+                575,
+                575
+              ],
+              [
+                525,
+                525,
+                525,
+                525,
+                525
+              ]
+            ]
+          }
+        }
+      },
+      "Lee Sin": {
+        "abilities": {
+          "E Tempest / Cripple": {
+            "cooldown": [
+              [
+                10,
+                10,
+                10,
+                10,
+                10
+              ],
+              [
+                8,
+                8,
+                8,
+                8,
+                8
+              ]
+            ]
+          }
+        }
+      },
+      "Rammus": {
+        "abilities": {
+          "R Soaring Slam": {
+            "cooldown": [
+              [
+                100,
+                80,
+                60
+              ],
+              [
+                130,
+                110,
+                90
+              ]
+            ],
+            "range": [
+              [
+                375,
+                375,
+                375
+              ],
+              [
+                25000,
+                25000,
+                25000
+              ]
+            ]
+          }
+        }
+      },
+      "Rumble": {
+        "base_stats": {
+          "spellblock": [
+            32,
+            28
+          ],
+          "spellblockperlevel": [
+            1.25,
+            0.75
+          ]
+        }
+      },
+      "Thresh": {
+        "abilities": {
+          "E Flay": {
+            "cooldown": [
+              [
+                9,
+                9,
+                9,
+                9,
+                9
+              ],
+              [
+                11,
+                10.5,
+                10,
+                9.5,
+                9
+              ]
+            ]
+          }
+        }
+      },
+      "Vladimir": {
+        "abilities": {
+          "Q Transfusion": {
+            "cooldown": [
+              [
+                9,
+                8,
+                7,
+                6,
+                5
+              ],
+              [
+                9,
+                7.75,
+                6.5,
+                5.25,
+                4
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Chemtech Putrifier": {
+        "stats": {
+          "FlatMagicDamageMod": [
+            50,
+            55
+          ]
+        }
+      },
+      "Frozen Heart": {
+        "stats": {
+          "FlatArmorMod": [
+            70,
+            80
+          ]
+        }
+      },
+      "Hextech Rocketbelt": {
+        "stats": {
+          "FlatHPPoolMod": [
+            350,
+            250
+          ]
+        }
+      },
+      "Ionian Boots of Lucidity": {
+        "gold": [
+          900,
+          950
+        ]
+      }
+    },
+    "removed_items": []
+  }
+}

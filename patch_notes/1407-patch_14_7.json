@@ -1,0 +1,343 @@
+{
+  "metadata": {
+    "name": "14.7",
+    "id": 1407,
+    "first_match": "2024-04-04 09:05",
+    "ddragon_version": "14.7.1",
+    "compared_with": "14.6.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-14-7-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Camille": {
+        "abilities": {
+          "Q Precision Protocol": {
+            "cooldown": [
+              [
+                9,
+                8.25,
+                7.5,
+                6.75,
+                6
+              ],
+              [
+                9,
+                8,
+                7,
+                6,
+                5
+              ]
+            ]
+          }
+        }
+      },
+      "Fiora": {
+        "base_stats": {
+          "attackdamage": [
+            68,
+            66
+          ]
+        }
+      },
+      "Olaf": {
+        "abilities": {
+          "W Tough It Out": {
+            "cost": [
+              [
+                30,
+                30,
+                30,
+                30,
+                30
+              ],
+              [
+                50,
+                50,
+                50,
+                50,
+                50
+              ]
+            ]
+          },
+          "R Ragnarok": {
+            "cost": [
+              [
+                0,
+                0,
+                0
+              ],
+              [
+                100,
+                100,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Rell": {
+        "base_stats": {
+          "spellblockperlevel": [
+            1.85,
+            2.05
+          ]
+        }
+      },
+      "Skarner": {
+        "base_stats": {
+          "hpperlevel": [
+            99,
+            102
+          ],
+          "armor": [
+            38,
+            33
+          ],
+          "armorperlevel": [
+            5,
+            4.8
+          ],
+          "attackrange": [
+            125,
+            150
+          ],
+          "hpregen": [
+            9,
+            7.5
+          ],
+          "hpregenperlevel": [
+            0.85,
+            0.75
+          ],
+          "attackdamage": [
+            65,
+            60
+          ],
+          "attackdamageperlevel": [
+            4.5,
+            3
+          ],
+          "attackspeedperlevel": [
+            2.1,
+            2
+          ]
+        },
+        "abilities": {
+          "Q Shattered Earth / Upheaval": {
+            "cooldown": [
+              [
+                3.5,
+                3.25,
+                3,
+                2.75,
+                2.5
+              ],
+              [
+                13,
+                11.5,
+                10,
+                8.5,
+                7
+              ]
+            ],
+            "cost": [
+              [
+                10,
+                10,
+                10,
+                10,
+                10
+              ],
+              [
+                40,
+                45,
+                50,
+                55,
+                60
+              ]
+            ],
+            "range": [
+              [
+                350,
+                350,
+                350,
+                350,
+                350
+              ],
+              [
+                400,
+                400,
+                400,
+                400,
+                400
+              ]
+            ]
+          },
+          "W Seismic Bastion": {
+            "cooldown": [
+              [
+                13,
+                12.5,
+                12,
+                11.5,
+                11
+              ],
+              [
+                10,
+                9,
+                8,
+                7,
+                6
+              ]
+            ],
+            "cost": [
+              [
+                60,
+                60,
+                60,
+                60,
+                60
+              ],
+              [
+                40,
+                45,
+                50,
+                55,
+                60
+              ]
+            ],
+            "range": [
+              [
+                1,
+                1,
+                1,
+                1,
+                1
+              ],
+              [
+                700,
+                700,
+                700,
+                700,
+                700
+              ]
+            ]
+          },
+          "E Ixtal's Impact": {
+            "cooldown": [
+              [
+                14,
+                13.5,
+                13,
+                12.5,
+                12
+              ],
+              [
+                24,
+                22,
+                20,
+                18,
+                16
+              ]
+            ],
+            "cost": [
+              [
+                55,
+                55,
+                55,
+                55,
+                55
+              ],
+              [
+                50,
+                55,
+                60,
+                65,
+                70
+              ]
+            ],
+            "range": [
+              [
+                980,
+                980,
+                980,
+                980,
+                980
+              ],
+              [
+                1700,
+                1700,
+                1700,
+                1700,
+                1700
+              ]
+            ]
+          },
+          "R Impale": {
+            "cooldown": [
+              [
+                120,
+                100,
+                80
+              ],
+              [
+                120,
+                105,
+                90
+              ]
+            ],
+            "range": [
+              [
+                350,
+                350,
+                350
+              ],
+              [
+                625,
+                625,
+                625
+              ]
+            ]
+          }
+        }
+      },
+      "Smolder": {
+        "base_stats": {
+          "armor": [
+            24,
+            26
+          ]
+        }
+      },
+      "Volibear": {
+        "abilities": {
+          "R Stormbringer": {
+            "cooldown": [
+              [
+                140,
+                120,
+                100
+              ],
+              [
+                160,
+                135,
+                110
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Statikk Shiv": {
+        "gold": [
+          2700,
+          2900
+        ]
+      }
+    },
+    "removed_items": []
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "metadata": {
+    "name": "14.23",
+    "id": 1423,
+    "first_match": "2024-11-23 01:13",
+    "ddragon_version": "14.23.1",
+    "compared_with": "14.22.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-14-23-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Aurora": {
+        "abilities": {
+          "Q Twofold Hex": {
+            "cooldown": [
+              [
+                8,
+                7.5,
+                7,
+                6.5,
+                6
+              ],
+              [
+                9,
+                8.5,
+                8,
+                7.5,
+                7
+              ]
+            ],
+            "range": [
+              [
+                850,
+                850,
+                850,
+                850,
+                850
+              ],
+              [
+                900,
+                900,
+                900,
+                900,
+                900
+              ]
+            ]
+          },
+          "E The Weirding": {
+            "range": [
+              [
+                850,
+                850,
+                850,
+                850,
+                850
+              ],
+              [
+                825,
+                825,
+                825,
+                825,
+                825
+              ]
+            ]
+          }
+        }
+      },
+      "Jinx": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.9,
+            3.25
+          ]
+        }
+      },
+      "Kha'Zix": {
+        "base_stats": {
+          "armor": [
+            36,
+            32
+          ]
+        }
+      },
+      "Miss Fortune": {
+        "abilities": {
+          "Q Double Up": {
+            "cost": [
+              [
+                43,
+                46,
+                49,
+                52,
+                55
+              ],
+              [
+                40,
+                40,
+                40,
+                40,
+                40
+              ]
+            ]
+          }
+        }
+      },
+      "Rammus": {
+        "abilities": {
+          "Q Powerball": {
+            "cooldown": [
+              [
+                16,
+                13.5,
+                11,
+                8.5,
+                6
+              ],
+              [
+                12,
+                10.5,
+                9,
+                7.5,
+                6
+              ]
+            ]
+          }
+        }
+      },
+      "Rell": {
+        "base_stats": {
+          "mp": [
+            350,
+            320
+          ],
+          "mpperlevel": [
+            45,
+            40
+          ],
+          "movespeed": [
+            330,
+            315
+          ],
+          "armor": [
+            36,
+            30
+          ],
+          "armorperlevel": [
+            4.2,
+            4.3
+          ],
+          "spellblock": [
+            30,
+            28
+          ],
+          "spellblockperlevel": [
+            2.05,
+            1.8
+          ],
+          "mpregen": [
+            6,
+            7
+          ],
+          "mpregenperlevel": [
+            0.35,
+            0.7
+          ],
+          "attackspeedperlevel": [
+            1.5,
+            2
+          ]
+        },
+        "abilities": {
+          "W Ferromancy: Crash Down": {
+            "cooldown": [
+              [
+                11,
+                11,
+                11,
+                11,
+                11
+              ],
+              [
+                10,
+                10,
+                10,
+                10,
+                10
+              ]
+            ]
+          },
+          "E Full Tilt": {
+            "cooldown": [
+              [
+                15,
+                15,
+                15,
+                15,
+                15
+              ],
+              [
+                14,
+                13,
+                12,
+                11,
+                10
+              ]
+            ]
+          }
+        }
+      },
+      "Shyvana": {
+        "base_stats": {
+          "spellblockperlevel": [
+            2.05,
+            1.5
+          ]
+        }
+      },
+      "Smolder": {
+        "abilities": {
+          "W Achooo!": {
+            "cost": [
+              [
+                60,
+                60,
+                60,
+                60,
+                60
+              ],
+              [
+                50,
+                55,
+                60,
+                65,
+                70
+              ]
+            ]
+          },
+          "R MMOOOMMMM!": {
+            "cooldown": [
+              [
+                140,
+                130,
+                120
+              ],
+              [
+                120,
+                120,
+                120
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "The Collector": {
+        "gold": [
+          2950,
+          3000
+        ]
+      },
+      "Yun Tal Wildarrows": {
+        "gold": [
+          3000,
+          2900
+        ]
+      }
+    },
+    "removed_items": []
+  }
+}

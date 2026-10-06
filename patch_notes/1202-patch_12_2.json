@@ -1,0 +1,287 @@
+{
+  "metadata": {
+    "name": "12.2",
+    "id": 1202,
+    "first_match": "2022-01-20 18:09",
+    "ddragon_version": "12.2.1",
+    "compared_with": "12.1.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-12-2-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [
+      "Zeri"
+    ],
+    "champions": {
+      "Janna": {
+        "base_stats": {
+          "movespeed": [
+            315,
+            330
+          ],
+          "attackrange": [
+            550,
+            500
+          ],
+          "attackdamage": [
+            46,
+            52
+          ],
+          "attackdamageperlevel": [
+            1.5,
+            3
+          ],
+          "attackspeedperlevel": [
+            2.95,
+            3
+          ]
+        },
+        "abilities": {
+          "W Zephyr": {
+            "cooldown": [
+              [
+                8,
+                7.5,
+                7,
+                6.5,
+                6
+              ],
+              [
+                12,
+                12,
+                12,
+                12,
+                12
+              ]
+            ],
+            "range": [
+              [
+                550,
+                550,
+                550,
+                550,
+                550
+              ],
+              [
+                650,
+                650,
+                650,
+                650,
+                650
+              ]
+            ]
+          },
+          "E Eye Of The Storm": {
+            "cooldown": [
+              [
+                16,
+                15,
+                14,
+                13,
+                12
+              ],
+              [
+                15,
+                13.5,
+                12,
+                10.5,
+                9
+              ]
+            ]
+          }
+        }
+      },
+      "Lulu": {
+        "abilities": {
+          "W Whimsy": {
+            "cooldown": [
+              [
+                16,
+                15,
+                14,
+                13,
+                12
+              ],
+              [
+                17,
+                16,
+                15,
+                14,
+                13
+              ]
+            ]
+          }
+        }
+      },
+      "Nocturne": {
+        "base_stats": {
+          "hpperlevel": [
+            85,
+            95
+          ]
+        }
+      },
+      "Qiyana": {
+        "base_stats": {
+          "hpregen": [
+            7.5,
+            6
+          ]
+        }
+      },
+      "Shen": {
+        "abilities": {
+          "W Spirit's Refuge": {
+            "cooldown": [
+              [
+                18,
+                16.5,
+                15,
+                13.5,
+                11
+              ],
+              [
+                18,
+                16.5,
+                15,
+                13.5,
+                12
+              ]
+            ]
+          }
+        }
+      },
+      "Sona": {
+        "base_stats": {
+          "armorperlevel": [
+            3.3,
+            3
+          ]
+        },
+        "abilities": {
+          "E Song of Celerity": {
+            "cooldown": [
+              [
+                12,
+                12,
+                12,
+                12,
+                12
+              ],
+              [
+                14,
+                14,
+                14,
+                14,
+                14
+              ]
+            ]
+          }
+        }
+      },
+      "Tahm Kench": {
+        "abilities": {
+          "E Thick Skin": {
+            "range": [
+              [
+                1,
+                1,
+                1,
+                1,
+                1
+              ],
+              [
+                2400,
+                2400,
+                2400,
+                2400,
+                2400
+              ]
+            ]
+          }
+        }
+      },
+      "Tristana": {
+        "base_stats": {
+          "hp": [
+            559,
+            600
+          ],
+          "hpregen": [
+            3.75,
+            4
+          ]
+        }
+      },
+      "Veigar": {
+        "abilities": {
+          "Q Baleful Strike": {
+            "cooldown": [
+              [
+                7,
+                6.5,
+                6,
+                5.5,
+                5
+              ],
+              [
+                6,
+                5.5,
+                5,
+                4.5,
+                4
+              ]
+            ]
+          }
+        }
+      },
+      "Volibear": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            3.5
+          ]
+        },
+        "abilities": {
+          "E Sky Splitter": {
+            "cooldown": [
+              [
+                15,
+                15,
+                15,
+                15,
+                15
+              ],
+              [
+                13,
+                13,
+                13,
+                13,
+                13
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Rylai's Crystal Scepter": {
+        "gold": [
+          3000,
+          2600
+        ],
+        "stats": {
+          "FlatHPPoolMod": [
+            350,
+            400
+          ],
+          "FlatMagicDamageMod": [
+            90,
+            75
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

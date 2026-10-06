@@ -1,0 +1,211 @@
+{
+  "metadata": {
+    "name": "14.20",
+    "id": 1420,
+    "first_match": "2024-10-11 00:19",
+    "ddragon_version": "14.20.1",
+    "compared_with": "14.19.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-14-20-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Aphelios": {
+        "base_stats": {
+          "hp": [
+            580,
+            600
+          ]
+        }
+      },
+      "Corki": {
+        "abilities": {
+          "Q Phosphorus Bomb": {
+            "cost": [
+              [
+                80,
+                80,
+                80,
+                80,
+                80
+              ],
+              [
+                60,
+                65,
+                70,
+                75,
+                80
+              ]
+            ]
+          },
+          "E Gatling Gun": {
+            "cost": [
+              [
+                50,
+                60,
+                70,
+                80,
+                90
+              ],
+              [
+                50,
+                55,
+                60,
+                65,
+                70
+              ]
+            ]
+          }
+        }
+      },
+      "Jhin": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            4.7,
+            4.4
+          ]
+        }
+      },
+      "K'Sante": {
+        "base_stats": {
+          "armor": [
+            33,
+            36
+          ],
+          "attackspeed": [
+            0.625,
+            0.688
+          ]
+        }
+      },
+      "Lee Sin": {
+        "base_stats": {
+          "attackdamage": [
+            66,
+            69
+          ]
+        }
+      },
+      "Singed": {
+        "base_stats": {
+          "armorperlevel": [
+            4.7,
+            4.2
+          ]
+        }
+      },
+      "Tristana": {
+        "abilities": {
+          "Q Rapid Fire": {
+            "cost": [
+              [
+                50,
+                50,
+                50,
+                50,
+                50
+              ],
+              [
+                30,
+                35,
+                40,
+                45,
+                50
+              ]
+            ]
+          },
+          "W Rocket Jump": {
+            "cost": [
+              [
+                50,
+                50,
+                50,
+                50,
+                50
+              ],
+              [
+                30,
+                35,
+                40,
+                45,
+                50
+              ]
+            ]
+          }
+        }
+      },
+      "Tryndamere": {
+        "base_stats": {
+          "armorperlevel": [
+            4.3,
+            4.8
+          ]
+        }
+      }
+    },
+    "items": {
+      "Essence Reaver": {
+        "gold": [
+          3150,
+          2900
+        ],
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            65,
+            60
+          ]
+        }
+      },
+      "Statikk Shiv": {
+        "stats": {
+          "PercentAttackSpeedMod": [
+            0.4,
+            0.35
+          ]
+        }
+      },
+      "Stormsurge": {
+        "stats": {
+          "FlatMagicDamageMod": [
+            95,
+            90
+          ]
+        }
+      },
+      "The Collector": {
+        "gold": [
+          3400,
+          2950
+        ],
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            60,
+            50
+          ]
+        }
+      },
+      "Thornmail": {
+        "stats": {
+          "FlatArmorMod": [
+            80,
+            75
+          ]
+        }
+      },
+      "Yun Tal Wildarrows": {
+        "gold": [
+          3200,
+          2950
+        ],
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            65,
+            60
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

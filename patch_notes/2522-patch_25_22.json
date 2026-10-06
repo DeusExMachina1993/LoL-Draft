@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "name": "25.22",
+    "id": 2522,
+    "first_match": "2025-11-05 19:11",
+    "ddragon_version": "15.22.1",
+    "compared_with": "15.21.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-22-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Akshan": {
+        "base_stats": {
+          "hp": [
+            630,
+            610
+          ]
+        },
+        "abilities": {
+          "Q Avengerang": {
+            "cooldown": [
+              [
+                8,
+                7.25,
+                6.5,
+                5.75,
+                5
+              ],
+              [
+                9,
+                8,
+                7,
+                6,
+                5
+              ]
+            ]
+          }
+        }
+      },
+      "Aurelion Sol": {
+        "base_stats": {
+          "movespeed": [
+            335,
+            340
+          ]
+        }
+      },
+      "Blitzcrank": {
+        "abilities": {
+          "E Power Fist": {
+            "cooldown": [
+              [
+                9,
+                8,
+                7,
+                6,
+                5
+              ],
+              [
+                7,
+                6.5,
+                6,
+                5.5,
+                5
+              ]
+            ]
+          }
+        }
+      },
+      "LeBlanc": {
+        "base_stats": {
+          "hpperlevel": [
+            111,
+            108
+          ],
+          "armorperlevel": [
+            4.7,
+            4.2
+          ]
+        }
+      },
+      "Skarner": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            4
+          ]
+        },
+        "abilities": {
+          "Q Shattered Earth / Upheaval": {
+            "cooldown": [
+              [
+                13,
+                11.5,
+                10,
+                8.5,
+                7
+              ],
+              [
+                8,
+                7,
+                6,
+                5,
+                4
+              ]
+            ]
+          }
+        }
+      },
+      "Volibear": {
+        "base_stats": {
+          "armor": [
+            31,
+            35
+          ],
+          "attackdamage": [
+            60,
+            62
+          ]
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

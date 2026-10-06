@@ -1,0 +1,3453 @@
+{
+  "metadata": {
+    "name": "26.16",
+    "id": 2616,
+    "first_match": "2026-08-14 15:08",
+    "ddragon_version": "16.16.1",
+    "compared_with": "16.15.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-26-16-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Ahri": {
+        "base_stats": {
+          "hp": [
+            460,
+            590
+          ],
+          "hpperlevel": [
+            80,
+            104
+          ],
+          "mp": [
+            280,
+            418
+          ],
+          "mpperlevel": [
+            50,
+            25
+          ],
+          "armor": [
+            18.5,
+            21
+          ],
+          "armorperlevel": [
+            3.5,
+            4.2
+          ],
+          "spellblockperlevel": [
+            0,
+            1.3
+          ],
+          "hpregen": [
+            6.1,
+            2.5
+          ],
+          "mpregen": [
+            6.85,
+            8
+          ],
+          "mpregenperlevel": [
+            0.6,
+            0.8
+          ],
+          "attackspeedperlevel": [
+            2,
+            2.2
+          ]
+        },
+        "abilities": {
+          "Q Orb of Deception": {
+            "cost": [
+              [
+                70,
+                75,
+                80,
+                85,
+                90
+              ],
+              [
+                55,
+                65,
+                75,
+                85,
+                95
+              ]
+            ]
+          },
+          "W Fox-Fire": {
+            "cost": [
+              [
+                50,
+                50,
+                50,
+                50,
+                50
+              ],
+              [
+                30,
+                30,
+                30,
+                30,
+                30
+              ]
+            ]
+          },
+          "E Charm": {
+            "cost": [
+              [
+                50,
+                65,
+                80,
+                95,
+                110
+              ],
+              [
+                60,
+                60,
+                60,
+                60,
+                60
+              ]
+            ]
+          },
+          "R Spirit Rush": {
+            "cooldown": [
+              [
+                110,
+                95,
+                80
+              ],
+              [
+                140,
+                120,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Akshan": {
+        "base_stats": {
+          "spellblock": [
+            30,
+            33
+          ],
+          "spellblockperlevel": [
+            1.3,
+            1.1
+          ]
+        }
+      },
+      "Alistar": {
+        "base_stats": {
+          "hp": [
+            544,
+            685
+          ],
+          "hpperlevel": [
+            102,
+            120
+          ],
+          "mp": [
+            255,
+            350
+          ],
+          "movespeed": [
+            330,
+            335
+          ],
+          "armor": [
+            22,
+            40
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblock": [
+            31.25,
+            32
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ],
+          "hpregen": [
+            8.1,
+            8.5
+          ],
+          "mpregen": [
+            6.9,
+            8.5
+          ],
+          "mpregenperlevel": [
+            0.45,
+            0.8
+          ],
+          "attackdamage": [
+            58.65,
+            62
+          ]
+        },
+        "abilities": {
+          "Q Pulverize": {
+            "cooldown": [
+              [
+                17,
+                16,
+                15,
+                14,
+                13
+              ],
+              [
+                14,
+                13,
+                12,
+                11,
+                10
+              ]
+            ],
+            "cost": [
+              [
+                70,
+                80,
+                90,
+                100,
+                110
+              ],
+              [
+                50,
+                55,
+                60,
+                65,
+                70
+              ]
+            ]
+          },
+          "W Headbutt": {
+            "cost": [
+              [
+                70,
+                80,
+                90,
+                100,
+                110
+              ],
+              [
+                50,
+                55,
+                60,
+                65,
+                70
+              ]
+            ]
+          },
+          "E Trample": {
+            "cooldown": [
+              [
+                12,
+                12,
+                12,
+                12,
+                12
+              ],
+              [
+                12,
+                11.5,
+                11,
+                10.5,
+                10
+              ]
+            ],
+            "cost": [
+              [
+                40,
+                50,
+                60,
+                70,
+                80
+              ],
+              [
+                50,
+                55,
+                60,
+                65,
+                70
+              ]
+            ],
+            "range": [
+              [
+                575,
+                575,
+                575,
+                575,
+                575
+              ],
+              [
+                350,
+                350,
+                350,
+                350,
+                350
+              ]
+            ]
+          }
+        }
+      },
+      "Amumu": {
+        "base_stats": {
+          "hp": [
+            556,
+            685
+          ],
+          "hpperlevel": [
+            84,
+            94
+          ],
+          "mp": [
+            260,
+            285
+          ],
+          "armor": [
+            25.3,
+            33
+          ],
+          "armorperlevel": [
+            3.3,
+            4
+          ],
+          "spellblock": [
+            31.25,
+            32
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ],
+          "hpregen": [
+            8.3,
+            9
+          ],
+          "mpregen": [
+            7,
+            7.4
+          ],
+          "mpregenperlevel": [
+            0.5,
+            0.55
+          ],
+          "attackdamage": [
+            50.8,
+            57
+          ],
+          "attackspeed": [
+            0.638,
+            0.736
+          ]
+        },
+        "abilities": {
+          "Q Bandage Toss": {
+            "cooldown": [
+              [
+                16,
+                14,
+                12,
+                10,
+                8
+              ],
+              [
+                3,
+                3,
+                3,
+                3,
+                3
+              ]
+            ],
+            "cost": [
+              [
+                80,
+                90,
+                100,
+                110,
+                120
+              ],
+              [
+                50,
+                50,
+                50,
+                50,
+                50
+              ]
+            ]
+          },
+          "E Tantrum": {
+            "cooldown": [
+              [
+                10,
+                9,
+                8,
+                7,
+                6
+              ],
+              [
+                9,
+                8,
+                7,
+                6,
+                5
+              ]
+            ]
+          },
+          "R Curse of the Sad Mummy": {
+            "cooldown": [
+              [
+                150,
+                130,
+                110
+              ],
+              [
+                150,
+                125,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Anivia": {
+        "base_stats": {
+          "hp": [
+            420,
+            550
+          ],
+          "hpperlevel": [
+            70,
+            92
+          ],
+          "mp": [
+            310,
+            495
+          ],
+          "mpperlevel": [
+            53,
+            45
+          ],
+          "armor": [
+            18.5,
+            19
+          ],
+          "armorperlevel": [
+            4,
+            4.1
+          ],
+          "spellblockperlevel": [
+            0,
+            1.3
+          ],
+          "hpregen": [
+            5.2,
+            5.5
+          ],
+          "mpregen": [
+            7.6,
+            8
+          ],
+          "mpregenperlevel": [
+            0.6,
+            0.8
+          ],
+          "attackdamage": [
+            51.2,
+            51
+          ],
+          "attackspeed": [
+            0.625,
+            0.658
+          ]
+        },
+        "abilities": {
+          "Q Flash Frost": {
+            "cooldown": [
+              [
+                12,
+                11,
+                10,
+                9,
+                8
+              ],
+              [
+                11,
+                10,
+                9,
+                8,
+                7
+              ]
+            ],
+            "cost": [
+              [
+                80,
+                100,
+                120,
+                140,
+                160
+              ],
+              [
+                80,
+                85,
+                90,
+                95,
+                100
+              ]
+            ]
+          },
+          "W Crystallize": {
+            "cooldown": [
+              [
+                25,
+                25,
+                25,
+                25,
+                25
+              ],
+              [
+                17,
+                17,
+                17,
+                17,
+                17
+              ]
+            ],
+            "cost": [
+              [
+                70,
+                90,
+                110,
+                130,
+                150
+              ],
+              [
+                70,
+                70,
+                70,
+                70,
+                70
+              ]
+            ]
+          },
+          "E Frostbite": {
+            "cooldown": [
+              [
+                5,
+                5,
+                5,
+                5,
+                5
+              ],
+              [
+                4,
+                4,
+                4,
+                4,
+                4
+              ]
+            ],
+            "cost": [
+              [
+                50,
+                60,
+                70,
+                80,
+                90
+              ],
+              [
+                50,
+                50,
+                50,
+                50,
+                50
+              ]
+            ]
+          },
+          "R Glacial Storm": {
+            "cooldown": [
+              [
+                6,
+                6,
+                6
+              ],
+              [
+                4,
+                3,
+                2
+              ]
+            ],
+            "cost": [
+              [
+                75,
+                75,
+                75
+              ],
+              [
+                60,
+                60,
+                60
+              ]
+            ],
+            "range": [
+              [
+                625,
+                625,
+                625
+              ],
+              [
+                750,
+                750,
+                750
+              ]
+            ]
+          }
+        }
+      },
+      "Annie": {
+        "base_stats": {
+          "hp": [
+            460,
+            560
+          ],
+          "hpperlevel": [
+            76,
+            96
+          ],
+          "mp": [
+            300,
+            418
+          ],
+          "mpperlevel": [
+            50,
+            25
+          ],
+          "armor": [
+            16.5,
+            23
+          ],
+          "spellblockperlevel": [
+            0,
+            1.3
+          ],
+          "hpregen": [
+            5.05,
+            5.5
+          ],
+          "mpregen": [
+            7.5,
+            8
+          ],
+          "mpregenperlevel": [
+            0.6,
+            0.8
+          ],
+          "attackdamage": [
+            50.625,
+            50
+          ],
+          "attackspeed": [
+            0.579,
+            0.61
+          ]
+        },
+        "abilities": {
+          "W Incinerate": {
+            "cooldown": [
+              [
+                8,
+                8,
+                8,
+                8,
+                8
+              ],
+              [
+                7,
+                7,
+                7,
+                7,
+                7
+              ]
+            ],
+            "cost": [
+              [
+                70,
+                80,
+                90,
+                100,
+                110
+              ],
+              [
+                70,
+                75,
+                80,
+                85,
+                90
+              ]
+            ]
+          },
+          "E Molten Shield": {
+            "cost": [
+              [
+                20,
+                20,
+                20,
+                20,
+                20
+              ],
+              [
+                60,
+                65,
+                70,
+                75,
+                80
+              ]
+            ]
+          },
+          "R Summon: Tibbers": {
+            "cooldown": [
+              [
+                120,
+                120,
+                120
+              ],
+              [
+                130,
+                115,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Aphelios": {
+        "base_stats": {
+          "spellblock": [
+            30,
+            33
+          ],
+          "spellblockperlevel": [
+            1.3,
+            1.1
+          ]
+        }
+      },
+      "Ashe": {
+        "base_stats": {
+          "hp": [
+            474,
+            610
+          ],
+          "hpperlevel": [
+            79,
+            101
+          ],
+          "mp": [
+            208,
+            280
+          ],
+          "armor": [
+            18.9,
+            26
+          ],
+          "armorperlevel": [
+            3.4,
+            4.6
+          ],
+          "spellblock": [
+            30,
+            33
+          ],
+          "spellblockperlevel": [
+            0,
+            1.1
+          ],
+          "hpregen": [
+            5.05,
+            3.5
+          ],
+          "mpregen": [
+            6.7,
+            7
+          ],
+          "mpregenperlevel": [
+            0.4,
+            0.65
+          ],
+          "attackdamage": [
+            49,
+            59
+          ],
+          "attackspeedperlevel": [
+            4,
+            3
+          ]
+        },
+        "abilities": {
+          "Q Ranger's Focus": {
+            "cooldown": [
+              [
+                1,
+                1,
+                1,
+                1,
+                1
+              ],
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            ],
+            "cost": [
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              [
+                30,
+                30,
+                30,
+                30,
+                30
+              ]
+            ]
+          },
+          "W Volley": {
+            "cooldown": [
+              [
+                16,
+                13,
+                10,
+                7,
+                4
+              ],
+              [
+                18,
+                14.5,
+                11,
+                7.5,
+                4
+              ]
+            ],
+            "cost": [
+              [
+                60,
+                60,
+                60,
+                60,
+                60
+              ],
+              [
+                75,
+                70,
+                65,
+                60,
+                55
+              ]
+            ]
+          },
+          "E Hawkshot": {
+            "cooldown": [
+              [
+                60,
+                60,
+                60,
+                60,
+                60
+              ],
+              [
+                5,
+                5,
+                5,
+                5,
+                5
+              ]
+            ],
+            "range": [
+              [
+                2500,
+                3250,
+                4000,
+                4750,
+                5500
+              ],
+              [
+                25000,
+                25000,
+                25000,
+                25000,
+                25000
+              ]
+            ]
+          },
+          "R Enchanted Crystal Arrow": {
+            "cooldown": [
+              [
+                100,
+                90,
+                80
+              ],
+              [
+                100,
+                80,
+                60
+              ]
+            ],
+            "cost": [
+              [
+                150,
+                150,
+                150
+              ],
+              [
+                100,
+                100,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Bel'Veth": {
+        "base_stats": {
+          "hpperlevel": [
+            110,
+            105
+          ]
+        }
+      },
+      "Blitzcrank": {
+        "base_stats": {
+          "hp": [
+            518,
+            600
+          ],
+          "hpperlevel": [
+            95,
+            109
+          ],
+          "mp": [
+            240,
+            267
+          ],
+          "armor": [
+            22,
+            37
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblock": [
+            31.25,
+            32
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ],
+          "hpregen": [
+            8,
+            7.5
+          ],
+          "mpregen": [
+            7.1,
+            8.5
+          ],
+          "mpregenperlevel": [
+            0.5,
+            0.8
+          ],
+          "attackdamage": [
+            59.16,
+            62
+          ]
+        },
+        "abilities": {
+          "Q Rocket Grab": {
+            "cost": [
+              [
+                120,
+                120,
+                120,
+                120,
+                120
+              ],
+              [
+                100,
+                100,
+                100,
+                100,
+                100
+              ]
+            ]
+          },
+          "E Power Fist": {
+            "cooldown": [
+              [
+                9,
+                8,
+                7,
+                6,
+                5
+              ],
+              [
+                7,
+                6.5,
+                6,
+                5.5,
+                5
+              ]
+            ]
+          },
+          "R Static Field": {
+            "cooldown": [
+              [
+                30,
+                30,
+                30
+              ],
+              [
+                60,
+                40,
+                20
+              ]
+            ],
+            "cost": [
+              [
+                150,
+                150,
+                150
+              ],
+              [
+                100,
+                100,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Brand": {
+        "base_stats": {
+          "hp": [
+            456,
+            570
+          ],
+          "hpperlevel": [
+            76,
+            105
+          ],
+          "mp": [
+            295,
+            469
+          ],
+          "mpperlevel": [
+            45,
+            21
+          ],
+          "armor": [
+            19.5,
+            24
+          ],
+          "armorperlevel": [
+            3.5,
+            4.2
+          ],
+          "spellblockperlevel": [
+            0,
+            1.3
+          ],
+          "hpregen": [
+            5.05,
+            5.5
+          ],
+          "mpregen": [
+            7.6,
+            11
+          ],
+          "attackdamage": [
+            55,
+            57
+          ],
+          "attackspeedperlevel": [
+            1.36,
+            2
+          ],
+          "attackspeed": [
+            0.625,
+            0.681
+          ]
+        },
+        "abilities": {
+          "Q Sear": {
+            "cost": [
+              [
+                50,
+                50,
+                50,
+                50,
+                50
+              ],
+              [
+                70,
+                70,
+                70,
+                70,
+                70
+              ]
+            ]
+          },
+          "W Pillar of Flame": {
+            "cooldown": [
+              [
+                10,
+                10,
+                10,
+                10,
+                10
+              ],
+              [
+                10,
+                9.5,
+                9,
+                8.5,
+                8
+              ]
+            ],
+            "cost": [
+              [
+                70,
+                75,
+                80,
+                85,
+                90
+              ],
+              [
+                60,
+                70,
+                80,
+                90,
+                100
+              ]
+            ]
+          },
+          "E Conflagration": {
+            "cooldown": [
+              [
+                12,
+                11,
+                10,
+                9,
+                8
+              ],
+              [
+                13,
+                12,
+                11,
+                10,
+                9
+              ]
+            ],
+            "cost": [
+              [
+                70,
+                75,
+                80,
+                85,
+                90
+              ],
+              [
+                90,
+                90,
+                90,
+                90,
+                90
+              ]
+            ]
+          },
+          "R Pyroclasm": {
+            "cooldown": [
+              [
+                105,
+                90,
+                75
+              ],
+              [
+                100,
+                90,
+                80
+              ]
+            ]
+          }
+        }
+      },
+      "Caitlyn": {
+        "base_stats": {
+          "spellblock": [
+            30,
+            33
+          ],
+          "spellblockperlevel": [
+            1.3,
+            1.1
+          ]
+        }
+      },
+      "Camille": {
+        "base_stats": {
+          "mp": [
+            339,
+            375
+          ]
+        },
+        "abilities": {
+          "W Tactical Sweep": {
+            "cooldown": [
+              [
+                15,
+                14,
+                13,
+                12,
+                11
+              ],
+              [
+                12,
+                11.5,
+                11,
+                10.5,
+                10
+              ]
+            ]
+          }
+        }
+      },
+      "Cho'Gath": {
+        "base_stats": {
+          "hp": [
+            520,
+            644
+          ],
+          "hpperlevel": [
+            80,
+            94
+          ],
+          "mp": [
+            245,
+            270
+          ],
+          "mpperlevel": [
+            40,
+            60
+          ],
+          "armor": [
+            26.5,
+            38
+          ],
+          "armorperlevel": [
+            3.5,
+            4.5
+          ],
+          "spellblock": [
+            31.25,
+            32
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ],
+          "hpregen": [
+            8.35,
+            9
+          ],
+          "mpregen": [
+            6.9,
+            7.2
+          ],
+          "attackdamage": [
+            58.3,
+            69
+          ],
+          "attackspeed": [
+            0.625,
+            0.658
+          ]
+        },
+        "abilities": {
+          "Q Rupture": {
+            "cooldown": [
+              [
+                9,
+                9,
+                9,
+                9,
+                9
+              ],
+              [
+                6,
+                6,
+                6,
+                6,
+                6
+              ]
+            ],
+            "cost": [
+              [
+                90,
+                90,
+                90,
+                90,
+                90
+              ],
+              [
+                50,
+                50,
+                50,
+                50,
+                50
+              ]
+            ]
+          },
+          "W Feral Scream": {
+            "cooldown": [
+              [
+                13,
+                13,
+                13,
+                13,
+                13
+              ],
+              [
+                11,
+                10.5,
+                10,
+                9.5,
+                9
+              ]
+            ],
+            "cost": [
+              [
+                70,
+                80,
+                90,
+                100,
+                110
+              ],
+              [
+                70,
+                75,
+                80,
+                85,
+                90
+              ]
+            ]
+          },
+          "E Vorpal Spikes": {
+            "cooldown": [
+              [
+                0.5,
+                0.5,
+                0.5,
+                0.5,
+                0.5
+              ],
+              [
+                8,
+                7,
+                6,
+                5,
+                4
+              ]
+            ],
+            "cost": [
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              [
+                30,
+                30,
+                30,
+                30,
+                30
+              ]
+            ]
+          },
+          "R Feast": {
+            "cooldown": [
+              [
+                60,
+                60,
+                60
+              ],
+              [
+                80,
+                70,
+                60
+              ]
+            ]
+          }
+        }
+      },
+      "Corki": {
+        "base_stats": {
+          "hp": [
+            457,
+            610
+          ],
+          "hpperlevel": [
+            82,
+            100
+          ],
+          "mp": [
+            280,
+            350
+          ],
+          "mpperlevel": [
+            37,
+            40
+          ],
+          "armor": [
+            21,
+            27
+          ],
+          "armorperlevel": [
+            3.5,
+            4.5
+          ],
+          "spellblock": [
+            30,
+            33
+          ],
+          "spellblockperlevel": [
+            0,
+            1.1
+          ],
+          "hpregen": [
+            5.05,
+            5.5
+          ],
+          "mpregen": [
+            7.05,
+            7.4
+          ],
+          "mpregenperlevel": [
+            0.55,
+            0.7
+          ],
+          "attackdamage": [
+            51.2,
+            52
+          ],
+          "attackspeedperlevel": [
+            2.3,
+            2.8
+          ],
+          "attackspeed": [
+            0.658,
+            0.644
+          ]
+        },
+        "abilities": {
+          "Q Phosphorus Bomb": {
+            "cooldown": [
+              [
+                8,
+                8,
+                8,
+                8,
+                8
+              ],
+              [
+                9,
+                8.5,
+                8,
+                7.5,
+                7
+              ]
+            ],
+            "cost": [
+              [
+                80,
+                90,
+                100,
+                110,
+                120
+              ],
+              [
+                60,
+                65,
+                70,
+                75,
+                80
+              ]
+            ],
+            "range": [
+              [
+                600,
+                600,
+                600,
+                600,
+                600
+              ],
+              [
+                825,
+                825,
+                825,
+                825,
+                825
+              ]
+            ]
+          },
+          "W Valkyrie": {
+            "cooldown": [
+              [
+                26,
+                23,
+                20,
+                17,
+                14
+              ],
+              [
+                20,
+                18,
+                16,
+                14,
+                12
+              ]
+            ],
+            "cost": [
+              [
+                50,
+                50,
+                50,
+                50,
+                50
+              ],
+              [
+                80,
+                85,
+                90,
+                95,
+                100
+              ]
+            ]
+          },
+          "E Gatling Gun": {
+            "cooldown": [
+              [
+                16,
+                16,
+                16,
+                16,
+                16
+              ],
+              [
+                12,
+                12,
+                12,
+                12,
+                12
+              ]
+            ],
+            "cost": [
+              [
+                60,
+                65,
+                70,
+                75,
+                80
+              ],
+              [
+                50,
+                55,
+                60,
+                65,
+                70
+              ]
+            ]
+          },
+          "R Missile Barrage": {
+            "cooldown": [
+              [
+                1.2,
+                1.2,
+                1.2
+              ],
+              [
+                2,
+                2,
+                2
+              ]
+            ],
+            "cost": [
+              [
+                20,
+                20,
+                20
+              ],
+              [
+                35,
+                35,
+                35
+              ]
+            ]
+          }
+        }
+      },
+      "Dr. Mundo": {
+        "base_stats": {
+          "hp": [
+            522,
+            640
+          ],
+          "hpperlevel": [
+            89,
+            103
+          ],
+          "armor": [
+            24.5,
+            32
+          ],
+          "armorperlevel": [
+            3.5,
+            4.5
+          ],
+          "spellblock": [
+            31.25,
+            29
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.3
+          ],
+          "hpregen": [
+            7.25,
+            7
+          ],
+          "hpregenperlevel": [
+            0.75,
+            0.5
+          ],
+          "attackdamage": [
+            59.23,
+            61
+          ],
+          "attackspeedperlevel": [
+            2.8,
+            3.3
+          ],
+          "attackspeed": [
+            0.625,
+            0.67
+          ]
+        },
+        "abilities": {
+          "W Heart Zapper": {
+            "cooldown": [
+              [
+                1,
+                1,
+                1,
+                1,
+                1
+              ],
+              [
+                17,
+                16.5,
+                16,
+                15.5,
+                15
+              ]
+            ]
+          },
+          "E Blunt Force Trauma": {
+            "cooldown": [
+              [
+                7,
+                7,
+                7,
+                7,
+                7
+              ],
+              [
+                9,
+                8.25,
+                7.5,
+                6.75,
+                6
+              ]
+            ]
+          },
+          "R Maximum Dosage": {
+            "cooldown": [
+              [
+                75,
+                75,
+                75
+              ],
+              [
+                120,
+                120,
+                120
+              ]
+            ]
+          }
+        }
+      },
+      "Draven": {
+        "base_stats": {
+          "spellblock": [
+            30,
+            33
+          ],
+          "spellblockperlevel": [
+            1.3,
+            1.1
+          ]
+        }
+      },
+      "Evelynn": {
+        "base_stats": {
+          "hp": [
+            470,
+            642
+          ],
+          "hpperlevel": [
+            90,
+            98
+          ],
+          "mp": [
+            235,
+            315
+          ],
+          "mpperlevel": [
+            45,
+            42
+          ],
+          "movespeed": [
+            340,
+            335
+          ],
+          "armor": [
+            20,
+            37
+          ],
+          "armorperlevel": [
+            4,
+            4.7
+          ],
+          "spellblock": [
+            31.25,
+            32
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ],
+          "hpregen": [
+            9.45,
+            8.5
+          ],
+          "hpregenperlevel": [
+            0.55,
+            0.75
+          ],
+          "mpregen": [
+            7.7,
+            8.11
+          ],
+          "attackdamage": [
+            51.5,
+            61
+          ],
+          "attackspeedperlevel": [
+            3.6,
+            2.1
+          ],
+          "attackspeed": [
+            0.625,
+            0.667
+          ]
+        },
+        "abilities": {
+          "Q Hate Spike": {
+            "cooldown": [
+              [
+                1.5,
+                1.5,
+                1.5,
+                1.5,
+                1.5
+              ],
+              [
+                4,
+                4,
+                4,
+                4,
+                4
+              ]
+            ],
+            "cost": [
+              [
+                16,
+                22,
+                28,
+                34,
+                40
+              ],
+              [
+                40,
+                45,
+                50,
+                55,
+                60
+              ]
+            ],
+            "range": [
+              [
+                525,
+                525,
+                525,
+                525,
+                525
+              ],
+              [
+                800,
+                800,
+                800,
+                800,
+                800
+              ]
+            ]
+          },
+          "W Allure": {
+            "cooldown": [
+              [
+                15,
+                15,
+                15,
+                15,
+                15
+              ],
+              [
+                15,
+                14,
+                13,
+                12,
+                11
+              ]
+            ],
+            "cost": [
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              [
+                60,
+                70,
+                80,
+                90,
+                100
+              ]
+            ],
+            "range": [
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              [
+                1200,
+                1300,
+                1400,
+                1500,
+                1600
+              ]
+            ]
+          },
+          "E Whiplash": {
+            "cooldown": [
+              [
+                9,
+                9,
+                9,
+                9,
+                9
+              ],
+              [
+                8,
+                8,
+                8,
+                8,
+                8
+              ]
+            ],
+            "cost": [
+              [
+                50,
+                55,
+                60,
+                65,
+                70
+              ],
+              [
+                40,
+                45,
+                50,
+                55,
+                60
+              ]
+            ],
+            "range": [
+              [
+                225,
+                225,
+                225,
+                225,
+                225
+              ],
+              [
+                210,
+                210,
+                210,
+                210,
+                210
+              ]
+            ]
+          },
+          "R Last Caress": {
+            "cooldown": [
+              [
+                150,
+                120,
+                90
+              ],
+              [
+                120,
+                100,
+                80
+              ]
+            ],
+            "range": [
+              [
+                650,
+                650,
+                650
+              ],
+              [
+                25000,
+                25000,
+                25000
+              ]
+            ]
+          }
+        }
+      },
+      "Ezreal": {
+        "base_stats": {
+          "hp": [
+            430,
+            600
+          ],
+          "hpperlevel": [
+            80,
+            102
+          ],
+          "mp": [
+            280,
+            375
+          ],
+          "mpperlevel": [
+            45,
+            70
+          ],
+          "movespeed": [
+            330,
+            325
+          ],
+          "armor": [
+            19.5,
+            24
+          ],
+          "armorperlevel": [
+            3.5,
+            4.2
+          ],
+          "spellblock": [
+            30,
+            33
+          ],
+          "spellblockperlevel": [
+            0,
+            1.1
+          ],
+          "hpregen": [
+            6.05,
+            4
+          ],
+          "hpregenperlevel": [
+            0.55,
+            0.65
+          ],
+          "mpregen": [
+            7.65,
+            8.5
+          ],
+          "mpregenperlevel": [
+            0.65,
+            1
+          ],
+          "attackdamage": [
+            49.6,
+            60
+          ],
+          "attackspeedperlevel": [
+            3.22,
+            2.5
+          ],
+          "attackspeed": [
+            0.658,
+            0.625
+          ]
+        },
+        "abilities": {
+          "Q Mystic Shot": {
+            "cooldown": [
+              [
+                6,
+                5.5,
+                5,
+                4.5,
+                4
+              ],
+              [
+                5.5,
+                5.25,
+                5,
+                4.75,
+                4.5
+              ]
+            ],
+            "cost": [
+              [
+                30,
+                35,
+                40,
+                45,
+                50
+              ],
+              [
+                28,
+                31,
+                34,
+                37,
+                40
+              ]
+            ]
+          },
+          "W Essence Flux": {
+            "cooldown": [
+              [
+                10,
+                10,
+                10,
+                10,
+                10
+              ],
+              [
+                8,
+                8,
+                8,
+                8,
+                8
+              ]
+            ],
+            "cost": [
+              [
+                80,
+                90,
+                100,
+                110,
+                120
+              ],
+              [
+                50,
+                50,
+                50,
+                50,
+                50
+              ]
+            ],
+            "range": [
+              [
+                1050,
+                1050,
+                1050,
+                1050,
+                1050
+              ],
+              [
+                1150,
+                1150,
+                1150,
+                1150,
+                1150
+              ]
+            ]
+          },
+          "E Arcane Shift": {
+            "cooldown": [
+              [
+                17,
+                15,
+                13,
+                11,
+                9
+              ],
+              [
+                26,
+                23,
+                20,
+                17,
+                14
+              ]
+            ],
+            "cost": [
+              [
+                90,
+                90,
+                90,
+                90,
+                90
+              ],
+              [
+                70,
+                70,
+                70,
+                70,
+                70
+              ]
+            ]
+          },
+          "R Trueshot Barrage": {
+            "cooldown": [
+              [
+                100,
+                100,
+                100
+              ],
+              [
+                120,
+                105,
+                90
+              ]
+            ],
+            "cost": [
+              [
+                150,
+                150,
+                150
+              ],
+              [
+                100,
+                100,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Fiddlesticks": {
+        "base_stats": {
+          "hp": [
+            470,
+            650
+          ],
+          "hpperlevel": [
+            80,
+            106
+          ],
+          "mp": [
+            310,
+            500
+          ],
+          "mpperlevel": [
+            59,
+            28
+          ],
+          "armor": [
+            18.5,
+            34
+          ],
+          "armorperlevel": [
+            3.5,
+            4.7
+          ],
+          "spellblockperlevel": [
+            0,
+            1.3
+          ],
+          "hpregen": [
+            5.2,
+            5.5
+          ],
+          "mpregen": [
+            7.55,
+            8
+          ],
+          "mpregenperlevel": [
+            0.65,
+            0.8
+          ],
+          "attackdamage": [
+            48.575,
+            55
+          ]
+        },
+        "abilities": {
+          "Q Terrify": {
+            "cooldown": [
+              [
+                15,
+                14,
+                13,
+                12,
+                11
+              ],
+              [
+                15,
+                14.5,
+                14,
+                13.5,
+                13
+              ]
+            ],
+            "cost": [
+              [
+                65,
+                75,
+                85,
+                95,
+                105
+              ],
+              [
+                65,
+                65,
+                65,
+                65,
+                65
+              ]
+            ]
+          },
+          "W Bountiful Harvest": {
+            "cooldown": [
+              [
+                10,
+                9,
+                8,
+                7,
+                6
+              ],
+              [
+                10,
+                9.5,
+                9,
+                8.5,
+                8
+              ]
+            ],
+            "cost": [
+              [
+                80,
+                90,
+                100,
+                110,
+                120
+              ],
+              [
+                60,
+                65,
+                70,
+                75,
+                80
+              ]
+            ]
+          },
+          "E Reap": {
+            "cooldown": [
+              [
+                15,
+                14,
+                13,
+                12,
+                11
+              ],
+              [
+                10,
+                9,
+                8,
+                7,
+                6
+              ]
+            ],
+            "cost": [
+              [
+                50,
+                70,
+                90,
+                110,
+                130
+              ],
+              [
+                40,
+                45,
+                50,
+                55,
+                60
+              ]
+            ],
+            "range": [
+              [
+                750,
+                750,
+                750,
+                750,
+                750
+              ],
+              [
+                850,
+                850,
+                850,
+                850,
+                850
+              ]
+            ]
+          },
+          "R Crowstorm": {
+            "cooldown": [
+              [
+                150,
+                140,
+                130
+              ],
+              [
+                140,
+                110,
+                80
+              ]
+            ],
+            "cost": [
+              [
+                150,
+                200,
+                250
+              ],
+              [
+                100,
+                100,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Gangplank": {
+        "base_stats": {
+          "hp": [
+            576,
+            630
+          ],
+          "hpperlevel": [
+            81,
+            114
+          ],
+          "mp": [
+            255,
+            280
+          ],
+          "mpperlevel": [
+            40,
+            60
+          ],
+          "armor": [
+            23.8,
+            31
+          ],
+          "armorperlevel": [
+            3.3,
+            4.7
+          ],
+          "spellblock": [
+            31.25,
+            32
+          ],
+          "spellblockperlevel": [
+            1.25,
+            2.05
+          ],
+          "hpregen": [
+            5,
+            6
+          ],
+          "hpregenperlevel": [
+            0.75,
+            0.6
+          ],
+          "mpregen": [
+            7.2,
+            8
+          ],
+          "attackdamage": [
+            57,
+            64
+          ],
+          "attackspeedperlevel": [
+            2.75,
+            3.2
+          ],
+          "attackspeed": [
+            0.651,
+            0.658
+          ]
+        },
+        "abilities": {
+          "Q Parrrley": {
+            "cooldown": [
+              [
+                5,
+                5,
+                5,
+                5,
+                5
+              ],
+              [
+                4.5,
+                4.5,
+                4.5,
+                4.5,
+                4.5
+              ]
+            ],
+            "cost": [
+              [
+                50,
+                55,
+                60,
+                65,
+                70
+              ],
+              [
+                50,
+                45,
+                40,
+                35,
+                30
+              ]
+            ]
+          },
+          "W Remove Scurvy": {
+            "cooldown": [
+              [
+                22,
+                21,
+                20,
+                19,
+                18
+              ],
+              [
+                22,
+                20,
+                18,
+                16,
+                14
+              ]
+            ],
+            "cost": [
+              [
+                65,
+                65,
+                65,
+                65,
+                65
+              ],
+              [
+                60,
+                70,
+                80,
+                90,
+                100
+              ]
+            ],
+            "range": [
+              [
+                20,
+                20,
+                20,
+                20,
+                20
+              ],
+              [
+                400,
+                400,
+                400,
+                400,
+                400
+              ]
+            ]
+          },
+          "E Powder Keg": {
+            "cooldown": [
+              [
+                20,
+                20,
+                20,
+                20,
+                20
+              ],
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            ],
+            "cost": [
+              [
+                50,
+                55,
+                60,
+                65,
+                70
+              ],
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            ],
+            "range": [
+              [
+                1200,
+                1200,
+                1200,
+                1200,
+                1200
+              ],
+              [
+                1000,
+                1000,
+                1000,
+                1000,
+                1000
+              ]
+            ]
+          },
+          "R Cannon Barrage": {
+            "cooldown": [
+              [
+                120,
+                115,
+                110
+              ],
+              [
+                160,
+                140,
+                120
+              ]
+            ],
+            "range": [
+              [
+                20000,
+                20000,
+                20000
+              ],
+              [
+                30000,
+                30000,
+                30000
+              ]
+            ]
+          }
+        }
+      },
+      "Garen": {
+        "base_stats": {
+          "hp": [
+            551,
+            690
+          ],
+          "hpperlevel": [
+            96,
+            98
+          ],
+          "movespeed": [
+            345,
+            340
+          ],
+          "armor": [
+            25.7,
+            38
+          ],
+          "armorperlevel": [
+            2.7,
+            4.2
+          ],
+          "spellblock": [
+            31.25,
+            32
+          ],
+          "spellblockperlevel": [
+            1.25,
+            1.55
+          ],
+          "attackrange": [
+            125,
+            175
+          ],
+          "hpregen": [
+            8.2,
+            8
+          ],
+          "hpregenperlevel": [
+            0.75,
+            0.5
+          ],
+          "attackdamage": [
+            55.5,
+            69
+          ],
+          "attackspeedperlevel": [
+            2.9,
+            3.65
+          ]
+        },
+        "abilities": {
+          "W Courage": {
+            "cooldown": [
+              [
+                24,
+                23,
+                22,
+                21,
+                20
+              ],
+              [
+                22,
+                19.5,
+                17,
+                14.5,
+                12
+              ]
+            ]
+          },
+          "E Judgment": {
+            "cooldown": [
+              [
+                13,
+                12,
+                11,
+                10,
+                9
+              ],
+              [
+                9,
+                8.25,
+                7.5,
+                6.75,
+                6
+              ]
+            ]
+          },
+          "R Demacian Justice": {
+            "cooldown": [
+              [
+                160,
+                120,
+                80
+              ],
+              [
+                120,
+                100,
+                80
+              ]
+            ]
+          }
+        }
+      },
+      "Gragas": {
+        "base_stats": {
+          "hp": [
+            523,
+            640
+          ],
+          "hpperlevel": [
+            89,
+            115
+          ],
+          "mp": [
+            268,
+            400
+          ],
+          "movespeed": [
+            340,
+            330
+          ],
+          "armor": [
+            23.6,
+            38
+          ],
+          "armorperlevel": [
+            3.6,
+            5
+          ],
+          "spellblock": [
+            30,
+            32
+          ],
+          "spellblockperlevel": [
+            0,
+            2.05
+          ],
+          "hpregen": [
+            8.1,
+            5.5
+          ],
+          "hpregenperlevel": [
+            0.85,
+            0.5
+          ],
+          "mpregen": [
+            6.9,
+            6
+          ],
+          "mpregenperlevel": [
+            0.45,
+            0.8
+          ],
+          "attackdamage": [
+            59.155,
+            64
+          ],
+          "attackspeed": [
+            0.651,
+            0.675
+          ]
+        },
+        "abilities": {
+          "Q Barrel Roll": {
+            "cooldown": [
+              [
+                11.5,
+                10.5,
+                9.5,
+                8.5,
+                7.5
+              ],
+              [
+                10,
+                9,
+                8,
+                7,
+                6
+              ]
+            ],
+            "cost": [
+              [
+                80,
+                90,
+                100,
+                110,
+                120
+              ],
+              [
+                80,
+                80,
+                80,
+                80,
+                80
+              ]
+            ],
+            "range": [
+              [
+                1100,
+                1100,
+                1100,
+                1100,
+                1100
+              ],
+              [
+                850,
+                850,
+                850,
+                850,
+                850
+              ]
+            ]
+          },
+          "W Drunken Rage": {
+            "cooldown": [
+              [
+                25,
+                25,
+                25,
+                25,
+                25
+              ],
+              [
+                5,
+                5,
+                5,
+                5,
+                5
+              ]
+            ],
+            "cost": [
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              [
+                30,
+                30,
+                30,
+                30,
+                30
+              ]
+            ]
+          },
+          "E Body Slam": {
+            "cooldown": [
+              [
+                7,
+                7,
+                7,
+                7,
+                7
+              ],
+              [
+                14,
+                13.5,
+                13,
+                12.5,
+                12
+              ]
+            ],
+            "cost": [
+              [
+                75,
+                75,
+                75,
+                75,
+                75
+              ],
+              [
+                50,
+                50,
+                50,
+                50,
+                50
+              ]
+            ]
+          },
+          "R Explosive Cask": {
+            "cooldown": [
+              [
+                100,
+                90,
+                80
+              ],
+              [
+                100,
+                85,
+                70
+              ]
+            ],
+            "cost": [
+              [
+                100,
+                125,
+                150
+              ],
+              [
+                100,
+                100,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Graves": {
+        "base_stats": {
+          "spellblock": [
+            30,
+            33
+          ],
+          "spellblockperlevel": [
+            1.3,
+            1.1
+          ]
+        }
+      },
+      "Heimerdinger": {
+        "base_stats": {
+          "hp": [
+            425,
+            558
+          ],
+          "hpperlevel": [
+            75,
+            105
+          ],
+          "mp": [
+            305,
+            385
+          ],
+          "mpperlevel": [
+            65,
+            20
+          ],
+          "movespeed": [
+            325,
+            340
+          ],
+          "armor": [
+            14,
+            19
+          ],
+          "armorperlevel": [
+            3,
+            4.2
+          ],
+          "spellblockperlevel": [
+            0,
+            1.3
+          ],
+          "hpregen": [
+            4.5,
+            7
+          ],
+          "mpregen": [
+            7.65,
+            8
+          ],
+          "mpregenperlevel": [
+            0.65,
+            0.8
+          ],
+          "attackdamage": [
+            52.24,
+            56
+          ],
+          "attackspeedperlevel": [
+            1.21,
+            1.36
+          ],
+          "attackspeed": [
+            0.625,
+            0.658
+          ]
+        },
+        "abilities": {
+          "Q H-28 G Evolution Turret": {
+            "cost": [
+              [
+                70,
+                80,
+                90,
+                100,
+                110
+              ],
+              [
+                20,
+                20,
+                20,
+                20,
+                20
+              ]
+            ]
+          },
+          "W Hextech Micro-Rockets": {
+            "cooldown": [
+              [
+                10,
+                10,
+                10,
+                10,
+                10
+              ],
+              [
+                11,
+                10,
+                9,
+                8,
+                7
+              ]
+            ],
+            "cost": [
+              [
+                65,
+                85,
+                105,
+                125,
+                145
+              ],
+              [
+                50,
+                60,
+                70,
+                80,
+                90
+              ]
+            ],
+            "range": [
+              [
+                1100,
+                1100,
+                1100,
+                1100,
+                1100
+              ],
+              [
+                1325,
+                1325,
+                1325,
+                1325,
+                1325
+              ]
+            ]
+          },
+          "E CH-2 Electron Storm Grenade": {
+            "cooldown": [
+              [
+                13,
+                12,
+                11,
+                10,
+                9
+              ],
+              [
+                11,
+                11,
+                11,
+                11,
+                11
+              ]
+            ],
+            "cost": [
+              [
+                80,
+                90,
+                100,
+                110,
+                120
+              ],
+              [
+                85,
+                85,
+                85,
+                85,
+                85
+              ]
+            ],
+            "range": [
+              [
+                920,
+                920,
+                920,
+                920,
+                920
+              ],
+              [
+                970,
+                970,
+                970,
+                970,
+                970
+              ]
+            ]
+          },
+          "R UPGRADE!!!": {
+            "cooldown": [
+              [
+                120,
+                105,
+                90
+              ],
+              [
+                100,
+                85,
+                70
+              ]
+            ],
+            "cost": [
+              [
+                90,
+                90,
+                90
+              ],
+              [
+                100,
+                100,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Jhin": {
+        "base_stats": {
+          "spellblock": [
+            30,
+            33
+          ],
+          "spellblockperlevel": [
+            1.3,
+            1.1
+          ]
+        }
+      },
+      "Jinx": {
+        "base_stats": {
+          "spellblock": [
+            30,
+            33
+          ],
+          "spellblockperlevel": [
+            1.3,
+            1.1
+          ]
+        }
+      },
+      "Kai'Sa": {
+        "base_stats": {
+          "spellblock": [
+            30,
+            33
+          ],
+          "spellblockperlevel": [
+            1.3,
+            1.1
+          ]
+        }
+      },
+      "Kalista": {
+        "base_stats": {
+          "spellblock": [
+            30,
+            33
+          ],
+          "spellblockperlevel": [
+            1.3,
+            1.1
+          ]
+        }
+      },
+      "Kindred": {
+        "base_stats": {
+          "spellblock": [
+            30,
+            33
+          ],
+          "spellblockperlevel": [
+            1.3,
+            1.1
+          ]
+        }
+      },
+      "Kog'Maw": {
+        "base_stats": {
+          "spellblock": [
+            30,
+            33
+          ],
+          "spellblockperlevel": [
+            1.3,
+            1.1
+          ]
+        }
+      },
+      "Lucian": {
+        "base_stats": {
+          "spellblock": [
+            30,
+            33
+          ],
+          "spellblockperlevel": [
+            1.3,
+            1.1
+          ]
+        }
+      },
+      "Miss Fortune": {
+        "base_stats": {
+          "spellblock": [
+            30,
+            33
+          ],
+          "spellblockperlevel": [
+            1.3,
+            1.1
+          ]
+        }
+      },
+      "Poppy": {
+        "base_stats": {
+          "mp": [
+            280,
+            300
+          ],
+          "mpperlevel": [
+            40,
+            45
+          ],
+          "hpregen": [
+            8,
+            9
+          ],
+          "attackdamage": [
+            60,
+            56
+          ]
+        }
+      },
+      "Quinn": {
+        "base_stats": {
+          "spellblock": [
+            30,
+            33
+          ],
+          "spellblockperlevel": [
+            1.3,
+            1.1
+          ]
+        }
+      },
+      "Samira": {
+        "base_stats": {
+          "spellblock": [
+            30,
+            33
+          ],
+          "spellblockperlevel": [
+            1.3,
+            1.1
+          ]
+        }
+      },
+      "Senna": {
+        "base_stats": {
+          "spellblock": [
+            30,
+            33
+          ],
+          "spellblockperlevel": [
+            1.3,
+            1.1
+          ]
+        }
+      },
+      "Sivir": {
+        "base_stats": {
+          "spellblock": [
+            30,
+            33
+          ],
+          "spellblockperlevel": [
+            1.3,
+            1.1
+          ]
+        }
+      },
+      "Smolder": {
+        "base_stats": {
+          "spellblock": [
+            30,
+            33
+          ],
+          "spellblockperlevel": [
+            1.3,
+            1.1
+          ]
+        }
+      },
+      "Tristana": {
+        "base_stats": {
+          "spellblock": [
+            28,
+            33
+          ],
+          "spellblockperlevel": [
+            1.3,
+            1.1
+          ]
+        }
+      },
+      "Twitch": {
+        "base_stats": {
+          "spellblock": [
+            30,
+            33
+          ],
+          "spellblockperlevel": [
+            1.3,
+            1.1
+          ]
+        }
+      },
+      "Varus": {
+        "base_stats": {
+          "spellblock": [
+            30,
+            33
+          ],
+          "spellblockperlevel": [
+            1.3,
+            1.1
+          ]
+        }
+      },
+      "Vayne": {
+        "base_stats": {
+          "spellblock": [
+            30,
+            33
+          ],
+          "spellblockperlevel": [
+            1.3,
+            1.1
+          ]
+        }
+      },
+      "Xayah": {
+        "base_stats": {
+          "spellblock": [
+            30,
+            33
+          ],
+          "spellblockperlevel": [
+            1.3,
+            1.1
+          ]
+        }
+      },
+      "Yunara": {
+        "base_stats": {
+          "spellblock": [
+            30,
+            33
+          ],
+          "spellblockperlevel": [
+            1.3,
+            1.1
+          ]
+        }
+      },
+      "Zeri": {
+        "base_stats": {
+          "spellblock": [
+            30,
+            33
+          ],
+          "spellblockperlevel": [
+            1.3,
+            1.1
+          ]
+        }
+      }
+    },
+    "items": {
+      "Berserker's Greaves": {
+        "stats": {
+          "PercentAttackSpeedMod": [
+            0.25,
+            0.3
+          ]
+        }
+      },
+      "Black Cleaver": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            40,
+            45
+          ]
+        }
+      },
+      "Chainlaced Crushers": {
+        "stats": {
+          "FlatSpellBlockMod": [
+            30,
+            25
+          ]
+        }
+      },
+      "Gunmetal Greaves": {
+        "stats": {
+          "PercentAttackSpeedMod": [
+            0.4,
+            0.45
+          ]
+        }
+      },
+      "Runaan's Hurricane": {
+        "stats": {
+          "PercentMovementSpeedMod": [
+            0.04,
+            0.05
+          ]
+        }
+      },
+      "Sundered Sky": {
+        "stats": {
+          "FlatHPPoolMod": [
+            400,
+            450
+          ]
+        }
+      },
+      "Sunfire Aegis": {
+        "gold": [
+          2700,
+          2800
+        ]
+      },
+      "Tiamat": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            20,
+            25
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

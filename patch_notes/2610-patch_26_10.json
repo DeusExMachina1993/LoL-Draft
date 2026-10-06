@@ -1,0 +1,163 @@
+{
+  "metadata": {
+    "name": "26.10",
+    "id": 2610,
+    "first_match": "2026-05-14 20:09",
+    "ddragon_version": "16.10.1",
+    "compared_with": "16.9.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-26-10-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Anivia": {
+        "base_stats": {
+          "armor": [
+            21,
+            19
+          ],
+          "armorperlevel": [
+            4.5,
+            4.1
+          ]
+        }
+      },
+      "Galio": {
+        "abilities": {
+          "Q Winds of War": {
+            "cost": [
+              [
+                70,
+                75,
+                80,
+                85,
+                90
+              ],
+              [
+                60,
+                65,
+                70,
+                75,
+                80
+              ]
+            ]
+          }
+        }
+      },
+      "Lee Sin": {
+        "abilities": {
+          "W Safeguard / Iron Will": {
+            "cooldown": [
+              [
+                12,
+                12,
+                12,
+                12,
+                12
+              ],
+              [
+                7,
+                7,
+                7,
+                7,
+                7
+              ]
+            ]
+          }
+        }
+      },
+      "Quinn": {
+        "abilities": {
+          "R Behind Enemy Lines": {
+            "cost": [
+              [
+                100,
+                50,
+                0
+              ],
+              [
+                50,
+                25,
+                0
+              ]
+            ]
+          }
+        }
+      },
+      "Shyvana": {
+        "base_stats": {
+          "hpperlevel": [
+            100,
+            95
+          ]
+        },
+        "abilities": {
+          "W Inferno Aegis": {
+            "cooldown": [
+              [
+                13,
+                12,
+                11,
+                10,
+                9
+              ],
+              [
+                13,
+                12.25,
+                11.5,
+                10.75,
+                10
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Doran's Bow": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            6,
+            8
+          ]
+        }
+      },
+      "Doran's Helm": {
+        "stats": {
+          "FlatHPPoolMod": [
+            110,
+            140
+          ]
+        }
+      },
+      "Gluttonous Greaves": {
+        "gold": [
+          950,
+          1000
+        ]
+      },
+      "Immortal Path": {
+        "gold": [
+          950,
+          1000
+        ]
+      },
+      "Lich Bane": {
+        "stats": {
+          "PercentMovementSpeedMod": [
+            0.04,
+            0.06
+          ]
+        }
+      },
+      "Voltaic Cyclosword": {
+        "gold": [
+          2900,
+          3000
+        ]
+      }
+    },
+    "removed_items": []
+  }
+}

@@ -1,0 +1,378 @@
+{
+  "metadata": {
+    "name": "14.21",
+    "id": 1421,
+    "first_match": "2024-10-26 15:24",
+    "ddragon_version": "14.21.1",
+    "compared_with": "14.20.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-14-21-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Aurelion Sol": {
+        "base_stats": {
+          "hp": [
+            620,
+            600
+          ]
+        }
+      },
+      "Azir": {
+        "base_stats": {
+          "hpregen": [
+            5,
+            7
+          ],
+          "attackdamage": [
+            52,
+            56
+          ]
+        }
+      },
+      "Brand": {
+        "base_stats": {
+          "mpregen": [
+            10.65,
+            9
+          ]
+        },
+        "abilities": {
+          "Q Sear": {
+            "cost": [
+              [
+                50,
+                50,
+                50,
+                50,
+                50
+              ],
+              [
+                70,
+                70,
+                70,
+                70,
+                70
+              ]
+            ]
+          }
+        }
+      },
+      "Camille": {
+        "base_stats": {
+          "hp": [
+            670,
+            650
+          ]
+        }
+      },
+      "Elise": {
+        "base_stats": {
+          "armorperlevel": [
+            5.2,
+            4.5
+          ]
+        }
+      },
+      "Galio": {
+        "base_stats": {
+          "mp": [
+            500,
+            410
+          ]
+        }
+      },
+      "Gangplank": {
+        "base_stats": {
+          "mpregen": [
+            7.5,
+            8
+          ]
+        }
+      },
+      "Hwei": {
+        "abilities": {
+          "E Subject: Torment": {
+            "cooldown": [
+              [
+                12,
+                11.5,
+                11,
+                10.5,
+                10
+              ],
+              [
+                13,
+                12.5,
+                12,
+                11.5,
+                11
+              ]
+            ]
+          }
+        }
+      },
+      "Irelia": {
+        "abilities": {
+          "Q Bladesurge": {
+            "cooldown": [
+              [
+                11,
+                10,
+                9,
+                8,
+                7
+              ],
+              [
+                10,
+                9,
+                8,
+                7,
+                6
+              ]
+            ],
+            "cost": [
+              [
+                20,
+                20,
+                20,
+                20,
+                20
+              ],
+              [
+                15,
+                15,
+                15,
+                15,
+                15
+              ]
+            ]
+          }
+        }
+      },
+      "Kayle": {
+        "abilities": {
+          "W Celestial Blessing": {
+            "cost": [
+              [
+                90,
+                100,
+                110,
+                120,
+                130
+              ],
+              [
+                70,
+                75,
+                80,
+                85,
+                90
+              ]
+            ]
+          }
+        }
+      },
+      "Malphite": {
+        "base_stats": {
+          "hp": [
+            644,
+            665
+          ]
+        }
+      },
+      "Nasus": {
+        "abilities": {
+          "Q Siphoning Strike": {
+            "range": [
+              [
+                300,
+                300,
+                300,
+                300,
+                300
+              ],
+              [
+                255,
+                255,
+                255,
+                255,
+                255
+              ]
+            ]
+          },
+          "R Fury of the Sands": {
+            "range": [
+              [
+                20,
+                20,
+                20
+              ],
+              [
+                400,
+                400,
+                400
+              ]
+            ]
+          }
+        }
+      },
+      "Qiyana": {
+        "base_stats": {
+          "hpregen": [
+            6,
+            8
+          ]
+        }
+      },
+      "Senna": {
+        "base_stats": {
+          "armor": [
+            28,
+            25
+          ],
+          "armorperlevel": [
+            4.7,
+            4
+          ]
+        }
+      },
+      "Sivir": {
+        "base_stats": {
+          "attackdamage": [
+            58,
+            60
+          ]
+        }
+      },
+      "Swain": {
+        "base_stats": {
+          "mp": [
+            468,
+            400
+          ],
+          "hpregen": [
+            7,
+            3
+          ],
+          "hpregenperlevel": [
+            0.65,
+            0.5
+          ],
+          "mpregen": [
+            8,
+            10
+          ]
+        },
+        "abilities": {
+          "Q Death's Hand": {
+            "cost": [
+              [
+                45,
+                50,
+                55,
+                60,
+                65
+              ],
+              [
+                40,
+                45,
+                50,
+                55,
+                60
+              ]
+            ]
+          },
+          "E Nevermove": {
+            "cooldown": [
+              [
+                10,
+                10,
+                10,
+                10,
+                10
+              ],
+              [
+                14,
+                13,
+                12,
+                11,
+                10
+              ]
+            ],
+            "cost": [
+              [
+                50,
+                50,
+                50,
+                50,
+                50
+              ],
+              [
+                60,
+                65,
+                70,
+                75,
+                80
+              ]
+            ]
+          },
+          "R Demonic Ascension": {
+            "cooldown": [
+              [
+                100,
+                80,
+                60
+              ],
+              [
+                120,
+                120,
+                120
+              ]
+            ]
+          }
+        }
+      },
+      "Teemo": {
+        "base_stats": {
+          "hp": [
+            598,
+            615
+          ]
+        }
+      },
+      "Viego": {
+        "base_stats": {
+          "armorperlevel": [
+            5.2,
+            4.6
+          ]
+        }
+      },
+      "Volibear": {
+        "abilities": {
+          "E Sky Splitter": {
+            "cooldown": [
+              [
+                12,
+                12,
+                12,
+                12,
+                12
+              ],
+              [
+                14,
+                14,
+                14,
+                14,
+                14
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

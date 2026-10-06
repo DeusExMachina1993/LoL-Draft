@@ -1,0 +1,256 @@
+{
+  "metadata": {
+    "name": "12.8",
+    "id": 1208,
+    "first_match": "2022-04-30 19:09",
+    "ddragon_version": "12.8.1",
+    "compared_with": "12.7.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-12-8-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Ezreal": {
+        "abilities": {
+          "R Trueshot Barrage": {
+            "cooldown": [
+              [
+                120,
+                120,
+                120
+              ],
+              [
+                120,
+                105,
+                90
+              ]
+            ]
+          }
+        }
+      },
+      "Jinx": {
+        "base_stats": {
+          "hp": [
+            610,
+            560
+          ]
+        }
+      },
+      "Poppy": {
+        "abilities": {
+          "W Steadfast Presence": {
+            "cooldown": [
+              [
+                24,
+                22,
+                20,
+                18,
+                16
+              ],
+              [
+                20,
+                18,
+                16,
+                14,
+                12
+              ]
+            ]
+          }
+        }
+      },
+      "Swain": {
+        "abilities": {
+          "Q Death's Hand": {
+            "cooldown": [
+              [
+                9,
+                7.5,
+                6,
+                4.5,
+                3
+              ],
+              [
+                7,
+                6,
+                5,
+                4,
+                3
+              ]
+            ],
+            "cost": [
+              [
+                65,
+                70,
+                75,
+                80,
+                85
+              ],
+              [
+                45,
+                50,
+                55,
+                60,
+                65
+              ]
+            ]
+          },
+          "W Vision of Empire": {
+            "cost": [
+              [
+                70,
+                80,
+                90,
+                100,
+                110
+              ],
+              [
+                60,
+                65,
+                70,
+                75,
+                80
+              ]
+            ]
+          },
+          "R Demonic Ascension": {
+            "cooldown": [
+              [
+                120,
+                120,
+                120
+              ],
+              [
+                100,
+                80,
+                60
+              ]
+            ]
+          }
+        }
+      },
+      "Sylas": {
+        "abilities": {
+          "R Hijack": {
+            "cooldown": [
+              [
+                100,
+                70,
+                40
+              ],
+              [
+                80,
+                55,
+                30
+              ]
+            ]
+          }
+        }
+      },
+      "Tristana": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.3,
+            3.7
+          ]
+        }
+      },
+      "Vladimir": {
+        "base_stats": {
+          "armor": [
+            23,
+            27
+          ]
+        }
+      },
+      "Xayah": {
+        "abilities": {
+          "Q Double Daggers": {
+            "cooldown": [
+              [
+                10,
+                9,
+                8,
+                7,
+                6
+              ],
+              [
+                10,
+                9.5,
+                9,
+                8.5,
+                8
+              ]
+            ]
+          }
+        }
+      },
+      "Zeri": {
+        "base_stats": {
+          "hp": [
+            500,
+            530
+          ]
+        },
+        "abilities": {
+          "E Spark Surge": {
+            "cooldown": [
+              [
+                28,
+                26.5,
+                25,
+                23.5,
+                22
+              ],
+              [
+                26,
+                24.5,
+                23,
+                21.5,
+                20
+              ]
+            ]
+          }
+        }
+      },
+      "Zoe": {
+        "abilities": {
+          "Q Paddle Star!": {
+            "cost": [
+              [
+                50,
+                55,
+                60,
+                65,
+                70
+              ],
+              [
+                40,
+                45,
+                50,
+                55,
+                60
+              ]
+            ]
+          },
+          "R Portal Jump": {
+            "cost": [
+              [
+                50,
+                50,
+                50
+              ],
+              [
+                40,
+                40,
+                40
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

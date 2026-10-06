@@ -1,0 +1,36 @@
+{
+  "metadata": {
+    "name": "26.14",
+    "id": 2614,
+    "first_match": "2026-07-18 23:07",
+    "ddragon_version": "16.14.1",
+    "compared_with": "16.13.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-26-14-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {},
+    "items": {
+      "Hextech Rocketbelt": {
+        "stats": {
+          "FlatHPPoolMod": [
+            300,
+            350
+          ],
+          "FlatMagicDamageMod": [
+            70,
+            60
+          ]
+        }
+      },
+      "Protoplasm Harness": {
+        "gold": [
+          2500,
+          2600
+        ]
+      }
+    },
+    "removed_items": []
+  }
+}

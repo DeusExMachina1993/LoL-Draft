@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "name": "12.20",
+    "id": 1220,
+    "first_match": "2022-10-20 00:46",
+    "ddragon_version": "12.20.1",
+    "compared_with": "12.19.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-12-20-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Elise": {
+        "abilities": {
+          "Q Neurotoxin / Venomous Bite": {
+            "range": [
+              [
+                625,
+                625,
+                625,
+                625,
+                625
+              ],
+              [
+                615,
+                615,
+                615,
+                615,
+                615
+              ]
+            ]
+          }
+        }
+      },
+      "Maokai": {
+        "abilities": {
+          "R Nature's Grasp": {
+            "cooldown": [
+              [
+                120,
+                100,
+                80
+              ],
+              [
+                120,
+                110,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Sett": {
+        "base_stats": {
+          "spellblock": [
+            32,
+            28
+          ]
+        }
+      }
+    },
+    "items": {
+      "Demonic Embrace": {
+        "stats": {
+          "FlatHPPoolMod": [
+            450,
+            350
+          ],
+          "FlatMagicDamageMod": [
+            60,
+            75
+          ]
+        }
+      },
+      "Frozen Heart": {
+        "gold": [
+          2500,
+          2700
+        ],
+        "stats": {
+          "FlatArmorMod": [
+            80,
+            90
+          ]
+        }
+      },
+      "Mortal Reminder": {
+        "gold": [
+          2500,
+          2600
+        ],
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            25,
+            35
+          ],
+          "PercentAttackSpeedMod": [
+            0.25,
+            0.2
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "metadata": {
+    "name": "26.07",
+    "id": 2607,
+    "first_match": "2026-04-01 19:34",
+    "ddragon_version": "16.7.1",
+    "compared_with": "16.6.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-26-07-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Cassiopeia": {
+        "base_stats": {
+          "mp": [
+            450,
+            480
+          ]
+        }
+      },
+      "Graves": {
+        "base_stats": {
+          "attackdamage": [
+            68,
+            66
+          ]
+        }
+      },
+      "Veigar": {
+        "abilities": {
+          "R Primordial Burst": {
+            "cooldown": [
+              [
+                100,
+                80,
+                60
+              ],
+              [
+                120,
+                90,
+                60
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

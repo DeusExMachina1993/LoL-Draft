@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "name": "26.08",
+    "id": 2608,
+    "first_match": "2026-04-18 04:07",
+    "ddragon_version": "16.8.1",
+    "compared_with": "16.7.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-26-08-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Karma": {
+        "base_stats": {
+          "attackdamage": [
+            51,
+            49
+          ]
+        },
+        "abilities": {
+          "E Inspire": {
+            "cost": [
+              [
+                50,
+                55,
+                60,
+                65,
+                70
+              ],
+              [
+                60,
+                65,
+                70,
+                75,
+                80
+              ]
+            ]
+          }
+        }
+      },
+      "Lucian": {
+        "abilities": {
+          "E Relentless Pursuit": {
+            "cooldown": [
+              [
+                18,
+                17,
+                16,
+                15,
+                14
+              ],
+              [
+                16,
+                15.5,
+                15,
+                14.5,
+                14
+              ]
+            ],
+            "cost": [
+              [
+                40,
+                30,
+                20,
+                10,
+                0
+              ],
+              [
+                32,
+                24,
+                16,
+                8,
+                0
+              ]
+            ]
+          }
+        }
+      },
+      "Mel": {
+        "abilities": {
+          "W Rebuttal": {
+            "cooldown": [
+              [
+                35,
+                32,
+                29,
+                26,
+                23
+              ],
+              [
+                38,
+                35,
+                33,
+                29,
+                26
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

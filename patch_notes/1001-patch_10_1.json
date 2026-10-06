@@ -1,0 +1,291 @@
+{
+  "metadata": {
+    "name": "10.1",
+    "id": 1001,
+    "first_match": "2020-01-12 14:28",
+    "ddragon_version": "10.1.1",
+    "compared_with": "9.24.2",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-10-1-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [
+      "Sett"
+    ],
+    "champions": {
+      "Alistar": {
+        "base_stats": {
+          "hp": [
+            573.36,
+            575
+          ],
+          "attackdamage": [
+            61.1116,
+            62
+          ],
+          "attackdamageperlevel": [
+            3.62,
+            3.75
+          ]
+        }
+      },
+      "Graves": {
+        "abilities": {
+          "E Quickdraw": {
+            "cooldown": [
+              [
+                18,
+                17,
+                16,
+                15,
+                14
+              ],
+              [
+                16,
+                15,
+                14,
+                13,
+                12
+              ]
+            ]
+          }
+        }
+      },
+      "Kalista": {
+        "base_stats": {
+          "hpperlevel": [
+            89,
+            100
+          ],
+          "armorperlevel": [
+            3.5,
+            4
+          ]
+        }
+      },
+      "Kassadin": {
+        "base_stats": {
+          "movespeed": [
+            340,
+            335
+          ]
+        }
+      },
+      "Qiyana": {
+        "abilities": {
+          "Q Elemental Wrath / Edge of Ixtal": {
+            "range": [
+              [
+                650,
+                650,
+                650,
+                650,
+                650
+              ],
+              [
+                525,
+                525,
+                525,
+                525,
+                525
+              ]
+            ]
+          }
+        }
+      },
+      "Sejuani": {
+        "base_stats": {
+          "hpperlevel": [
+            95,
+            100
+          ]
+        }
+      },
+      "Shaco": {
+        "abilities": {
+          "E Two-Shiv Poison": {
+            "cost": [
+              [
+                50,
+                55,
+                60,
+                65,
+                70
+              ],
+              [
+                65,
+                65,
+                65,
+                65,
+                65
+              ]
+            ]
+          }
+        }
+      },
+      "Sylas": {
+        "base_stats": {
+          "hp": [
+            585,
+            525
+          ],
+          "hpperlevel": [
+            95,
+            115
+          ],
+          "armor": [
+            32,
+            27
+          ],
+          "armorperlevel": [
+            3,
+            4
+          ],
+          "spellblock": [
+            39,
+            32
+          ],
+          "spellblockperlevel": [
+            1.25,
+            1.75
+          ]
+        },
+        "abilities": {
+          "Q Chain Lash": {
+            "cooldown": [
+              [
+                9,
+                8,
+                7,
+                6,
+                5
+              ],
+              [
+                10,
+                9,
+                8,
+                7,
+                6
+              ]
+            ]
+          },
+          "W Kingslayer": {
+            "cooldown": [
+              [
+                14,
+                13.5,
+                13,
+                12.5,
+                12
+              ],
+              [
+                14,
+                12.5,
+                11,
+                9.5,
+                8
+              ]
+            ],
+            "cost": [
+              [
+                40,
+                45,
+                50,
+                55,
+                60
+              ],
+              [
+                70,
+                80,
+                90,
+                100,
+                110
+              ]
+            ]
+          },
+          "E Abscond / Abduct": {
+            "cooldown": [
+              [
+                14,
+                14,
+                14,
+                14,
+                14
+              ],
+              [
+                14,
+                13,
+                12,
+                11,
+                10
+              ]
+            ]
+          }
+        }
+      },
+      "Teemo": {
+        "abilities": {
+          "E Toxic Shot": {
+            "cooldown": [
+              [
+                8,
+                8,
+                8,
+                8,
+                8
+              ],
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ]
+            ]
+          }
+        }
+      },
+      "Varus": {
+        "abilities": {
+          "Q Piercing Arrow": {
+            "cooldown": [
+              [
+                20,
+                18,
+                16,
+                14,
+                12
+              ],
+              [
+                18,
+                16,
+                14,
+                12,
+                10
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Edge of Night": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            50,
+            55
+          ]
+        }
+      },
+      "Serrated Dirk": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            25,
+            30
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

@@ -1,0 +1,367 @@
+{
+  "metadata": {
+    "name": "11.2",
+    "id": 1102,
+    "first_match": "2021-01-22 00:56",
+    "ddragon_version": "11.2.1",
+    "compared_with": "11.1.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-11-2-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [
+      "Viego"
+    ],
+    "champions": {
+      "Akali": {
+        "abilities": {
+          "Q Five Point Strike": {
+            "cost": [
+              [
+                120,
+                110,
+                100,
+                90,
+                80
+              ],
+              [
+                120,
+                115,
+                110,
+                105,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Azir": {
+        "abilities": {
+          "Q Conquering Sands": {
+            "cooldown": [
+              [
+                15,
+                13,
+                11,
+                9,
+                7
+              ],
+              [
+                14,
+                12,
+                10,
+                8,
+                6
+              ]
+            ]
+          }
+        }
+      },
+      "Caitlyn": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.88,
+            3.3
+          ]
+        }
+      },
+      "Graves": {
+        "base_stats": {
+          "attackdamage": [
+            68,
+            66
+          ]
+        }
+      },
+      "Ivern": {
+        "abilities": {
+          "Q Rootcaller": {
+            "cooldown": [
+              [
+                12,
+                11,
+                10,
+                9,
+                8
+              ],
+              [
+                14,
+                13,
+                12,
+                11,
+                10
+              ]
+            ]
+          }
+        }
+      },
+      "LeBlanc": {
+        "base_stats": {
+          "hpperlevel": [
+            92,
+            97
+          ]
+        },
+        "abilities": {
+          "Q Sigil of Malice": {
+            "cost": [
+              [
+                50,
+                60,
+                70,
+                80,
+                90
+              ],
+              [
+                50,
+                55,
+                60,
+                65,
+                70
+              ]
+            ]
+          }
+        }
+      },
+      "Maokai": {
+        "abilities": {
+          "E Sapling Toss": {
+            "cost": [
+              [
+                60,
+                65,
+                70,
+                75,
+                80
+              ],
+              [
+                60,
+                70,
+                80,
+                90,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Nocturne": {
+        "abilities": {
+          "Q Duskbringer": {
+            "cooldown": [
+              [
+                10,
+                10,
+                10,
+                10,
+                10
+              ],
+              [
+                8,
+                8,
+                8,
+                8,
+                8
+              ]
+            ]
+          },
+          "R Paranoia": {
+            "cooldown": [
+              [
+                150,
+                125,
+                100
+              ],
+              [
+                140,
+                115,
+                90
+              ]
+            ]
+          }
+        }
+      },
+      "Nunu & Willump": {
+        "base_stats": {
+          "hp": [
+            570,
+            540
+          ],
+          "movespeed": [
+            345,
+            340
+          ]
+        }
+      },
+      "Sivir": {
+        "base_stats": {
+          "mp": [
+            284,
+            325
+          ]
+        }
+      },
+      "Varus": {
+        "base_stats": {
+          "mpperlevel": [
+            33,
+            40
+          ]
+        },
+        "abilities": {
+          "Q Piercing Arrow": {
+            "cooldown": [
+              [
+                18,
+                16,
+                14,
+                12,
+                10
+              ],
+              [
+                16,
+                14.5,
+                13,
+                11.5,
+                10
+              ]
+            ],
+            "cost": [
+              [
+                70,
+                75,
+                80,
+                85,
+                90
+              ],
+              [
+                65,
+                70,
+                75,
+                80,
+                85
+              ]
+            ]
+          },
+          "R Chain of Corruption": {
+            "cooldown": [
+              [
+                120,
+                90,
+                60
+              ],
+              [
+                100,
+                80,
+                60
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Chempunk Chainsword": {
+        "gold": [
+          2700,
+          2600
+        ],
+        "stats": {
+          "FlatHPPoolMod": [
+            200,
+            150
+          ]
+        }
+      },
+      "Frostfire Gauntlet": {
+        "gold": [
+          3200,
+          2800
+        ],
+        "stats": {
+          "FlatArmorMod": [
+            50,
+            25
+          ]
+        }
+      },
+      "Phantom Dancer": {
+        "gold": [
+          2500,
+          2600
+        ],
+        "stats": {
+          "PercentAttackSpeedMod": [
+            0.4,
+            0.45
+          ]
+        }
+      },
+      "Runaan's Hurricane": {
+        "gold": [
+          2500,
+          2600
+        ],
+        "stats": {
+          "PercentAttackSpeedMod": [
+            0.4,
+            0.45
+          ]
+        }
+      },
+      "Serpent's Fang": {
+        "gold": [
+          2800,
+          2600
+        ],
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            60,
+            55
+          ]
+        }
+      },
+      "Shurelya's Battlesong": {
+        "stats": {
+          "FlatHPPoolMod": [
+            350,
+            200
+          ],
+          "FlatMagicDamageMod": [
+            null,
+            40
+          ],
+          "PercentMovementSpeedMod": [
+            0.05,
+            null
+          ]
+        }
+      },
+      "Turbo Chemtank": {
+        "gold": [
+          3200,
+          2800
+        ],
+        "stats": {
+          "FlatSpellBlockMod": [
+            50,
+            25
+          ]
+        }
+      },
+      "Umbral Glaive": {
+        "gold": [
+          2800,
+          2600
+        ],
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            55,
+            50
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

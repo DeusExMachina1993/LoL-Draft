@@ -1,0 +1,154 @@
+{
+  "metadata": {
+    "name": "25.23",
+    "id": 2523,
+    "first_match": "2025-11-22 16:30",
+    "ddragon_version": "15.23.1",
+    "compared_with": "15.22.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-23-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [
+      "Zaahen"
+    ],
+    "champions": {
+      "Fizz": {
+        "base_stats": {
+          "armor": [
+            22,
+            26
+          ]
+        },
+        "abilities": {
+          "R Chum the Waters": {
+            "cooldown": [
+              [
+                100,
+                85,
+                70
+              ],
+              [
+                120,
+                100,
+                80
+              ]
+            ]
+          }
+        }
+      },
+      "Jhin": {
+        "base_stats": {
+          "attackdamage": [
+            59,
+            61
+          ]
+        }
+      },
+      "Kai'Sa": {
+        "base_stats": {
+          "armor": [
+            27,
+            25
+          ]
+        },
+        "abilities": {
+          "R Killer Instinct": {
+            "cooldown": [
+              [
+                120,
+                90,
+                60
+              ],
+              [
+                130,
+                100,
+                70
+              ]
+            ]
+          }
+        }
+      },
+      "Skarner": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            4,
+            5
+          ]
+        },
+        "abilities": {
+          "Q Shattered Earth / Upheaval": {
+            "cooldown": [
+              [
+                8,
+                7,
+                6,
+                5,
+                4
+              ],
+              [
+                8,
+                6.75,
+                5.5,
+                4.25,
+                3
+              ]
+            ]
+          }
+        }
+      },
+      "Swain": {
+        "abilities": {
+          "E Nevermove": {
+            "cost": [
+              [
+                60,
+                65,
+                70,
+                75,
+                80
+              ],
+              [
+                50,
+                55,
+                60,
+                65,
+                70
+              ]
+            ]
+          }
+        }
+      },
+      "Tristana": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.5,
+            2.9
+          ]
+        }
+      },
+      "Vladimir": {
+        "base_stats": {
+          "hp": [
+            607,
+            600
+          ],
+          "armor": [
+            27,
+            24
+          ]
+        }
+      },
+      "Volibear": {
+        "base_stats": {
+          "attackdamage": [
+            62,
+            65
+          ]
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

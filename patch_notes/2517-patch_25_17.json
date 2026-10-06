@@ -1,0 +1,306 @@
+{
+  "metadata": {
+    "name": "25.17",
+    "id": 2517,
+    "first_match": "2025-08-27 17:09",
+    "ddragon_version": "15.17.1",
+    "compared_with": "15.16.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-17-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Aurelion Sol": {
+        "abilities": {
+          "W Astral Flight": {
+            "cooldown": [
+              [
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              [
+                22,
+                20.5,
+                19,
+                17.5,
+                16
+              ]
+            ]
+          }
+        }
+      },
+      "Gwen": {
+        "base_stats": {
+          "armor": [
+            36,
+            33
+          ],
+          "attackspeedperlevel": [
+            2.25,
+            2.5
+          ]
+        }
+      },
+      "Irelia": {
+        "abilities": {
+          "E Flawless Duet": {
+            "cooldown": [
+              [
+                16,
+                15,
+                14,
+                13,
+                12
+              ],
+              [
+                16,
+                14.5,
+                13,
+                11.5,
+                10
+              ]
+            ]
+          }
+        }
+      },
+      "Kayn": {
+        "abilities": {
+          "Q Reaping Slash": {
+            "cost": [
+              [
+                50,
+                50,
+                50,
+                50,
+                50
+              ],
+              [
+                40,
+                40,
+                40,
+                40,
+                40
+              ]
+            ]
+          },
+          "W Blade's Reach": {
+            "cost": [
+              [
+                60,
+                65,
+                70,
+                75,
+                80
+              ],
+              [
+                40,
+                45,
+                50,
+                55,
+                60
+              ]
+            ]
+          }
+        }
+      },
+      "Master Yi": {
+        "base_stats": {
+          "hp": [
+            669,
+            655
+          ]
+        }
+      },
+      "Miss Fortune": {
+        "base_stats": {
+          "attackdamage": [
+            53,
+            55
+          ]
+        }
+      },
+      "Morgana": {
+        "abilities": {
+          "W Tormented Shadow": {
+            "cost": [
+              [
+                70,
+                85,
+                100,
+                115,
+                130
+              ],
+              [
+                70,
+                80,
+                90,
+                100,
+                110
+              ]
+            ]
+          }
+        }
+      },
+      "Senna": {
+        "base_stats": {
+          "attackspeedperlevel": [
+            2,
+            3
+          ]
+        }
+      }
+    },
+    "items": {
+      "Atma's Reckoning": {
+        "new": true,
+        "gold": 2500,
+        "stats": {
+          "FlatHPPoolMod": 500,
+          "FlatCritChanceMod": 0.2
+        }
+      },
+      "Axiom Arc": {
+        "gold": [
+          3000,
+          2750
+        ]
+      },
+      "Cloak of Starry Night": {
+        "new": true,
+        "gold": 2500,
+        "stats": {
+          "FlatSpellBlockMod": 60,
+          "FlatHPPoolMod": 250
+        }
+      },
+      "Crown of the Shattered Queen": {
+        "new": true,
+        "gold": 2500,
+        "stats": {
+          "FlatMPPoolMod": 600,
+          "FlatHPPoolMod": 250,
+          "FlatMagicDamageMod": 65
+        }
+      },
+      "Cruelty": {
+        "new": true,
+        "gold": 2500,
+        "stats": {
+          "FlatSpellBlockMod": 25,
+          "FlatMagicDamageMod": 60,
+          "FlatArmorMod": 25
+        }
+      },
+      "Demon King's Crown": {
+        "new": true,
+        "gold": 2500,
+        "stats": {}
+      },
+      "Flesheater": {
+        "new": true,
+        "gold": 2500,
+        "stats": {
+          "FlatHPPoolMod": 500
+        }
+      },
+      "Gambler's Blade": {
+        "new": true,
+        "gold": 2500,
+        "stats": {
+          "PercentAttackSpeedMod": 0.5,
+          "PercentMovementSpeedMod": 0.08
+        }
+      },
+      "Gargoyle Stoneplate": {
+        "new": true,
+        "gold": 2500,
+        "stats": {
+          "FlatSpellBlockMod": 55,
+          "FlatArmorMod": 55,
+          "PercentMovementSpeedMod": 0.08
+        }
+      },
+      "Hextech Gunblade": {
+        "new": true,
+        "gold": 2500,
+        "stats": {
+          "FlatMagicDamageMod": 90,
+          "FlatPhysicalDamageMod": 45
+        }
+      },
+      "Horizon Focus": {
+        "gold": [
+          2800,
+          2750
+        ],
+        "stats": {
+          "FlatMagicDamageMod": [
+            115,
+            125
+          ]
+        }
+      },
+      "Profane Hydra": {
+        "gold": [
+          3200,
+          2850
+        ],
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            60,
+            55
+          ]
+        }
+      },
+      "Shield of Molten Stone": {
+        "new": true,
+        "gold": 2500,
+        "stats": {
+          "FlatHPPoolMod": 250,
+          "FlatArmorMod": 80
+        }
+      },
+      "Sword of Blossoming Dawn": {
+        "new": true,
+        "gold": 2500,
+        "stats": {
+          "FlatHPPoolMod": 150,
+          "FlatMagicDamageMod": 35
+        }
+      },
+      "Sword of the Divine": {
+        "new": true,
+        "gold": 2500,
+        "stats": {
+          "FlatCritChanceMod": 0.5
+        }
+      },
+      "The Collector": {
+        "new": true,
+        "gold": 3000,
+        "stats": {
+          "FlatCritChanceMod": 0.25,
+          "FlatPhysicalDamageMod": 50
+        }
+      },
+      "Veigar's Talisman of Ascension": {
+        "new": true,
+        "gold": 900,
+        "stats": {}
+      },
+      "Zephyr": {
+        "new": true,
+        "gold": 2500,
+        "stats": {
+          "PercentAttackSpeedMod": 0.4,
+          "PercentMovementSpeedMod": 0.08
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

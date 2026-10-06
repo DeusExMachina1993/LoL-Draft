@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "name": "10.2",
+    "id": 1002,
+    "first_match": "2020-01-27 15:25",
+    "ddragon_version": "10.2.1",
+    "compared_with": "10.1.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-10-2-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Aphelios": {
+        "base_stats": {
+          "hp": [
+            530,
+            500
+          ],
+          "movespeed": [
+            330,
+            325
+          ]
+        }
+      },
+      "Lulu": {
+        "base_stats": {
+          "armor": [
+            28.22,
+            29
+          ],
+          "attackdamage": [
+            46.368,
+            47
+          ]
+        },
+        "abilities": {
+          "E Help, Pix!": {
+            "cooldown": [
+              [
+                10,
+                10,
+                10,
+                10,
+                10
+              ],
+              [
+                8,
+                8,
+                8,
+                8,
+                8
+              ]
+            ]
+          }
+        }
+      },
+      "Lux": {
+        "abilities": {
+          "W Prismatic Barrier": {
+            "range": [
+              [
+                1075,
+                1075,
+                1075,
+                1075,
+                1075
+              ],
+              [
+                1150,
+                1150,
+                1150,
+                1150,
+                1150
+              ]
+            ]
+          }
+        }
+      },
+      "Senna": {
+        "abilities": {
+          "W Last Embrace": {
+            "range": [
+              [
+                1150,
+                1150,
+                1150,
+                1150,
+                1150
+              ],
+              [
+                1250,
+                1250,
+                1250,
+                1250,
+                1250
+              ]
+            ]
+          }
+        }
+      },
+      "Sylas": {
+        "abilities": {
+          "W Kingslayer": {
+            "cooldown": [
+              [
+                14,
+                12.5,
+                11,
+                9.5,
+                8
+              ],
+              [
+                13,
+                11.5,
+                10,
+                8.5,
+                7
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Cloak of Agility": {
+        "stats": {
+          "FlatCritChanceMod": [
+            0.25,
+            0.2
+          ]
+        }
+      },
+      "Frozen Heart": {
+        "stats": {
+          "FlatArmorMod": [
+            100,
+            110
+          ]
+        }
+      },
+      "Stormrazor": {
+        "stats": {
+          "FlatPhysicalDamageMod": [
+            55,
+            50
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

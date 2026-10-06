@@ -1,0 +1,131 @@
+{
+  "metadata": {
+    "name": "13.8",
+    "id": 1308,
+    "first_match": "2023-04-28 17:14",
+    "ddragon_version": "13.8.1",
+    "compared_with": "13.7.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-13-8-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Aurelion Sol": {
+        "base_stats": {
+          "hpperlevel": [
+            95,
+            90
+          ],
+          "armorperlevel": [
+            4.3,
+            4
+          ]
+        }
+      },
+      "Ezreal": {
+        "base_stats": {
+          "attackdamage": [
+            60,
+            62
+          ]
+        }
+      },
+      "Garen": {
+        "base_stats": {
+          "armor": [
+            36,
+            38
+          ],
+          "attackdamage": [
+            66,
+            69
+          ]
+        }
+      },
+      "Jarvan IV": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.4,
+            3
+          ]
+        }
+      },
+      "Kog'Maw": {
+        "abilities": {
+          "Q Caustic Spittle": {
+            "cooldown": [
+              [
+                8,
+                8,
+                8,
+                8,
+                8
+              ],
+              [
+                7,
+                7,
+                7,
+                7,
+                7
+              ]
+            ]
+          },
+          "E Void Ooze": {
+            "cost": [
+              [
+                60,
+                70,
+                80,
+                90,
+                100
+              ],
+              [
+                40,
+                55,
+                70,
+                85,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Nidalee": {
+        "base_stats": {
+          "armor": [
+            28,
+            32
+          ],
+          "armorperlevel": [
+            4.7,
+            5
+          ]
+        }
+      },
+      "Rakan": {
+        "base_stats": {
+          "armor": [
+            32,
+            30
+          ],
+          "armorperlevel": [
+            5.1,
+            4.9
+          ]
+        }
+      }
+    },
+    "items": {
+      "Cosmic Drive": {
+        "stats": {
+          "FlatMagicDamageMod": [
+            90,
+            100
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

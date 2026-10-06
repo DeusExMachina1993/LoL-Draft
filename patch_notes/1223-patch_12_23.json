@@ -1,0 +1,327 @@
+{
+  "metadata": {
+    "name": "12.23",
+    "id": 1223,
+    "first_match": "2022-12-14 06:05",
+    "ddragon_version": "12.23.1",
+    "compared_with": "12.22.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-12-23-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Amumu": {
+        "base_stats": {
+          "hpperlevel": [
+            89,
+            100
+          ]
+        },
+        "abilities": {
+          "Q Bandage Toss": {
+            "cost": [
+              [
+                30,
+                35,
+                40,
+                45,
+                50
+              ],
+              [
+                40,
+                45,
+                50,
+                55,
+                60
+              ]
+            ]
+          }
+        }
+      },
+      "Cho'Gath": {
+        "abilities": {
+          "R Feast": {
+            "cooldown": [
+              [
+                80,
+                80,
+                80
+              ],
+              [
+                80,
+                70,
+                60
+              ]
+            ]
+          }
+        }
+      },
+      "Dr. Mundo": {
+        "base_stats": {
+          "spellblock": [
+            32,
+            29
+          ],
+          "spellblockperlevel": [
+            2.05,
+            2.3
+          ],
+          "attackdamageperlevel": [
+            3.5,
+            2.5
+          ],
+          "attackspeed": [
+            0.72,
+            0.67
+          ]
+        },
+        "abilities": {
+          "E Blunt Force Trauma": {
+            "cooldown": [
+              [
+                8,
+                7.5,
+                7,
+                6.5,
+                6
+              ],
+              [
+                9,
+                8.25,
+                7.5,
+                6.75,
+                6
+              ]
+            ]
+          }
+        }
+      },
+      "K'Sante": {
+        "base_stats": {
+          "hpperlevel": [
+            104,
+            108
+          ],
+          "hpregen": [
+            8.5,
+            9.5
+          ]
+        }
+      },
+      "Kassadin": {
+        "abilities": {
+          "E Force Pulse": {
+            "cooldown": [
+              [
+                5,
+                5,
+                5,
+                5,
+                5
+              ],
+              [
+                21,
+                19,
+                17,
+                15,
+                13
+              ]
+            ]
+          }
+        }
+      },
+      "Malphite": {
+        "abilities": {
+          "E Ground Slam": {
+            "cost": [
+              [
+                50,
+                55,
+                60,
+                65,
+                70
+              ],
+              [
+                50,
+                50,
+                50,
+                50,
+                50
+              ]
+            ]
+          }
+        }
+      },
+      "Sion": {
+        "base_stats": {
+          "mp": [
+            330,
+            400
+          ],
+          "mpperlevel": [
+            42,
+            52
+          ]
+        }
+      },
+      "Syndra": {
+        "abilities": {
+          "E Scatter the Weak": {
+            "cooldown": [
+              [
+                15,
+                15,
+                15,
+                15,
+                15
+              ],
+              [
+                17,
+                17,
+                17,
+                17,
+                17
+              ]
+            ]
+          }
+        }
+      },
+      "Trundle": {
+        "base_stats": {
+          "attackspeed": [
+            0.67,
+            0.6
+          ]
+        }
+      },
+      "Zac": {
+        "abilities": {
+          "Q Stretching Strikes": {
+            "cooldown": [
+              [
+                15,
+                13.5,
+                12,
+                10.5,
+                9
+              ],
+              [
+                14,
+                12.5,
+                11,
+                9.5,
+                8
+              ]
+            ]
+          }
+        }
+      },
+      "Zeri": {
+        "base_stats": {
+          "hp": [
+            600,
+            630
+          ],
+          "hpperlevel": [
+            109,
+            115
+          ],
+          "movespeed": [
+            325,
+            330
+          ],
+          "armor": [
+            20,
+            24
+          ],
+          "attackdamage": [
+            50,
+            53
+          ]
+        },
+        "abilities": {
+          "Q Burst Fire": {
+            "range": [
+              [
+                800,
+                800,
+                800,
+                800,
+                800
+              ],
+              [
+                700,
+                700,
+                700,
+                700,
+                700
+              ]
+            ]
+          },
+          "E Spark Surge": {
+            "cooldown": [
+              [
+                24,
+                22.5,
+                21,
+                19.5,
+                18
+              ],
+              [
+                22,
+                21,
+                20,
+                19,
+                18
+              ]
+            ],
+            "cost": [
+              [
+                80,
+                80,
+                80,
+                80,
+                80
+              ],
+              [
+                90,
+                85,
+                80,
+                75,
+                70
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Ravenous Hydra": {
+        "gold": [
+          3300,
+          3400
+        ]
+      },
+      "Rod of Ages": {
+        "gold": [
+          3200,
+          2800
+        ]
+      },
+      "Sunfire Aegis": {
+        "gold": [
+          2800,
+          2700
+        ],
+        "stats": {
+          "FlatHPPoolMod": [
+            400,
+            500
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

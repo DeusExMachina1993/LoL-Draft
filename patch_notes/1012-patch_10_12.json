@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "name": "10.12",
+    "id": 1012,
+    "first_match": "2020-06-10 22:15",
+    "ddragon_version": "10.12.1",
+    "compared_with": "10.11.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-10-12-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Cassiopeia": {
+        "base_stats": {
+          "hp": [
+            575,
+            560
+          ],
+          "armor": [
+            20,
+            18
+          ],
+          "spellblock": [
+            30,
+            34
+          ]
+        }
+      },
+      "Trundle": {
+        "base_stats": {
+          "hp": [
+            616.28,
+            616
+          ],
+          "mp": [
+            281.6,
+            281
+          ],
+          "mpregen": [
+            7.508,
+            7.5
+          ]
+        }
+      },
+      "Varus": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.11,
+            3
+          ]
+        }
+      },
+      "Volibear": {
+        "base_stats": {
+          "hpperlevel": [
+            85,
+            90
+          ],
+          "mpperlevel": [
+            40,
+            50
+          ]
+        }
+      },
+      "Yasuo": {
+        "base_stats": {
+          "hp": [
+            523,
+            490
+          ]
+        },
+        "abilities": {
+          "W Wind Wall": {
+            "cooldown": [
+              [
+                26,
+                24,
+                22,
+                20,
+                18
+              ],
+              [
+                30,
+                27,
+                24,
+                21,
+                18
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

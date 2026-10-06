@@ -1,0 +1,279 @@
+{
+  "metadata": {
+    "name": "10.6",
+    "id": 1006,
+    "first_match": "2020-03-24 23:26",
+    "ddragon_version": "10.6.1",
+    "compared_with": "10.5.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-10-6-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Darius": {
+        "abilities": {
+          "W Crippling Strike": {
+            "cost": [
+              [
+                30,
+                30,
+                30,
+                30,
+                30
+              ],
+              [
+                40,
+                40,
+                40,
+                40,
+                40
+              ]
+            ]
+          },
+          "E Apprehend": {
+            "cost": [
+              [
+                45,
+                45,
+                45,
+                45,
+                45
+              ],
+              [
+                70,
+                60,
+                50,
+                40,
+                30
+              ]
+            ]
+          }
+        }
+      },
+      "Garen": {
+        "base_stats": {
+          "spellblockperlevel": [
+            1.25,
+            0.75
+          ]
+        }
+      },
+      "Kindred": {
+        "base_stats": {
+          "mpregen": [
+            6.972,
+            7
+          ],
+          "attackdamageperlevel": [
+            2.26,
+            2.5
+          ]
+        }
+      },
+      "Morgana": {
+        "base_stats": {
+          "movespeed": [
+            330,
+            335
+          ]
+        }
+      },
+      "Ryze": {
+        "base_stats": {
+          "mpregenperlevel": [
+            0.8,
+            1
+          ]
+        }
+      },
+      "Veigar": {
+        "base_stats": {
+          "armor": [
+            22.55,
+            23
+          ],
+          "attackdamage": [
+            50.71,
+            52
+          ],
+          "attackdamageperlevel": [
+            2.625,
+            2.7
+          ]
+        }
+      },
+      "Wukong": {
+        "base_stats": {
+          "hp": [
+            577.8,
+            540
+          ],
+          "mp": [
+            265.84,
+            300
+          ],
+          "mpperlevel": [
+            38,
+            45
+          ],
+          "spellblock": [
+            32.1,
+            28
+          ],
+          "hpregen": [
+            6,
+            5
+          ],
+          "mpregen": [
+            8.042,
+            8
+          ]
+        },
+        "abilities": {
+          "Q Crushing Blow": {
+            "cooldown": [
+              [
+                9,
+                8,
+                7,
+                6,
+                5
+              ],
+              [
+                9,
+                8.5,
+                8,
+                7.5,
+                7
+              ]
+            ],
+            "range": [
+              [
+                650,
+                650,
+                650,
+                650,
+                650
+              ],
+              [
+                250,
+                275,
+                300,
+                325,
+                350
+              ]
+            ]
+          },
+          "W Warrior Trickster": {
+            "cooldown": [
+              [
+                18,
+                16,
+                14,
+                12,
+                10
+              ],
+              [
+                20,
+                19,
+                18,
+                17,
+                16
+              ]
+            ],
+            "cost": [
+              [
+                50,
+                55,
+                60,
+                65,
+                70
+              ],
+              [
+                60,
+                60,
+                60,
+                60,
+                60
+              ]
+            ],
+            "range": [
+              [
+                325,
+                325,
+                325,
+                325,
+                325
+              ],
+              [
+                275,
+                275,
+                275,
+                275,
+                275
+              ]
+            ]
+          },
+          "E Nimbus Strike": {
+            "cooldown": [
+              [
+                8,
+                8,
+                8,
+                8,
+                8
+              ],
+              [
+                10,
+                9.5,
+                9,
+                8.5,
+                8
+              ]
+            ],
+            "cost": [
+              [
+                45,
+                50,
+                55,
+                60,
+                65
+              ],
+              [
+                30,
+                35,
+                40,
+                45,
+                50
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Death's Dance": {
+        "gold": [
+          3500,
+          3600
+        ],
+        "stats": {
+          "FlatArmorMod": [
+            null,
+            30
+          ],
+          "FlatPhysicalDamageMod": [
+            80,
+            50
+          ],
+          "FlatSpellBlockMod": [
+            null,
+            30
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

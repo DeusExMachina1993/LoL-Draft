@@ -1,0 +1,277 @@
+{
+  "metadata": {
+    "name": "11.14",
+    "id": 1114,
+    "first_match": "2021-07-08 23:54",
+    "ddragon_version": "11.14.1",
+    "compared_with": "11.13.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-11-14-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Darius": {
+        "abilities": {
+          "E Apprehend": {
+            "cooldown": [
+              [
+                26,
+                24,
+                22,
+                20,
+                18
+              ],
+              [
+                24,
+                21.5,
+                19,
+                16.5,
+                14
+              ]
+            ]
+          }
+        }
+      },
+      "Dr. Mundo": {
+        "base_stats": {
+          "attackspeed": [
+            0.67,
+            0.72
+          ]
+        }
+      },
+      "Graves": {
+        "base_stats": {
+          "attackdamage": [
+            66,
+            68
+          ]
+        }
+      },
+      "Illaoi": {
+        "base_stats": {
+          "movespeed": [
+            340,
+            350
+          ]
+        }
+      },
+      "Irelia": {
+        "base_stats": {
+          "hp": [
+            580,
+            520
+          ],
+          "hpperlevel": [
+            95,
+            110
+          ],
+          "spellblock": [
+            32,
+            28
+          ]
+        }
+      },
+      "Karma": {
+        "base_stats": {
+          "attackdamage": [
+            54,
+            51
+          ]
+        }
+      },
+      "Lillia": {
+        "base_stats": {
+          "armor": [
+            20,
+            22
+          ],
+          "hpregen": [
+            9,
+            7.5
+          ]
+        },
+        "abilities": {
+          "Q Blooming Blows": {
+            "cooldown": [
+              [
+                4,
+                4,
+                4,
+                4,
+                4
+              ],
+              [
+                6,
+                5.5,
+                5,
+                4.5,
+                4
+              ]
+            ],
+            "cost": [
+              [
+                45,
+                45,
+                45,
+                45,
+                45
+              ],
+              [
+                65,
+                65,
+                65,
+                65,
+                65
+              ]
+            ]
+          },
+          "E Swirlseed": {
+            "cooldown": [
+              [
+                12,
+                12,
+                12,
+                12,
+                12
+              ],
+              [
+                18,
+                18,
+                18,
+                18,
+                18
+              ]
+            ]
+          }
+        }
+      },
+      "Malzahar": {
+        "base_stats": {
+          "hp": [
+            537,
+            510
+          ]
+        }
+      },
+      "Shaco": {
+        "base_stats": {
+          "hp": [
+            587,
+            560
+          ],
+          "movespeed": [
+            350,
+            345
+          ]
+        }
+      },
+      "Taric": {
+        "abilities": {
+          "Q Starlight's Touch": {
+            "cost": [
+              [
+                70,
+                75,
+                80,
+                85,
+                90
+              ],
+              [
+                65,
+                70,
+                75,
+                80,
+                85
+              ]
+            ]
+          },
+          "E Dazzle": {
+            "cost": [
+              [
+                60,
+                60,
+                60,
+                60,
+                60
+              ],
+              [
+                40,
+                40,
+                40,
+                40,
+                40
+              ]
+            ]
+          }
+        }
+      },
+      "Xin Zhao": {
+        "abilities": {
+          "W Wind Becomes Lightning": {
+            "cooldown": [
+              [
+                12,
+                10.5,
+                9,
+                7.5,
+                6
+              ],
+              [
+                12,
+                11,
+                10,
+                9,
+                8
+              ]
+            ]
+          }
+        }
+      },
+      "Ziggs": {
+        "base_stats": {
+          "mp": [
+            480,
+            420
+          ]
+        }
+      }
+    },
+    "items": {
+      "Dead Man's Plate": {
+        "stats": {
+          "FlatArmorMod": [
+            40,
+            45
+          ]
+        }
+      },
+      "Dreamshatter": {
+        "stats": {
+          "FlatHPPoolMod": [
+            500,
+            400
+          ],
+          "FlatPhysicalDamageMod": [
+            50,
+            55
+          ]
+        }
+      },
+      "Stridebreaker": {
+        "stats": {
+          "FlatHPPoolMod": [
+            400,
+            300
+          ],
+          "FlatPhysicalDamageMod": [
+            40,
+            45
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

@@ -1,0 +1,291 @@
+{
+  "metadata": {
+    "name": "11.18",
+    "id": 1118,
+    "first_match": "2021-09-15 16:09",
+    "ddragon_version": "11.18.1",
+    "compared_with": "11.17.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-11-18-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Aphelios": {
+        "base_stats": {
+          "attackdamage": [
+            57,
+            55
+          ]
+        }
+      },
+      "Ashe": {
+        "abilities": {
+          "W Volley": {
+            "cooldown": [
+              [
+                14,
+                11.5,
+                9,
+                6.5,
+                4
+              ],
+              [
+                18,
+                14.5,
+                11,
+                7.5,
+                4
+              ]
+            ]
+          }
+        }
+      },
+      "Gangplank": {
+        "base_stats": {
+          "hp": [
+            540,
+            570
+          ],
+          "hpperlevel": [
+            82,
+            90
+          ]
+        }
+      },
+      "Jinx": {
+        "abilities": {
+          "Q Switcheroo!": {
+            "cost": [
+              [
+                20,
+                20,
+                20,
+                20,
+                20
+              ],
+              [
+                16,
+                17,
+                18,
+                19,
+                20
+              ]
+            ]
+          }
+        }
+      },
+      "Kai'Sa": {
+        "abilities": {
+          "E Supercharge": {
+            "cooldown": [
+              [
+                16,
+                15,
+                14,
+                13,
+                12
+              ],
+              [
+                16,
+                14.5,
+                13,
+                11.5,
+                10
+              ]
+            ]
+          }
+        }
+      },
+      "Karma": {
+        "base_stats": {
+          "armor": [
+            26,
+            28
+          ]
+        }
+      },
+      "Lee Sin": {
+        "base_stats": {
+          "attackdamage": [
+            70,
+            68
+          ]
+        }
+      },
+      "Lillia": {
+        "base_stats": {
+          "hpregen": [
+            7.5,
+            2.5
+          ],
+          "hpregenperlevel": [
+            0.75,
+            0.55
+          ]
+        },
+        "abilities": {
+          "E Swirlseed": {
+            "cooldown": [
+              [
+                18,
+                18,
+                18,
+                18,
+                18
+              ],
+              [
+                16,
+                16,
+                16,
+                16,
+                16
+              ]
+            ]
+          }
+        }
+      },
+      "Morgana": {
+        "abilities": {
+          "E Black Shield": {
+            "cooldown": [
+              [
+                26,
+                24,
+                22,
+                20,
+                18
+              ],
+              [
+                24,
+                22,
+                20,
+                18,
+                16
+              ]
+            ]
+          }
+        }
+      },
+      "Qiyana": {
+        "base_stats": {
+          "hpregen": [
+            9,
+            7.5
+          ],
+          "attackspeed": [
+            0.625,
+            0.688
+          ]
+        }
+      },
+      "Rumble": {
+        "abilities": {
+          "W Scrap Shield": {
+            "cooldown": [
+              [
+                7,
+                6.75,
+                6.5,
+                6.25,
+                6
+              ],
+              [
+                6,
+                6,
+                6,
+                6,
+                6
+              ]
+            ]
+          }
+        }
+      },
+      "Thresh": {
+        "base_stats": {
+          "movespeed": [
+            335,
+            330
+          ]
+        }
+      },
+      "Urgot": {
+        "abilities": {
+          "Q Corrosive Charge": {
+            "cooldown": [
+              [
+                12,
+                11,
+                10,
+                9,
+                8
+              ],
+              [
+                10,
+                9.5,
+                9,
+                8.5,
+                8
+              ]
+            ],
+            "cost": [
+              [
+                80,
+                80,
+                80,
+                80,
+                80
+              ],
+              [
+                70,
+                70,
+                70,
+                70,
+                70
+              ]
+            ]
+          }
+        }
+      },
+      "Varus": {
+        "base_stats": {
+          "attackdamage": [
+            61,
+            59
+          ]
+        }
+      },
+      "Zoe": {
+        "abilities": {
+          "E Sleepy Trouble Bubble": {
+            "cooldown": [
+              [
+                20,
+                18.5,
+                17,
+                15.5,
+                14
+              ],
+              [
+                16,
+                15,
+                14,
+                13,
+                12
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Umbral Glaive": {
+        "gold": [
+          2600,
+          2400
+        ]
+      }
+    },
+    "removed_items": []
+  }
+}

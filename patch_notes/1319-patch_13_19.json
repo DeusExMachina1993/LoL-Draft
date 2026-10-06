@@ -1,0 +1,195 @@
+{
+  "metadata": {
+    "name": "13.19",
+    "id": 1319,
+    "first_match": "2023-09-28 01:14",
+    "ddragon_version": "13.19.1",
+    "compared_with": "13.18.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-13-19-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Azir": {
+        "abilities": {
+          "Q Conquering Sands": {
+            "cooldown": [
+              [
+                12,
+                10.5,
+                9,
+                7.5,
+                6
+              ],
+              [
+                14,
+                12,
+                10,
+                8,
+                6
+              ]
+            ]
+          }
+        }
+      },
+      "Briar": {
+        "base_stats": {
+          "hp": [
+            590,
+            610
+          ],
+          "attackspeedperlevel": [
+            2.5,
+            2.3
+          ]
+        },
+        "abilities": {
+          "E Chilling Scream": {
+            "cooldown": [
+              [
+                18,
+                18,
+                18,
+                18,
+                18
+              ],
+              [
+                16,
+                16,
+                16,
+                16,
+                16
+              ]
+            ]
+          }
+        }
+      },
+      "Galio": {
+        "abilities": {
+          "R Hero's Entrance": {
+            "cooldown": [
+              [
+                200,
+                180,
+                160
+              ],
+              [
+                180,
+                160,
+                140
+              ]
+            ]
+          }
+        }
+      },
+      "Gangplank": {
+        "abilities": {
+          "R Cannon Barrage": {
+            "cooldown": [
+              [
+                180,
+                160,
+                140
+              ],
+              [
+                170,
+                150,
+                130
+              ]
+            ]
+          }
+        }
+      },
+      "LeBlanc": {
+        "base_stats": {
+          "mpperlevel": [
+            55,
+            25
+          ],
+          "mpregenperlevel": [
+            1,
+            0.8
+          ],
+          "attackdamageperlevel": [
+            3.5,
+            2.7
+          ],
+          "attackspeedperlevel": [
+            1.4,
+            2.2
+          ]
+        }
+      },
+      "Lee Sin": {
+        "base_stats": {
+          "armor": [
+            34,
+            36
+          ]
+        }
+      },
+      "Pyke": {
+        "base_stats": {
+          "hpperlevel": [
+            104,
+            110
+          ]
+        },
+        "abilities": {
+          "W Ghostwater Dive": {
+            "cooldown": [
+              [
+                12,
+                11.5,
+                11,
+                10.5,
+                10
+              ],
+              [
+                12,
+                11,
+                10,
+                9,
+                8
+              ]
+            ]
+          }
+        }
+      },
+      "Renekton": {
+        "base_stats": {
+          "spellblock": [
+            32,
+            28
+          ]
+        }
+      },
+      "Zeri": {
+        "base_stats": {
+          "movespeed": [
+            335,
+            330
+          ]
+        }
+      }
+    },
+    "items": {
+      "Randuin's Omen": {
+        "gold": [
+          3000,
+          2700
+        ]
+      },
+      "Seeker's Armguard": {
+        "stats": {
+          "FlatArmorMod": [
+            15,
+            20
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

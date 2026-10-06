@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "name": "13.15",
+    "id": 1315,
+    "first_match": "2023-08-05 00:18",
+    "ddragon_version": "13.15.1",
+    "compared_with": "13.14.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-13-15-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Camille": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3.5,
+            3.8
+          ]
+        }
+      },
+      "Gwen": {
+        "base_stats": {
+          "hpregen": [
+            8.5,
+            9
+          ]
+        }
+      },
+      "Ivern": {
+        "base_stats": {
+          "spellblock": [
+            32,
+            30
+          ],
+          "spellblockperlevel": [
+            2.05,
+            1.3
+          ]
+        }
+      },
+      "Kai'Sa": {
+        "base_stats": {
+          "hp": [
+            670,
+            640
+          ]
+        }
+      },
+      "Naafiri": {
+        "base_stats": {
+          "movespeed": [
+            340,
+            335
+          ]
+        }
+      },
+      "Shyvana": {
+        "base_stats": {
+          "hpperlevel": [
+            109,
+            104
+          ],
+          "attackdamageperlevel": [
+            3.4,
+            3
+          ]
+        }
+      },
+      "Taliyah": {
+        "abilities": {
+          "E Unraveled Earth": {
+            "cooldown": [
+              [
+                18,
+                17,
+                16,
+                15,
+                14
+              ],
+              [
+                16,
+                15.5,
+                15,
+                14.5,
+                14
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

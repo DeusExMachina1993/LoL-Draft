@@ -1,0 +1,206 @@
+{
+  "metadata": {
+    "name": "11.15",
+    "id": 1115,
+    "first_match": "2021-07-23 00:39",
+    "ddragon_version": "11.15.1",
+    "compared_with": "11.14.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-11-15-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [
+      "Akshan"
+    ],
+    "champions": {
+      "Aurelion Sol": {
+        "abilities": {
+          "Q Starsurge": {
+            "cooldown": [
+              [
+                11,
+                10,
+                9,
+                8,
+                7
+              ],
+              [
+                12,
+                11,
+                10,
+                9,
+                8
+              ]
+            ]
+          }
+        }
+      },
+      "Blitzcrank": {
+        "base_stats": {
+          "armor": [
+            37,
+            40
+          ]
+        }
+      },
+      "Kayle": {
+        "base_stats": {
+          "spellblock": [
+            30,
+            26
+          ]
+        }
+      },
+      "Mordekaiser": {
+        "abilities": {
+          "W Indestructible": {
+            "cooldown": [
+              [
+                14,
+                13,
+                12,
+                11,
+                10
+              ],
+              [
+                12,
+                11,
+                10,
+                9,
+                8
+              ]
+            ]
+          }
+        }
+      },
+      "Nidalee": {
+        "base_stats": {
+          "hp": [
+            545,
+            570
+          ],
+          "hpperlevel": [
+            85,
+            95
+          ]
+        }
+      },
+      "Rell": {
+        "abilities": {
+          "W Ferromancy: Crash Down": {
+            "cooldown": [
+              [
+                13,
+                13,
+                13,
+                13,
+                13
+              ],
+              [
+                11,
+                11,
+                11,
+                11,
+                11
+              ]
+            ]
+          }
+        }
+      },
+      "Shyvana": {
+        "abilities": {
+          "Q Twin Bite": {
+            "cooldown": [
+              [
+                9,
+                8,
+                7,
+                6,
+                5
+              ],
+              [
+                7,
+                6.5,
+                6,
+                5.5,
+                5
+              ]
+            ]
+          }
+        }
+      },
+      "Syndra": {
+        "abilities": {
+          "Q Dark Sphere": {
+            "cost": [
+              [
+                60,
+                65,
+                70,
+                75,
+                80
+              ],
+              [
+                40,
+                50,
+                60,
+                70,
+                80
+              ]
+            ]
+          }
+        }
+      },
+      "Thresh": {
+        "abilities": {
+          "E Flay": {
+            "cooldown": [
+              [
+                11,
+                10.5,
+                10,
+                9.5,
+                9
+              ],
+              [
+                13,
+                12.25,
+                11.5,
+                10.75,
+                10
+              ]
+            ]
+          }
+        }
+      },
+      "Wukong": {
+        "base_stats": {
+          "hpregen": [
+            4,
+            2.5
+          ]
+        }
+      },
+      "Xayah": {
+        "abilities": {
+          "R Featherstorm": {
+            "cooldown": [
+              [
+                160,
+                145,
+                130
+              ],
+              [
+                140,
+                120,
+                100
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}

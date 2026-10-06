@@ -1,0 +1,259 @@
+{
+  "metadata": {
+    "name": "12.6",
+    "id": 1206,
+    "first_match": "2022-03-31 00:17",
+    "ddragon_version": "12.6.1",
+    "compared_with": "12.5.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-12-6-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Aphelios": {
+        "base_stats": {
+          "hp": [
+            530,
+            510
+          ],
+          "armor": [
+            28,
+            26
+          ]
+        }
+      },
+      "Ashe": {
+        "abilities": {
+          "W Volley": {
+            "cost": [
+              [
+                70,
+                70,
+                70,
+                70,
+                70
+              ],
+              [
+                75,
+                70,
+                65,
+                60,
+                55
+              ]
+            ]
+          },
+          "R Enchanted Crystal Arrow": {
+            "cooldown": [
+              [
+                100,
+                80,
+                60
+              ],
+              [
+                80,
+                70,
+                60
+              ]
+            ]
+          }
+        }
+      },
+      "Azir": {
+        "base_stats": {
+          "hpperlevel": [
+            92,
+            105
+          ]
+        }
+      },
+      "Draven": {
+        "base_stats": {
+          "attackdamage": [
+            60,
+            62
+          ]
+        }
+      },
+      "Jax": {
+        "base_stats": {
+          "hp": [
+            593,
+            615
+          ]
+        }
+      },
+      "Jinx": {
+        "abilities": {
+          "Q Switcheroo!": {
+            "cost": [
+              [
+                16,
+                17,
+                18,
+                19,
+                20
+              ],
+              [
+                20,
+                20,
+                20,
+                20,
+                20
+              ]
+            ]
+          }
+        }
+      },
+      "Lucian": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            2.3,
+            2.9
+          ]
+        }
+      },
+      "Nidalee": {
+        "abilities": {
+          "W Bushwhack / Pounce": {
+            "cost": [
+              [
+                40,
+                45,
+                50,
+                55,
+                60
+              ],
+              [
+                30,
+                35,
+                40,
+                45,
+                50
+              ]
+            ]
+          },
+          "E Primal Surge / Swipe": {
+            "cost": [
+              [
+                50,
+                60,
+                70,
+                80,
+                90
+              ],
+              [
+                50,
+                55,
+                60,
+                65,
+                70
+              ]
+            ],
+            "range": [
+              [
+                600,
+                600,
+                600,
+                600,
+                600
+              ],
+              [
+                900,
+                900,
+                900,
+                900,
+                900
+              ]
+            ]
+          }
+        }
+      },
+      "Tryndamere": {
+        "abilities": {
+          "R Undying Rage": {
+            "cooldown": [
+              [
+                110,
+                100,
+                90
+              ],
+              [
+                130,
+                110,
+                90
+              ]
+            ]
+          }
+        }
+      },
+      "Zeri": {
+        "base_stats": {
+          "hpperlevel": [
+            85,
+            90
+          ],
+          "armor": [
+            23,
+            22
+          ],
+          "armorperlevel": [
+            3.5,
+            3
+          ],
+          "attackdamage": [
+            58,
+            53
+          ]
+        },
+        "abilities": {
+          "E Spark Surge": {
+            "cooldown": [
+              [
+                23,
+                22,
+                21,
+                20,
+                19
+              ],
+              [
+                23,
+                23,
+                23,
+                23,
+                23
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Blade of The Ruined King": {
+        "stats": {
+          "PercentLifeStealMod": [
+            0.1,
+            0.08
+          ]
+        }
+      },
+      "Immortal Shieldbow": {
+        "stats": {
+          "PercentLifeStealMod": [
+            0.1,
+            0.08
+          ]
+        }
+      },
+      "Vampiric Scepter": {
+        "stats": {
+          "PercentLifeStealMod": [
+            0.1,
+            0.08
+          ]
+        }
+      }
+    },
+    "removed_items": []
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "name": "11.11",
+    "id": 1111,
+    "first_match": "2021-05-29 00:48",
+    "ddragon_version": "11.11.1",
+    "compared_with": "11.10.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-11-11-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Azir": {
+        "abilities": {
+          "Q Conquering Sands": {
+            "cost": [
+              [
+                70,
+                70,
+                70,
+                70,
+                70
+              ],
+              [
+                55,
+                55,
+                55,
+                55,
+                55
+              ]
+            ]
+          }
+        }
+      },
+      "Ezreal": {
+        "base_stats": {
+          "armor": [
+            22,
+            24
+          ],
+          "hpregenperlevel": [
+            0.55,
+            0.65
+          ]
+        }
+      },
+      "Graves": {
+        "base_stats": {
+          "attackdamageperlevel": [
+            3,
+            4
+          ]
+        }
+      },
+      "Lee Sin": {
+        "abilities": {
+          "E Tempest / Cripple": {
+            "cooldown": [
+              [
+                8,
+                8,
+                8,
+                8,
+                8
+              ],
+              [
+                9,
+                9,
+                9,
+                9,
+                9
+              ]
+            ]
+          }
+        }
+      },
+      "Ryze": {
+        "base_stats": {
+          "hpperlevel": [
+            98,
+            110
+          ]
+        }
+      },
+      "Singed": {
+        "abilities": {
+          "E Fling": {
+            "cooldown": [
+              [
+                10,
+                10,
+                10,
+                10,
+                10
+              ],
+              [
+                10,
+                9.5,
+                9,
+                8.5,
+                8
+              ]
+            ]
+          }
+        }
+      },
+      "Teemo": {
+        "abilities": {
+          "W Move Quick": {
+            "cooldown": [
+              [
+                17,
+                17,
+                17,
+                17,
+                17
+              ],
+              [
+                14,
+                14,
+                14,
+                14,
+                14
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {
+      "Bramble Vest": {
+        "stats": {
+          "FlatArmorMod": [
+            35,
+            30
+          ]
+        }
+      },
+      "Watchful Wardstone": {
+        "new": true,
+        "gold": 1100,
+        "stats": {
+          "FlatHPPoolMod": 150
+        }
+      }
+    },
+    "removed_items": [
+      "Stirring Wardstone",
+      "Vigilant Wardstone"
+    ]
+  }
+}

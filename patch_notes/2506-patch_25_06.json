@@ -1,0 +1,345 @@
+{
+  "metadata": {
+    "name": "25.06",
+    "id": 2506,
+    "first_match": "2025-03-20 17:16",
+    "ddragon_version": "15.6.1",
+    "compared_with": "15.5.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-25-06-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Corki": {
+        "base_stats": {
+          "armor": [
+            30,
+            27
+          ]
+        }
+      },
+      "Ezreal": {
+        "base_stats": {
+          "armorperlevel": [
+            4.7,
+            4.2
+          ]
+        }
+      },
+      "Fiora": {
+        "abilities": {
+          "Q Lunge": {
+            "cost": [
+              [
+                20,
+                25,
+                30,
+                35,
+                40
+              ],
+              [
+                20,
+                20,
+                20,
+                20,
+                20
+              ]
+            ]
+          }
+        }
+      },
+      "Gwen": {
+        "base_stats": {
+          "hp": [
+            620,
+            650
+          ],
+          "hpperlevel": [
+            115,
+            110
+          ]
+        },
+        "abilities": {
+          "E Skip 'n Slash": {
+            "cooldown": [
+              [
+                13,
+                12.5,
+                12,
+                11.5,
+                11
+              ],
+              [
+                12,
+                11,
+                10,
+                9,
+                8
+              ]
+            ]
+          }
+        }
+      },
+      "Kai'Sa": {
+        "base_stats": {
+          "armor": [
+            25,
+            27
+          ],
+          "hpregen": [
+            3.5,
+            4
+          ]
+        },
+        "abilities": {
+          "R Killer Instinct": {
+            "cooldown": [
+              [
+                130,
+                100,
+                70
+              ],
+              [
+                120,
+                90,
+                60
+              ]
+            ]
+          }
+        }
+      },
+      "Lillia": {
+        "abilities": {
+          "E Swirlseed": {
+            "cooldown": [
+              [
+                14,
+                14,
+                14,
+                14,
+                14
+              ],
+              [
+                12,
+                12,
+                12,
+                12,
+                12
+              ]
+            ]
+          }
+        }
+      },
+      "Lucian": {
+        "abilities": {
+          "E Relentless Pursuit": {
+            "cooldown": [
+              [
+                19,
+                17.75,
+                16.5,
+                15.25,
+                14
+              ],
+              [
+                16,
+                15.5,
+                15,
+                14.5,
+                14
+              ]
+            ]
+          }
+        }
+      },
+      "Master Yi": {
+        "base_stats": {
+          "armorperlevel": [
+            4.7,
+            4.2
+          ]
+        }
+      },
+      "Naafiri": {
+        "base_stats": {
+          "hpperlevel": [
+            120,
+            105
+          ],
+          "armorperlevel": [
+            4.7,
+            4.2
+          ],
+          "attackdamage": [
+            55,
+            57
+          ],
+          "attackdamageperlevel": [
+            2.1,
+            2
+          ]
+        },
+        "abilities": {
+          "W The Call of the Pack": {
+            "cooldown": [
+              [
+                22,
+                20,
+                18,
+                16,
+                14
+              ],
+              [
+                20,
+                19.5,
+                19,
+                18.5,
+                18
+              ]
+            ],
+            "cost": [
+              [
+                70,
+                60,
+                50,
+                40,
+                30
+              ],
+              [
+                60,
+                60,
+                60,
+                60,
+                60
+              ]
+            ],
+            "range": [
+              [
+                700,
+                700,
+                700,
+                700,
+                700
+              ],
+              [
+                400,
+                400,
+                400,
+                400,
+                400
+              ]
+            ]
+          },
+          "E Eviscerate": {
+            "cooldown": [
+              [
+                10,
+                9.5,
+                9,
+                8.5,
+                8
+              ],
+              [
+                9,
+                8.5,
+                8,
+                7.5,
+                7
+              ]
+            ],
+            "range": [
+              [
+                350,
+                350,
+                350,
+                350,
+                350
+              ],
+              [
+                450,
+                450,
+                450,
+                450,
+                450
+              ]
+            ]
+          },
+          "R Hounds' Pursuit": {
+            "cooldown": [
+              [
+                120,
+                110,
+                100
+              ],
+              [
+                110,
+                95,
+                80
+              ]
+            ],
+            "range": [
+              [
+                400,
+                400,
+                400
+              ],
+              [
+                900,
+                900,
+                900
+              ]
+            ]
+          }
+        }
+      },
+      "Singed": {
+        "base_stats": {
+          "hpperlevel": [
+            99,
+            96
+          ],
+          "attackspeed": [
+            0.625,
+            0.7
+          ]
+        }
+      },
+      "Smolder": {
+        "abilities": {
+          "R MMOOOMMMM!": {
+            "cooldown": [
+              [
+                120,
+                120,
+                120
+              ],
+              [
+                120,
+                110,
+                100
+              ]
+            ]
+          }
+        }
+      },
+      "Twisted Fate": {
+        "base_stats": {
+          "armor": [
+            21,
+            24
+          ]
+        }
+      }
+    },
+    "items": {
+      "Warmog's Armor": {
+        "gold": [
+          3300,
+          3100
+        ]
+      }
+    },
+    "removed_items": []
+  }
+}

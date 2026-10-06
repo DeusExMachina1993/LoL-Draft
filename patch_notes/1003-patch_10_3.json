@@ -1,0 +1,202 @@
+{
+  "metadata": {
+    "name": "10.3",
+    "id": 1003,
+    "first_match": "2020-02-08 01:33",
+    "ddragon_version": "10.3.1",
+    "compared_with": "10.2.1",
+    "official_notes": "https://www.leagueoflegends.com/en-us/news/game-updates/patch-10-3-notes/",
+    "note": "Changes computed from Riot Data Dragon: champion base stats and ability cooldown/cost/range (as [before, after]), item gold and stats. Changes to ability effects, runes and the map are only in the official notes (link built from Riot's URL pattern)."
+  },
+  "patch_notes": {
+    "new_champions": [],
+    "champions": {
+      "Akali": {
+        "abilities": {
+          "Q Five Point Strike": {
+            "cost": [
+              [
+                100,
+                95,
+                90,
+                85,
+                80
+              ],
+              [
+                120,
+                115,
+                110,
+                105,
+                100
+              ]
+            ]
+          },
+          "R Perfect Execution": {
+            "range": [
+              [
+                575,
+                575,
+                575
+              ],
+              [
+                650,
+                650,
+                650
+              ]
+            ]
+          }
+        }
+      },
+      "Azir": {
+        "base_stats": {
+          "mp": [
+            438,
+            480
+          ]
+        }
+      },
+      "Diana": {
+        "base_stats": {
+          "mp": [
+            420,
+            375
+          ]
+        }
+      },
+      "Ezreal": {
+        "base_stats": {
+          "mpperlevel": [
+            42,
+            50
+          ],
+          "attackspeedperlevel": [
+            1.5,
+            2.5
+          ]
+        }
+      },
+      "Miss Fortune": {
+        "base_stats": {
+          "attackspeedperlevel": [
+            3,
+            2.25
+          ]
+        }
+      },
+      "Nautilus": {
+        "abilities": {
+          "Q Dredge Line": {
+            "range": [
+              [
+                1050,
+                1050,
+                1050,
+                1050,
+                1050
+              ],
+              [
+                1150,
+                1150,
+                1150,
+                1150,
+                1150
+              ]
+            ]
+          }
+        }
+      },
+      "Rumble": {
+        "base_stats": {
+          "armor": [
+            30.88,
+            31
+          ],
+          "attackdamage": [
+            61.036,
+            61
+          ]
+        }
+      },
+      "Sejuani": {
+        "base_stats": {
+          "attackspeed": [
+            0.625,
+            0.688
+          ]
+        }
+      },
+      "Sett": {
+        "base_stats": {
+          "hpregen": [
+            9.25,
+            8
+          ]
+        },
+        "abilities": {
+          "W Haymaker": {
+            "cooldown": [
+              [
+                16,
+                14,
+                12,
+                10,
+                8
+              ],
+              [
+                18,
+                16.5,
+                15,
+                13.5,
+                12
+              ]
+            ]
+          }
+        }
+      },
+      "Yuumi": {
+        "abilities": {
+          "Q Prowling Projectile": {
+            "cost": [
+              [
+                85,
+                90,
+                95,
+                100,
+                105,
+                110
+              ],
+              [
+                90,
+                90,
+                90,
+                90,
+                90,
+                90
+              ]
+            ]
+          }
+        }
+      },
+      "Zac": {
+        "abilities": {
+          "R Let's Bounce!": {
+            "cooldown": [
+              [
+                120,
+                115,
+                100
+              ],
+              [
+                130,
+                115,
+                100
+              ]
+            ]
+          }
+        }
+      }
+    },
+    "items": {},
+    "removed_items": []
+  }
+}
